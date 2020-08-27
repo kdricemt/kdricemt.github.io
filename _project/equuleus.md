@@ -1,6 +1,7 @@
 ---
 title: "EQUULEUS"
 excerpt: "EQUULEUS is a 6U cubesat project for cis-lunar region exploration, developed mainly by JAXA and The University of Tokyo(2017/9 - Present) <br/><img src='/images/equuleus.jpg'>"
+date: 2017/9
 collection: project
 ---
 

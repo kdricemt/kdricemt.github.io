@@ -29,9 +29,9 @@ Work experience
   * Duties included: Creating report assignments, grading, support
   * Supervisor: Professor Ryu Funase
 
-*  2020/1 - 2020/2: Visiting Researcher
+* 2020/1 - 2020/2: Visiting Researcher
   * Daniel Guggenheim School of Aerospace Engineering, Georgia Institutute of Technoloy
-  * Duties included: Research of applying reinforcement learning for landing site selection during planetary landing 
+  * Duties included: Research of applying reinforcement learning for landing site selectio during planetary landing 
   * Supervisor: Professor Koki Ho
   
 Skills
@@ -52,9 +52,7 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Please see [here](/publications/)
   
 Projects
 ======
@@ -66,5 +64,5 @@ Projects
 Fellowships & Awards
 ======
 * **Overall Winner at the 2017 ARLISS (A Rocket Launch for International Student Satellites) comeback competition** (2017/9)
-* **WINGS CFS program fellowship**, from The University of Tokyo WINGS CFS program [URL](http://cfs.t.u-tokyo.ac.jp/), Monthly Stippend for five years; selection ratio ~25%
+* **WINGS CFS program fellowship**, from [The University of Tokyo WINGS CFS program](http://cfs.t.u-tokyo.ac.jp/), Monthly Stippend for five years; selection ratio ~25%
 
