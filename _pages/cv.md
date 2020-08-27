@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+The PDF version of my CV could be downloaded [here]()
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -42,7 +44,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Projects
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
