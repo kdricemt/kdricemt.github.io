@@ -64,5 +64,5 @@ Projects
 Fellowships & Awards
 ======
 * **Overall Winner at the 2017 ARLISS (A Rocket Launch for International Student Satellites) comeback competition** (2017/9)
-* **WINGS CFS program fellowship**, from [The University of Tokyo WINGS CFS program](http://cfs.t.u-tokyo.ac.jp/), Monthly Stippend for five years; selection ratio ~25%
+* **WINGS CFS program fellowship**, (2019/9-Present) from [The University of Tokyo WINGS CFS program](http://cfs.t.u-tokyo.ac.jp/), Monthly Stippend for five years; selection ratio ~25%
 
