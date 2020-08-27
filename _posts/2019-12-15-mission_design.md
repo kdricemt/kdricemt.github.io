@@ -1,6 +1,6 @@
 ---
 title: 'Deep Space Trajectory Design as a "Mission Design"'
-date: 2012-08-14
+date: 2019-12-15
 permalink: /posts/2019/12/mission_design/
 tags:
   - trajectory design

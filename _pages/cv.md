@@ -9,34 +9,46 @@ redirect_from:
 
 {% include base_path %}
 
-The PDF version of my CV could be downloaded [here]()
+[The PDF could be downloaded here](/files/iiyama_keidai-CV.pdf)
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Engineering, Department of Aeronautics and Astronautics, The University of Tokyo, 2019 
+  * Thesis: "Navigation Satellite Constellation and Monitoring Station Arrangement for Lunar Global Navigation Satellite System (LGNSS)" (Advisor: Prof.Ryu Funase)
+* M.S. in Engineering, Department of Aeronautics and Astronautics, The University of Tokyo, , 2021 (Scheduled)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016/4 - 2017/2: Research Assistant
+  * Department of General System Studies, The University of Tokyo
+  * Duties included: Experiment assistant
+  * Supervisor: Professor Yoshihito Takeda
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019/9 - 2020/3: Teaching Assistant (Astrodynamics)
+  * Department of Aeronautics and Astronautics, The University of Tokyo
+  * Duties included: Creating report assignments, grading, support
+  * Supervisor: Professor Ryu Funase
+
+*  2020/1 - 2020/2: Visiting Researcher
+  * Daniel Guggenheim School of Aerospace Engineering, Georgia Institutute of Technoloy
+  * Duties included: Research of applying reinforcement learning for landing site selection during planetary landing 
+  * Supervisor: Professor Koki Ho
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages
+  * Japanese (Native)
+  * English (Businesslevel,TOFEL iBT 105/120)
+* Programming
+  * C/C++
+  * Python
+  * MATLAB
+* Software,tools
+  * Thermal Desktop
+  * SPICE 
+  * jTOP (spacecraft trajectory design software developed by Dr.Stephano Campagnola)
+  * Subversion
+  * Git
 
 Publications
 ======
@@ -46,16 +58,13 @@ Publications
   
 Projects
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.project %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
+Fellowships & Awards
 ======
-* Currently signed in to 43 different slack teams
+* **Overall Winner at the 2017 ARLISS (A Rocket Launch for International Student Satellites) comeback competition** (2017/9)
+* **WINGS CFS program fellowship**, from The University of Tokyo WINGS CFS program [URL](http://cfs.t.u-tokyo.ac.jp/), Monthly Stippend for five years; selection ratio ~25%
+
