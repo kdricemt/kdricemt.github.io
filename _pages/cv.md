@@ -31,22 +31,26 @@ Work experience
 
 * 2020/1 - 2020/2: Visiting Researcher
   * Daniel Guggenheim School of Aerospace Engineering, Georgia Institutute of Technoloy
-  * Duties included: Research of applying reinforcement learning for landing site selectio during planetary landing 
+  * Duties included: Research of applying reinforcement learning for landing site selection during planetary landing 
   * Supervisor: Professor Koki Ho
   
 Skills
 ======
 * Languages
   * Japanese (Native)
-  * English (Businesslevel,TOFEL iBT 105/120)
+  * English (Businesslevel, TOFEL iBT 105/120)
 * Programming
   * C/C++
   * Python
   * MATLAB
+  * Java
+  * Javascript
+  * HTML
 * Software,tools
   * Thermal Desktop
   * SPICE 
   * jTOP (spacecraft trajectory design software developed by Dr.Stephano Campagnola)
+  * React
   * Subversion
   * Git
 
