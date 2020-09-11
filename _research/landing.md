@@ -1,7 +1,11 @@
 ---
 title: "Landing Site Selection and Divert Maneuver Planning with Deep Reinforcement Learning (2020/1 - Present)"
-excerpt: "Applying reinforcement learning algorithms to design landing site selection policy and closed-loop controller for hazard detection and avoidance <br/><img src='/images/landing/landing_trajectory.png'>"
-date: 2019/4
+excerpt: "Applying reinforcement learning algorithms to design landing site selection policy and closed-loop controller for hazard detection and avoidance"
+period: "2020/1 - Present"
+image: 
+  url: '/images/landing/landing_trajectory.png'
+  width: '464'
+  height: '428'
 collection: project
 ---
 
