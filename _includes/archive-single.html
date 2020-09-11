@@ -54,17 +54,15 @@
 
     {% if post.image.url and post.image.width}
       <div class ="post_image">
-        <img src=
-          "{{ post.image.url }}"
+        <img src="{{ post.image.url }}"
           width="{{ post.image.width }}"
           height="{{ post.image.height }}"
           alt=""
         >
       </div>
-    {% elseif post.image.url}
+    {% elsif post.image.url}
       <div class ="post_image">
-        <img src=
-          "{{ post.image.url }}"
+        <img src="{{ post.image.url }}"
           alt=""
         >
       </div>
