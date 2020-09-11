@@ -6,7 +6,7 @@ image:
   width: '512'
   height: '270'
 date: "2017/9 - Present"
-collection: project
+collection: "project"
 ---
 
 [EQUULEUS](https://www.space.t.u-tokyo.ac.jp/equuleus/en/) is a 6U cubesat project for cis-lunar region exploration, scheduled to be launched in 2020 by NASA's Space Launce System (SLS) Exploration Mission 1 (EM-1). I mainly worked on thermal design, on-board software / simulator development for thermal and propulsion sub-system.
