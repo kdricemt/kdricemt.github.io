@@ -14,7 +14,7 @@ In addition, considering the severe time-constraint and importance of the initia
 
 I also contributed in trajectory analysis related to halo orbit escape maneuvers in the end of the mission.
 
-|![thermal-vacuum-test.png](/images/equuleus/thermal-vacuum-test.png)||![halo_orbit_escape.png](/images/equuleus/halo_orbit_escape.png)|
+|![thermal-vacuum-test.png](/images/equuleus/thermal-vacuum-test-210x171.png)||![halo_orbit_escape.png](/images/equuleus/halo_orbit_escape.png)|
 
 |Thermal Vacuum Test|Halo Orbit Escape Trajectory|
 
