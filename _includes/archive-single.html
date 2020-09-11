@@ -52,18 +52,14 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
 
-    {% if post.image.url and post.image.width}
-      <br>
-        <img src="{{ post.image.url }}"
-          width="{{ post.image.width }}"
-          height="{{ post.image.height }}"
-          alt=""
-        >
-    {% elsif post.image.url}
-      <br>
-        <img src="{{ post.image.url }}"
-          alt=""
-        >
+    {% if post.image.url and post.image.width %}
+      <p>
+        <img src="{{ post.image.url }}" width="{{ post.image.width }}" height="{{ post.image.height }}" alt="">
+      </p>
+    {% elsif post.image.url %}
+      <p>
+        <img src="{{ post.image.url }}" alt="">
+      </p>
     {% endif %}
     
     {% if post.citation and post.paperurl %}
