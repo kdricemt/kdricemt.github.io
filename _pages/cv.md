@@ -19,11 +19,6 @@ Education
 
 Work experience
 ======
-* 2016/4 - 2017/2: Research Assistant
-  * Department of General System Studies, The University of Tokyo
-  * Duties included: Experiment assistant
-  * Supervisor: Professor Yoshihito Takeda
-
 * 2019/9 - 2020/3: Teaching Assistant (Astrodynamics)
   * Department of Aeronautics and Astronautics, The University of Tokyo
   * Duties included: Creating report assignments, grading, support

@@ -1,5 +1,5 @@
 ---
-title: "Staged Development Strategy for Lunar Navigation Satellite System (2019/4 - Present)"
+title: "Staged Development Strategy for Lunar Navigation Satellite System"
 excerpt: "Optimization of staged development strategy for lunar navigation satellite system development"
 period: "2019/4 - Present"
 image: 
