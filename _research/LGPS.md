@@ -1,6 +1,6 @@
 ---
 title: "Staged Development Strategy for Lunar Navigation Satellite System (2019/4 - Present)"
-excerpt: "Optimization of staged development strategy for lunar navigation satellite system development <br/><img src='/images/halo-orbit-291x392.png'>"
+excerpt: "Optimization of staged development strategy for lunar navigation satellite system development <br/><img src='/images/lgps/halo-orbit-291x392.png'>"
 date: 2019/4
 collection: project
 ---

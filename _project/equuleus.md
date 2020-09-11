@@ -1,6 +1,6 @@
 ---
 title: "EQUULEUS (2017/9 - Present)"
-excerpt: "EQUULEUS is a 6U cubesat project for cis-lunar region exploration, developed by JAXA and The University of Tokyo <br/><img src='/images/equuleus.jpg'>"
+excerpt: "EQUULEUS is a 6U cubesat project for cis-lunar region exploration, developed by JAXA and The University of Tokyo <br/><img src='/images/equuleus/equuleus.jpg'>"
 date: 2017/9
 collection: project
 ---
@@ -14,7 +14,9 @@ In addition, considering the severe time-constraint and importance of the initia
 
 I also contributed in trajectory analysis related to halo orbit escape maneuvers in the end of the mission.
 
-|![thermal-vacuum-test.png](/images/thermal-vacuum-test.png)||![thermal-vacuum-test.png](/images/thermal-vacuum-test.png)|
+|![thermal-vacuum-test.png](/images/equuleus/thermal-vacuum-test.png)||![halo_orbit_escape.png](/images/equuleus/halo_orbit_escape.png)|
+
+|Thermal Vacuum Test|Halo Orbit Escape Trajectory|
 
 ----
 ***Related Publications:***
