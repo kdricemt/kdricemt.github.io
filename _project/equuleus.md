@@ -14,7 +14,9 @@ In addition, considering the severe time-constraint and importance of the initia
 
 I also contributed in trajectory analysis related to halo orbit escape maneuvers in the end of the mission.
 
-{% include image.html url="/images/equuleus/halo_orbit_escape.png" description="Escape from halo orbit" %}
+| ![halo_orbit_escape.png](/images/equuleus/halo_orbit_escape.png)|
+|:==:|
+| *Escape from Halo Orbit* |
 
 ----
 ***Related Publications:***
