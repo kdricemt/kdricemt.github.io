@@ -5,7 +5,7 @@ image:
   url: '/images/equuleus/equuleus.jpg'
   width: '512'
   height: '270'
-date: "2017/9 - Present"
+date:  "2017/9 - Present"
 collection: "project"
 ---
 
