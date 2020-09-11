@@ -52,16 +52,16 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
 
-    {% if post.image and post.image.width}
+    {% if post.image.url and post.image.width}
       <div class ="post_image">
         <img src=
           "{{ post.image.url }}"
-          width = "{{page.image.width}}"
-          height = "{{page.image.height}}"
+          width="{{ post.image.width }}"
+          height="{{ post.image.height }}"
           alt=""
         >
       </div>
-    {% elseif post.image}
+    {% elseif post.image.url}
       <div class ="post_image">
         <img src=
           "{{ post.image.url }}"
