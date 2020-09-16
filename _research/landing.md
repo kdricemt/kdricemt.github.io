@@ -9,7 +9,13 @@ image:
 collection: project
 ---
 
-TBD
+| ![landing_concept-1064x546.png](/images/landing/landing_concept-970x493.png)|
+|:==:|
+| *Concept of the Research* |
+
+
+
+
 
 Related Publications:
 1. **Iiyama, K**, Tomita, K., Jagatia, B.A., Nakagawa, T., and Ho, K. (2020), “Deep Reinforcement Learning for Safe Landing Site Selection with Concurrent Consideration of Divert Maneuvers”, 2020 AAS/AIAA Astrodynamics Specialist Conference, Lake Tahoe, CA, The United States, 2020
