@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Abstract
-======
+
 I am a master student at The University of Tokyo / Department of Aeronautics and Astronautics. My research interest includes applying reinforcement learning algorithm to solve complex spacecraft guidance, navigation, and control (GN&C) problems, space system design and optimization under uncertainties, and spacecraft trajectory design. Besides my research, I am also working on thermal design and on-board software development for the EQUULEUS project, which is a 6-U cubesat for cis-lunar region exploration.
 
-Please download my PDF version of the CV from [here](/files/iiyama_keidai-CV.pdf)
+[Please download my CV from here](/files/iiyama_keidai-CV.pdf)
 
 Education
 ======
