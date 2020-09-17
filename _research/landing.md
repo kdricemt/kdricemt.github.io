@@ -13,14 +13,15 @@ collection: project
 |:==:|
 | *Concept of the Research* |
 
-This research proposes a new integrated framework for identifying safe landing sites and planning in-flight divert maneuvers. Conventional landing site selection algorithms use only local terrain features such as slope and unevenness to determine landing site priority, and are not able to select landing site selection that maximizes the expected landing success rate when multiple chances of landing site selection and divert maneuver is considered. This study aims to optimize the landing site selection strategy concurrently with guidance and control policy by reinforcement learning in order to maximize the expected ratio of successful landing. 
+Autonomous hazard detection and avoidance (HD&A) is of great importance in future planetary landing missions. This research proposes a new integrated framework for identifying safe landing sites and planning in-flight divert maneuvers. Conventional landing site selection algorithms relies on calculated local terrain features (e.g.: slope and roughness) to determine the priority of the landing sites. However, they are not able to select landing site selection that maximizes the expected probability of successful landing with explicit consideration of multiple chances of landing site selection and divert maneuver. This study aims to optimize the landing site selection strategy concurrently with guidance and control policy by reinforcement learning in order to maximize the expected ratio of successful landing.
 
-Currently we are investigating the performance of the reinforcement learning algorithm in a 3-DOF lunar landing setting. By combining the auto-encoder and a ZEM-ZEV feedback controller with the reinforcement learning agent, a high success rate of more than 94% was achieved.
+The developed framework is applied to a 3-DOF lunar landing with Lidar observation scenario. The high dimemsion of Lidar DEM data is reduced with the trained auto-encoder, while stability is guranteed by utilizing the ZEM-ZEV feedback controller as a baseline control law. The target landing position and control gain of the ZEM-ZEV controller is adjusted by the reinfocement learning agent trained by both memory-based and memory-less algorithms. The investigation of the obtained result showed the capability of the agent to effectively adjust the control gain to achieve both long and short divert maneuvers. 
+
+We are currently working on extending the framework to 6-DOF scenario with state estimation errors.
 
 | ![landing_method-970x613.png](/images/landing/landing_method_970x613.png)|
 |:==:|
-| *Framework* |
-
+| * Overall Framework* |
 
 ---
 Related Publications:

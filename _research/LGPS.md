@@ -1,5 +1,5 @@
 ---
-title: "Flexibile Staged Development Strategy for Lunar Navigation Satellite System"
+title: "Staged Development Strategy for Halo Orbit based Lunar Navigation Satellite System"
 excerpt: "Optimization of staged development strategy for lunar navigation satellite system considering uncertainties in future area of interest"
 period: "2019/4 - Present"
 image: 
