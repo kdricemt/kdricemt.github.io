@@ -9,7 +9,7 @@ image:
 collection: project
 ---
 
-| ![landing_concept-1064x546.png](/images/landing/landing_concept_970x493.png)|
+| ![landing_concept_972x493.png](/images/landing/landing_concept_972x493.png)|
 |:==:|
 | *Concept of the Research* |
 
