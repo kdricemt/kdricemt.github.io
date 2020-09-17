@@ -5,15 +5,15 @@ main:
 
   - title: "Research"
     url: /research/      
-
-  - title: "Publications"
-    url: /publications/
         
   - title: "Project"
     url: /project/
 
-  - title: "CV"
-    url: /cv/
+  - title: "Publications"
+    url: /publications/
+
+# - title: "CV"
+#   url: /cv/
      
 # - title: "Blog Posts"
 #   url: /year-archive/
