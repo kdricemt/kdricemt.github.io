@@ -15,7 +15,7 @@ Conference Proceedings (Selected)
 ======
 **First Author**
 
-1. **Iiyama, K**, Tomita, K., Jagatia, B.A., Nakagawa, T., and Ho, K., “Deep Reinforcement Learning for Safe Landing Site Selection with Concurrent Consideration of Divert Maneuvers”, 2020 AAS/AIAA Astrodynamics Specialist Conference, Lake Tahoe, CA, The United States, 2020
+1. **Iiyama, K**, Tomita, K., Jagatia, B.A., Nakagawa, T., and Ho, K., “[Deep Reinforcement Learning for Safe Landing Site Selection with Concurrent Consideration of Divert Maneuvers](/files/ASC_2020_iiyama.pdf)”, 2020 AAS/AIAA Astrodynamics Specialist Conference, Lake Tahoe, CA, The United States, 2020
 2. **Iiyama, K.**, Ozaki, N., Kawabata, Y., Funase, R., and Nakasuka, S., “The Optimization of Staged Development of Lunar Navigation Satellite System”, Space Sciences and Technology Conference, Tokushima, Japan, 2019 (Written in Japanese)
 3. **Iiyama, K**., “Optimization of the Navigation satellite constellation and Lunar Monitoring Station for Lunar Global Navigation Satellite System”, 32nd International Symposium on Space Technology and Science, Fukui, Japan, 2019 (**Student session finalist**)
 
