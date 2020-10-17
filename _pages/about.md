@@ -16,7 +16,7 @@ I am a master student at The University of Tokyo / Department of Aeronautics and
 Education
 ======
 * M.E. in Engineering, Department of Aeronautics and Astronautics, The University of Tokyo, 2021 (Scheduled)
-  * B.E. in Engineering, Department of Aeronautics and Astronautics, The University of Tokyo, 2019 
+* B.E. in Engineering, Department of Aeronautics and Astronautics, The University of Tokyo, 2019 
   * Thesis: "Navigation Satellite Constellation and Monitoring Station Arrangement for Lunar Global Navigation Satellite System (LGNSS)" (Advisor: Prof. Ryu Funase)
 
 Research Experience
@@ -27,7 +27,7 @@ Research Experience
   * Supervisor: Prof. Ryu Funase
 * Space Systems Optimization Group (Jan, 2020 - Feb, 2020)
   * Daniel Guggenheim School of Aerospace Engineering, Georgia Institutute of Technoloy
-  * Duties included: Research of applying reinforcement learning for landing site selection during planetary landing 
+  * Duties included: Research of landing site selection algorithms during planetary descent
   * Supervisor: Prof. Koki Ho
 
 Teaching Experience
@@ -41,7 +41,7 @@ Skills
 ======
 * Languages: Japanese (Native), English (Businesslevel, TOFEL iBT 105/120)
 * Programming: C, C++, Python, MATLAB, Javascript
-* Software & Tools: Thermal Desktop, SPICE, jTOP (spacecraft trajectory design software developed by Dr.Stephano Campagnola), Pytorch, OpenAI Gym, React, Subversion, Git
+* Software & Tools: Thermal Desktop, SPICE (toolkit for ephemeris), jTOP (spacecraft trajectory design software developed by Dr.Stephano Campagnola), Pytorch, OpenAI Gym, React, Subversion, Git
 
 Publications
 ======

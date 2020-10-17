@@ -12,15 +12,15 @@ collection: "project"
 [EQUULEUS](https://www.space.t.u-tokyo.ac.jp/equuleus/en/) is a 6U cubesat project for cis-lunar region exploration, scheduled to be launched in 2020 by NASA's Space Launce System (SLS) Exploration Mission 1 (EM-1). I mainly worked on thermal design, on-board software / simulator development for thermal and propulsion sub-system.
 
 EQUULEUS adopts a water registrojet propulsion system for trajectory control for trajectory design control and angular momentum unloading. The large amount of heat required for vaporization and severe power constraint makes the thermal design process tightly coupled with other subsystems. 
-Through thermal vacuum tests and propulsion system operation tests, we analyzed the feasibility of the entire mission phase.
+Through thermal vacuum tests and propulsion system operation tests followed by thermal analysis using Thermal Desktop models, we analyzed the feasibility of the entire mission phase.
 
 In addition, considering the severe time-constraint and importance of the initial Delta-V manuver phase, robust FDIR (Fault Detection, Isolation and Recovery) system is required. I was responsible for the FDIR design and software implementation for thermal management system of both the bus-system and the propulsion module.
 
 I also contributed in trajectory analysis related to halo orbit escape maneuvers in the end of the mission.
 
-| ![halo_orbit_escape.png](/images/equuleus/halo_orbit_escape.png)|
+| ![halo_orbit_escape.png](/images/equuleus/chamber.png)|
 |:==:|
-| *Escape from Halo Orbit* |
+| *Flight Model Thermal Vacuum Test* |
 
 ----
 ***Related Publications:***
