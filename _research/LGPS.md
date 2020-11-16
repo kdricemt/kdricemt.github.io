@@ -1,6 +1,6 @@
 ---
-title: "Optimization of Satellite Arrangement and Staged Development Strategy for Halo Orbit based Lunar Navigation Satellite System"
-excerpt: "Optimization of Satellite Arrangement and Staged Development Strategy for Halo Orbit based Lunar Navigation Satellite System"
+title: "Research on Lunar Navigation Satellite System (LNSS)"
+excerpt: "Research on Lunar Navigation Satellite System (LNSS)"
 period: "2019/4 - Present"
 image: 
   url: '/images/lgps/halo-orbit-291x392.png'
@@ -9,10 +9,10 @@ image:
 collection: project
 ---
 
-Conventional positioning method on lunar surface mainly relies on captured images from lunar orbiters and lacks real-time property. For advanced missions on the lunar surface in the future, it is necessary to achieve high user positioning accuracy and instant positioning simultaneously. A Lunar Navigation Satellite System (LNSS) is an effective solution to this problem. The aim of the research is to 
+Conventional positioning method on lunar surface mainly relies on captured images from lunar orbiters and lacks real-time property. For advanced missions on the lunar surface in the future, it is necessary to achieve high user positioning accuracy and instant positioning simultaneously. A Lunar Navigation Satellite System (LNSS) is an effective solution to this problem. 
 
-## System design and optimization
-The aim of the research is to obtain optimal configuration (e.g. navigation satellite and lunar monitoring station arrangement, navigation satellite design) that could minimize cost while achieving required performance. I am developing a LNSS simulator and optmizer in MATLAB and python to tackle this problem. 
+## 1. System design and optimization
+The aim of the research is to obtain optimal configuration (e.g. arrangement of navigation satellite and lunar monitoring station, navigation satellite design) that could minimize cost while achieving required performance. I am developing a LNSS simulator and optmizer in MATLAB and python to tackle this problem. 
 
 Previous studies have shown that the required number of navigation satellites to cover the entire lunar surface could be reduced by deploying them on Halo Orbits. My undergraduate  research demonstrated that the global positining performance could be improved by deploying satellites on two stable periodic orbits: Distant Retrograde Orbits (DROs) and Near Rectlinear Halo Orbits (NRHOs). 
 
@@ -22,7 +22,7 @@ I am currently working on adding additional features to the LNSS simulator such 
 - clock-bias correction of navigation satellites using terrestial GNSS signals
 
 
-## Optimization of staged development strategy 
+## 2. Optimization of staged development strategy 
 
 | ![lnss_concept-1064x546.png](/images/lgps/lnss_concept-1064x546.png)|
 |:==:|
