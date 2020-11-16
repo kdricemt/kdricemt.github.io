@@ -8,8 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-
-I am a master student at The University of Tokyo / Department of Aeronautics and Astronautics. My research interest includes applying reinforcement learning algorithm to solve complex spacecraft guidance, navigation, and control (GN&C) problems, space system design and optimization under uncertainties, and spacecraft trajectory design. Besides my research, I am also working on thermal design and on-board software development for the EQUULEUS project, which is a 6-U cubesat for cis-lunar region exploration.
+I am a master student at The University of Tokyo / Department of Aeronautics and Astronautics. My research interest includes:
+- solving complex spacecraft guidance, navigation, and control (GN&C) problems with reinforcement learning
+- navigation in cis-lunar space
+- space system development and operation under uncertainties
+- spacecraft trajectory design
+Besides my research, I am also working on thermal design and on-board software development for the EQUULEUS project, which is a 6-U cubesat for cis-lunar region exploration.
 
 [Please download my CV from here](/files/iiyama_keidai-CV.pdf)
 
@@ -23,11 +27,11 @@ Research Experience
 ======
 * Intelligent Space Systems Laboratory (Apr, 2019 - )
   * Department of Aeronautics and Astronautics, The University of Tokyo
-  * Duties included: Research of Lunar Navigation Satellite System
-  * Supervisor: Prof. Ryu Funase
+  * Duties included: Research on Lunar Navigation Satellite System
+  * Supervisor: Prof. Ryu Funase, Prof. Shinichi Nakasuka
 * Space Systems Optimization Group (Jan, 2020 - Feb, 2020)
   * Daniel Guggenheim School of Aerospace Engineering, Georgia Institutute of Technoloy
-  * Duties included: Research of landing site selection algorithms during planetary descent
+  * Duties included: Research on landing site selection algorithms during planetary descent
   * Supervisor: Prof. Koki Ho
 
 Teaching Experience
@@ -57,7 +61,8 @@ Projects
   
 Fellowships & Awards
 ======
-* **WINGS CFS program fellowship**,  from [The University of Tokyo WINGS CFS program](http://cfs.t.u-tokyo.ac.jp/), Monthly Stippend for five years; selection ratio ~25%, Sep, 2019
+* **Nakajima Foundation Study Aborad Scholarship**, from Nakajima Foundation, 2-year full funding for Ph.D. study, Sep,2021 - Sep,2023
+* **WINGS CFS program fellowship**,  from [The University of Tokyo WINGS CFS program](http://cfs.t.u-tokyo.ac.jp/), Monthly Stippend during graduate school study; selection ratio ~25%, Sep, 2019 - Present
 * **32nd ISTS conference student paper competition finalist**  Jun, 2019
 * **Overall Winner at the 2017 ARLISS (A Rocket Launch for International Student Satellites) comeback competition** Sep, 2017
 
