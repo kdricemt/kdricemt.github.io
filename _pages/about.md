@@ -13,9 +13,10 @@ I am a master student at The University of Tokyo / Department of Aeronautics and
 - navigation in cis-lunar space
 - space system development and operation under uncertainties
 - spacecraft trajectory design
+
 Besides my research, I am also working on thermal design and on-board software development for the EQUULEUS project, which is a 6-U cubesat for cis-lunar region exploration.
 
-[Please download my CV from here](/files/iiyama_keidai-CV.pdf)
+[Keidai Iiyama's CV](/files/iiyama_keidai-CV.pdf)
 
 Education
 ======
@@ -61,7 +62,7 @@ Projects
   
 Fellowships & Awards
 ======
-* **Nakajima Foundation Study Aborad Scholarship**, from Nakajima Foundation, 2-year full funding for Ph.D. study, Sep,2021 - Sep,2023
+* **Nakajima Foundation Study Aborad Scholarship**, from Nakajima Foundation, 2-year full funding for Ph.D. study abroad, Sep,2021 - Sep,2023
 * **WINGS CFS program fellowship**,  from [The University of Tokyo WINGS CFS program](http://cfs.t.u-tokyo.ac.jp/), Monthly Stippend during graduate school study; selection ratio ~25%, Sep, 2019 - Present
 * **32nd ISTS conference student paper competition finalist**  Jun, 2019
 * **Overall Winner at the 2017 ARLISS (A Rocket Launch for International Student Satellites) comeback competition** Sep, 2017
