@@ -26,11 +26,11 @@ Education
 
 Research Experience
 ======
-* Intelligent Space Systems Laboratory (Apr, 2019 - )
+* [Intelligent Space Systems Laboratory](https://www.space.t.u-tokyo.ac.jp/nlab/about_e.html) (Apr, 2019 - )
   * Department of Aeronautics and Astronautics, The University of Tokyo
   * Duties included: Research on Lunar Navigation Satellite System
   * Supervisor: Prof. Ryu Funase, Prof. Shinichi Nakasuka
-* Space Systems Optimization Group (Jan, 2020 - Feb, 2020)
+* [Space Systems Optimization Group](https://ssog.ae.gatech.edu/) (Jan, 2020 - Feb, 2020)
   * Daniel Guggenheim School of Aerospace Engineering, Georgia Institutute of Technoloy
   * Duties included: Research on landing site selection algorithms during planetary descent
   * Supervisor: Prof. Koki Ho
@@ -62,10 +62,10 @@ Projects
   
 Fellowships & Awards
 ======
-* **Nakajima Foundation Study Aborad Scholarship**, from Nakajima Foundation, 2-year full funding for Ph.D. study abroad, Sep,2021 - Sep,2023
-* **WINGS CFS program fellowship**,  from [The University of Tokyo WINGS CFS program](http://cfs.t.u-tokyo.ac.jp/), Monthly Stippend during graduate school study; selection ratio ~25%, Sep, 2019 - Present
-* **32nd ISTS conference student paper competition finalist**  Jun, 2019
-* **Overall Winner at the 2017 ARLISS (A Rocket Launch for International Student Satellites) comeback competition** Sep, 2017
+* **Nakajima Foundation Study Aborad Scholarship**, from [Nakajima Foundation](http://www.nakajimafound.or.jp/), 2-year full funding for Ph.D. study abroad, selection ratio ~10%, Sep 2021 - Sep 2023
+* **WINGS CFS program fellowship**,  from [The University of Tokyo WINGS CFS program](http://cfs.t.u-tokyo.ac.jp/), Monthly Stippend during graduate school study, selection ratio ~25%, Sep 2019 - Present
+* **32nd ISTS conference student paper competition finalist**  Jun 2019
+* **Overall Winner at the ARLISS comeback competition**, from [ARLISS (A Rocket Launch for International Student Satellites)](http://www.arliss.org/), Sep 2017
 
 Contact
 ======
