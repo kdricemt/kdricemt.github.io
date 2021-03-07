@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 I am an incoming Ph.D. student at The University of Tokyo / Department of Aeronautics and Astronautics. I am also an incoming Ph.D. student at Stanford Aero/Astro from September. My research interest includes:
-- Autonomous guidance,navigation,control,and decision-making of spacecrafts.
-- Spacecraft swarma and distributeds space systems.
-- Navigation at lunarsurface and cis-lunar space.
+- Autonomous guidance, navigation, control, and decision-making of spacecrafts.
+- Spacecraft swarms and distributed space systems.
+- Navigation at lunar surface and cis-lunar space.
 - Spacecraft trajectory design and optimization.
 - Small satellite system design.
 
