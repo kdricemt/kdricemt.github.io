@@ -5,4 +5,4 @@ permalink: /japanese/
 author_profile: true
 ---
 
-建設中
+Comming Soon...
