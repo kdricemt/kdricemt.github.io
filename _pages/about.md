@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student at The University of Tokyo / Department of Aeronautics and Astronautics. My research interest includes:
-- solving complex spacecraft guidance, navigation, and control (GN&C) problems with reinforcement learning
-- navigation in cis-lunar space
-- space system development and operation under uncertainties
-- spacecraft trajectory design
+I am an incoming Ph.D. student at The University of Tokyo / Department of Aeronautics and Astronautics. I am also an incoming Ph.D. student at Stanford Aero/Astro from September. My research interest includes:
+- Autonomous guidance,navigation,control,and decision-making of spacecrafts.
+- Spacecraft swarma and distributeds space systems.
+- Navigation at lunarsurface and cis-lunar space.
+- Spacecraft trajectory design and optimization.
+- Small satellite system design.
+
 
 Besides my research, I am also working on thermal design and on-board software development for the EQUULEUS project, which is a 6-U cubesat for cis-lunar region exploration.
 
@@ -20,7 +22,8 @@ Besides my research, I am also working on thermal design and on-board software d
 
 Education
 ======
-* M.E. in Engineering, Department of Aeronautics and Astronautics, The University of Tokyo, 2021 (Scheduled)
+* M.E. in Engineering, Department of Aeronautics and Astronautics, The University of Tokyo, 2021 
+  * Thesis: "System Design and Autonomous Orbit Determination Strategy for Lunar Navigation Satellite System"(Advisor: Prof. Ryu Funase)
 * B.E. in Engineering, Department of Aeronautics and Astronautics, The University of Tokyo, 2019 
   * Thesis: "Navigation Satellite Constellation and Monitoring Station Arrangement for Lunar Global Navigation Satellite System (LGNSS)" (Advisor: Prof. Ryu Funase)
 
@@ -44,24 +47,18 @@ Teaching Experience
   
 Skills
 ======
-* Languages: Japanese (Native), English (Businesslevel, TOFEL iBT 105/120)
+* Languages: Japanese (Native), English (Professional)
 * Programming: C, C++, Python, MATLAB, Javascript
 * Software & Tools: Thermal Desktop, SPICE (toolkit for ephemeris), jTOP (spacecraft trajectory design software developed by Dr.Stephano Campagnola), Pytorch, OpenAI Gym, React, Subversion, Git
 
 Publications
 ======
 Please see [here](/publications/)
-  
-Projects
-======
-<ul>
-{% for post in site.project %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}
-</ul>
+
   
 Fellowships & Awards
 ======
+* **Stanford University Aero/Astro Department Schlarship**, from [Stanford University Aero/Astro Department](https://aa.stanford.edu/), 1-year tuition and living allowance, Sep2021 - Sep2022
 * **Nakajima Foundation Study Aborad Scholarship**, from [Nakajima Foundation](http://www.nakajimafound.or.jp/), 2-year full funding for Ph.D. study abroad, selection ratio ~10%, Sep 2021 - Sep 2023
 * **WINGS CFS program fellowship**,  from [The University of Tokyo WINGS CFS program](http://cfs.t.u-tokyo.ac.jp/), Monthly Stippend during graduate school study, selection ratio ~25%, Sep 2019 - Present
 * **32nd ISTS conference student paper competition finalist**  Jun 2019
@@ -73,4 +70,6 @@ iiyama{at}space.t.u-tokyo.ac.jp
 
 Recent News
 ======
+- Mar.2021 Accepted a PhD offer from the Aero/Astro Department of Stanford Univeristy!
+- Feb.2021 Completed Master Thesis Defense! 
 - Aug.2020 Opened this website.
