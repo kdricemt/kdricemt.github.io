@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Ph.D. student at The University of Tokyo / Department of Aeronautics and Astronautics. I am also an incoming Ph.D. student at Stanford Aero/Astro from September. My research interest includes:
+I am an incoming Ph.D. student at the [Aero/Astro Department](http://www.aerospace.t.u-tokyo.ac.jp/english/) of The University of Tokyo. I am also an incoming Ph.D. student at [Stanford Aero/Astro](https://aa.stanford.edu/) from September. My research interest includes:
 - Autonomous guidance, navigation, control, and decision-making of spacecrafts.
 - Spacecraft swarms and distributed space systems.
 - Navigation at lunar surface and cis-lunar space.
@@ -18,7 +18,7 @@ I am an incoming Ph.D. student at The University of Tokyo / Department of Aerona
 
 Besides my research, I am also working on thermal design and on-board software development for the EQUULEUS project, which is a 6-U cubesat for cis-lunar region exploration.
 
-[Keidai Iiyama's CV](/files/iiyama_keidai-CV.pdf)
+Please refer to my [CV](/files/iiyama_keidai-CV.pdf) for further information.
 
 Education
 ======
