@@ -6,6 +6,9 @@ image:
   url: '/images/lgps/halo-orbit-291x392.png'
   width: '291'
   height: '392'
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 collection: project
 ---
 

@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my articles at my [ResearchGate](https://www.researchgate.net/profile/Keidai_Iiyama)
 
-## Scheduled Publications
+## Articles in Preperation/Under Review
 1. Iiyama, K, and Funase, R., “Autonomous and Decentralized Orbit Determination and Clock Offset Estimation of Lunar Navigation Satellites Using GPS Signals and Inter-satellite Ranging”, ION GNSS+ 2021, St.Louis, MO, The United States of America, September, 2021 (Abstract Submitted) [[Extended Abstract](/files/ION_Conference_Extended_Abstract.pdf)]
 
 ## Peer-Reviewed Journal Publications
