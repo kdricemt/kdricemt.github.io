@@ -25,5 +25,5 @@ We are currently working on extending the framework to 6-DOF.
 
 ---
 Related Publications:
-1. **Iiyama, K**, Tomita, K., Jagatia, B.A., Nakagawa, T., and Ho, K. (2020), “[Deep Reinforcement Learning for Safe Landing Site Selection with Concurrent Consideration of Divert Maneuvers](/files/ASC_2020_iiyama.pdf)”, 2020 AAS/AIAA Astrodynamics Specialist Conference, Lake Tahoe, CA, The United States, 2020
-2. Tomita, K., Skinner, K., **Iiyama, K.**, Jagatia, B.A., Nakagawa, T., and Ho, K., “[Real-Time Terrain Mapping and Processing for Safe Landing via Deep Neural Networks](https://arc.aiaa.org/doi/abs/10.2514/6.2020-4150)”, ASCEND, Las Vegas, NV, The United States, 2020 
+1. **Iiyama, K**, Tomita, K., Jagatia, B.A., Nakagawa, T., and Ho, K., “Deep Reinforcement Learning for Safe Landing Site Selection with Concurrent Consideration of Divert Maneuvers”, 2020 AAS/AIAA Astrodynamics Specialist Conference, Lake Tahoe, CA, The United States, 2020 [[paper](/files/ASC_2020_iiyama.pdf)]
+2. Tomita, K., Skinner, K., **Iiyama, K.**, Jagatia, B.A., Nakagawa, T., and Ho, K., “Real-Time Terrain Mapping and Processing for Safe Landing via Deep Neural Networks”, ASCEND, Las Vegas, NV, The United States, 2020  [[paper](https://arc.aiaa.org/doi/abs/10.2514/6.2020-4150)]

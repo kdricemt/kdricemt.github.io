@@ -14,15 +14,13 @@ collection: project
 
 Conventional positioning method on lunar surface mainly relies on captured images from lunar orbiters and lacks real-time property. For advanced missions on the lunar surface in the future, it is necessary to achieve high user positioning accuracy and instant positioning simultaneously. A Lunar Navigation Satellite System (LNSS) is an effective solution to this problem. 
 
-## 1. System design and optimization
-The aim of the research is to obtain optimal configuration (e.g. arrangement of navigation satellite and lunar monitoring station, navigation satellite design) that could minimize cost while achieving required performance. I am developing a LNSS simulator and optmizer in MATLAB and python to tackle this problem. 
+## 1. LNSS Simulator Development and Configuration Optimization
+The aim of the research is to obtain optimal configuration (e.g. arrangement of navigation satellite and lunar monitoring station, navigation satellite design) that could minimize cost while achieving required performance. I developed a LNSS simulator and optmizer to tackle this problem. 
 
-Previous studies have shown that the required number of navigation satellites to cover the entire lunar surface could be reduced by deploying them on Halo Orbits. My undergraduate  research demonstrated that the global positining performance could be improved by deploying satellites on two stable periodic orbits: Distant Retrograde Orbits (DROs) and Near Rectlinear Halo Orbits (NRHOs). 
+Previous studies have shown that the required number of navigation satellites to cover the entire lunar surface could be reduced by deploying them on Halo Orbits. My undergraduate research demonstrated that the global positining performance could be improved by deploying satellites on two stable periodic orbits: Distant Retrograde Orbits (DROs) and Near Rectlinear Halo Orbits (NRHOs). 
 
-I am currently working on adding additional features to the LNSS simulator such as:
-- navigation satellite cost model (based on required power, communication, required propellant)
-- using inter-satellite links to improve orbit determination accurary of the navigation satellites
-- clock-bias correction of navigation satellites using terrestial GNSS signals
+Related Publications:
+1. **Iiyama, K**., “Optimization of the Navigation satellite constellation and Lunar Monitoring Station for Lunar Global Navigation Satellite System”, 32nd International Symposium on Space Technology and Science, Fukui, Japan, 2019 [[paper](/files/ISTS2019.pdf)”)]
 
 
 ## 2. Optimization of staged development strategy 
@@ -45,7 +43,8 @@ The proposed algorithm is applied on a 2-staged development scenerio: In the fir
 |:==:|
 | *Figure 3. Result of the Research* |
 
----
 Related Publications:
 1. **Iiyama, K.**, Ozaki, N., Kawabata, Y., Funase, R., and Nakasuka, S., “The Optimization of Staged Development of Lunar Navigation Satellite System”, Space Sciences and Technology Conference, Tokushima, Japan, 2019 (Written in Japanese)
-2. **Iiyama, K**., “[Optimization of the Navigation satellite constellation and Lunar Monitoring Station for Lunar Global Navigation Satellite System](/files/ISTS2019.pdf)", 32nd International Symposium on Space Technology and Science, Fukui, Japan, 2019 (**Student session finalist**)
+
+## 3. Autonomous Operation 
+Coming Soon...
