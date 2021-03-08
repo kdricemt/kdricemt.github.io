@@ -12,7 +12,7 @@ toc_icon: "cog"
 collection: project
 ---
 
-Conventional positioning method on lunar surface mainly relies on captured images from lunar orbiters and lacks real-time property. For advanced missions on the lunar surface in the future, it is necessary to achieve high user positioning accuracy and instant positioning simultaneously. A Lunar Navigation Satellite System (LNSS) is an effective solution to this problem. 
+The Lunar Navigation Satellite System (LGSS) could significantly improve lunar missions' operational capability and flexibility by providing real-time, continuous, and highly accurate positioning services to lunar users. Researching topics that I have been working on are listed below.
 
 ## 1. LNSS Simulator Development and Configuration Optimization
 The aim of the research is to obtain optimal configuration (e.g. arrangement of navigation satellite and lunar monitoring station, navigation satellite design) that could minimize cost while achieving required performance. I developed a LNSS simulator and optmizer to tackle this problem. 
@@ -48,3 +48,6 @@ Related Publications:
 
 ## 3. Autonomous Operation 
 Coming Soon...
+
+Related Publications:
+1. Iiyama, K, and Funase, R., “Autonomous and Decentralized Orbit Determination and Clock Offset Estimation of Lunar Navigation Satellites Using GPS Signals and Inter-satellite Ranging”, ION GNSS+ 2021, St.Louis, MO, The United States of America, September, 2021 (In preperation, Abstract Submitted) [[Extended Abstract](/files/ION_Conference_Extended_Abstract.pdf)]
