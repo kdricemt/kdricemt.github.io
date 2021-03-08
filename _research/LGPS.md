@@ -20,7 +20,7 @@ The aim of the research is to obtain optimal configuration (e.g. arrangement of 
 Previous studies have shown that the required number of navigation satellites to cover the entire lunar surface could be reduced by deploying them on Halo Orbits. My undergraduate research demonstrated that the global positining performance could be improved by deploying satellites on two stable periodic orbits: Distant Retrograde Orbits (DROs) and Near Rectlinear Halo Orbits (NRHOs). 
 
 Related Publications:
-1. **Iiyama, K**., “Optimization of the Navigation satellite constellation and Lunar Monitoring Station for Lunar Global Navigation Satellite System”, 32nd International Symposium on Space Technology and Science, Fukui, Japan, 2019 [[paper](/files/ISTS2019.pdf)”)]
+1. **Iiyama, K**., “Optimization of the Navigation satellite constellation and Lunar Monitoring Station for Lunar Global Navigation Satellite System”, 32nd International Symposium on Space Technology and Science, Fukui, Japan, 2019 [[paper](/files/ISTS2019.pdf)]
 
 
 ## 2. Optimization of staged development strategy 
