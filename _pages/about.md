@@ -5,7 +5,7 @@ excerpt: "Ph.D. student at UTokyo AeroAstro <br> Incoming PhD Student at Stanfor
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /unsplash/unsplash-image-12.jpg
+  overlay_image: /unsplash/unsplash-image-17.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 author_profile: true
 redirect_from: 
