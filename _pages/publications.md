@@ -3,6 +3,11 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /unsplash/unsplash-image-3.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
 You can also find my articles at my [ResearchGate](https://www.researchgate.net/profile/Keidai_Iiyama)

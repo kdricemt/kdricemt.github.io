@@ -1,14 +1,19 @@
 ---
 permalink: /
 title: "Keidai Iiyama"
-excerpt: "About me"
+excerpt: "Ph.D. student at UTokyo"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /unsplash/unsplash-image-8.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am an incoming Ph.D. student at the [Aero/Astro Department](http://www.aerospace.t.u-tokyo.ac.jp/english/) of The University of Tokyo. I am also an incoming Ph.D. student at [Stanford Aero/Astro](https://aa.stanford.edu/) from September. My research interest includes:
+I am an incoming Ph.D. student at the [Aero/Astro Department](http://www.aerospace.t.u-tokyo.ac.jp/english/) of The University of Tokyo. I am also an incoming Ph.D. student at [Stanford Aero/Astro](https://aa.stanford.edu/) from September. My research interest includes, but not limited to:
 - Autonomous guidance, navigation, control, and decision-making of spacecrafts.
 - Spacecraft swarms and distributed space systems.
 - Navigation at lunar surface and cis-lunar space.
