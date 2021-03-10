@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "Keidai Iiyama"
-excerpt: "Ph.D. student at UTokyo"
+title: "Keidai (Kei) Iiyama"
+excerpt: "Ph.D. student at UTokyo AeroAstro <br> Incoming PhD Student at Stanford AeroAstro"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /unsplash/unsplash-image-8.jpg
+  overlay_image: /unsplash/unsplash-image-12.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 author_profile: true
 redirect_from: 
@@ -75,6 +75,6 @@ iiyama{at}space.t.u-tokyo.ac.jp
 
 Recent News
 ======
-- Mar.2021 Accepted a PhD offer from the Aero/Astro Department of Stanford Univeristy!
+- Mar.2021 Accepted the PhD offer from the Aero/Astro Department of Stanford Univeristy!
 - Feb.2021 Completed Master Thesis Defense! 
 - Aug.2020 Opened this website.
