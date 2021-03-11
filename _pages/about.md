@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Keidai (Kei) Iiyama"
-excerpt: "Ph.D. student at UTokyo AeroAstro <br> Incoming PhD Student at Stanford AeroAstro"
+excerpt: "Ph.D. student at UTokyo AeroAstro <br> Incoming Ph.D. Student at Stanford AeroAstro"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -14,14 +14,14 @@ redirect_from:
 ---
 
 I am an incoming Ph.D. student at the [Aero/Astro Department](http://www.aerospace.t.u-tokyo.ac.jp/english/) of The University of Tokyo. I am also an incoming Ph.D. student at [Stanford Aero/Astro](https://aa.stanford.edu/) from September. My research interest includes, but not limited to:
-- Autonomous guidance, navigation, control, and decision-making of spacecrafts.
+- Autonomous guidance, navigation, control, and decision-making of spacecraft.
 - Spacecraft swarms and distributed space systems.
-- Navigation at lunar surface and cis-lunar space.
+- Navigation at the lunar surface and cis-lunar space.
 - Spacecraft trajectory design and optimization.
 - Small satellite system design.
 
 
-Besides my research, I am also working on thermal design and on-board software development for the EQUULEUS project, which is a 6-U cubesat for cis-lunar region exploration.
+Besides my research, I am also working on thermal design and on-board software development for the EQUULEUS project, which is a 6-U CubeSat for cis-lunar region exploration.
 
 Please refer to my [CV](/files/iiyama_keidai-CV.pdf) for further information.
 
@@ -42,6 +42,8 @@ Research Experience
   * Daniel Guggenheim School of Aerospace Engineering, Georgia Institutute of Technoloy
   * Duties included: Research on landing site selection algorithms during planetary descent
   * Supervisor: Prof. Koki Ho
+
+Please see [here](/research/) for further information.
 
 Teaching Experience
 ======

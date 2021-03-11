@@ -12,12 +12,12 @@ toc_icon: "cog"
 collection: project
 ---
 
-The Lunar Navigation Satellite System (LGSS) could significantly improve lunar missions' operational capability and flexibility by providing real-time, continuous, and highly accurate positioning services to lunar users. Researching topics that I have been working on are listed below.
+The Lunar Navigation Satellite System (LGSS) could significantly improve lunar missions' operational capability and flexibility by providing real-time, continuous, and highly accurate positioning services to lunar users. Research topics that I have been working on are listed below.
 
 ## 1. LNSS Simulator Development and Configuration Optimization
-The aim of the research is to obtain optimal configuration (e.g. arrangement of navigation satellite and lunar monitoring station, navigation satellite design) that could minimize cost while achieving required performance. I developed a LNSS simulator and optmizer to tackle this problem. 
+The research aims to obtain optimal configuration (e.g., arrangement of navigation satellite and lunar monitoring station) that could minimize cost while achieving the required performance. I developed an LNSS simulator and an optimizer to tackle this problem. 
 
-Previous studies have shown that the required number of navigation satellites to cover the entire lunar surface could be reduced by deploying them on Halo Orbits. My undergraduate research demonstrated that the global positining performance could be improved by deploying satellites on two stable periodic orbits: Distant Retrograde Orbits (DROs) and Near Rectlinear Halo Orbits (NRHOs). 
+Previous studies have shown that the required number of navigation satellites to cover the entire lunar surface could be reduced by deploying them on Halo Orbits. My undergraduate research demonstrated that the global positioning performance could be improved by deploying satellites on two stable periodic orbits: Distant Retrograde Orbits (DROs) and Near Rectlinear Halo Orbits (NRHOs). 
 
 Related Publications:
 1. **Iiyama, K**., “Optimization of the Navigation satellite constellation and Lunar Monitoring Station for Lunar Global Navigation Satellite System”, 32nd International Symposium on Space Technology and Science, Fukui, Japan, 2019 [[paper](/files/ISTS2019.pdf)]
@@ -29,25 +29,28 @@ Related Publications:
 |:==:|
 | *Figure 1. Concept of the Research* |
 
-More than 15 satellites are required to provide continuous navigation to the entire lunar surface. An effective way to develop the LNSS is to start from small number of navigation satellites that could cover area of interest in initial lunar development (e.g. south pole), and gradually increase its capacity through additional satellite deployment. The goal of this study is to optimize the staged development strategy of navigation satellites for halo-orbit based LNSS, considering uncertainties in future area of interest. The concept is shown in Fig.1.
+More than 15 satellites are required to provide continuous navigation service to the entire lunar surface. Therefore, an effective way to develop the LNSS is to start from a small number of navigation satellites that could cover the area of interest in initial lunar development (e.g., south pole) and gradually increase its capacity. This study aims to optimize the staged development strategy of navigation satellites for halo-orbit-based LNSS, considering uncertainties in future areas of interest. The concept is shown in Fig.1.
 
-The idea of the proposed method is to formulate the staged development process as a multi-objective markov decision process, where each objective corresponds to the navigation performance at possible area of interest. We presented an optimization framework that utilizes multi-objective monte-carlo tree search (MO-MCTS) along with the LNSS simulator. A search tree is constructed where nodes correpsponds to constellation arrangement patterns and edges correspond to the addition of navigation satellites. The search tree is constructed by MO-MCTS algorithm that repeats the process of selection, expansion, simulation, and back progation. In MO-MCTS, all pareto solutions are back-propagated towards the root of the search-tree. Therefore, we proposed to use the hypervolume of the stored pareto solutions as an indicator of "flexibility" of the arragment. The MO-MCTS looks for new nodes with high flexibility considering the trade-off of exploration and exploitation. The node that has the highest hypervolumes among all nodes with depth N is considered as the most flexible first stage architecture with depth N. The overall framework is illustrated in Fig.2.
+The idea of the proposed method is to formulate the staged development process as a multi-objective Markov decision process, where each objective corresponds to the navigation performance at the possible area of interest. We presented an optimization framework that utilizes a multi-objective Monte-Carlo tree search (MO-MCTS) along with the LNSS simulator. A search tree is constructed where nodes correspond to constellation arrangement patterns, and edges correspond to the addition of navigation satellites. The search tree is gradually expanded by the MO-MCTS algorithm that repeats selection, expansion, simulation, and backpropagation. 
+The algorithm searches for a development strategy with high flexibility, using the hypervolume of the stored Pareto-front at each node as an indicator of flexibility, 
 
-The proposed algorithm is applied on a 2-staged development scenerio: In the first phase, five satellites are deployed to provide positiong service in the south pole region, in the second phase, three satellites are added to (objective-A) improve positioning performance at south pole or (objective-B) provide additional positioning service at the north pole. By applying our algorithm, we could obtain a "flexible" first stage architecture that could adjust to arbitrary weights on both area of interest in the second stage. Results are shown in Fig.3.
+The proposed algorithm is applied on a two-staged development scenario: In the first phase, five satellites are deployed to provide positioning service in the south pole region; in the second phase, three satellites are added to (objective-A) improve positioning performance at the south pole or (objective-B) provide additional positioning service at the north pole. By applying our algorithm, we could obtain a "flexible" first-stage architecture that could adjust to arbitrary weights on both areas of interest in the second stage. Results are shown in Fig.2.
 
-| ![lnss_method-1073x613.png](/images/lgps/lnss_method_1073x613.png)|
-|:==:|
-| *Figure 2. Overall Framework* |
 
 | ![lnss_result-1069x674.png](/images/lgps/lnss_result-1069x674.png)|
 |:==:|
-| *Figure 3. Result of the Research* |
+| *Figure 2. Result of the Research* |
 
 Related Publications:
 1. **Iiyama, K.**, Ozaki, N., Kawabata, Y., Funase, R., and Nakasuka, S., “The Optimization of Staged Development of Lunar Navigation Satellite System”, Space Sciences and Technology Conference, Tokushima, Japan, 2019 (Written in Japanese)
 
-## 3. Autonomous Operation 
-Coming Soon...
+## 3. Autonomously Operated Networked Navigation Architecture
+
+| ![lnss_concept-1064x546.png](/images/lgps/lunanet.png)|
+|:==:|
+| *Figure 1. Concept of the Research* |
+
+The development of a robust navigation infrastructure in cis-lunar space is crucial for the coming new era of advanced lunar exploration. NASA has set a goal to develop an extensible and scalable lunar communication, and navigation architecture called [LunaNet](https://directory.eoportal.org/web/eoportal/satellite-missions/l/lunanet). For the flexibility and robustness of the system, the architecture is desired to have an autonomous and decentralized operation capability. In this work, we propose a decentralized and autonomous state estimation algorithm for SmallSats that provides positioning, navigation, and timing service, each equipped with a GNSS receiver, a chip-scale atomic clock, and a steering antenna for inter-satellite communication. In our framework, each satellite individually estimates its own state and clock offset with a modified decentralized Schmidt Extended Kalman Filter by processing weak GNSS signal and inter-satellite range measurements. We also demonstrate that by deploying a total of 5 satellites on lunar frozen orbit and halo orbit, the PNT service area could be extended to regions where direct GNSS signals are not available, including the far side and pole regions of the moon.
 
 Related Publications:
 1. Iiyama, K, and Funase, R., “Autonomous and Decentralized Orbit Determination and Clock Offset Estimation of Lunar Navigation Satellites Using GPS Signals and Inter-satellite Ranging”, ION GNSS+ 2021, St.Louis, MO, The United States of America, September, 2021 (In preperation, Abstract Submitted) [[Extended Abstract](/files/ION_Conference_Extended_Abstract.pdf)]
