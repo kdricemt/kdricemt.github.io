@@ -65,9 +65,9 @@ Please see [here](/publications/)
   
 Fellowships & Awards
 ======
-* **Stanford University Aero/Astro Department Fellowship**, from [Stanford University Aero/Astro Department](https://aa.stanford.edu/), 1-year tuition and living allowance, Sep2021 - Sep2022
-* **Nakajima Foundation Study Aborad Scholarship**, from [Nakajima Foundation](http://www.nakajimafound.or.jp/), 2-year full funding for Ph.D. study abroad, selection ratio ~10%, Sep 2021 - Sep 2023
-* **WINGS CFS program fellowship**,  from [The University of Tokyo WINGS CFS program](http://cfs.t.u-tokyo.ac.jp/), Monthly Stippend during graduate school study, selection ratio ~25%, Sep 2019 - Present
+* **Stanford University Aero/Astro Department Fellowship**, from [Stanford University Aero/Astro Department](https://aa.stanford.edu/), sucess ratio ~10%, 1-year tuition and living allowance, Sep2021 - Sep2022
+* **Nakajima Foundation Study Aborad Scholarship**, from [Nakajima Foundation](http://www.nakajimafound.or.jp/), 2-year full funding for Ph.D. study abroad, Sep 2021 - Sep 2023
+* **WINGS CFS program fellowship**,  from [The University of Tokyo WINGS CFS program](http://cfs.t.u-tokyo.ac.jp/), Monthly Stippend during graduate school study, sucess ratio ~25%, Sep 2019 - Present
 * **32nd ISTS conference student paper competition finalist**  Jun 2019
 * **Overall Winner at the ARLISS comeback competition**, from [ARLISS (A Rocket Launch for International Student Satellites)](http://www.arliss.org/), Sep 2017
 
