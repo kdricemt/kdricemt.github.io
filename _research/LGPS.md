@@ -48,7 +48,7 @@ Related Publications:
 
 | ![lnss_concept-1064x546.png](/images/lgps/lunanet.png)|
 |:==:|
-| *Figure 1. Concept of the Research* |
+| *Figure 3. Concept of the Research* |
 
 The development of a robust navigation infrastructure in cis-lunar space is crucial for the coming new era of advanced lunar exploration. NASA has set a goal to develop an extensible and scalable lunar communication, and navigation architecture called [LunaNet](https://directory.eoportal.org/web/eoportal/satellite-missions/l/lunanet). For the flexibility and robustness of the system, the architecture is desired to have an autonomous and decentralized operation capability. In this work, we propose a decentralized and autonomous state estimation algorithm for SmallSats that provides positioning, navigation, and timing service, each equipped with a GNSS receiver, a chip-scale atomic clock, and a steering antenna for inter-satellite communication. In our framework, each satellite individually estimates its own state and clock offset with a modified decentralized Schmidt Extended Kalman Filter by processing weak GNSS signal and inter-satellite range measurements. We also demonstrate that by deploying a total of 5 satellites on lunar frozen orbit and halo orbit, the PNT service area could be extended to regions where direct GNSS signals are not available, including the far side and pole regions of the moon.
 
