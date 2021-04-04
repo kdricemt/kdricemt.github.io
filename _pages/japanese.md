@@ -22,7 +22,7 @@ author_profile: true
 2015.4 - 2016.8 &nbsp; 東京大学 教養学部理科一類  
 2016.9 - 2019.3 &nbsp; 東京大学 工学部航空宇宙工学科  
 2019.4 - 2021.3 &nbsp; 東京大学大学院 工学系研究科航空宇宙工学専攻 修士課程  
-2021.4 - 2021.8 &nbsp; 東京大学大学院 工学系研究科航空宇宙工学専攻 博士課程 
+2021.4 - 2021.8 &nbsp; 東京大学大学院 工学系研究科航空宇宙工学専攻 博士課程  
 2021.9 - &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Stanford University Aeronautics & Astronautics Ph.D. program 
 
 ## 海外大学院出願について
