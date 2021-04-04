@@ -13,7 +13,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the [Aero/Astro Department](http://www.aerospace.t.u-tokyo.ac.jp/english/) of [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html). I am also an incoming Ph.D. student at [Stanford Aero/Astro](https://aa.stanford.edu/) from September. My research interest includes, but not limited to:
+I am a Ph.D. student at the [Aero/Astro Department](http://www.aerospace.t.u-tokyo.ac.jp/english/) of [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html). I am also an incoming Ph.D. student at [Stanford Aero/Astro](https://aa.stanford.edu/) from September. My research interest includes, but are not limited to:
 - Autonomous guidance, navigation, control, and decision-making of spacecraft.
 - Spacecraft swarms and distributed space systems.
 - Navigation at the lunar surface and cis-lunar space.
@@ -27,9 +27,10 @@ Please refer to my [CV](/files/iiyama_keidai-CV.pdf) for further and latest info
 
 Education
 ======
-* M.E. in Engineering, Department of Aeronautics and Astronautics, The University of Tokyo, 2021 
+* Incoming Ph.D. Student in Aeronautics and Astronautics, Stanford University, Starting Sep 2021 
+* M.E. in Aeronautics and Astronautics, The University of Tokyo, 2021 
   * Thesis: "System Design and Autonomous Orbit Determination Strategy for Lunar Navigation Satellite System"(Advisor: Prof. Ryu Funase)
-* B.E. in Engineering, Department of Aeronautics and Astronautics, The University of Tokyo, 2019 
+* B.E. in Aeronautics and Astronautics, The University of Tokyo, 2019 
   * Thesis: "Navigation Satellite Constellation and Monitoring Station Arrangement for Lunar Global Navigation Satellite System (LGNSS)" (Advisor: Prof. Ryu Funase)
 
 Research Experience
