@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "飯山敬大 (Iiyama Keidai)"
 excerpt: "東京大学大学院 航空宇宙工学専攻 <br> 21年秋スタンフォード大学PhD進学予定"
 permalink: /japanese/
@@ -9,6 +9,10 @@ header:
   overlay_image: https://dl.dropboxusercontent.com/s/t9w45r8vmtbl48k/Kyoto.jpg?dl=0
   caption: "Photo by Keidai Iiyama / Nanzenji Temple, Japan"
 author_profile: true
+toc: true
+toc_label: "目次"
+toc_icon: "cog"
+toc_sticky: true
 ---
 
 東京大学大学院の[航空宇宙工学専攻](http://www.aerospace.t.u-tokyo.ac.jp/)内の[中須賀・船瀬研究室](https://www.space.t.u-tokyo.ac.jp/nlab/about.html)の博士課程1年です。2021年秋から[中島記念国際交流財団](http://www.nakajimafound.or.jp/)さんから奨学金を頂きながら、[スタンフォード大学航空宇宙工学専攻](https://aa.stanford.edu/)の博士課程に進学予定です。

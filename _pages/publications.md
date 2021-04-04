@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -9,11 +9,15 @@ header:
   overlay_image: https://dl.dropboxusercontent.com/s/7o74n4we213wtrp/ginzan_onsen.JPG?dl=0
   caption: "Photo by Keidai Iiyama / Ginzan Onsen, Japan"
 excerpt: "List of journal papers and conference proceedings"
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
+toc_sticky: true
 ---
 
 You can also find my articles at my [ResearchGate](https://www.researchgate.net/profile/Keidai_Iiyama) and [Google Scholar](https://scholar.google.com/citations?user=84_oy1EAAAAJ&hl=ja).
 
-## Articles in Preperation/Under Review
+## Articles in Preperation / Under Review
 1. **Iiyama, K**, and Funase, R., “Autonomous and Decentralized Orbit Determination and Clock Offset Estimation of Lunar Navigation Satellites Using GPS Signals and Inter-satellite Ranging”, ION GNSS+ 2021, St.Louis, MO, The United States of America, September, 2021 (Abstract Submitted) [[Extended Abstract](/files/ION_Conference_Extended_Abstract.pdf)]
 
 ## Peer-Reviewed Journal Publications

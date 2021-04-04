@@ -8,12 +8,16 @@ header:
   overlay_image: https://dl.dropboxusercontent.com/s/yjr43udtmwi15lm/mt_iwate.jpg?dl=0
   caption: "Photo by Keidai Iiyama / Mt.Iwate, Japan"
 author_profile: true
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
+toc_sticky: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a Ph.D. student at the [Aero/Astro Department](http://www.aerospace.t.u-tokyo.ac.jp/english/) of [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html). I am also an incoming Ph.D. student at [Stanford Aero/Astro](https://aa.stanford.edu/) from September. My research interest includes, but are not limited to:
+I am a Ph.D. student at the [Aero/Astro Department](http://www.aerospace.t.u-tokyo.ac.jp/english/) of [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html). I am also an incoming Ph.D. student at [Stanford Aero/Astro](https://aa.stanford.edu/) from September. My research interest includes, but is not limited to:
 - Autonomous guidance, navigation, control, and decision-making of spacecraft.
 - Spacecraft swarms and distributed space systems.
 - Navigation at the lunar surface and cis-lunar space.
