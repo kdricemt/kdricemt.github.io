@@ -23,7 +23,7 @@ I am a Ph.D. student at the [Aero/Astro Department](http://www.aerospace.t.u-tok
 
 Besides my research, I am also working on thermal design and on-board software development for the EQUULEUS project, which is a 6-U CubeSat for cis-lunar region exploration.
 
-Please refer to my [CV](https://www.dropbox.com/s/hrsw5vvsjgdq8ge/iiyama_keidai-CV.pdf?dl=0) for further and latest information.
+Please refer to my [CV](/files/iiyama_keidai-CV.pdf) for further and latest information.
 
 Education
 ======
