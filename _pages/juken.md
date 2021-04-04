@@ -5,7 +5,7 @@ excerpt: "修士卒からの2021年度航空宇宙Ph.D.出願"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /unsplash/unsplash-image-stanford2.jpg
+  overlay_image: https://dl.dropboxusercontent.com/s/z7fjjnxf5jk543x/unsplash-image-stanford2.jpg?dl=0
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 permalink: /juken/
 author_profile: true
@@ -197,8 +197,6 @@ StanfordではTOEFLとGREのテストスコアを提出することが求めら�
 面接は全体的に和やかな感じでしたが、要所要所厳しい質問もあり、緊張感と時差で万全のコンディションではない中で面接を行うことになるので、**準備は入念に行っておきましょう**。[ここ](https://pg.ucsd.edu/PhD-application-tips.htm)とかにも面接のTipsが少し書いてあります。Zoom面接の良い所は、カンペを用意できることです。聞かれそうなことは事前に予想して、ディスプレイにメモを表示しておくと良いでしょう。
 
 私はワイシャツ着用で壁をバックに行いました。スライドとかは特に用意せず、全て口頭のみで説明しました。
-
-
 
 # 7. 合格後
 合格すると、大学のVisit Dayに招待されます。今年は全てVirtualでの実施でした。そこで教授や学生と色々話すことができます。（Stanfordでは同期の交流イベントやプレゼントまで用意されていて非常に力が入っていました）

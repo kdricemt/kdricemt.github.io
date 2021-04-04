@@ -1,8 +1,5 @@
   # main links links
-main:
-  - title: "About"
-    url: /about/     
-
+main:  
   - title: "Research"
     url: /research/      
         
@@ -18,5 +15,5 @@ main:
 # - title: "Blog Posts"
 #   url: /year-archive/
 
-  - title: "Contents in Japanese (日本語)"
+  - title: "Japanese (日本語)"
     url: /japanese/

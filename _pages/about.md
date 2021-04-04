@@ -1,19 +1,19 @@
 ---
 permalink: /
-title: "Keidai (Kei) Iiyama"
-excerpt: "Ph.D. student at UTokyo AeroAstro <br> Incoming Ph.D. Student at Stanford AeroAstro"
+title: "Keidai Iiyama"
+excerpt: "Ph.D. student at UTokyo Aero/Astro <br> Incoming Ph.D. Student at Stanford Aero/Astro"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /unsplash/unsplash-image-17.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  overlay_image: https://dl.dropboxusercontent.com/s/yjr43udtmwi15lm/mt_iwate.jpg?dl=0
+  caption: "Photo by Keidai Iiyama / Mt.Iwate, Japan"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am an incoming Ph.D. student at the [Aero/Astro Department](http://www.aerospace.t.u-tokyo.ac.jp/english/) of The University of Tokyo. I am also an incoming Ph.D. student at [Stanford Aero/Astro](https://aa.stanford.edu/) from September. My research interest includes, but not limited to:
+I am a Ph.D. student at the [Aero/Astro Department](http://www.aerospace.t.u-tokyo.ac.jp/english/) of [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html). I am also an incoming Ph.D. student at [Stanford Aero/Astro](https://aa.stanford.edu/) from September. My research interest includes, but not limited to:
 - Autonomous guidance, navigation, control, and decision-making of spacecraft.
 - Spacecraft swarms and distributed space systems.
 - Navigation at the lunar surface and cis-lunar space.
@@ -23,7 +23,7 @@ I am an incoming Ph.D. student at the [Aero/Astro Department](http://www.aerospa
 
 Besides my research, I am also working on thermal design and on-board software development for the EQUULEUS project, which is a 6-U CubeSat for cis-lunar region exploration.
 
-Please refer to my [CV](/files/iiyama_keidai-CV.pdf) for further information.
+Please refer to my [CV](https://www.dropbox.com/s/hrsw5vvsjgdq8ge/iiyama_keidai-CV.pdf?dl=0) for further and latest information.
 
 Education
 ======
@@ -66,8 +66,8 @@ Please see [here](/publications/)
 Fellowships & Awards
 ======
 * **Stanford University Aero/Astro Department Fellowship**, from [Stanford University Aero/Astro Department](https://aa.stanford.edu/), sucess ratio ~10%, 1-year tuition and living allowance, Sep2021 - Sep2022
-* **Nakajima Foundation Study Aborad Scholarship**, from [Nakajima Foundation](http://www.nakajimafound.or.jp/), 2-year full funding for Ph.D. study abroad, Sep 2021 - Sep 2023
-* **WINGS CFS program fellowship**,  from [The University of Tokyo WINGS CFS program](http://cfs.t.u-tokyo.ac.jp/), Monthly Stippend during graduate school study, sucess ratio ~25%, Sep 2019 - Present
+* **Nakajima Foundation Study Aborad Scholarship**, from [Nakajima Foundation](http://www.nakajimafound.or.jp/), 2-year full funding for Ph.D. study abroad, sucess ratio unknown, Sep 2021 - Sep 2023
+* **WINGS CFS program fellowship**,  from [The University of Tokyo WINGS CFS program](http://cfs.t.u-tokyo.ac.jp/), Monthly Stippend during graduate school study, sucess ratio unknown, Sep 2019 - Present
 * **32nd ISTS conference student paper competition finalist**  Jun 2019
 * **Overall Winner at the ARLISS comeback competition**, from [ARLISS (A Rocket Launch for International Student Satellites)](http://www.arliss.org/), Sep 2017
 
@@ -77,6 +77,7 @@ iiyama{at}space.t.u-tokyo.ac.jp
 
 Recent News
 ======
+- Apr.2021 Started Ph.D. at UTokyo Aero/Astro (until August)
 - Mar.2021 Accepted the PhD offer from the Aero/Astro Department of Stanford Univeristy!
 - Feb.2021 Completed Master Thesis Defense! 
 - Aug.2020 Opened this website.
