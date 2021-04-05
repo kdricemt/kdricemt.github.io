@@ -290,7 +290,7 @@
     margin-bottom: 2em;
     font-size: 1.25rem;
   
-    @include breakpoint($small) {
+    @include breakpoint($xsmall) {
       margin-bottom: 0;
       @include gallery(4 of 12);
   
@@ -308,7 +308,7 @@
         margin-bottom: 2em;
       }
   
-      @include breakpoint($small) {
+      @include breakpoint($xsmall) {
   
         .archive__item-teaser {
           @include span(1.5 of 12);
