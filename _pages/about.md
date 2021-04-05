@@ -72,7 +72,7 @@ feature_fellowship_nakajima:
 feature_fellowship_wings:
   - image_path: https://dl.dropboxusercontent.com/s/d558mgp12bwvky3/wings-cfs.png?dl=0
     alt: "WINGS_CFS"
-    date: "2019.9  ~ Prensent"
+    date: "2019.9  ~ Present"
     title: 'WINGS CFS Program Fellowship '
     subtitle: '<i> From The University of Tokyo <a href="http://cfs.t.u-tokyo.ac.jp/?top"> WINGS CFS Program </a> </i>'
     excerpt: 'Sucess ratio unknown, 2-year living allowance'
