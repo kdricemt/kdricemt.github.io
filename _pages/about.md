@@ -116,6 +116,7 @@ Education
 {% include minifeature_row id="feature_stanford" type="left" %}
 {% include minifeature_row id="feature_utokyo_me" type="left" %}
 {% include minifeature_row id="feature_utokyo_be" type="left" %}
+---
 
 Research Experience
 ======
@@ -124,13 +125,19 @@ Research Experience
 
 Please see [here](/research/) for further information.
 
+---
+
 Teaching Experience
 ======
 {% include minifeature_row id="feature_ta1" type="left" %}  
 
+---
+
 Academic Appointments
 ======
 {% include minifeature_row id="feature_isas" type="left" %} 
+
+---
   
 Fellowships & Awards
 ======
@@ -139,6 +146,8 @@ Fellowships & Awards
 {% include minifeature_row id="feature_fellowship_wings" type="left" %}
 {% include minifeature_row id="feature_award_ists" type="left" %}
 {% include minifeature_row id="feature_award_arliss" type="left" %}
+
+---
 
 Publications
 ======
