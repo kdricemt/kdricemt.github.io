@@ -9,10 +9,6 @@ header:
   overlay_image: https://dl.dropboxusercontent.com/s/t9w45r8vmtbl48k/Kyoto.jpg?dl=0
   caption: "Photo by Keidai Iiyama / Nanzenji Temple, Japan"
 author_profile: true
-toc: true
-toc_label: "目次"
-toc_icon: "cog"
-toc_sticky: true
 ---
 
 東京大学大学院の[航空宇宙工学専攻](http://www.aerospace.t.u-tokyo.ac.jp/)内の[中須賀・船瀬研究室](https://www.space.t.u-tokyo.ac.jp/nlab/about.html)の博士課程1年です。2021年秋から[中島記念国際交流財団](http://www.nakajimafound.or.jp/)さんから奨学金を頂きながら、[スタンフォード大学航空宇宙工学専攻](https://aa.stanford.edu/)の博士課程に進学予定です。
@@ -30,7 +26,7 @@ toc_sticky: true
 2021.9 - &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Stanford University Aeronautics & Astronautics Ph.D. program 
 
 ## 海外大学院出願について
-[海外大学院受験の体験記](/juken/)を書きました。もし海外大学院の出願 (特に航空宇宙系工学系の方) について質問等がありましたら、直接メールしていただくか[XPLANE](http://xplane.seldoon.net/)のSlackチャンネル内でDMしていただければ、私で良ければ答えられる範囲で喜んでお答えします。単純に悩みを聞いて欲しいとかでも構いません。 また必要に応じてより詳しい方にお繋ぎすることもできるかと思います。
+[海外大学院出願の体験記](/juken/)を書きました。もし海外大学院の出願 (特に航空宇宙系工学系) について質問等がありましたら、直接メールしていただくか[XPLANE](http://xplane.seldoon.net/)のSlackチャンネル内でDMしていただければ、私で良ければ答えられる範囲で喜んでお答えします。単純に悩みを聞いて欲しいとかでも構いません。 また必要に応じてより詳しい方にお繋ぎすることもできるかと思います。
 
 ## コンタクト
 iiyama{at}space.t.u-tokyo.ac.jp

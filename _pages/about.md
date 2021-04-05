@@ -8,10 +8,6 @@ header:
   overlay_image: https://dl.dropboxusercontent.com/s/yjr43udtmwi15lm/mt_iwate.jpg?dl=0
   caption: "Photo by Keidai Iiyama / Mt.Iwate, Japan"
 author_profile: true
-toc: true
-toc_label: "Table of Contents"
-toc_icon: "cog"
-toc_sticky: true
 feature_stanford:
   - image_path: https://dl.dropboxusercontent.com/s/ofb0zakwz7k3zto/Stanford2.png?dl=0
     alt: "Stanford"
@@ -35,7 +31,7 @@ feature_issl:
   - image_path: https://dl.dropboxusercontent.com/s/kx2cffl3oo2iwac/utokyo.png?dl=0
     alt: "UTokyo"
     date: "2019.4 ~ Present"
-    title: 'Intelligent Space Systems Laboratory'
+    title: '<a href="https://www.space.t.u-tokyo.ac.jp/nlab/index_e.html"> Intelligent Space Systems Laboratory </a>' 
     subtitle: "<i> Department of Aeronautics and Astronautics, The University of Tokyo </i>"
     excerpt: "Duties included: Research on Lunar Navigation Satellite System, SmallSat development <br> Supervisor: Prof.Funase, Prof.Nakasuka" 
 feature_ssog:
@@ -57,7 +53,7 @@ feature_isas:
     alt: "isas"
     date: "2019.4 ~ Present"
     title: 'Assistant Researcher'
-    subtitle: "<i> Institute of Space and Astronautical Science (ISAS), JAXA</i>"
+    subtitle: '<i> <a href="https://www.isas.jaxa.jp/en/"> Institute of Space and Astronautical Science (ISAS) </a>, JAXA </i>'
     excerpt: "Duties included: EQUULEUS project"
 feature_fellowship_stanford:
   - image_path: https://dl.dropboxusercontent.com/s/ofb0zakwz7k3zto/Stanford2.png?dl=0
@@ -111,54 +107,37 @@ Besides my research, I am also working on thermal design and on-board software d
 
 Please refer to my [CV](/files/iiyama_keidai-CV.pdf) for further and latest information.
 
-Education
-======
+## Education
 {% include minifeature_row id="feature_stanford" type="left" %}
 {% include minifeature_row id="feature_utokyo_me" type="left" %}
 {% include minifeature_row id="feature_utokyo_be" type="left" %}
----
 
-Research Experience
-======
+## Research Experience
 {% include minifeature_row id="feature_issl" type="left" %}
 {% include minifeature_row id="feature_ssog" type="left" %}
 
 Please see [here](/research/) for further information.
 
----
-
-Teaching Experience
-======
+## Teaching Experience
 {% include minifeature_row id="feature_ta1" type="left" %}  
 
----
-
-Academic Appointments
-======
+## Academic Appointments
 {% include minifeature_row id="feature_isas" type="left" %} 
-
----
   
-Fellowships & Awards
-======
+## Fellowships & Awards
 {% include minifeature_row id="feature_fellowship_stanford" type="left" %}
 {% include minifeature_row id="feature_fellowship_nakajima" type="left" %}
 {% include minifeature_row id="feature_fellowship_wings" type="left" %}
 {% include minifeature_row id="feature_award_ists" type="left" %}
 {% include minifeature_row id="feature_award_arliss" type="left" %}
 
----
-
-Publications
-======
+## Publications
 Please see [here](/publications/)
 
-Contact
-======
+## Contact
 iiyama{at}space.t.u-tokyo.ac.jp
 
-Recent News
-======
+## Recent News
 - Apr.2021 Started Ph.D. at UTokyo Aero/Astro (until August)
 - Mar.2021 Accepted the PhD offer from the Aero/Astro Department of Stanford Univeristy!
 - Feb.2021 Completed Master Thesis Defense! 
