@@ -12,6 +12,88 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
+feature_stanford:
+  - image_path: https://dl.dropboxusercontent.com/s/ofb0zakwz7k3zto/Stanford2.png?dl=0
+    alt: "Stanford"
+    date: "2021.9 ~"
+    title: 'Incoming Ph.D. Student in Aeronautics and Astronautics, Stanford University'
+feature_utokyo_me:
+  - image_path: https://dl.dropboxusercontent.com/s/kx2cffl3oo2iwac/utokyo.png?dl=0
+    alt: "UTokyo"
+    date: "2021"
+    title: 'M.E. in Aeronautics and Astronautics, The University of Tokyo'
+    subtitle: "<i> Advisor: Prof.Funase </i>"
+    excerpt:  "Thesis: System Design and Autonomous Orbit Determination Strategy for Lunar Navigation Satellite System" 
+feature_utokyo_be:
+  - image_path: https://dl.dropboxusercontent.com/s/kx2cffl3oo2iwac/utokyo.png?dl=0
+    alt: "UTokyo"
+    date: "2019"
+    title: 'B.E. in Aeronautics and Astronautics, The University of Tokyo '
+    subtitle: "<i> Advisor: Prof.Funase </i>"
+    excerpt: "Thesis: Navigation Satellite Constellation and Monitoring Station Arrangement for Lunar Global Navigation Satellite System (LGNSS)" 
+feature_issl:
+  - image_path: https://dl.dropboxusercontent.com/s/kx2cffl3oo2iwac/utokyo.png?dl=0
+    alt: "UTokyo"
+    date: "2019.4 ~ Present"
+    title: 'Intelligent Space Systems Laboratory'
+    subtitle: "<i> Department of Aeronautics and Astronautics, The University of Tokyo </i>"
+    excerpt: "Duties included: Research on Lunar Navigation Satellite System, SmallSat development <br> Supervisor: Prof.Funase, Prof.Nakasuka" 
+feature_ssog:
+  - image_path: https://dl.dropboxusercontent.com/s/ybxy6xycp7gsf2r/GTech.png?dl=0
+    alt: "GTech"
+    date: "2020.1 ~ 2020.2"
+    title: '<a href="https://ssog.ae.gatech.edu/"> Space Systems Optimization Group </a>'
+    subtitle: "<i> Daniel Guggenheim School of Aerospace Engineering, Georgia Institutute of Technoloy </i>"
+    excerpt: "Duties included: Research on landing site selection algorithms during planetary descent <br> Supervisor: Prof.Ho" 
+feature_ta1:
+  - image_path: https://dl.dropboxusercontent.com/s/kx2cffl3oo2iwac/utokyo.png?dl=0
+    alt: "UTokyo"
+    date: "2019.9 ~ 2020.3"
+    title: 'Graduate TA of Senior-level Class &apos;Astrodynamics&apos; '
+    subtitle: "<i> Department of Aeronautics and Astronautics, The University of Tokyo </i>"
+    excerpt: "Duties included: Creating report assignments, grading, student support <br> Supervisor: Prof.Funase"
+feature_isas:
+  - image_path: https://dl.dropboxusercontent.com/s/zx4bt5tl6z9tqit/isas2.png?dl=0
+    alt: "isas"
+    date: "2019.4 ~ Present"
+    title: 'Assistant Researcher'
+    subtitle: "<i> Institute of Space and Astronautical Science (ISAS), JAXA</i>"
+    excerpt: "Duties included: EQUULEUS project"
+feature_fellowship_stanford:
+  - image_path: https://dl.dropboxusercontent.com/s/ofb0zakwz7k3zto/Stanford2.png?dl=0
+    alt: "Stanford"
+    date: "2021.9  ~ 2022.8"
+    title: 'Stanford University Aero/Astro Department Fellowship'
+    subtitle: '<i> From Stanford University Aero/Astro Department </i>'
+    excerpt: 'Sucess ratio ~10%, 1-year tuition and living allowance'
+feature_fellowship_nakajima:
+  - image_path: https://dl.dropboxusercontent.com/s/1ann0mwvobn58ov/Nakajima.jpg?dl=0
+    alt: "Stanford"
+    date: "2021.9  ~ 2023.8"
+    title: 'Nakajima Foundation Study Abroad Fellowship'
+    subtitle: '<i> From <a href="http://www.nakajimafound.or.jp/"> Nakajima Foundation </a> </i>'
+    excerpt: 'Sucess ratio unknown, 2-year tuition and living allowance'
+feature_fellowship_wings:
+  - image_path: https://dl.dropboxusercontent.com/s/d558mgp12bwvky3/wings-cfs.png?dl=0
+    alt: "WINGS_CFS"
+    date: "2019.9  ~ Prensent"
+    title: 'WINGS CFS Program Fellowship '
+    subtitle: '<i> From The University of Tokyo <a href="http://cfs.t.u-tokyo.ac.jp/?top"> WINGS CFS Program </a> </i>'
+    excerpt: 'Sucess ratio unknown, 2-year living allowance'
+feature_award_ists:
+  - image_path: https://dl.dropboxusercontent.com/s/0utuj4eimxytps0/circlelogo_ists.png?dl=0
+    alt: "ISTS"
+    date: "2019.6"
+    title: '32nd ISTS Student Paper Competition Finalist'
+    subtitle: '<i> For the paper &apos;Optimization of the Navigation satellite constellation and Lunar Monitoring Station for Lunar Global Navigation Satellite System&apos; </i>'
+feature_award_arliss:
+  - image_path: https://dl.dropboxusercontent.com/s/1pno2e00n94trv8/unisec3.jpg?dl=0
+    alt: "Unisec"
+    date: "2017.9"
+    title: 'Overall Winner at ARLISS 2017'
+    subtitle: '<i> At Cansat Competition <a href="http://www.arliss.org/"> ARLISS (A Rocket Launch for International Student Satellites) </a> </i>'
+
+
 redirect_from: 
   - /about/
   - /about.html
@@ -31,50 +113,36 @@ Please refer to my [CV](/files/iiyama_keidai-CV.pdf) for further and latest info
 
 Education
 ======
-* Incoming Ph.D. Student in Aeronautics and Astronautics, Stanford University, Starting Sep 2021 
-* M.E. in Aeronautics and Astronautics, The University of Tokyo, 2021 
-  * Thesis: "System Design and Autonomous Orbit Determination Strategy for Lunar Navigation Satellite System"(Advisor: Prof. Ryu Funase)
-* B.E. in Aeronautics and Astronautics, The University of Tokyo, 2019 
-  * Thesis: "Navigation Satellite Constellation and Monitoring Station Arrangement for Lunar Global Navigation Satellite System (LGNSS)" (Advisor: Prof. Ryu Funase)
+{% include minifeature_row id="feature_stanford" type="left" %}
+{% include minifeature_row id="feature_utokyo_me" type="left" %}
+{% include minifeature_row id="feature_utokyo_be" type="left" %}
 
 Research Experience
 ======
-* [Intelligent Space Systems Laboratory](https://www.space.t.u-tokyo.ac.jp/nlab/about_e.html) (Apr, 2019 - )
-  * Department of Aeronautics and Astronautics, The University of Tokyo
-  * Duties included: Research on Lunar Navigation Satellite System
-  * Supervisor: Prof. Ryu Funase, Prof. Shinichi Nakasuka
-* [Space Systems Optimization Group](https://ssog.ae.gatech.edu/) (Jan, 2020 - Feb, 2020)
-  * Daniel Guggenheim School of Aerospace Engineering, Georgia Institutute of Technoloy
-  * Duties included: Research on landing site selection algorithms during planetary descent
-  * Supervisor: Prof. Koki Ho
+{% include minifeature_row id="feature_issl" type="left" %}
+{% include minifeature_row id="feature_ssog" type="left" %}
 
 Please see [here](/research/) for further information.
 
 Teaching Experience
 ======
-* Graduate Teaching Assistant of "Astrodynamics" (Sep, 2019 - Mar, 2020)
-  * Department of Aeronautics and Astronautics, The University of Tokyo
-  * Duties included: Creating report assignments, grading, support
-  * Supervisor: Prof. Ryu Funase
-  
-Skills
+{% include minifeature_row id="feature_ta1" type="left" %}  
+
+Academic Appointments
 ======
-* Languages: Japanese (Native), English (Professional)
-* Programming: C, C++, Python, MATLAB, Javascript
-* Software & Tools: Thermal Desktop, SPICE (toolkit for ephemeris), jTOP (spacecraft trajectory design software developed by Dr.Stephano Campagnola), Pytorch, OpenAI Gym, React, Subversion, Git
+{% include minifeature_row id="feature_isas" type="left" %} 
+  
+Fellowships & Awards
+======
+{% include minifeature_row id="feature_fellowship_stanford" type="left" %}
+{% include minifeature_row id="feature_fellowship_nakajima" type="left" %}
+{% include minifeature_row id="feature_fellowship_wings" type="left" %}
+{% include minifeature_row id="feature_award_ists" type="left" %}
+{% include minifeature_row id="feature_award_arliss" type="left" %}
 
 Publications
 ======
 Please see [here](/publications/)
-
-  
-Fellowships & Awards
-======
-* **Stanford University Aero/Astro Department Fellowship**, from [Stanford University Aero/Astro Department](https://aa.stanford.edu/), sucess ratio ~10%, 1-year tuition and living allowance, Sep2021 - Sep2022
-* **Nakajima Foundation Study Aborad Scholarship**, from [Nakajima Foundation](http://www.nakajimafound.or.jp/), 2-year full funding for Ph.D. study abroad, sucess ratio unknown, Sep 2021 - Sep 2023
-* **WINGS CFS program fellowship**,  from [The University of Tokyo WINGS CFS program](http://cfs.t.u-tokyo.ac.jp/), Monthly Stippend during graduate school study, sucess ratio unknown, Sep 2019 - Present
-* **32nd ISTS conference student paper competition finalist**  Jun 2019
-* **Overall Winner at the ARLISS comeback competition**, from [ARLISS (A Rocket Launch for International Student Satellites)](http://www.arliss.org/), Sep 2017
 
 Contact
 ======

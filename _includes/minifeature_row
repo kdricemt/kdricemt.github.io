@@ -1,14 +1,14 @@
 {% include base_path %}
 
 {% if include.id %}
-  {% assign feature_row = page.[include.id] %}
+  {% assign minifeature_row = page.[include.id] %}
 {% else %}
-  {% assign feature_row = page.feature_row %}
+  {% assign minifeature_row = page.minifeature_row %}
 {% endif %}
 
-<div class="feature__wrapper{% if include.noborder %}--noborder{% endif %}">
+<div class="minifeature__wrapper">
 
-  {% for f in feature_row %}
+  {% for f in minifeature_row %}
 
     {% if f.url contains "://" %}
       {% capture f_url %}{{ f.url }}{% endcapture %}
@@ -16,7 +16,7 @@
       {% capture f_url %}{{ f.url | prepend: base_path }}{% endcapture %}
     {% endif %}
 
-    <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+    <div class="minifeature__item{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item">
         {% if f.image_path %}
             <div class="archive__item-teaser">
@@ -28,12 +28,15 @@
                 {% endif %}
               alt="{% if f.alt %}{{ f.alt }}{% endif %}">
             </div>
-
         {% endif %}
         
         <div class="archive__item-body">
           {% if f.title %}
-              <h2 class="archive__item-title">{{ f.title }}</h2>
+              <h5 class="archive__item-title">{{ f.title }}</h5>
+          {% endif %}
+
+          {% if f.subtitle %}
+              <div class="archive__item-subtitle">{{ f.subtitle }}</div>
           {% endif %}
 
           {% if f.excerpt %}
@@ -46,6 +49,12 @@
             <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
           {% endif %}
         </div>
+
+        {% if f.date %}
+          <div class="archive__item-datebox">
+              <h6 class="archive__item-date">{{ f.date }}</h6>
+          </div>
+        {% endif %}
 
       </div>
     </div>
