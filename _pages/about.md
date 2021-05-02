@@ -138,7 +138,8 @@ Please see [here](/publications/)
 iiyama{at}space.t.u-tokyo.ac.jp
 
 ## Recent News
-- Apr.2021 Started Ph.D. at UTokyo Aero/Astro (until August)
+- Apr.13 2021 Our paper, "Autonomous and Decentralized Orbit Determination and Clock Offset Estimation of Lunar Navigation Satellites Using GPS Signals and Inter-satellite Ranging," has been accepted for the ION GNSS+ 2021 Conference! 
+- Apr.1 2021 Started Ph.D. at UTokyo Aero/Astro (until August)
 - Mar.2021 Accepted the PhD offer from the Aero/Astro Department of Stanford Univeristy!
 - Feb.2021 Completed Master Thesis Defense! 
 - Aug.2020 Opened this website.
