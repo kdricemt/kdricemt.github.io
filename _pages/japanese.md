@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "飯山敬大 (Iiyama Keidai)"
-excerpt: "東京大学大学院 航空宇宙工学専攻 <br> 21年秋スタンフォード大学PhD進学予定"
+excerpt: "スタンフォード大学 航空宇宙工学専攻 博士1年"
 permalink: /japanese/
 header:
   overlay_color: "#000"
@@ -11,9 +11,11 @@ header:
 author_profile: true
 ---
 
-東京大学大学院の[航空宇宙工学専攻](http://www.aerospace.t.u-tokyo.ac.jp/)内の[中須賀・船瀬研究室](https://www.space.t.u-tokyo.ac.jp/nlab/about.html)の博士課程1年です。2021年秋から[中島記念国際交流財団](http://www.nakajimafound.or.jp/)さんから奨学金を頂きながら、[スタンフォード大学航空宇宙工学専攻](https://aa.stanford.edu/)の博士課程に進学予定です。
+## 自己紹介
+[スタンフォード大学航空宇宙工学専攻](https://aa.stanford.edu/)の博士課程一年目に在籍しています。博士課程の一年目は全員研究室ローテーションを行うことになっており、現在は[Space Rendezvous Lab](https://damicos.people.stanford.edu/)にて深宇宙における複数宇宙機のナビゲーションの研究を行なっています。
+2021年秋より[中島記念国際交流財団](http://www.nakajimafound.or.jp/)から奨学金を頂いています。
 
-現在は, 主に月GPSシステムについての研究と超小型衛星の開発を行っています。他にも、ジョージア工科大学の[Space Systems Optimization Group](https://ssog.ae.gatech.edu/)と共同研究を行ったり、JAXAの宇宙科学研究所にて次世代の深宇宙ミッションの概念検討に携わったりしてきました。スタンフォード大学では, 宇宙機の自律的な意思決定や航法誘導制御の研究を行う予定です。
+学部4年時および修士課程では、東京大学大学院の[航空宇宙工学専攻](http://www.aerospace.t.u-tokyo.ac.jp/)内の[中須賀・船瀬研究室](https://www.space.t.u-tokyo.ac.jp/nlab/about.html)にて、主に月GPSシステムについての研究と超小型月探査機[EQUULEUS](https://www.isas.jaxa.jp/feature/forefront/171020.html)の開発に携わっていました。他にも、ジョージア工科大学の[Space Systems Optimization Group](https://ssog.ae.gatech.edu/)と共同研究を行ったり、JAXAの宇宙科学研究所にて次世代の深宇宙ミッションの概念検討に携わったりしてきました。
 
 [研究内容](/research/)や[研究実績](/publications/)、[その他最新情報](/about/)については基本的に英語にて該当箇所に記載していく予定です。
 
@@ -26,13 +28,13 @@ author_profile: true
 2021.9 - &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Stanford University Aeronautics & Astronautics Ph.D. program 
 
 ## 海外大学院出願について
-[海外大学院出願の体験記](/juken/)を書きました。もし海外大学院の出願 (特に航空宇宙系工学系) について質問等がありましたら、直接メールしていただくか[XPLANE](http://xplane.seldoon.net/)のSlackチャンネル内でDMしていただければ、私で良ければ答えられる範囲で喜んでお答えします。単純に悩みを聞いて欲しいとかでも構いません。 また必要に応じてより詳しい方にお繋ぎすることもできるかと思います。
+2020年度に行なった[海外大学院出願の体験記](/juken/)を書きました。もし海外大学院の出願 (特に航空宇宙系工学系) について質問等がありましたら、直接メールしていただくか[XPLANE](http://xplane.seldoon.net/)のSlackチャンネル内でDMしていただければ、私で良ければ答えられる範囲で喜んでお答えします。単純に悩みを聞いて欲しいとかでも構いません。 また必要に応じてより詳しい方にお繋ぎすることもできるかと思います。
 
 ## コンタクト
-iiyama{at}space.t.u-tokyo.ac.jp
+kiiyama{at}stanford.edu
 
 ## 趣味 &middot; 特技 &middot; その他
 - 中高大と10年間部活でバドミントン競技に取り組んでいました (東大運動会バドミントン部) 。
-- 健康的な趣味は、トレッキング (百名山16座) 、ハーフマラソン (92min) 、写真撮影など。
+- 健康的な趣味は、トレッキング 、ハーフマラソン (92min) 、写真撮影など。
 - まだまだ初心者なのですが、SFも好きです。一番お気に入りのSF小説はアーサー &middot; C &middot; クラークの「地球幼年期の終わり」(Childhood's End) です。
 - Perfume (アーティスト) のファンクラブ会員。他にはスピッツ、サカナクション、相対性理論などが好きでよく聞きます。

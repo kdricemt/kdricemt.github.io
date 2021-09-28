@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Keidai Iiyama"
-excerpt: "Ph.D. student at UTokyo Aero/Astro <br> Incoming Ph.D. Student at Stanford Aero/Astro"
+excerpt: "Ph.D. student at Stanford Aero/Astro"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -12,7 +12,7 @@ feature_stanford:
   - image_path: https://dl.dropboxusercontent.com/s/ofb0zakwz7k3zto/Stanford2.png?dl=0
     alt: "Stanford"
     date: "2021.9 ~"
-    title: 'Incoming Ph.D. Student in Aeronautics and Astronautics, Stanford University'
+    title: 'Ph.D. Student in Aeronautics and Astronautics, Stanford University'
 feature_utokyo_me:
   - image_path: https://dl.dropboxusercontent.com/s/kx2cffl3oo2iwac/utokyo.png?dl=0
     alt: "UTokyo"
@@ -27,10 +27,17 @@ feature_utokyo_be:
     title: 'B.E. in Aeronautics and Astronautics, The University of Tokyo '
     subtitle: "<i> Advisor: Prof.Funase </i>"
     excerpt: "Thesis: Navigation Satellite Constellation and Monitoring Station Arrangement for Lunar Global Navigation Satellite System (LGNSS)" 
+feature_slab:
+  - image_path: https://dl.dropboxusercontent.com/s/w6khq7e86l6qzj2/SLAB.png?dl=0
+    alt: "Stanford_SLAB"
+    date: "2021.9 ~ Present"
+    title: '<a href="https://damicos.people.stanford.edu/"> Space Rendezvous Lab </a>' 
+    subtitle: "<i> Department of Aeronautics and Astronautics, Stanford University </i>"
+    excerpt: "Duties included: Starling Mission <br> Supervisor: Prof.D'Amico"
 feature_issl:
   - image_path: https://dl.dropboxusercontent.com/s/kx2cffl3oo2iwac/utokyo.png?dl=0
     alt: "UTokyo"
-    date: "2019.4 ~ Present"
+    date: "2019.4 ~ 2021.9"
     title: '<a href="https://www.space.t.u-tokyo.ac.jp/nlab/index_e.html"> Intelligent Space Systems Laboratory </a>' 
     subtitle: "<i> Department of Aeronautics and Astronautics, The University of Tokyo </i>"
     excerpt: "Duties included: Research on Lunar Navigation Satellite System, SmallSat development <br> Supervisor: Prof.Funase, Prof.Nakasuka" 
@@ -45,7 +52,7 @@ feature_ta1:
   - image_path: https://dl.dropboxusercontent.com/s/kx2cffl3oo2iwac/utokyo.png?dl=0
     alt: "UTokyo"
     date: "2019.9 ~ 2020.3"
-    title: 'Graduate TA of Senior-level Class &apos;Astrodynamics&apos; '
+    title: 'Graduate TA of Junior-level Class &apos;Astrodynamics&apos; '
     subtitle: "<i> Department of Aeronautics and Astronautics, The University of Tokyo </i>"
     excerpt: "Duties included: Creating report assignments, grading, student support <br> Supervisor: Prof.Funase"
 feature_isas:
@@ -95,15 +102,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the [Aero/Astro Department](http://www.aerospace.t.u-tokyo.ac.jp/english/) of [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html). I am also an incoming Ph.D. student at [Stanford Aero/Astro](https://aa.stanford.edu/) from September. My research interest includes, but is not limited to:
+I am a first-year Ph.D. student at [Stanford Aero/Astro](https://aa.stanford.edu/). My research interest includes, but is not limited to:
 - Autonomous guidance, navigation, control, and decision-making of spacecraft.
 - Spacecraft swarms and distributed space systems.
-- Navigation at the lunar surface and cis-lunar space.
+- Positioning, navigation, and timing at the lunar surface, lunar orbits, and cis-lunar space.
 - Spacecraft trajectory design and optimization.
 - Small satellite system design.
 
-
-Besides my research, I am also working on thermal design and on-board software development for the EQUULEUS project, which is a 6-U CubeSat for cis-lunar region exploration.
+I received my B.E. and M.E. degree from the [Aero/Astro Department](http://www.aerospace.t.u-tokyo.ac.jp/english/) of [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html). At UTokyo, I worked on the thermal design and on-board software development for the EQUULEUS project, which is a 6-U CubeSat targeting the EML2 Halo Orbit, under the supervision of Prof.Funase at the Intelligent Space Systems Laboratory.
 
 Please refer to my [CV](/files/iiyama_keidai-CV.pdf) for further and latest information.
 
@@ -113,6 +119,7 @@ Please refer to my [CV](/files/iiyama_keidai-CV.pdf) for further and latest info
 {% include minifeature_row id="feature_utokyo_be" type="left" %}
 
 ## Research Experience
+{% include minifeature_row id="feature_slab" type="left" %}
 {% include minifeature_row id="feature_issl" type="left" %}
 {% include minifeature_row id="feature_ssog" type="left" %}
 
@@ -135,7 +142,7 @@ Please see [here](/research/) for further information.
 Please see [here](/publications/)
 
 ## Contact
-iiyama{at}space.t.u-tokyo.ac.jp
+kiiyama{at}stanford.edu
 
 ## Recent News
 - Apr.13 2021 Our paper, "Autonomous and Decentralized Orbit Determination and Clock Offset Estimation of Lunar Navigation Satellites Using GPS Signals and Inter-satellite Ranging," has been accepted for the ION GNSS+ 2021 Conference! 
