@@ -8,13 +8,13 @@ header:
   overlay_filter: "0.5"
   overlay_image: https://dl.dropboxusercontent.com/s/y426s802k93sote/volcano.jpg?dl=0
   caption: "Photo by Keidai Iiyama / Volcano, Hawaii"
-excerpt: "List of research projects at UTokyo and Georgia Tech"
+excerpt: "List of research projects"
 intro: 
   - excerpt: ''
 feature_row:
   - image_path: https://dl.dropboxusercontent.com/s/9t1ntu6cykvk99y/skyplot.png?dl=0
     alt: "Skyplot"
-    title: "Lunar Navigation Satellite System"
+    title: "Lunar Navigation Satellite System (LNSS)"
     excerpt: '**Period:** 2019/4-Present  &nbsp; &nbsp; &nbsp; **Advisor:** Prof.Funase (UTokyo) <br> <br>
     **Abstract:** The Lunar Navigation Satellite System (LNSS) could significantly improve the operational capability and flexibility of future lunar missions by providing real-time, continuous, and highly accurate positioning services to lunar users. I am studying the system configuration optimization, development strategy optimization, and autonomous operation strategies of LNSS.'
     url: /research/LGPS/

@@ -74,7 +74,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-178687080-1"
 
@@ -84,10 +84,10 @@ author:
   name             : "Keidai Iiyama"
   avatar           : "profile2.jpg"
   bio              : "Ph.D. Student at Stanford AeroAstro"
-  location         : "Tokyo, Japan"
+  location         : "Stanford, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=84_oy1EAAAAJ&hl=ja"
   email            : "iiyama{at}space.t.u-tokyo.ac.jp"
   researchgate     : "https://www.researchgate.net/profile/Keidai_Iiyama"
   uri              :
@@ -100,7 +100,7 @@ author:
   github           : "/kdricemt"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "keidai_iiyama"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "/keidai-iiyama-a9a165171"

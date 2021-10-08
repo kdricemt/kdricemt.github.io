@@ -12,10 +12,9 @@ author_profile: true
 ---
 
 ## 自己紹介
-[スタンフォード大学航空宇宙工学専攻](https://aa.stanford.edu/)の博士課程一年目に在籍しています。博士課程の一年目は全員研究室ローテーションを行うことになっており、現在は[Space Rendezvous Lab](https://damicos.people.stanford.edu/)にて深宇宙における複数宇宙機のナビゲーションの研究を行なっています。
-2021年秋より[中島記念国際交流財団](http://www.nakajimafound.or.jp/)から奨学金を頂いています。
+[スタンフォード大学航空宇宙工学専攻](https://aa.stanford.edu/)の博士課程一年目に在籍しています。博士課程の一年目は全員研究室ローテーションを行うことになっており、現在は[Space Rendezvous Lab](https://damicos.people.stanford.edu/)にて月圏における複数宇宙機のナビゲーションの研究を行なっている他、[Navigation and Autonomous Vehicles (NAV) Lab](https://navlab.stanford.edu/)と共同でGPSから月圏の通信ネットワークへのTime Transferについて研究しています。学習と研究に当たっては、2021年秋より[中島記念国際交流財団](http://www.nakajimafound.or.jp/)から奨学金の支援を頂いています。
 
-学部4年時および修士課程では、東京大学大学院の[航空宇宙工学専攻](http://www.aerospace.t.u-tokyo.ac.jp/)内の[中須賀・船瀬研究室](https://www.space.t.u-tokyo.ac.jp/nlab/about.html)にて、主に月GPSシステムについての研究と超小型月探査機[EQUULEUS](https://www.isas.jaxa.jp/feature/forefront/171020.html)の開発に携わっていました。他にも、ジョージア工科大学の[Space Systems Optimization Group](https://ssog.ae.gatech.edu/)と共同研究を行ったり、JAXAの宇宙科学研究所にて次世代の深宇宙ミッションの概念検討に携わったりしてきました。
+学部4年時および修士課程では、東京大学大学院の[航空宇宙工学専攻](http://www.aerospace.t.u-tokyo.ac.jp/)内の[中須賀・船瀬研究室](https://www.space.t.u-tokyo.ac.jp/nlab/about.html)にて、主に月GPSシステムについての研究と超小型月探査機[EQUULEUS](https://www.isas.jaxa.jp/feature/forefront/171020.html)の開発に携わっていました。他には、ジョージア工科大学の[Space Systems Optimization Group](https://ssog.ae.gatech.edu/)と共同研究を行ったり、JAXAの宇宙科学研究所にて次世代の深宇宙ミッションの概念検討に携わる機会に恵まれました。
 
 [研究内容](/research/)や[研究実績](/publications/)、[その他最新情報](/about/)については基本的に英語にて該当箇所に記載していく予定です。
 
@@ -36,5 +35,5 @@ kiiyama{at}stanford.edu
 ## 趣味 &middot; 特技 &middot; その他
 - 中高大と10年間部活でバドミントン競技に取り組んでいました (東大運動会バドミントン部) 。
 - 健康的な趣味は、トレッキング 、ハーフマラソン (92min) 、写真撮影など。
-- まだまだ初心者なのですが、SFも好きです。一番お気に入りのSF小説はアーサー &middot; C &middot; クラークの「地球幼年期の終わり」(Childhood's End) です。
+- まだまだ初心者なのですが、SFも好きです。原点にして一番お気に入りのSF小説はアーサー &middot; C &middot; クラークの「地球幼年期の終わり」(Childhood's End) です。
 - Perfume (アーティスト) のファンクラブ会員。他にはスピッツ、サカナクション、相対性理論などが好きでよく聞きます。
