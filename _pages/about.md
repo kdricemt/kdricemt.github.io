@@ -38,7 +38,7 @@ feature_slab:
 feature_issl:
   - image_path: https://dl.dropboxusercontent.com/s/kx2cffl3oo2iwac/utokyo.png?dl=0
     alt: "UTokyo"
-    date: "2019.4 ~ 2021.9"
+    date: "2018.4 ~ 2021.9"
     title: '<a href="https://www.space.t.u-tokyo.ac.jp/nlab/index_e.html"> Intelligent Space Systems Laboratory </a>' 
     subtitle: "<i> Department of Aeronautics and Astronautics, The University of Tokyo </i>"
     excerpt: "Duties included: Research on Lunar Navigation Satellite System, SmallSat development <br> Supervisor: Prof.Funase, Prof.Nakasuka" 
@@ -105,14 +105,14 @@ redirect_from:
 
 I am a first-year Ph.D. student at [Stanford Aero/Astro](https://aa.stanford.edu/). Currently, I am conducting research on angles-only navigation at lunar orbits in the [Space Rendenzvous Lab](https://damicos.people.stanford.edu).
 
-My research interest includes, but is not limited to:
+My research interest includes:
 - Autonomous guidance, navigation, control, and decision-making of spacecraft.
 - Spacecraft swarms and distributed space systems.
 - Positioning, navigation, and timing at the lunar surface, lunar orbits, and cis-lunar space.
-- Spacecraft trajectory design and optimization.
+- Spacecraft mission  design and optimization.
 - Small satellite system design.
 
-I received my B.E. and M.E. degree from the [Aero/Astro Department](http://www.aerospace.t.u-tokyo.ac.jp/english/) of [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html). At the Intelligent Space Systems Laboratory in UTokyo, I worked on the thermal design and on-board software development for the EQUULEUS, a 6-U CubeSat targeting the EML2 Halo Orbit as one of the secondary payload of SLS1. Beside the development of EQUULEUS, I was researching satellite configurations and autonomous operation strategies for Lunar Navigation Satellite Sysmtem (LNSS) under the supervision of Prof.Funase.
+I received my B.E. and M.E. degree from the [Aero/Astro Department](http://www.aerospace.t.u-tokyo.ac.jp/english/) of [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html). At the Intelligent Space Systems Laboratory in UTokyo, I worked on the thermal design and on-board software development for the EQUULEUS, a 6-U CubeSat targeting the EML2 Halo Orbit as one of the secondary payload of SLS1. Beside the development of EQUULEUS, I resarched satellite configurations and autonomous operation strategies for Lunar Navigation Satellite System (LNSS) under the supervision of Prof.Funase.
 
 I also had the honour to collaborate with [Space Systems Optimization Group](https://ssog.ae.gatech.edu/) at Georgia Tech and [ Navigation and Autonomous Vehicles (NAV) Lab](https://navlab.stanford.edu/) at Stanford University. 
 
@@ -150,7 +150,8 @@ Please see [here](/publications/)
 kiiyama{at}stanford.edu
 
 ## Recent News
-- Sep.24 2021 Presented our paper, "Autonomous and Decentralized Orbit Determination and Clock Offset Estimation of Lunar Navigation Satellites Using GPS Signals and Inter-satellite Ranging," at the ION GNSS+ 2021 Conference. [[Paper](https://www.dropbox.com/s/0t4kbo6w83hcmxv/ION_GNSS_2021_Iiyama.pdf?dl=0)] [[Slide](https://www.dropbox.com/s/h5wfe2z3tki8mrq/ION_GNSS_2021_iiyama_slideonly.pdf?dl=0)]
+- Oct.30 2021 Our paper, "Autonomous Distributed Angles-Only Navigation and Timekeeping in Lunar Orbit" was accepted for the ION ITM conference! 
+- Sep.24 2021 Presented our paper, "Autonomous and Decentralized Orbit Determination and Clock Offset Estimation of Lunar Navigation Satellites Using GPS Signals and Inter-satellite Ranging" at the ION GNSS+ 2021 Conference. [[Paper](https://www.dropbox.com/s/0t4kbo6w83hcmxv/ION_GNSS_2021_Iiyama.pdf?dl=0)] [[Slide](https://www.dropbox.com/s/h5wfe2z3tki8mrq/ION_GNSS_2021_iiyama_slideonly.pdf?dl=0)]
 - Sep.20 2021 Started Ph.D. at Stanford Aero/Astro.
 - Apr.1 2021 Started Ph.D. at UTokyo Aero/Astro (until August)
 - Mar 2021 Accepted the PhD offer from the Aero/Astro Department of Stanford Univeristy!
