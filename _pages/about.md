@@ -116,7 +116,7 @@ I received my B.E. and M.E. degree from the [Aero/Astro Department](http://www.a
 
 I also had the honour to collaborate with [Space Systems Optimization Group](https://ssog.ae.gatech.edu/) at Georgia Tech and [ Navigation and Autonomous Vehicles (NAV) Lab](https://navlab.stanford.edu/) at Stanford University. 
 
-Please refer to my [CV](/files/iiyama_keidai-CV.pdf) for the latest information.
+Please refer to my [CV](/files/Keidai_Iiyama_CV.pdf) for the latest information.
 
 ## Education
 {% include minifeature_row id="feature_stanford" type="left" %}
