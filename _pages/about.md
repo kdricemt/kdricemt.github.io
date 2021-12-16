@@ -150,7 +150,7 @@ Please see [here](/publications/)
 kiiyama{at}stanford.edu
 
 ## Recent News
-- Oct.30 2021 Our paper, "Autonomous Distributed Angles-Only Navigation and Timekeeping in Lunar Orbit" was accepted for the ION ITM conference! 
+- Oct.30 2021 Our paper, "Autonomous Distributed Angles-Only Navigation and Timekeeping in Lunar Orbit" was accepted for the ION ITM conference!  [[Paper](https://www.dropbox.com/s/2m8nfyql9oj0cdj/ION_ITM_Lunar_Navigation_Paper_rev2.pdf?dl=0)]
 - Sep.24 2021 Presented our paper, "Autonomous and Decentralized Orbit Determination and Clock Offset Estimation of Lunar Navigation Satellites Using GPS Signals and Inter-satellite Ranging" at the ION GNSS+ 2021 Conference. [[Paper](https://www.dropbox.com/s/0t4kbo6w83hcmxv/ION_GNSS_2021_Iiyama.pdf?dl=0)] [[Slide](https://www.dropbox.com/s/h5wfe2z3tki8mrq/ION_GNSS_2021_iiyama_slideonly.pdf?dl=0)]
 - Sep.20 2021 Started Ph.D. at Stanford Aero/Astro.
 - Apr.1 2021 Started Ph.D. at UTokyo Aero/Astro (until August)

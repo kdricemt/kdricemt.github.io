@@ -23,8 +23,8 @@ You can also find my articles at my [ResearchGate](https://www.researchgate.net/
 
 ## International Conference Proceedings
 **First Author**
-1. **Iiyama, K.**, Kruger, J., and D'Amico, S., "Autonomous Distributed Angles-Only Navigation and Timekeeping in Lunar Orbit",
-*ION International Technical Meeting (ITM)*, Long Beach, CA, January, 2022 (Accepted) ```Student Paper Award``` [[Abstract](https://damicos.people.stanford.edu/sites/g/files/sbiybj2226/f/ion_itm_2022_abstract.pdf)]
+1. **Iiyama, K.**, Kruger, J., and D'Amico, S., "Autonomous Distributed Angles-Only Navigation and Timekeeping in Lunar Orbit", 
+*ION International Technical Meeting (ITM)*, Long Beach, CA, January, 2022 (Accepted) ```Student Paper Award``` [[Paper](https://www.dropbox.com/s/2m8nfyql9oj0cdj/ION_ITM_Lunar_Navigation_Paper_rev2.pdf?dl=0)]
 1. **Iiyama, K**, Kawabata, Y., and Funase, R., “Autonomous and Decentralized Orbit Determination and Clock Offset Estimation of Lunar Navigation Satellites Using GPS Signals and Inter-Satellite Ranging”, *ION GNSS*, St.Louis, MO, September, 2021  [[Paper](https://www.dropbox.com/s/0t4kbo6w83hcmxv/ION_GNSS_2021_Iiyama.pdf?dl=0)] [[Slide](https://www.dropbox.com/s/h5wfe2z3tki8mrq/ION_GNSS_2021_iiyama_slideonly.pdf?dl=0)]
 2. **Iiyama, K**, Tomita, K., Jagatia, B.A., Nakagawa, T., and Ho, K., “Deep Reinforcement Learning for Safe Landing Site Selection with Concurrent Consideration of Divert Maneuvers”, *AAS/AIAA Astrodynamics Specialist Conference*, Lake Tahoe, CA, 2020 [[Paper](https://arxiv.org/pdf/2102.12432.pdf)]
 3. **Iiyama, K**., “Optimization of the Navigation satellite constellation and Lunar Monitoring Station for Lunar Global Navigation Satellite System”, *32nd International Symposium on Space Technology and Science*, Fukui, Japan, 2019 ```Student Session Finalist``` [[Paper](https://www.dropbox.com/s/ezpirkwlz9xzw6t/ISTS2019.pdf?dl=0)]
