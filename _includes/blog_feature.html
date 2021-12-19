@@ -1,0 +1,45 @@
+{% include base_path %}
+
+<div class="blogfeature__wrapper">
+
+    <div class="blogfeature__item{% if include.type %}--{{ include.type }}{% endif %}">
+      <div class="archive__item">
+        {% if post.image_path %}
+            <div class="archive__item-teaser">
+              <img src=
+                {% if post.image_path contains "://" %}
+                  "{{ post.image_path }}"
+                {% else %}
+                  "{{ post.image_path | prepend: "/images/" | prepend: base_path }}"
+                {% endif %}
+              alt="{% if post.alt %}{{ post.alt }}{% endif %}">
+            </div>
+        {% endif %}
+        
+        <div class="archive__item-body">
+          {% if post.title %}
+              <h5 class="archive__item-title">{{ post.title }}</h5>
+          {% endif %}
+
+          {% if post.read_time %}
+              <p class="archive__item-subtitle"><i class="fa fa-clock-o" aria-hidden="true"></i> <i>{% include read-time.html %}</i></p>
+          {% endif %}
+
+          {% if post.excerpt %}
+            <div class="archive__item-excerpt" itemprop="description">
+                <p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p>
+            </div>
+          {% endif %}
+
+        </div>
+
+        {% if post.date_str %}
+        <div class="archive__item-datebox">
+          <h6 class="archive__item-date">{{ post.date_str }}</h6>
+        </div>
+        {% endif %}
+
+      </div>
+    </div>
+
+</div>

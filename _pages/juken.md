@@ -1,5 +1,6 @@
 ---
 layout: single
+date_str: "Mar, 23, 2021"
 title: "海外大学院受験体験記"
 excerpt: "修士卒からの2021年度航空宇宙Ph.D.出願"
 header:
@@ -12,6 +13,7 @@ author_profile: true
 toc: true
 toc_sticky: true
 toc_label: "目次"
+image_path: https://dl.dropboxusercontent.com/s/ofb0zakwz7k3zto/Stanford2.png?dl=0
 ---
 
 # 1. 自己紹介

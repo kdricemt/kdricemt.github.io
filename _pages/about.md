@@ -8,6 +8,7 @@ header:
   overlay_image: https://dl.dropboxusercontent.com/s/yjr43udtmwi15lm/mt_iwate.jpg?dl=0
   caption: "Photo by Keidai Iiyama / Mt.Iwate, Japan"
 author_profile: true
+# Education
 feature_stanford:
   - image_path: https://dl.dropboxusercontent.com/s/ofb0zakwz7k3zto/Stanford2.png?dl=0
     alt: "Stanford"
@@ -28,6 +29,7 @@ feature_utokyo_be:
     title: 'B.E. in Aeronautics and Astronautics, The University of Tokyo '
     subtitle: "<i> Advisor: Prof.Funase </i>"
     excerpt: "Thesis: Navigation Satellite Constellation and Monitoring Station Arrangement for Lunar Global Navigation Satellite System (LGNSS)" 
+# Research Experience
 feature_slab:
   - image_path: https://dl.dropboxusercontent.com/s/w6khq7e86l6qzj2/SLAB.png?dl=0
     alt: "Stanford_SLAB"
@@ -49,6 +51,7 @@ feature_ssog:
     title: '<a href="https://ssog.ae.gatech.edu/"> Space Systems Optimization Group </a>'
     subtitle: "<i> Daniel Guggenheim School of Aerospace Engineering, Georgia Institutute of Technoloy </i>"
     excerpt: "Duties included: Research on landing site selection algorithms during planetary descent <br> Supervisor: Prof.Ho" 
+# TA
 feature_ta1:
   - image_path: https://dl.dropboxusercontent.com/s/kx2cffl3oo2iwac/utokyo.png?dl=0
     alt: "UTokyo"
@@ -56,6 +59,7 @@ feature_ta1:
     title: 'Graduate TA of Junior-level Class &apos;Astrodynamics&apos; '
     subtitle: "<i> Department of Aeronautics and Astronautics, The University of Tokyo </i>"
     excerpt: "Duties included: Creating report assignments, grading, student support <br> Supervisor: Prof.Funase"
+# Academic Appointments
 feature_isas:
   - image_path: https://dl.dropboxusercontent.com/s/zx4bt5tl6z9tqit/isas2.png?dl=0
     alt: "isas"
@@ -63,6 +67,7 @@ feature_isas:
     title: 'Assistant Researcher'
     subtitle: '<i> <a href="https://www.isas.jaxa.jp/en/"> Institute of Space and Astronautical Science (ISAS) </a>, JAXA </i>'
     excerpt: "Duties included: EQUULEUS project"
+# Fellowships
 feature_fellowship_stanford:
   - image_path: https://dl.dropboxusercontent.com/s/ofb0zakwz7k3zto/Stanford2.png?dl=0
     alt: "Stanford"
@@ -84,6 +89,7 @@ feature_fellowship_wings:
     title: 'WINGS CFS Program Fellowship '
     subtitle: '<i> From The University of Tokyo <a href="http://cfs.t.u-tokyo.ac.jp/?top"> WINGS CFS Program </a> </i>'
     excerpt: 'Sucess ratio unknown, 2-year living allowance'
+# Awards
 feature_award_ists:
   - image_path: https://dl.dropboxusercontent.com/s/0utuj4eimxytps0/circlelogo_ists.png?dl=0
     alt: "ISTS"
@@ -114,7 +120,7 @@ My research interest includes:
 
 I received my B.E. and M.E. degree from the [Aero/Astro Department](http://www.aerospace.t.u-tokyo.ac.jp/english/) of [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html). At the Intelligent Space Systems Laboratory in UTokyo, I worked on the thermal design and on-board software development for the EQUULEUS, a 6-U CubeSat targeting the EML2 Halo Orbit as one of the secondary payload of SLS1. Beside the development of EQUULEUS, I resarched satellite configurations and autonomous operation strategies for Lunar Navigation Satellite System (LNSS) under the supervision of Prof.Funase.
 
-I also had the honour to collaborate with [Space Systems Optimization Group](https://ssog.ae.gatech.edu/) at Georgia Tech and [ Navigation and Autonomous Vehicles (NAV) Lab](https://navlab.stanford.edu/) at Stanford University. 
+I also had the honor to collaborate with [Space Systems Optimization Group](https://ssog.ae.gatech.edu/) at Georgia Tech and [ Navigation and Autonomous Vehicles (NAV) Lab](https://navlab.stanford.edu/) at Stanford University. 
 
 Please refer to my [CV](/files/Keidai_Iiyama_CV.pdf) for the latest information.
 

@@ -11,9 +11,9 @@ main:
 
 # - title: "CV"
 #   url: /cv/
-     
-# - title: "Blog Posts"
-#   url: /year-archive/
 
-  - title: "Japanese (日本語)"
+  - title: "Japanese Contents"
     url: /japanese/
+
+  - title: "Blog Posts"
+    url: /year-archive/
