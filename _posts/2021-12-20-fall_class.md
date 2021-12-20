@@ -3,7 +3,7 @@ title: '秋学期振り返り（講義編）'
 date: 2021-12-20
 date_str: "Dec 20, 2021"
 permalink: /posts/2021/12/fall/
-image_path: https://dl.dropboxusercontent.com/s/d6d60lmkf8ih9ej/Stanford_Fall.jpg?dl=0
+image_path: https://dl.dropboxusercontent.com/s/stanford-fall.jpg?dl=0
 tags:
   - Fall
 ---
