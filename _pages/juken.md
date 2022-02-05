@@ -286,7 +286,7 @@ May the Force be with you!
 
 **生物系、自然科学系**
 - [Naoto Yamaguchiさんのブログ](https://note.com/nafoto_z/n/n3c39acec9d62): 今年度受験した東大生物情報学科の山口さんの受験体験記
-- [神山さんのHP](https://sites.google.com/site/tsubasakohyama/ryugaku?authuser=0): ワシントン大学卒業後、現在お茶の水女子大で気象学の助教をされている方のブログ。留学されている方の公演は（良い意味で）意識が高い感じのものも多いのですが、神山さんの[公演動画](https://www.youtube.com/watch?v=IYTvisuHyhw)はのびのびとしていて個人的に好きです。
+- [神山先生のHP](https://sites.google.com/site/tsubasakohyama/ryugaku?authuser=0): ワシントン大学卒業後、現在お茶の水女子大で気象学の助教をされている方のブログ。留学されている方の公演は（良い意味で）意識が高い感じのものも多いのですが、神山先生の[公演動画](https://www.youtube.com/watch?v=IYTvisuHyhw)はのびのびとしていて個人的に好きです。
 
 [^0]: https://news.stanford.edu/2005/06/14/jobs-061505/
 [^1]: 宇宙兄弟10巻
