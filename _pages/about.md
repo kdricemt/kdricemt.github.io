@@ -36,7 +36,7 @@ feature_slab:
     date: "2021.9 ~ Present"
     title: '<a href="https://damicos.people.stanford.edu/"> Space Rendezvous Lab </a>' 
     subtitle: "<i> Department of Aeronautics and Astronautics, Stanford University </i>"
-    excerpt: "Duties included: Starling Mission <br> Supervisor: Prof.D'Amico"
+    excerpt: "Duties included: Research on angles-only navigation <br> Supervisor: Prof.D'Amico"
 feature_issl:
   - image_path: https://dl.dropboxusercontent.com/s/kx2cffl3oo2iwac/utokyo.png?dl=0
     alt: "UTokyo"
@@ -63,32 +63,39 @@ feature_ta1:
 feature_isas:
   - image_path: https://dl.dropboxusercontent.com/s/zx4bt5tl6z9tqit/isas2.png?dl=0
     alt: "isas"
-    date: "2019.4 ~ Present"
+    date: "2019.4 ~ 2021.8"
     title: 'Assistant Researcher'
     subtitle: '<i> <a href="https://www.isas.jaxa.jp/en/"> Institute of Space and Astronautical Science (ISAS) </a>, JAXA </i>'
     excerpt: "Duties included: EQUULEUS project"
 # Fellowships
+feature_fellowship_iongrant:
+  - image_path: https://dl.dropboxusercontent.com/s/hedxqjaj3h97nij/ion-logo-large.jpg?dl=0
+    alt: "ION-Travel-Grant"
+    date: "2022.1"
+    title: 'Student Registration Grant for ION ITM 2022'
+    subtitle: '<i> From Institute of Navigation </i>'
+    excerpt: 'Sucess ratio unknown, Student Registration Fee'
 feature_fellowship_stanford:
   - image_path: https://dl.dropboxusercontent.com/s/ofb0zakwz7k3zto/Stanford2.png?dl=0
     alt: "Stanford"
     date: "2021.9  ~ 2022.8"
     title: 'Stanford University Aero/Astro Department Fellowship'
     subtitle: '<i> From Stanford University Aero/Astro Department </i>'
-    excerpt: 'Sucess ratio ~10%, 1-year tuition and living allowance'
+    excerpt: 'Sucess ratio ~11%, 1-year tuition and stipend'
 feature_fellowship_nakajima:
   - image_path: https://dl.dropboxusercontent.com/s/1ann0mwvobn58ov/Nakajima.jpg?dl=0
     alt: "Stanford"
     date: "2021.9  ~ 2023.8"
     title: 'Nakajima Foundation Study Abroad Fellowship'
     subtitle: '<i> From <a href="http://www.nakajimafound.or.jp/"> Nakajima Foundation </a> </i>'
-    excerpt: 'Sucess ratio unknown, 2-year tuition and living allowance'
+    excerpt: 'Sucess ratio ~7%, 2-year tuition and stipend'
 feature_fellowship_wings:
   - image_path: https://dl.dropboxusercontent.com/s/d558mgp12bwvky3/wings-cfs.png?dl=0
     alt: "WINGS_CFS"
-    date: "2019.9  ~ Present"
+    date: "2019.9  ~ 2021.8"
     title: 'WINGS CFS Program Fellowship '
     subtitle: '<i> From The University of Tokyo <a href="http://cfs.t.u-tokyo.ac.jp/?top"> WINGS CFS Program </a> </i>'
-    excerpt: 'Sucess ratio unknown, 2-year living allowance'
+    excerpt: 'Sucess ratio unknown, 2-year stipend'
 # Awards
 feature_award_ists:
   - image_path: https://dl.dropboxusercontent.com/s/0utuj4eimxytps0/circlelogo_ists.png?dl=0
@@ -138,6 +145,7 @@ Please see [here](/research/) for further information.
 {% include minifeature_row id="feature_isas" type="left" %} 
   
 ## Fellowships & Awards
+{% include minifeature_row id="feature_fellowship_iongrant" type="left" %}
 {% include minifeature_row id="feature_fellowship_stanford" type="left" %}
 {% include minifeature_row id="feature_fellowship_nakajima" type="left" %}
 {% include minifeature_row id="feature_fellowship_wings" type="left" %}
@@ -151,10 +159,7 @@ Please see [here](/publications/)
 kiiyama{at}stanford.edu
 
 ## Recent News
-- Oct.30 2021 Our paper, "Autonomous Distributed Angles-Only Navigation and Timekeeping in Lunar Orbit" was accepted for the ION ITM conference!  [[Paper](https://www.dropbox.com/s/2m8nfyql9oj0cdj/ION_ITM_Lunar_Navigation_Paper_rev2.pdf?dl=0)]
-- Sep.24 2021 Presented our paper, "Autonomous and Decentralized Orbit Determination and Clock Offset Estimation of Lunar Navigation Satellites Using GPS Signals and Inter-satellite Ranging" at the ION GNSS+ 2021 Conference. [[Paper](https://www.dropbox.com/s/0t4kbo6w83hcmxv/ION_GNSS_2021_Iiyama.pdf?dl=0)] [[Slide](https://www.dropbox.com/s/h5wfe2z3tki8mrq/ION_GNSS_2021_iiyama_slideonly.pdf?dl=0)]
+- Jan.26 2022 We presented our paper, "Autonomous Distributed Angles-Only Navigation and Timekeeping in Lunar Orbit" at the ION ITM conference. [[Paper](https://www.dropbox.com/s/rmg7advab2m4j1c/ION_ITM_Lunar_Navigation_Paper_Rev3.pdf?dl=0)] [[Slide](https://www.dropbox.com/s/1ocz6mt59xswasl/Keidai_ION_ITM_2022_rev2_slideonly.pdf?dl=0)] [[Video](https://www.youtube.com/watch?v=KsUHGfXN5bM&t=241s)]
+- Oct.30 2021 Our paper, "Autonomous Distributed Angles-Only Navigation and Timekeeping in Lunar Orbit" was accepted for the ION ITM conference!
+- Sep.24 2021 We presented our paper, "Autonomous and Decentralized Orbit Determination and Clock Offset Estimation of Lunar Navigation Satellites Using GPS Signals and Inter-satellite Ranging" at the ION GNSS+ 2021 Conference. [[Paper](https://www.dropbox.com/s/0t4kbo6w83hcmxv/ION_GNSS_2021_Iiyama.pdf?dl=0)] [[Slide](https://www.dropbox.com/s/h5wfe2z3tki8mrq/ION_GNSS_2021_iiyama_slideonly.pdf?dl=0)]
 - Sep.20 2021 Started Ph.D. at Stanford Aero/Astro.
-- Apr.1 2021 Started Ph.D. at UTokyo Aero/Astro (until August)
-- Mar 2021 Accepted the PhD offer from the Aero/Astro Department of Stanford Univeristy!
-- Feb 2021 Completed Master Thesis Defense! 
-- Aug 2020 Opened this website.
