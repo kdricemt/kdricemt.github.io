@@ -24,7 +24,7 @@ feature_row2:
   - image_path: https://dl.dropboxusercontent.com/s/knpyjj9ukqf2ahq/landing_trajectory.png?dl=0
     alt: "Landing Trajectory"
     title: "Landing Site Selection and Divert Maneuver Planning with Deep Reinforcement Learning"
-    excerpt: '**Period:** 2020/1-Present  &nbsp; &nbsp; &nbsp; **Advisor:** Prof.Ho (Georgia Tech) <br> <br>
+    excerpt: '**Period:** 2020/1-2020/8  &nbsp; &nbsp; &nbsp; **Advisor:** Prof.Ho (Georgia Tech) <br> <br>
     **Abstract:** This research proposes a new integrated framework for identifying safe landing locations and planning in-flight divert maneuvers. I build a reinforcement learning framework that optimizes a landing site selection strategy concurrently with a guidance and control strategy to the target landing site to achieve a safe and efficient landing trajectory at a system-level.'
     url: /research/landing/
     btn_label: "Read More"
@@ -33,7 +33,7 @@ feature_row3:
   - image_path: https://dl.dropboxusercontent.com/s/jg78i157r9fhw25/equuleus.jpg?dl=0
     alt: "equuleus"
     title: "EQUULEUS"
-    excerpt: '**Period:** 2018/9-Present  &nbsp; &nbsp; &nbsp; **Advisor:** Prof.Funase (UTokyo) <br> <br>
+    excerpt: '**Period:** 2018/9-2021/8  &nbsp; &nbsp; &nbsp; **Advisor:** Prof.Funase (UTokyo) <br> <br>
     **Abstract:** EQUULEUS is a 6U CubeSat project for cis-lunar region exploration, which is developed by JAXA and The University of Tokyo. I am mainly working on thermal analysis, simulator implementation, and on-board software development. '
     url: /research/equuleus/
     btn_label: "Read More"

@@ -5,8 +5,8 @@ excerpt: "Ph.D. student at Stanford Aero/Astro"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: https://dl.dropboxusercontent.com/s/yjr43udtmwi15lm/mt_iwate.jpg?dl=0
-  caption: "Photo by Keidai Iiyama / Mt.Iwate, Japan"
+  overlay_image: https://dl.dropboxusercontent.com/s/l9wgn17g3ernnqa/longbeach_sunrise.jpg?dl=0
+  caption: "Photo by Keidai Iiyama / LongBeach, CA"
 author_profile: true
 # Education
 feature_stanford:
@@ -109,16 +109,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student at [Stanford Aero/Astro](https://aa.stanford.edu/). Currently, I am conducting research on angles-only navigation at lunar orbits in the [Space Rendenzvous Lab](https://damicos.people.stanford.edu).
+I am a first-year Ph.D. student at [Stanford Aero/Astro](https://aa.stanford.edu/) pursuing a Ph.D. in Aeronautics and Astronautics under the supervision of [Professor D'Amico](https://profiles.stanford.edu/simone-damico) in the [Space Rendezvous Lab](https://damicos.people.stanford.edu).
 
-My research interest includes:
-- Autonomous guidance, navigation, control, and decision-making of spacecraft.
-- Spacecraft swarms and distributed space systems.
-- Positioning, navigation, and timing at the lunar surface, lunar orbits, and cis-lunar space.
-- Spacecraft mission  design and optimization.
-- Small satellite system design.
+My research interests are in navigation, control, and decision-making algorithms for distributed space systems. My current research is on angles-only navigation for spacecraft swarms and constellations, where each satellite in the swarm estimates the absolute and relative states of the swarm via autonomous and distributed navigation architecture. Our recent work (Iiyama et al., ION-ITM 2022) have looked into its application in lunar orbits. 
 
-I received my B.E. and M.E. degree from the [Aero/Astro Department](http://www.aerospace.t.u-tokyo.ac.jp/english/) of [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html). At the Intelligent Space Systems Laboratory in UTokyo, I worked on the thermal design and on-board software development for the EQUULEUS, a 6-U CubeSat targeting the EML2 Halo Orbit as one of the secondary payload of SLS1. Beside the development of EQUULEUS, I resarched satellite configurations and autonomous operation strategies for Lunar Navigation Satellite System (LNSS) under the supervision of Prof.Funase.
+Prior to Stanford, I received my B.E. and M.E. degree from the [Aero/Astro Department](http://www.aerospace.t.u-tokyo.ac.jp/english/) of [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html). At the Intelligent Space Systems Laboratory in UTokyo, I worked on the thermal design and on-board software development for EQUULEUS, a 6-U CubeSat targeting the EML2 Halo Orbit as one of the secondary payload of SLS1. Besides the development of EQUULEUS, I researched satellite configurations and autonomous operation strategies for Lunar Navigation Satellite System (LNSS) under the supervision of Prof.Funase.
 
 I also had the honor to collaborate with [Space Systems Optimization Group](https://ssog.ae.gatech.edu/) at Georgia Tech and [ Navigation and Autonomous Vehicles (NAV) Lab](https://navlab.stanford.edu/) at Stanford University. 
 
