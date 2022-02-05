@@ -73,8 +73,8 @@ feature_fellowship_iongrant:
     alt: "ION-Travel-Grant"
     date: "2022.1"
     title: 'Student Registration Grant for ION ITM 2022'
-    subtitle: '<i> From Institute of Navigation </i>'
-    excerpt: 'Sucess ratio unknown, Student Registration Fee'
+    subtitle: '<i> From Institute of Navigation (ION) </i>'
+    excerpt: '<i> For the paper &apos;Autonomous Distributed Angles-Only Navigation and Timekeeping in Lunar Orbit&apos; </i>'
 feature_fellowship_stanford:
   - image_path: https://dl.dropboxusercontent.com/s/ofb0zakwz7k3zto/Stanford2.png?dl=0
     alt: "Stanford"
