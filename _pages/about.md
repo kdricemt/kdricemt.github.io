@@ -14,7 +14,8 @@ feature_stanford:
     alt: "Stanford"
     date: "2021.9 ~"
     title: 'Ph.D. Student in Aeronautics and Astronautics, Stanford University'
-    subtitle: "<i> Advisor: TBD </i>"
+    subtitle: "<i> Advisor: Prof.Gao </i>"
+    excerpt:  "Research Topic: Lunar Navigation" 
 feature_utokyo_me:
   - image_path: https://dl.dropboxusercontent.com/s/kx2cffl3oo2iwac/utokyo.png?dl=0
     alt: "UTokyo"
@@ -30,10 +31,17 @@ feature_utokyo_be:
     subtitle: "<i> Advisor: Prof.Funase </i>"
     excerpt: "Thesis: Navigation Satellite Constellation and Monitoring Station Arrangement for Lunar Global Navigation Satellite System (LGNSS)" 
 # Research Experience
+feature_navlab:
+  - image_path: https://dl.dropboxusercontent.com/s/ycqtslhsjcgjm9h/NAVLabLogo.PNG?dl=0
+    alt: "Stanford_NAV Lab"
+    date: "2022.5 ~ Present"
+    title: '<a href="https://navlab.stanford.edu/"> NAV Lab </a>' 
+    subtitle: "<i> Department of Aeronautics and Astronautics, Stanford University </i>"
+    excerpt: "Duties included: Autonomous Lunar Navigation Using GPS Signals <br> Supervisor: Prof.Gao"
 feature_slab:
   - image_path: https://dl.dropboxusercontent.com/s/w6khq7e86l6qzj2/SLAB.png?dl=0
     alt: "Stanford_SLAB"
-    date: "2021.9 ~ Present"
+    date: "2021.9 ~ 2022.4"
     title: '<a href="https://damicos.people.stanford.edu/"> Space Rendezvous Lab </a>' 
     subtitle: "<i> Department of Aeronautics and Astronautics, Stanford University </i>"
     excerpt: "Duties included: Research on angles-only navigation <br> Supervisor: Prof.D'Amico"
@@ -116,13 +124,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student at [Stanford Aero/Astro](https://aa.stanford.edu/) pursuing a Ph.D. in Aeronautics and Astronautics under the supervision of [Professor D'Amico](https://profiles.stanford.edu/simone-damico) in the [Space Rendezvous Lab](https://damicos.people.stanford.edu).
+I am a first-year Ph.D. student at [Stanford Aero/Astro](https://aa.stanford.edu/) pursuing a Ph.D. in Aeronautics and Astronautics under the supervision of [Professor Gao](https://profiles.stanford.edu/gracegao) in the [Navigation and Autonomous Vehicles (NAV) Lab](https://navlab.stanford.edu/).
 
-My research interests are in navigation, control, and decision-making algorithms for distributed space systems. My current research is on angles-only navigation for spacecraft swarms and constellations, where each satellite in the swarm estimates the absolute and relative states of the swarm via autonomous and distributed navigation architecture. Our recent work (Iiyama et al., ION-ITM 2022) has looked into its application in lunar orbits. 
+As lunar and deep space exploration by small satellites is expected to become increasingly popular in the future, a major problem is how to secure the means of navigation with limited ground resources. To this end, my main research interests are in autonmous navigation for distributed space systems in cis-lunar space and deep-space. At Stanford, I am looking into two approaches: GPS-aided navigation and angles-only navigation. 
 
 Prior to Stanford, I received my B.E. and M.E. degree from the [Aero/Astro Department](http://www.aerospace.t.u-tokyo.ac.jp/english/) of [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html). At the Intelligent Space Systems Laboratory in UTokyo, I worked on the thermal design and on-board software development for EQUULEUS, a 6-U CubeSat targeting the EML2 Halo Orbit as one of the secondary payload of SLS1. Besides the development of EQUULEUS, I researched satellite configurations and autonomous operation strategies for Lunar Navigation Satellite System (LNSS) under the supervision of Prof.Funase.
 
-I also had the honor to collaborate with [Space Systems Optimization Group](https://ssog.ae.gatech.edu/) at Georgia Tech and [ Navigation and Autonomous Vehicles (NAV) Lab](https://navlab.stanford.edu/) at Stanford University. 
+I also had the honor to collaborate with [Space Systems Optimization Group](https://ssog.ae.gatech.edu/) at Georgia Tech and [Space Rendezvous Lab](https://damicos.people.stanford.edu/) at Stanford University. 
 
 Please refer to my [CV](/files/Keidai_Iiyama_CV.pdf) for the latest information.
 
@@ -132,6 +140,7 @@ Please refer to my [CV](/files/Keidai_Iiyama_CV.pdf) for the latest information.
 {% include minifeature_row id="feature_utokyo_be" type="left" %}
 
 ## Research Experience
+{% include minifeature_row id="feature_navlab" type="left" %}
 {% include minifeature_row id="feature_slab" type="left" %}
 {% include minifeature_row id="feature_issl" type="left" %}
 {% include minifeature_row id="feature_ssog" type="left" %}
