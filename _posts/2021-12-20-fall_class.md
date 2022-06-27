@@ -5,7 +5,9 @@ date_str: "Dec 20, 2021"
 permalink: /posts/2021/12/fall/
 image_path: https://dl.dropboxusercontent.com/s/wnn91vmv5hchd0u/stanford-fall.jpg?dl=0
 tags:
-  - Fall
+  - Classes
+  - Robotics
+  - Aerodynamics
 ---
 
 無事に秋学期が終了したので、今学期履修したクラスについて軽く振り返ります。
