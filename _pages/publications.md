@@ -23,7 +23,8 @@ You can also find my articles at my [ResearchGate](https://www.researchgate.net/
 
 ## International Conference Proceedings
 **First Author**
-1. **Iiyama, K.**, Kruger, J., and D'Amico, S., "Autonomous Distributed Angles-Only Navigation and Timekeeping in Lunar Orbit", 
+1. **Iiyama, K**., Bhamidipati,S., and Gao,G., "Terrestrial GPS Time-Differenced Carrier-Phase Positioning of Lunar Surface Users", *IEEE Aerospace Conference*, Big Sky, MT, March, 2023. (Submitted) [[Abstract](https://www.dropbox.com/s/rbf5mwnkfl636u0/IEEE_Abstract_Rev5.pdf?dl=0)]
+2. **Iiyama, K.**, Kruger, J., and D'Amico, S., "Autonomous Distributed Angles-Only Navigation and Timekeeping in Lunar Orbit", 
 *ION International Technical Meeting (ITM)*, Long Beach, CA, January, 2022 ```Student Registration Grant``` [[Paper](https://www.dropbox.com/s/rmg7advab2m4j1c/ION_ITM_Lunar_Navigation_Paper_Rev3.pdf?dl=0)] [[Slide](https://www.dropbox.com/s/1ocz6mt59xswasl/Keidai_ION_ITM_2022_rev2_slideonly.pdf?dl=0)] [[Video](https://www.youtube.com/watch?v=KsUHGfXN5bM&t=241s)]
 2. **Iiyama, K**, Kawabata, Y., and Funase, R., “Autonomous and Decentralized Orbit Determination and Clock Offset Estimation of Lunar Navigation Satellites Using GPS Signals and Inter-Satellite Ranging”, *ION GNSS*, St.Louis, MO, September, 2021  [[Paper](https://www.dropbox.com/s/0t4kbo6w83hcmxv/ION_GNSS_2021_Iiyama.pdf?dl=0)] [[Slide](https://www.dropbox.com/s/h5wfe2z3tki8mrq/ION_GNSS_2021_iiyama_slideonly.pdf?dl=0)]
 3. **Iiyama, K**, Tomita, K., Jagatia, B.A., Nakagawa, T., and Ho, K., “Deep Reinforcement Learning for Safe Landing Site Selection with Concurrent Consideration of Divert Maneuvers”, *AAS/AIAA Astrodynamics Specialist Conference*, Lake Tahoe, CA, 2020 [[Paper](https://arxiv.org/pdf/2102.12432.pdf)]
