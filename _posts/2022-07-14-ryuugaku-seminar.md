@@ -2,7 +2,7 @@
 title: '海外大学院留学説明会資料'
 date: 2022-07-14
 date_str: "Jul 14, 2022"
-permalink: /posts/2022/07/spring_class/
+permalink: /posts/2022/07/12/ryuugaku-setsumeikai/
 image_path: https://dl.dropboxusercontent.com/s/og21a2va2m5whta/ryuugaku-setsumei.png?dl=0
 tags:
   - PhDApplication
