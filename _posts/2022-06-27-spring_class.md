@@ -1,8 +1,8 @@
 ---
 title: '冬／春学期振り返り（講義編）'
 date: 2022-06-26
-date_str: "Jun 26, 2021"
-permalink: /posts/2021/12/spring_class/
+date_str: "Jun 26, 2022"
+permalink: /posts/2022/06/spring_class/
 image_path: https://dl.dropboxusercontent.com/s/7a3gu8d97borb1n/IMG_3306.jpg?dl=0
 tags:
   - Classes
