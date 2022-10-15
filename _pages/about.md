@@ -124,9 +124,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student at [Stanford Aero/Astro](https://aa.stanford.edu/) pursuing a Ph.D. in Aeronautics and Astronautics under the supervision of [Professor Gao](https://profiles.stanford.edu/gracegao) in the [Navigation and Autonomous Vehicles (NAV) Lab](https://navlab.stanford.edu/).
+I am a second-year Ph.D. student at [Stanford Aero/Astro](https://aa.stanford.edu/) pursuing a Ph.D. in Aeronautics and Astronautics under the supervision of [Professor Gao](https://profiles.stanford.edu/gracegao) in the [Navigation and Autonomous Vehicles (NAV) Lab](https://navlab.stanford.edu/).
 
-As lunar and deep space exploration by small satellites is expected to become increasingly popular in the future, a major problem is how to secure the means of navigation with limited ground resources. To this end, my main research interests are in autonmous navigation for distributed space systems in cis-lunar space and deep-space. At Stanford, I am looking into two approaches: GPS-aided navigation and angles-only navigation. 
+As lunar and deep space exploration by small satellites is expected to rapidly increase its scale in the future, a major problem that arises is how to secure the means of navigation with limited ground station resources. My main research interests are in designing autonomous navigation algorithms for distributed space systems of satellites, basestations, and rovers in the lunar region to support future lunar exploration.
 
 Prior to Stanford, I received my B.E. and M.E. degree from the [Aero/Astro Department](http://www.aerospace.t.u-tokyo.ac.jp/english/) of [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html). At the Intelligent Space Systems Laboratory in UTokyo, I worked on the thermal design and on-board software development for EQUULEUS, a 6-U CubeSat targeting the EML2 Halo Orbit as one of the secondary payload of SLS1. Besides the development of EQUULEUS, I researched satellite configurations and autonomous operation strategies for Lunar Navigation Satellite System (LNSS) under the supervision of Prof.Funase.
 
@@ -168,6 +168,7 @@ Please see [here](/publications/)
 kiiyama{at}stanford.edu
 
 ## Recent News
+- Oc.14 2022 Submitted our paper, "Terrestrial GPS Time-Differenced Carrier-Phase Positioning of Lunar Surface Users" to the IEEE Aerospace Conference.  [[Paper](https://drive.google.com/file/d/1j71ut4KuyfIjtjXBuabCfe6BeVY0qrOZ/view?usp=sharing)]
 - Jan.26 2022 We presented our paper, "Autonomous Distributed Angles-Only Navigation and Timekeeping in Lunar Orbit" at the ION ITM conference. [[Paper](https://www.dropbox.com/s/rmg7advab2m4j1c/ION_ITM_Lunar_Navigation_Paper_Rev3.pdf?dl=0)] [[Slide](https://www.dropbox.com/s/1ocz6mt59xswasl/Keidai_ION_ITM_2022_rev2_slideonly.pdf?dl=0)] [[Video](https://www.youtube.com/watch?v=KsUHGfXN5bM&t=241s)]
 - Oct.30 2021 Our paper, "Autonomous Distributed Angles-Only Navigation and Timekeeping in Lunar Orbit" was accepted for the ION ITM conference!
 - Sep.24 2021 We presented our paper, "Autonomous and Decentralized Orbit Determination and Clock Offset Estimation of Lunar Navigation Satellites Using GPS Signals and Inter-satellite Ranging" at the ION GNSS+ 2021 Conference. [[Paper](https://www.dropbox.com/s/0t4kbo6w83hcmxv/ION_GNSS_2021_Iiyama.pdf?dl=0)] [[Slide](https://www.dropbox.com/s/h5wfe2z3tki8mrq/ION_GNSS_2021_iiyama_slideonly.pdf?dl=0)]
