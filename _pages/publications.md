@@ -18,8 +18,9 @@ toc_sticky: true
 You can also find my articles at my [ResearchGate](https://www.researchgate.net/profile/Keidai_Iiyama) and [Google Scholar](https://scholar.google.com/citations?user=84_oy1EAAAAJ&hl=ja).
 
 ## Peer-Reviewed Journal Publications
-**First-Author**
+**First Author**
 1. **Iiyama, K**., Bhamidipati,S., and Gao,G., "Precise Positioning and Timekeeping in Lunar Orbit via Terrestrial GPS Time-Differenced Carrier-Phase Measurements", Navigation: Journal of the Institute of Navigation, 2023 (Submitted) 
+
 **Co-Author** 
 1. Funase, R., Ikari, S., Miyoshi, K., et al., (**20th Author**), “ Mission to Earth-Moon Lagrange Point by a 6U CubeSat: EQUULEUS”, *IEEE Aerospace & Electro. Systems Magazine*, Vol.35, No.3, pp.30-44, 2020 [[Paper](https://www.dropbox.com/s/ilew9tili2iyfqc/LunaNet_ION_ITM_2023_Abstract_rev2.pdf?dl=0)]
 
