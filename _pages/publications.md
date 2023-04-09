@@ -28,7 +28,7 @@ You can also find my articles at my [ResearchGate](https://www.researchgate.net/
 *: Equal Contribution
 
 **First Author**
-1. *Shimane, Y, and ***Iiyama, K**., "Methods for Dual-Objective High Energy Tour Design", *AAS/AIAA Astrodynamics Specialist Conference*, Big Sky, MT, 2023 (Extended Abstract Submitted)
+1. *Shimane, Y, and ***Iiyama, K**., "Methods for Dual-Objective High Energy Tour Design", *AAS/AIAA Astrodynamics Specialist Conference*, Big Sky, MT, 2023 (Extended Abstract Submitted) [[Extended Abstract](https://www.dropbox.com/s/k2xxdnvyh6oxyng/AAS_gecco_spoc1.pdf?dl=0)]
 2. ***Iiyama, K**., *Vila, G.C., and Gao,G.,  "LuPNT: Open-Source Simulator for Lunar Positioning, Navigation, and Timing", *Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+ 2023)*, Denver, CO, September, 2023 (Abstract Submitted)
 2. **Iiyama, K**.,  and Gao,G., "Positioning and Timing of Distributed Lunar Satellites via Terrestrial GPS Differential Carrier Phase Measurements", *Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+ 2023)*, Denver, CO, September, 2023 (Abstract Submitted)
 3. **Iiyama, K**., Bhamidipati,S., and Gao,G., "Terrestrial GPS Time-Differenced Carrier-Phase Positioning of Lunar Surface Users", *IEEE Aerospace Conference*, Big Sky, MT, March, 2023.  [[Paper](https://drive.google.com/file/d/1j71ut4KuyfIjtjXBuabCfe6BeVY0qrOZ/view?usp=sharing)] [[Slides](https://drive.google.com/file/d/1v3gKyHCCTrFBDLstRb_Yw5Y619EQuwiw/view?usp=sharing)]
