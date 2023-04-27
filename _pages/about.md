@@ -168,7 +168,7 @@ Please see [here](/publications/)
 kiiyama{at}stanford.edu
 
 ## Recent News
-- Oc.14 2022 Submitted our paper, "Terrestrial GPS Time-Differenced Carrier-Phase Positioning of Lunar Surface Users" to the IEEE Aerospace Conference.  [[Paper](https://drive.google.com/file/d/1j71ut4KuyfIjtjXBuabCfe6BeVY0qrOZ/view?usp=sharing)]
+- Oc.14 2022 Submitted our paper, "Terrestrial GPS Time-Differenced Carrier-Phase Positioning of Lunar Surface Users" to the IEEE Aerospace Conference.  [[Paper](https://drive.google.com/file/d/1KULYi3P5_tvvuyoWFqoC_dM_is_1V7Cz/view?usp=sharing)]
 - Jan.26 2022 We presented our paper, "Autonomous Distributed Angles-Only Navigation and Timekeeping in Lunar Orbit" at the ION ITM conference. [[Paper](https://www.dropbox.com/s/rmg7advab2m4j1c/ION_ITM_Lunar_Navigation_Paper_Rev3.pdf?dl=0)] [[Slide](https://www.dropbox.com/s/1ocz6mt59xswasl/Keidai_ION_ITM_2022_rev2_slideonly.pdf?dl=0)] [[Video](https://www.youtube.com/watch?v=KsUHGfXN5bM&t=241s)]
 - Oct.30 2021 Our paper, "Autonomous Distributed Angles-Only Navigation and Timekeeping in Lunar Orbit" was accepted for the ION ITM conference!
 - Sep.24 2021 We presented our paper, "Autonomous and Decentralized Orbit Determination and Clock Offset Estimation of Lunar Navigation Satellites Using GPS Signals and Inter-satellite Ranging" at the ION GNSS+ 2021 Conference. [[Paper](https://www.dropbox.com/s/0t4kbo6w83hcmxv/ION_GNSS_2021_Iiyama.pdf?dl=0)] [[Slide](https://www.dropbox.com/s/h5wfe2z3tki8mrq/ION_GNSS_2021_iiyama_slideonly.pdf?dl=0)]
