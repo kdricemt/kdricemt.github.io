@@ -27,7 +27,7 @@ You can also find my articles at my [ResearchGate](https://www.researchgate.net/
 
 ### 2024
 
-[C16] **Iiyama, K**., Vila, G.C., and Gao,G.,  "Contact Plan Optimization and Distributed State Estimation for Delay Tolerant Satellite Networks", *IEEE Aerospace Conference*,  Big Sky, MT, March, 2024 (Abstract Accepted)
+[C16] **Iiyama, K**., Vila, G.C., and Gao,G.,  "Contact Plan Optimization and Distributed State Estimation for Delay Tolerant Satellite Networks", *IEEE Aerospace Conference*,  Big Sky, MT, March, 2024 (Abstract Accepted) [[Paper](https://drive.google.com/file/d/181gwBOnjbX3qSOpsu7iM-QQoA-GE1gXm/view?usp=sharing)]
 
 ### 2023
 

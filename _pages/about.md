@@ -130,9 +130,9 @@ As lunar and deep space exploration by small satellites is expected to rapidly i
 
 Prior to Stanford, I received my B.E. and M.E. degree from the [Aero/Astro Department](http://www.aerospace.t.u-tokyo.ac.jp/english/) of [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html). At the Intelligent Space Systems Laboratory in UTokyo, I worked on the thermal design and on-board software development for EQUULEUS, a 6-U CubeSat targeting the EML2 Halo Orbit as one of the secondary payload of SLS1. Besides the development of EQUULEUS, I researched satellite configurations and autonomous operation strategies for Lunar Navigation Satellite System (LNSS) under the supervision of Prof.Funase.
 
-I also had the honor to collaborate with [Space Systems Optimization Group](https://ssog.ae.gatech.edu/) at Georgia Tech and [Space Rendezvous Lab](https://damicos.people.stanford.edu/) at Stanford University. 
+I also had the honor to collaborate with [Space Systems Optimization Group (SSOG)](https://ssog.ae.gatech.edu/) at Georgia Tech and [Space Rendezvous Lab (SLAB)](https://damicos.people.stanford.edu/) at Stanford University. At SSOG, I worked on developing deep reinforcement learning algorithms for landing site selection. At SLAB, I worked on multi-agent vision-based angles-only navigation in lunar orbit.
 
-Please refer to my [CV](/files/Keidai_Iiyama_CV.pdf) for the latest information.
+Please refer to my [CV](/files/Keidai_Iiyama_CV.pdf) (last updated at October 2023) for the latest information.
 
 ## Education
 {% include minifeature_row id="feature_stanford" type="left" %}
@@ -153,6 +153,7 @@ Please see [here](/research/) for further information.
 ## Mentorship
 - [Marta Cortinovis](https://www.linkedin.com/in/marta-cortinovis/)
 - [Guillem Casadesus Vila](https://www.guillemc.com/)
+- [Guillem Rueda Oller](https://www.linkedin.com/in/guillemrueda/)
 
 ## Academic Appointments
 {% include minifeature_row id="feature_isas" type="left" %} 
@@ -172,6 +173,10 @@ Please see [here](/publications/)
 kiiyama{at}stanford.edu
 
 ## Recent News
+- Oct.6 2023 Submitted our paper, ""Contact Plan Optimization and Distributed State Estimation for Delay Tolerant Satellite Networks" to the IEEE Aerospace Conference. [[Paper](https://drive.google.com/file/d/181gwBOnjbX3qSOpsu7iM-QQoA-GE1gXm/view?usp=sharing)]
+- Sep.14,15 2023  Presented 3 papers at the ION GNSS+ 2023 Conference. Please see the [publications page](/publications/) for details
+  - The co-authored paper "Satellite Ephemeris Approximation Methods to Support Lunar Positioning, Navigation, and Timing Services" received a Best Presentation Award of the session [[Paper](https://drive.google.com/file/d/1z-j70jBJPtMAQ6cpA_ig5yjbLJkotSEX/view)]  [[Slides](https://drive.google.com/file/d/1HG9RaoZfY6DoCg29m-v_fsy_l1IcnqVM/view)] 
+- May 2023  Passed the Qualification Exam and became a Ph.D. Candidate!
 - Oct.14 2022 Submitted our paper, "Terrestrial GPS Time-Differenced Carrier-Phase Positioning of Lunar Surface Users" to the IEEE Aerospace Conference.  [[Paper](https://drive.google.com/file/d/1KULYi3P5_tvvuyoWFqoC_dM_is_1V7Cz/view?usp=sharing)]
 - Jan.26 2022 We presented our paper, "Autonomous Distributed Angles-Only Navigation and Timekeeping in Lunar Orbit" at the ION ITM conference. [[Paper](https://www.dropbox.com/s/rmg7advab2m4j1c/ION_ITM_Lunar_Navigation_Paper_Rev3.pdf?dl=0)] [[Slide](https://www.dropbox.com/s/1ocz6mt59xswasl/Keidai_ION_ITM_2022_rev2_slideonly.pdf?dl=0)] [[Video](https://www.youtube.com/watch?v=KsUHGfXN5bM&t=241s)]
 - Oct.30 2021 Our paper, "Autonomous Distributed Angles-Only Navigation and Timekeeping in Lunar Orbit" was accepted for the ION ITM conference!
