@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "飯山敬大 (Iiyama Keidai)"
-excerpt: "スタンフォード大学 航空宇宙工学専攻 博士1年"
+excerpt: "スタンフォード大学 航空宇宙工学専攻 博士課程"
 permalink: /japanese/
 header:
   overlay_color: "#000"
