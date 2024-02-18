@@ -173,6 +173,7 @@ Please see [here](/publications/)
 kiiyama{at}stanford.edu
 
 ## Recent News
+- Feb.16 2024 Our paper "Precise Positioning and Timekeeping in a Lunar Orbit via Terrestrial GPS Time-Differenced Carrier-Phase Measurements" in now available in NAVIGATION! [[Paper](https://navi.ion.org/content/71/1/navi.635)]
 - Oct.16 2023 Updated the [Research Project Page](/research/)
 - Oct.6 2023 Submitted our paper, ""Contact Plan Optimization and Distributed State Estimation for Delay Tolerant Satellite Networks" to the IEEE Aerospace Conference. [[Paper](https://drive.google.com/file/d/181gwBOnjbX3qSOpsu7iM-QQoA-GE1gXm/view?usp=sharing)]
 - Sep.14,15 2023  Presented 3 papers at the ION GNSS+ 2023 Conference. Please see the [publications page](/publications/) for details

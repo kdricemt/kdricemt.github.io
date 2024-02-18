@@ -18,9 +18,9 @@ toc_sticky: true
 You can also find my articles at my [ResearchGate](https://www.researchgate.net/profile/Keidai_Iiyama) and [Google Scholar](https://scholar.google.com/citations?user=84_oy1EAAAAJ&hl=ja).
 
 ## Peer-Reviewed Journal Publications
-[J3] Cortinovis,M., **Iiyama,K.**, and Gao,G., "Satellite Ephemeris Approximation Methods to Support Lunar Positioning, Navigation, and Timing Services",  Navigation: Journal of the Institute of Navigation, 2023 (Submitted, Under revision) 
+[J3] Cortinovis,M., **Iiyama,K.**, and Gao,G., "Satellite Ephemeris Approximation Methods to Support Lunar Positioning, Navigation, and Timing Services",  *Navigation: Journal of the Institute of Navigation*, (Submitted, Under revision) 
 
-[J2]  **Iiyama, K**., Bhamidipati,S., and Gao,G., "Precise Positioning and Timekeeping in Lunar Orbit via Terrestrial GPS Time-Differenced Carrier-Phase Measurements", Navigation: Journal of the Institute of Navigation, 2023 (Accepted) 
+[J2]  **Iiyama, K**., Bhamidipati,S., and Gao,G., "Precise Positioning and Timekeeping in Lunar Orbit via Terrestrial GPS Time-Differenced Carrier-Phase Measurements", *Navigation: Journal of the Institute of Navigation*, Vol.71, No.1, 2024, [[Paper](https://navi.ion.org/content/71/1/navi.635)]
 
 [J1] Funase, R., Ikari, S., Miyoshi, K., et al., (**20th Author**), “ Mission to Earth-Moon Lagrange Point by a 6U CubeSat: EQUULEUS”, *IEEE Aerospace & Electro. Systems Magazine*, Vol.35, No.3, pp.30-44, 2020 [[Paper](https://ieeexplore.ieee.org/abstract/document/9076200)]
 
@@ -29,7 +29,7 @@ You can also find my articles at my [ResearchGate](https://www.researchgate.net/
 
 ### 2024
 
-[C16] \***Iiyama, K**., \*Vila, G.C., and Gao,G.,  "Contact Plan Optimization and Distributed State Estimation for Delay Tolerant Satellite Networks", *IEEE Aerospace Conference*,  Big Sky, MT, March, 2024 (Abstract Accepted) [[Paper](https://drive.google.com/file/d/1ysgGIQmowmfzSefFNdOOIWnhi1dVh-9m/view?usp=sharing)]
+[C16] \***Iiyama, K**., \*Vila, G.C., and Gao,G.,  "Contact Plan Optimization and Distributed State Estimation for Delay Tolerant Satellite Networks", *IEEE Aerospace Conference*,  Big Sky, MT, March, 2024 [[Paper](https://drive.google.com/file/d/1ysgGIQmowmfzSefFNdOOIWnhi1dVh-9m/view?usp=sharing)]
 
 ### 2023
 

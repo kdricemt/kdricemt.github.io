@@ -48,7 +48,7 @@ style="height: 300px; width:503px;">
 <br>
 
 **Related Publications** <br>
-[J2]  **Iiyama, K**., Bhamidipati,S., and Gao,G., "Precise Positioning and Timekeeping in Lunar Orbit via Terrestrial GPS Time-Differenced Carrier-Phase Measurements", Navigation: Journal of the Institute of Navigation, 2023 (Submitted, Under revision) <br>
+[J2]  **Iiyama, K**., Bhamidipati,S., and Gao,G., "Precise Positioning and Timekeeping in Lunar Orbit via Terrestrial GPS Time-Differenced Carrier-Phase Measurements", Navigation: Journal of the Institute of Navigation, March, 2024 [[Paper](https://navi.ion.org/content/71/1/navi.635)] <br>
 [C11]  **Iiyama, K**., Bhamidipati,S., and Gao,G., "Terrestrial GPS Time-Differenced Carrier-Phase Positioning of Lunar Surface Users", *IEEE Aerospace Conference*, Big Sky, MT, March, 2023 [[Paper](https://drive.google.com/file/d/1KULYi3P5_tvvuyoWFqoC_dM_is_1V7Cz/view?usp=sharing)] [[Slides](https://drive.google.com/file/d/1v3gKyHCCTrFBDLstRb_Yw5Y619EQuwiw/view?usp=sharing)] <br>
 [C10]  **Iiyama, K**., Bhamidipati,S., and Gao,G., "Precise Positioning and Timekeeping in Lunar Orbit via Terrestrial GPS Time-Differenced Carrier-Phase Measurements", *ION International Technical Meeting (ITM)*, Long Beach, CA, January, 2023 [[Paper](https://drive.google.com/file/d/1jgQMyomCPNhBYvDtb9MAKGabkehjIgL5/view?usp=sharing)][[Slides](https://drive.google.com/file/d/1Me1eJwT1VHI8-crE6kLqaEKAYND_dzS7/view?usp=sharing)]
 
