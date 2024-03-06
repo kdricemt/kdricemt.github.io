@@ -28,8 +28,13 @@ You can also find my articles at my [ResearchGate](https://www.researchgate.net/
 *: Equal Contribution
 
 ### 2024
+[C19] Mina, T., **Iiyama, K**, and Gao,G.,  "Passive Lunar Surface Network-Based Orbit Determination and Time Synchronization of the Lunar Satellite Navigation ", Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+ 2024), Baltimore, MD, September 2024 (Abstract Submitted) 
+      
+[C18] **Iiyama, K.**, and Gao,G.,  "Autonomous LunaNet Fault Monitoring with Inter-satellite Links: A Rigidity-Based Approach", Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+ 2024), Baltimore, MD, September 2024 (Abstract Submitted) 
+  
+[C17] **Iiyama, K.**, Vila, G.C., Cortinovis, M., Coimbra, K., and Gao,G.,  "System-Level Comparison of Lunar Orbit Determination and Time Synchronization Methods",  Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+ 2024), Baltimore, MD, September 2024 (Abstract Submitted) 
 
-[C16] \***Iiyama, K**., \*Vila, G.C., and Gao,G.,  "Contact Plan Optimization and Distributed State Estimation for Delay Tolerant Satellite Networks", *IEEE Aerospace Conference*,  Big Sky, MT, March, 2024 [[Paper](https://drive.google.com/file/d/1ysgGIQmowmfzSefFNdOOIWnhi1dVh-9m/view?usp=sharing)]
+[C16] \***Iiyama, K**., \*Vila, G.C., and Gao,G.,  "Contact Plan Optimization and Distributed State Estimation for Delay Tolerant Satellite Networks", *IEEE Aerospace Conference*,  Big Sky, MT, March, 2024 [[Paper](https://drive.google.com/file/d/1ysgGIQmowmfzSefFNdOOIWnhi1dVh-9m/view?usp=sharing)] [[Slides](https://drive.google.com/file/d/1Q-1PTQZ3Gtd3rYOmMXX7g4UwT1eMOq-p/view?usp=sharing)]
 
 ### 2023
 
