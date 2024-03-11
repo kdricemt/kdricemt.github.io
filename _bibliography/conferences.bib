@@ -1,0 +1,359 @@
+% 2019
+%------------------------------------------------------------------
+@article{iiyama2019optimization,
+  id       = {C2},
+  title    = {Optimization of the Navigation satellite constellation and Lunar Monitoring Station for Lunar Global Navigation Satellite System},
+  author   = {Iiyama, Keidai},
+  year     = {2019},
+  month    = {6},
+  journal  = {32nd International Symposium on Space Technology and Science},
+  abstract = {The Lunar Global Navigation Satellite System (LGNSS) could significantly improve lunar missions' operational capability and flexibility by providing real-time, continuous, and highly accurate positioning services to lunar users. To achieve accurate user positioning, the orbit and clock bias of the navigation satellites have to be estimated accurately. An effective way to accurately estimate the orbit of navigation satellites in the lunar fixed frame is to process the psudorange data generated from the received navigation signals at lunar monitoring stations (LMSs) on the lunar surface. This paper presents a method to simulate the orbit determination error of the navigation satellites and the positioning error of the lunar user, assuming the usage of LMSs. We also propose a method to optimize the satellite constellation and LMS configuration to minimize the user positioning error. When optimizing, we reduced the number of design parameters by assuming the geometric symmetry of the navigation satellite constellation and LMS arrangement. Considering the sensitivity of the LMS arrangement and satellite constellation on the user positioning error, step by step optimization method is proposed. In the proposed method, the candidate constellation is first narrowed down by satellite visibility and PDOP analysis, followed by the LMS arrangement optimization for the selected constellations. Finally, the user positioning accuracy performance of the optimized configuration for 20 navigation satellites and 8 LMSs is analyzed. The results showed that the obtained constellation could achieve positioning errors below 10m in 3$\sigma$ for the global average.},
+  location = {Fukui, Japan},
+  pdf      = {https://www.dropbox.com/s/ezpirkwlz9xzw6t/ISTS2019.pdf?dl=0}
+}
+
+@article{shibukawa2019reflection,
+  id       = {C1},
+  title    = {Reflection and Verification of Thermal Design under Tightly-Coupled Constraints to the 6U Deep Space CubeSat EQUULEUS},
+  author   = {Shibukawa, Toshihiro and Matsushita, Shuhei and Iiyama, Keidai and Funase, Ryu},
+  year     = {2019},
+  month    = {6},
+  journal  = {32nd International Symposium on Space Technology and Science},
+  location = {Fukui, Japan}
+}
+
+@article{matsushita2019thermal,
+  id       = {C3},
+  title    = {Thermal Design and Validation for a 6U Deep Space CubeSat EQUULEUS under Constraints Tightly Coupled with Orbital Design and Water Propulsion System},
+  author   = {Matsushita, Shuhei and Shibukawa, Toshihiro and Iiyama, Keidai and Funase, Ryu},
+  year     = {2019},
+  month    = {7},
+  journal  = {49th International Conference on Environmental Systems},
+  abstract = {EQUULEUS, a 6U CubeSat co-developed by the University of Tokyo and JAXA, will fly
+              to a libration orbit around the second Earth-Moon Lagrange point (EML2), and conduct
+              scientific observations such as detection of the lunar impact flashes. To realize these
+              observations, thermal design of EQUULEUS faces three constraints coupled with the design
+              of other subsystems. Firstly, because there is an uncertainty of the launch date, EQUULEUS
+              will have to consider the variation of the sun direction at thrusting phases, which changes the
+              heater wattage to achieve the required thrust value. Secondly, at the observation phase around
+              EML2, EQUULEUS will also experience the sunlight from various direction. Lastly, the water
+              resistojet propulsion system adopted for trajectory control and angular momentum unloading
+              of EQUULEUS makes the thermal design more difficult in terms of freezing and the latent
+              heat for vaporization. Under the constraints, we proposed the thermal design of EQUULEUS
+              Engineering Model (EM), validated the design by numerical simulations and the thermal
+              vacuum test.},
+  pdf      = {https://ttu-ir.tdl.org/bitstream/handle/2346/84425/ICES-2019-193.pdf?sequence=1&isAllowed=y}
+}
+
+% 2020
+%------------------------------------------------------------------
+@article{shibukawa2020flight,
+  id       = {C4},
+  title    = {Flight Model Thermal Design and Verification for the 6U Deep Space CubeSat EQUULEUS},
+  author   = {Shibukawa, Toshihiro and Matsushita, Shuhei and Iiyama, Keidai and Ishikawa, Akihiro and Nishii, Keita and Funase, Ryu},
+  year     = {2020},
+  journal  = {2020 International Conference on Environmental Systems},
+  month    = {7},
+  pdf      = {https://ttu-ir.tdl.org/bitstream/handle/2346/86455/ICES-2020-282.pdf?sequence=1&isAllowed=y},
+  location = {Lisbon, Portugal (postponed)},
+  abstract = {EQUULEUS is a 6U CubeSat developed by the University of Tokyo and JAXA, which will
+              fly to a libration orbit around the second Earth-Moon Lagrange point (EML2) as a secondary
+              payload of the Space Launch System (SLS). At the destination and on the way there,
+              EQUULEUS will conduct three scientific missions such as the detection of lunar impact flashes.
+              To realize these missions, the thermal design of EQUULEUS faces constraints coupled with
+              other subsystems. The Engineering Model (EM) was designed to clear these constraints, but
+              after verification by a thermal vacuum test, one mission component did not meet the
+              temperature requirements. To clear the problems in the EM, changes in operation strategies,
+              temperature range management, and thermal interface materials were made. These design
+              changes were verified by another thermal vacuum test, and we proved that EQUULEUS can
+              meet the constraints to reach EML2 and conduct its scientific missions.}
+}
+
+@article{iiyama2021deep,
+  id       = {C5},
+  title    = {Deep reinforcement learning for safe landing site selection with concurrent consideration of divert maneuvers},
+  author   = {Iiyama, Keidai and Tomita, Kento and Jagatia, Bhavi A and Nakagawa, Tatsuwaki and Ho, Koki},
+  journal  = {AAS/AIAA Astrodynamics Specialist Conference},
+  year     = {2020},
+  month    = {8},
+  abstract = {This research proposes a new integrated framework for identifying safe landing locations and planning in-flight
+              divert maneuvers. The state-of-the-art algorithms for landing zone selection utilize local terrain features such as
+              slopes and roughness to judge the safety and priority of the landing point. However, when there are additional chances
+              of observation and diverting in the future, these algorithms are not able to evaluate the safety of the decision itself to
+              target the selected landing point considering the overall descent trajectory. In response to this challenge, we propose
+              a reinforcement learning framework that optimizes a landing site selection strategy concurrently with a guidance and
+              control strategy to the target landing site. The trained agent could evaluate and select landing sites with explicit
+              consideration of the terrain features, quality of future observations, and control to achieve a safe and efficient landing
+              trajectory at a system-level. The proposed framework was able to achieve 94.8 % of successful landing in highly
+              challenging landing sites where over 80% of the area around the initial target lading point is hazardous, by effectively
+              updating the target landing site and feedback control gain during descent.},
+  pdf      = {https://arxiv.org/pdf/2102.12432.pdf},
+  slides   = {https://www.dropbox.com/scl/fi/165lkwid16mu7t0hnfm96/ASC_2020_iiyama_Presentation.pdf?rlkey=gzqc9nreafjku6u0cz8jlhfux&dl=0},
+  location = {Lake Tahoe, CA}
+}
+
+@article{tomita2020hazard,
+  id       = {C6},
+  title    = {Hazard detection algorithm for planetary landing using semantic segmentation},
+  author   = {Tomita, Kento and Skinner, Katherine and Iiyama, Keidai and Jagatia, Bhavi and Nakagawa, Tatsuwaki and Ho, Koki},
+  journal  = {ASCEND 2020},
+  pages    = {4150},
+  year     = {2020},
+  month    = {11},
+  location = {Las Vegas, NV},
+  abstract = { This paper presents an application of a computer vision technique called Semantic Segmentation to a Hazard Detection (HD) algorithm for planetary landing. Three convolutional neural network (CNN) architectures are trained with binary (safe or unsafe) safety maps and multi-hazard-class safety maps. Their performance is compared together with a replicated state-of-the-art (SOA) HD algorithm from NASA's Autonomous Landing Hazard Avoidance Technology (ALHAT) project. To train and test each method, we prepared a dataset that is rich enough to reproduce the fine hazardous features by developing a realistic Digital Elevation Map (DEM) generator. Our DEM generator produces realistic terrains in arbitrary high resolution and the safeness of each pixel of DEMs is examined by computing the maximum possible slope and roughness for a given lander geometry and landing attitude. The results show that all three CNN architectures perform better than the replicated SOA HD algorithm for noised DEMs. The networks trained with multi-hazard-class safety maps result in better accuracy in terms of mean intersection over union (mIoU) but do not improve pixel accuracy. },
+  url      = {https://doi.org/10.2514/6.2020-4150}
+}
+
+% 2021
+%------------------------------------------------------------------
+@article{iiyama2021autonomousdecentralized,
+  id       = {C7},
+  title    = {Autonomous and decentralized orbit determination and clock offset estimation of lunar navigation satellites using GPS signals and inter-satellite ranging},
+  author   = {Iiyama, Keidai and Kawabata, Yosuke and Funase, Ryu},
+  journal  = {Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+ 2021)},
+  pages    = {936--949},
+  year     = {2021},
+  month    = {9},
+  abstract = {The development of a robust navigation infrastructure in cis-lunar space is crucial for the coming new era of advanced lunar exploration. 
+              NASA has set a goal to develop an extensible and scalable lunar communication and navigation architecture called LunaNet. For the flexibility and robustness
+              of the system, the architecture is desired to have an autonomous and decentralized operation capability. This paper presents and demonstrates a decentralized 
+              and autonomous state estimation algorithm for SmallSats that provides positioning, navigation, and timing service, each equipped with a GNSS receiver, 
+              chip-scale atomic clock, and inter-satellite communication module. In the framework, each satellite individually estimates its own state and clock offset 
+              with a decentralized Schmidt Extended Kalman Filter by processing weak GNSS signal and inter-satellite range measurements. 
+              The algorithm is validated with Monte-Carlo state estimate simulations of five satellites at the hybrid constellation of lunar frozen orbit 
+              and the Near-Rectilinear Halo Orbit (NRHO). The proposed filter converged in all Monte-Carlo cases with clock offset errors below 0.15 microseconds 
+              and 1.0 microseconds in the frozen orbit and the NRHO, respectively.},
+  url      = {https://doi.org/10.33012/2021.18019},
+  pdf      = {https://www.dropbox.com/s/0t4kbo6w83hcmxv/ION_GNSS_2021_Iiyama.pdf?dl=0},
+  slides   = {https://www.dropbox.com/s/h5wfe2z3tki8mrq/ION_GNSS_2021_iiyama_slideonly.pdf?dl=0}
+}
+
+% 2022
+%------------------------------------------------------------------
+@article{iiyama2022anglesonly,
+  id       = {C8},
+  title    = {Autonomous Distributed Angles-Only Navigation and Timekeeping in Lunar Orbit},
+  author   = {Iiyama, Keidai and Kruger, Jusitn and D’Amico, Simone},
+  journal  = {Proceedings of the 2022 International Technical Meeting of the Institute of Navigation},
+  location = {Long Beach, CA},
+  pages    = {453--470},
+  year     = {2022},
+  month    = {1},
+  url      = {https://doi.org/10.33012/2022.18207},
+  abstract = {This paper demonstrates an algorithmic framework for autonomous, distributed navigation and timekeeping for spacecraft swarms and constellations using angles-only measurements from onboard cameras. 
+              Angles-only methods are compelling as they reduce reliance on external measurement sources. However, prior flight demonstrations have faced limitations, 
+              including 1) inability to treat multi-agent space systems including multiple observers and targets in an accurate and timely manner, 2) lack of autonomy and reliance on external state information, 
+              and 3) treatment of primarily Earth-orbiting scenarios. 
+              The Absolute and Relative Trajectory Measurement System (ARTMS) discussed in this paper overcomes these challenges to enable future lunar missions. 
+              It consists of three novel algorithms: 1) Image Processing, which tracks and identifies targets in images and computes their bearing angles; 2) Batch Orbit Determination, which computes a swarm state initialization from angles-only measurements; 
+              and 3) Sequential Orbit Determination, which uses an unscented Kalman filter to refine the swarm state, seamlessly fusing measurements from multiple observers to achieve the necessary robustness and autonomy. 
+              This paper augments ARTMS for lunar navigation and its theoretical performance is investigated through a quantitative observability analysis. High-fidelity simulations with a star tracker in the loop demonstrate successful navigation of swarms and constellations in low lunar orbits, near-rectilinear halo orbits, and elliptic frozen orbits. 
+              ARTMS achieves absolute orbit estimation for all swarm members using only inter-satellite angles with simultaneous estimation of differential clock offsets and ballistic coefficients. 
+              It therefore presents an important capability for the support of future lunar and planetary exploration.},
+  pdf      = {https://slab.sites.stanford.edu/sites/g/files/sbiybj25201/files/media/file/ion_itm_lunar_navigation_paper_rev3.pdf},
+  slides   = {https://www.dropbox.com/s/1ocz6mt59xswasl/Keidai_ION_ITM_2022_rev2_slideonly.pdf?dl=0}
+}
+
+@article{bhamidipati2022time,
+  id           = {C9},
+  title        = {Time-transfer from terrestrial gps for distributed lunar surface communication networks},
+  author       = {Bhamidipati, Sriramya and Iiyama*, Keidai and Mina*, Tara and Gao, Grace},
+  journal      = {2022 ieee aerospace conference (aero)},
+  pages        = {1--15},
+  year         = {2022},
+  organization = {IEEE},
+  month        = {3},
+  abstract     = {Reliable lunar communication infrastructure will be instrumental in building a sustainable human presence on the Moon. 
+                  Recently, NASA has awarded a $14.1 million contract to Nokia for developing a 4G Long-Term Evolution (LTE) network on the Moon. 
+                  In particular, there has been a great emphasis on designing a low-power and an ultra-compact LTE solution for the future Lunar Surface Communication Network (LSCN) 
+                  due to its ease of transportation and potential for scalable deployment on the lunar surface. Ensuring a reliable LSCN design requires the base stations to be time-synchronized,
+                  and to maintain a precise globally referenced timing standard. We propose an LSCN design with distributed time-transfer from Earth-GPS to maintain precise timing across the network. 
+                  We design a diffusion Kalman filter framework that utilizes the intermittently available Earth-GPS signals and the crosslink signals exchanged among the LSCN base stations to facilitate
+                  global time synchronization, while alleviating the timing stability and SWaP requirements for the on-site clocks.
+                  We validate our proposed technique by simulating the Earth-GPS satellites and multiple base stations near the Moon's Haworth Crater using the Systems Tool Kit (STK) software.
+                  We simulate the visibility and carrier-to-noise-density ratio of the Earth-GPS satellites at each LSCN base station, while examining the timing accuracy performance when each base station is equipped with a low-SWaP Chip Scale Atomic Clock (CSAC). 
+                  We demonstrate the robustness of our distributed time-transfer technique as the error covariance of the transmission delay is varied.},
+  url          = {https://doi.org/10.1109/AERO53065.2022.9843716},
+  pdf          = {https://drive.google.com/file/d/1W_xPTOMYv0S4eohT65VnOtKAQF2ah9tH/view},
+  slides       = {https://drive.google.com/file/d/1q2TtI9oUaNvA4X3iHQRx7EmVmS0OrKFX/view}
+}
+
+
+@article{murata2022lunar,
+  id       = {C10},
+  title    = {Lunar navigation satellite system: Mission, system overview, and demonstration},
+  author   = {Murata, Masaya and Koga, Masaru and Nakajima, Yu and Yasumitsu, Ryoichiro and Araki, Tomohiro and Makino, Katsumi and Akiyama, Kyohei and Yamamoto, Toru and Tanabe, Kota and Kogure, Satoshi and others},
+  journal  = {39th International Communications Satellite Systems Conference (ICSSC 2022)},
+  volume   = {2022},
+  pages    = {12--15},
+  year     = {2022},
+  month    = {10},
+  abstract = {In this paper, our lunar communication and navigation system called the lunar navigation satellite system (LNSS) is presented. The mission of the LNSS is to provide the communication, positioning, navigation, and timing (CPNT) service at the lunar South Pole region. Our primary lunar user is a pressurized rover that will explore the South Pole region and the LNSS has been designed to help the rover locate its own position on moon surface satellite images. The LNSS satellites will be also utilized as communication link nodes between the earth and the lunar surface user. The expected positioning accuracy at the South Pole region by the LNSS will be evaluated by our demonstration mission currently scheduled in 2028. The LNSS is not only for our lunar users, but also to contribute to the system of lunar communication and navigation satellite systems that will be completed by the international collaboration for the benefit of all humankind.},
+  url      = {https://doi.org/10.1049/icp.2023.1355},
+  pdf      = {https://www.dropbox.com/scl/fi/qm17e6zskw2rclfofwldn/Lunar_navigation_satellite_system_mission_system_overview_and_demonstration.pdf?rlkey=pepcwfv0h5n3pgboy7l8cx9vo&dl=0}
+}
+
+% 2023
+%------------------------------------------------------------------
+@article{iiyama2024precise,
+  id       = {C11},
+  author   = {Keidai Iiyama and Sriramya Bhamidipati, and Grace Gao},
+  title    = {Precise Positioning and Timekeeping in a Lunar Orbit via Terrestrial GPS Time-Differenced Carrier-Phase Measurements},
+  location = {Long Beach, CA},
+  year     = {2023},
+  journal  = {Proceedings of the 2023 International Technical Meeting of The Institute of Navigation},
+  abstract = {There is a growing interest in the use of legacy terrestrial Global Positioning System (GPS) signals to determine the precise positioning and timing onboard a lunar satellite. Unlike prior works that utilize pseudoranges with meter-level accuracy, we propose a precise positioning and timekeeping technique that leverages carrier-phase measurements with millimeter-level accuracy (when integer ambiguities are correctly fixed). We design an extended Kalman filter framework that harnesses the intermittently available terrestrial GPS time-differenced carrier-phase (TDCP) values and gravitational accelerations predicted by the orbital filter. To estimate the process noise covariance, we implement an adaptive state noise compensation algorithm that adapts to the challenging lunar environment with weak gravity and strong third-body perturbations. Additionally, we perform measurement residual analysis to discard TDCP measurements corrupted by cycle slips and increased measurement noise. We present Monte-Carlo simulations of a lunar satellite in an elliptical lunar frozen orbit and quasi-frozen low lunar orbit, wherein we showcase higher positioning and timing accuracy as compared with the pseudorange-only navigation solution.},
+  url      = {https://doi.org/10.33012/2023.18597},
+  pdf      = {https://drive.google.com/file/d/1jgQMyomCPNhBYvDtb9MAKGabkehjIgL5/view?usp=sharing},
+  slides   = {https://drive.google.com/file/d/1Me1eJwT1VHI8-crE6kLqaEKAYND_dzS7/view?usp=sharing}
+}
+
+@article{iiyama2023terrestrial,
+  id           = {C12},
+  title        = {Terrestrial GPS time-differenced carrier-phase positioning of lunar surface users},
+  author       = {Iiyama, Keidai and Bhamidipati, Sriramya and Gao, Grace},
+  journal      = {2023 IEEE Aerospace Conference},
+  pages        = {1--9},
+  year         = {2023},
+  month        = {3},
+  organization = {IEEE},
+  url          = {https://doi.org/10.1109/AERO55745.2023.10115673},
+  pdf          = {https://drive.google.com/file/d/1KULYi3P5_tvvuyoWFqoC_dM_is_1V7Cz/view?usp=sharing},
+  slides       = {https://drive.google.com/file/d/1v3gKyHCCTrFBDLstRb_Yw5Y619EQuwiw/view?usp=sharing}
+}
+
+@article{shimane2023dual,
+  id       = {C13},
+  title    = {Methods for Dual-Objective High Energy Tour Design},
+  author   = {Shimane, Yuri and Iiyama, Keidai},
+  journal  = {AAS/AIAA Astrodynamics Specialist Conference},
+  location = {Big sky, MT},
+  year     = {2023},
+  month    = {8},
+  abstract = {High-energy, multi-fly-by tours are a complex design task that typically arises in 
+              planetary moon tours, such as those of the Jupiterian or Saturnian systems. In-
+              spired by this challenge, the 2022 edition of the Space Optimisation Competition
+              (SpOC) organized by the Advanced Concepts Team included a problem involving
+              a ∆V and time of flight optimization of a tour visiting the seven planets of the
+              Trappist-1 star system. This work introduces the preliminary analyses and heuristics 
+              developed to tackle the multiobjective optimization problem, along with the
+              results found for the Trappist-1 tour problem},
+  pdf      = {https://www.dropbox.com/scl/fi/n7kf8ohdq3q3a7ukw2u79/AAS_202308_gecco_spoc1.pdf?rlkey=1nvdlpd1sqvxq37554msyba6p&dl=0}
+}
+
+@article{iiyama2023lupnt,
+  id       = {C16},
+  title    = {LuPNT: Open-Source Simulator for Lunar Positioning, Navigation, and Timing},
+  author   = {Iiyama*, Keidai and Vila*, Guillem Casadesus and Gao, Grace},
+  journal  = {Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+ 2023)},
+  pages    = {1499--1510},
+  year     = {2023},
+  month    = {9},
+  abstract = {The growing focus on missions to the Moon necessitates reliable Positioning, Navigation, and Timing (PNT) services in cis-lunar
+              space. This paper introduces a comprehensive, open-source simulation framework developed to address the growing research
+              need in this field. Implemented primarily in C++ for computational efficiency, the framework also includes Python bindings to
+              facilitate rapid algorithmic development and user interaction. The simulation core employs an event-based architecture to model
+              asynchronous onboard applications and inter-satellite communication. High-fidelity lunar dynamics modeling, incorporating
+              planetary ephemerides, high-order gravitational effects, third-body perturbations, and solar radiation pressure, is also integrated.
+              This framework’s modular and extensible architecture allows for broad applicability across various research applications, from
+              the performance analysis of Lunar Navigation Satellite System (LNSS) constellations to the assessment of orbit determination
+              algorithms and lunar navigation payloads. In addition to describing the architectural and algorithmic facets of the framework,
+              the paper presents use cases demonstrating its efficacy in onboard orbit determination and timing. Although the framework is
+              initially targeted at lunar applications, its architectural design allows for straightforward adaptation to model PNT systems in
+              other celestial domains, including Martian or Earth orbital environments.},
+  pdf      = {https://drive.google.com/file/d/1mdIEUHOrfckKYSbwEAUoubVuhX13GNV_/view},
+  slides   = {https://drive.google.com/file/d/1skQkY_pcZwauKjDcvAk_734lyzUmuOUt/view},
+  code     = {https://github.com/Stanford-NavLab/LuPNT}
+}
+
+@article{iiyama2023differential,
+  id       = {C15},
+  title    = {Positioning and Timing of Distributed Lunar Satellites via Terrestrial GPS Differential Carrier Phase Measurements},
+  author   = {Iiyama, Keidai and Gao, Grace},
+  journal  = {Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+ 2023)},
+  pages    = {1511--1529},
+  year     = {2023},
+  month    = {9},
+  pdf      = {https://drive.google.com/file/d/1cL5lgkM0RPiFzZyaT2CpQ2vhyATat6S7/view},
+  slides   = {https://drive.google.com/file/d/1vNk6GMIdG3MgwIJZojvdi_QiUv46VeDr/view},
+  abstract = {Relative positioning, navigation, and timing (PNT) are crucial to support proximity operations of multiple spacecraft in lunar
+              orbit, which is expected to play a key role in upcoming lunar missions. We propose a relative positioning and timekeeping
+              technique in lunar orbit that leverages differential carrier phase measurements of the terrestrial GPS signals. However, using
+              GPS signals in the lunar orbit is challenging due to 1) the clustered GPS satellite direction leading to a low-observable system,
+              2) the nonexistence of ionosphere delay models for lunar orbit, and 3) the possibility of cycle slips in the low C/N0 signals. We
+              designed a PNT framework that tackles the three challenges above. First, to robustly make the filter converge in a low-observable
+              system, the proposed PNT framework estimates the absolute and relative states in two separate filters, where filter settings (e.g.,
+              process noise) can be tuned separately. Second, to remove the signal-in-space errors, the proposed filter utilizes three different
+              differential measurements. The absolute filter estimates time-differenced carrier phase (TDCP) measurements in combination
+              with the pseudorange and pseudorange rate measurements, avoiding the need for estimating the integer ambiguity terms that
+              are low observable. The relative filter estimates the relative orbit and clock offsets by processing the single difference carrier
+              phase (SDCP) measurements, where signal-in-space errors are removed thanks to the short inter-satellite distance compared to
+              the Earth-Moon distance. Using the obtained single difference float ambiguity estimate, the relative filter also fixes the integer
+              ambiguities in double difference carrier phase (DDCP) measurements to improve the relative orbit estimates. Finally, cycleslip
+              corrupted carrier-phase measurements are removed by observing the residuals in the TDCP measurements. We demonstrate
+              the filter’s performance through simulations of two closely operating lunar satellites with different clock grades in the elliptical
+              lunar frozen orbit (ELFO), wherein we showcase higher positioning and timing accuracy compared to code phase-only PNT
+              methods.}
+}
+
+@article{cortinovis2023satellite,
+  id       = {C14},
+  title    = {Satellite ephemeris approximation methods to support lunar positioning, navigation, and timing services},
+  author   = {Cortinovis, Marta and Iiyama, Keidai and Gao, Grace},
+  journal  = {Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+ 2023)},
+  pages    = {3647--3663},
+  year     = {2023},
+  month    = {9},
+  abstract = {Plans to establish a satellite network around the Moon to support communication, position, navigation, and timing services are
+              rapidly evolving. Satellites that are part of this system broadcast their ephemeris as finite parameters to lunar users for user
+              state estimation. We investigate lunar satellite ephemeris parameterization to identify the optimal parameterization to broadcast
+              to a lunar user. The proposed framework directly approximates the lunar satellite position and velocity in the inertial frame,
+              along with approximating conversion parameters necessary for representation in the lunar fixed frame. The framework leverages
+              signal-in-space-error requirements as constraints in the approximation process to guide the search for the best parameterization.
+              We evaluate the performance of our proposed framework for satellites in a Low Lunar Orbit and an Elliptical Lunar Frozen
+              Orbit. The performance of different methods is assessed based on the precision of the ephemeris prediction, approximation
+              interval, and message size. We showcase the ability of the developed framework to approximate satellite ephemeris for both
+              orbits to the desired precision by adjusting the approximation period and the number of broadcasted parameters. Particularly,
+              we demonstrate that model formulations with a standard polynomial basis and a Chebyshev polynomial basis produce feasible
+              solutions for ephemeris approximation at varying epochs in orbits, abiding by stringent signal-in-space-error requirements.},
+  paper    = {https://drive.google.com/file/d/1z-j70jBJPtMAQ6cpA_ig5yjbLJkotSEX/view},
+  slides   = {https://drive.google.com/file/d/1HG9RaoZfY6DoCg29m-v_fsy_l1IcnqVM/view},
+  award    = {Best Presentation of the Session}
+}
+
+% 2024
+%------------------------------------------------------------------
+@article{iiyama2024contact,
+  id       = {C17},
+  title    = {Contact Plan Optimization and Distributed State Estimation for Delay Tolerant Satellite Networks},
+  author   = {Iiyama*, Keidai and Vila*, Guillem Casadesus and Gao, Grace},
+  journal  = {2024 IEEE Aerospace Conference},
+  pages    = {},
+  year     = {2024},
+  month    = {3},
+  abstract = {Future deep space exploration stands to benefit significantly from networks of small satellites, given their
+              cost-effective communication and monitoring capabilities. However,
+              challenges like frequent network partitions, high communication delays, 
+              and the demand for onboard orbit determination
+              (OD) and time synchronization present obstacles for these satellite networks. 
+              One of the key problems in this context is how
+              to schedule satellite communications and generate a contact
+              plan. This paper presents an integrative solution that combines
+              navigation and communications performance for contact plan
+              optimization. Additionally, we propose a novel two-way ISL
+              scheme to acquire range and differential clock bias estimates
+              that take into account rapid inter-satellite range shifts and light
+              time delays. Building on these, a distributed orbit and clock bias
+              estimation algorithm is introduced, which emphasizes the use of
+              batch processing to improve orbit observability. Performance
+              metrics are validated through a simulation of a lunar navigation
+              constellation, assessing OD error, time synchronization error,
+              and inter-satellite communication delay. The combined insights
+              and proposals presented, especially in terms of navigation and
+              communications performance tradeoffs, offer promising avenues to enhance
+              the operability and efficiency of small satellite
+              networks on the Moon.},
+  pdf      = {https://drive.google.com/file/d/1ysgGIQmowmfzSefFNdOOIWnhi1dVh-9m/view?usp=sharing},
+  slides   = {https://drive.google.com/file/d/1Q-1PTQZ3Gtd3rYOmMXX7g4UwT1eMOq-p/view?usp=sharing}
+}

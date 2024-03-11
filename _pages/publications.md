@@ -13,16 +13,69 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
+years_journal: [2024, 2020]
+years_conference: [2024, 2023, 2022, 2021, 2020, 2019]
 ---
+<!--
+How to use jekyll-scholar: https://open-research.gemmadanks.com/tutorials/how-to-use-jekyll-scholar-with-github-pages/
+-->
 
 You can also find my articles at my [ResearchGate](https://www.researchgate.net/profile/Keidai_Iiyama) and [Google Scholar](https://scholar.google.com/citations?user=84_oy1EAAAAJ&hl=ja).
 
+\* Indicates equal contribution.
+
+## Preprints (Under Review)
+{% bibliography -f preprints %}
+
+## Journal Publications
+{% bibliography -f journals %}
+
+## Conference Proceedings
+{% for y in page.years_conference %}
+  <h3  id="{{y}}" class="pubyear">{{y}}</h3>
+  {% bibliography -f conferences -q @*[year={{y}}]* %}
+{% endfor %}
+
+<!--
 ## Peer-Reviewed Journal Publications
 [J3] Cortinovis,M., **Iiyama,K.**, and Gao,G., "Satellite Ephemeris Approximation Methods to Support Lunar Positioning, Navigation, and Timing Services",  *Navigation: Journal of the Institute of Navigation*, (Submitted, Under revision) 
 
-[J2]  **Iiyama, K**., Bhamidipati,S., and Gao,G., "Precise Positioning and Timekeeping in Lunar Orbit via Terrestrial GPS Time-Differenced Carrier-Phase Measurements", *Navigation: Journal of the Institute of Navigation*, Vol.71, No.1, 2024, [[Paper](https://navi.ion.org/content/71/1/navi.635)]
+[J2]  **Iiyama, K**., Bhamidipati,S., and Gao,G., "Precise Positioning and Timekeeping in Lunar Orbit via Terrestrial GPS Time-Differenced Carrier-Phase Measurements", *Navigation: Journal of the Institute of Navigation*, Vol.71, No.1, 2024, [[Paper](https://navi.ion.org/content/71/1/navi.635)] 
 
 [J1] Funase, R., Ikari, S., Miyoshi, K., et al., (**20th Author**), “ Mission to Earth-Moon Lagrange Point by a 6U CubeSat: EQUULEUS”, *IEEE Aerospace & Electro. Systems Magazine*, Vol.35, No.3, pp.30-44, 2020 [[Paper](https://ieeexplore.ieee.org/abstract/document/9076200)]
+[<a href="javascript:void(0)" onclick="if(document.getElementById('collapse-bib').style.display=='none'){document.getElementById('collapse-bib').style.display=''}else{document.getElementById('collapse-bib').style.display='none'}">BibTex</a>] [<a href="javascript:void(0)" onclick="if(document.getElementById('collapse-abstract').style.display=='none'){document.getElementById('collapse-abstract').style.display=''}else{document.getElementById('collapse-abstract').style.display='none'}">Abstract</a>]
+<div id="collapse-bib" style="display:none; font-family: Arial, sans-serif; font-size: 16px">
+  <pre style="background-color: #f0f0f0; padding: 10px;">
+      @ARTICLE{Funase_2020_Mission,
+      author={Funase, Ryu and Ikari, Satoshi and Miyoshi, Kota and Kawabata, Yosuke and Nakajima, Shintaro and Nomura, Shunichiro and Funabiki, Nobuhiro and Ishikawa, Akihiro and Kakihara, Kota and Matsushita, Shuhei and Takahashi, Ryohei and Yanagida, Kanta and Mori, Daiko and Murata, Yusuke and Shibukawa, Toshihiro and Suzumoto, Ryo and Fujiwara, Masahiro and Tomita, Kento and Aohama, Hiroki and Iiyama, Keidai and Ishiwata, Sho and Kondo, Hirotaka and Mikuriya, Wataru and Seki, Hiroto and Koizumi, Hiroyuki and Asakawa, Jun and Nishii, Keita and Hattori, Akihiro and Saito, Yuji and Kikuchi, Kosei and Kobayashi, Yuta and Tomiki, Atsushi and Torii, Wataru and Ito, Taichi and Campagnola, Stefano and Ozaki, Naoya and Baresi, Nicola and Yoshikawa, Ichiro and Yoshioka, Kazuo and Kuwabara, Masaki and Hikida, Reina and Arao, Shogo and Abe, Shinsuke and Yanagisawa, Masahisa and Fuse, Ryota and Masuda, Yosuke and Yano, Hajime and Hirai, Takayuki and Arai, Kazuyoshi and Jitsukawa, Ritsuko and Ishioka, Eigo and Nakano, Haruki and Ikenaga, Toshinori and Hashimoto, Tatsuaki},
+      journal={IEEE Aerospace and Electronic Systems Magazine}, 
+      title={Mission to Earth–Moon Lagrange Point by a 6U CubeSat: EQUULEUS}, 
+      year={2020},
+      volume={35},
+      number={3},
+      pages={30-44},
+      keywords={},
+      doi={10.1109/MAES.2019.2955577}}
+  </pre>
+  <button onclick="copyToClipboard()">Copy</button>
+  <script>
+  function copyToClipboard() {
+    var text = document.getElementById('codeBlock').innerText;
+    navigator.clipboard.writeText(text).then(function() {
+      document.getElementById('copyMessage').innerText = 'Copying to clipboard was successful!';
+      setTimeout(function(){ document.getElementById('copyMessage').innerText = ''; }, 2000); // Clear message after 2 seconds
+    }, function(err) {
+      document.getElementById('copyMessage').innerText = 'Could not copy text: ' + err;
+      setTimeout(function(){ document.getElementById('copyMessage').innerText = ''; }, 2000); // Clear message after 2 seconds
+    });
+  }
+  </script>
+</div>
+<div id="collapse-abstract" style="display:none">
+    <strong> Abstract: </strong> EQUULEUS (EQUilibriUm Lunar-Earth point 6U Spacecraft) will be the world's smallest spacecraft to explore the Earth–Moon Lagrange point. It is being jointly developed by JAXA (Japan Aerospace Exploration Agency) and the University of Tokyo, and will be launched by NASA's Space Launch System Exploration Mission-1. The spacecraft will fly to a libration orbit around the Earth–Moon L2 point (EML2) and will demonstrate low-energy trajectory-control techniques within the Sun—Earth—Moon region for the first time by a nano-class spacecraft. EQUULEUS also carries three scientific observation missions: imaging of Earth's plasmasphere by extreme ultraviolet wavelength, lunar impact flash observation on the far side of the moon, and micrometeoroid flux measurements in the cis-lunar region. While all these missions have their own scientific objectives, they will also contribute to future human activity and/or infrastructure development in the cis-lunar region. Most parts of the spacecraft system use commercial off-the-shelf components, or are designed based on the experiences of various past space missions, with the exception of the newly developed water resistojet propulsion system. EQUULEUS uses X-band frequency for deep space telecommunication. Japanese deep space antennas (64-m and 34-m) will be nominally used for spacecraft operation, and support from the deep space network of JPL (Jet Propulsion Laboratory) is also being planned, especially for the initial phase of operation. The spacecraft will fly to EML2 in less than one year, and will remain there for scientific observations until shortly before the depletion of the onboard propellant, when the spacecraft will leave the orbit for space-debris compliance.
+</div>
+
+
 
 ## Conference Proceedings
 *: Equal Contribution
@@ -73,6 +126,8 @@ You can also find my articles at my [ResearchGate](https://www.researchgate.net/
 
 [C1] Shibukawa, T., Matsushita, S., **Iiyama, K.**, and Funase, R., “Reflection and Verification of Thermal Design under Tightly-Coupled Constraints to the 6U Deep Space CubeSat EQUULEUS”, *32nd International Symposium on Space Technology and Science*, Fukui, Japan, June, 2019.
  
+ -->
+
 
 <!--
 ## Domestic Conference Proceedings in Japan (国内学会)

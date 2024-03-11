@@ -173,6 +173,7 @@ Please see [here](/publications/)
 kiiyama{at}stanford.edu
 
 ## Recent News
+- Mar 11. Updated my publication page. Now you can see the Abstracts and BibTex.
 - Mar.6 2024  Presented our paper "Contact Plan Optimization and Distributed State Estimation for Delay Tolerant Satellite Networks" in the IEEE Aeroconf! [[Paper](https://drive.google.com/file/d/1ysgGIQmowmfzSefFNdOOIWnhi1dVh-9m/view?usp=sharing)] [[Slides](https://drive.google.com/file/d/1Q-1PTQZ3Gtd3rYOmMXX7g4UwT1eMOq-p/view?usp=sharing)]
 - Feb.16 2024 Our paper "Precise Positioning and Timekeeping in a Lunar Orbit via Terrestrial GPS Time-Differenced Carrier-Phase Measurements" in now available in NAVIGATION! [[Paper](https://navi.ion.org/content/71/1/navi.635)]
 - Oct.16 2023 Updated the [Research Project Page](/research/)
