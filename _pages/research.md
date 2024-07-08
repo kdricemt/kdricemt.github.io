@@ -12,24 +12,6 @@ excerpt: "Selected research, enginnering, and class projects"
 intro: 
   - excerpt: ''
 feature_row_lunar_pnt1:
-  - image_path: https://dl.dropboxusercontent.com/s/1rcox0ptjthd6len9wqdk/dtn_nav_23.png?rlkey=uqw4vjrztrsedj2d7jtx3yen9&dl=0
-    alt: "ephemeris"
-    title: "Contact Plan Optimization and Distributed State Estimation for Delay Torelant Satellite Network"
-    excerpt: "**Period:** 2023/1- (**Active**) <br>
-    **With:** Guillem Casadesus Vila, Prof.Gao (Stanford University) <br><br> 
-    
-    Space agencies are seeking to utilize delay torelant satellite networks that provides both communication and navigation service to support future deep space missions. We propose an integrative solution that optimizes contact plan of these networks, considering both navigation and communication performance. Additionally, we propose a distributed orbit and clock bias estimation algorithm using batch covariance intersection. <br><br>
-    **Related Publication:** Contact Plan Optimization and Distributed State Estimation for Delay Tolerant Satellite Networks, *IEEE Aerospace Conference*, 2024 (Abstract Accepted) [[Paper](https://drive.google.com/file/d/1ysgGIQmowmfzSefFNdOOIWnhi1dVh-9m/view?usp=sharing)]
-    "
-  - image_path: https://dl.dropboxusercontent.com/s/f6vkb0gsvypb88e4cybft/simulator_landscape.png?rlkey=0c65f7rtfwt0jqr62isc8asy5&dl=0
-    alt: "simulator"
-    title: "LuPNT: Open Source Simulator for Lunar PNT"
-    excerpt: "**Period:** 2023/4- (**Active**) <br>
-    **With** Guillem Casadesus Vila, Prof.Gao (Stanford University) <br><br>
-    
-    The growing focus on missions to the Moon necessitates reliable Positioning, Navigation, and Timing (PNT) services in cis-lunar space. We are developing a comprehensive, open-source simulation framework to address the growing research need in this field. Implemented primarily in C++ for computational efficiency, the simulation core employs an event-based architecture to model asynchronous onboard applications and inter-satellite communication. The framework also includes Python bindings to facilitate rapid algorithmic development and user interaction. <br><br>
-    **Related Publication:** LuPNT: Open-Source Simulator for Lunar Positioning, Navigation, and Timing, *ION GNSS+ 2023*, 2023 [[Paper](https://drive.google.com/file/d/1mdIEUHOrfckKYSbwEAUoubVuhX13GNV_/view)] [[Slides](https://drive.google.com/file/d/1skQkY_pcZwauKjDcvAk_734lyzUmuOUt/view)] [[Code](https://github.com/Stanford-NavLab/LuPNT)]
-    "
   - image_path: https://dl.dropboxusercontent.com/s/kkdr6ysq4cuf6mz9f6b29/Sidelobe_32.png?rlkey=ug0zf436mgxacldh1i0xmv86t&dl=0
     alt: "Sidelobe"
     title: "Lunar PNT using GPS Sidelobe Signals"
@@ -40,7 +22,6 @@ feature_row_lunar_pnt1:
     url: /research/sidelobe/
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row_astrodynamics:
   - image_path: https://dl.dropboxusercontent.com/s/cn4qe0l62w07uz9sp6yoo/Ephemeris_32.png?rlkey=o78zx27m31gey0oy9a6whdkce&dl=0
     alt: "ephemeris"
     title: "Ephemeris Design for Lunar Navigation Satellites"
@@ -51,14 +32,34 @@ feature_row_astrodynamics:
     <br><br>
     **Related Publication:** Satellite Ephemeris Approximation Methods to Support Lunar Positioning, Navigation, and Timing Services, ION GNSS+ 2023, 2023 **Best Presentation of the Session** [[Paper](https://drive.google.com/file/d/1z-j70jBJPtMAQ6cpA_ig5yjbLJkotSEX/view)]  [[Slides](https://drive.google.com/file/d/1HG9RaoZfY6DoCg29m-v_fsy_l1IcnqVM/view)] [[Video](https://www.youtube.com/watch?v=9dV94dEMBbA)]  
     "
-  - image_path: https://dl.dropboxusercontent.com/s/oqeju8jugcqt1yrvtynzw/gecco_32.png?rlkey=u3evslv1tas0nr5s3pr06js9l&dl=0
-    alt: "gecco"
-    title: "Dual-Objective High Energy Tour Design"
-    excerpt: "**Period:** 2022/5-2022/8 <br>
-    **With:** Yuri Shimane (Georgia Tech) <br> <br>
-    The 2022 edition of the <a href='https://www.esa.int/gsp/ACT/projects/gecco-2022-competition/'>Space Optimisation Competition (SpOC)</a> organized by the Advanced Concepts Team included a problem involving a ∆V and time of flight optimization of a moon tour visiting the seven planets of the Trappist-1 star system. We participated in this competition (5th place), and developed metrics to analyze effictive planets to flyby, as well as heuristics to solve the multiobjective trajectory optimization problem. <br><br>
-    **Related Publication:** Methods for Dual-Objective High Energy Tour Design, *AAS/AIAA Astrodynamics Specialist Conference*, 2023 [[Paper](https://www.dropbox.com/scl/fi/n7kf8ohdq3q3a7ukw2u79/AAS_202308_gecco_spoc1.pdf?rlkey=1nvdlpd1sqvxq37554msyba6p&dl=0)]
+  - image_path: https://dl.dropboxusercontent.com/s/f6vkb0gsvypb88e4cybft/simulator_landscape.png?rlkey=0c65f7rtfwt0jqr62isc8asy5&dl=0
+    alt: "simulator"
+    title: "LuPNT: Open Source Simulator for Lunar PNT"
+    excerpt: "**Period:** 2023/4- (**Active**) <br>
+    **With** Guillem Casadesus Vila, Prof.Gao (Stanford University) <br><br>
+    
+    The growing focus on missions to the Moon necessitates reliable Positioning, Navigation, and Timing (PNT) services in cis-lunar space. We are developing a comprehensive, open-source simulation framework to address the growing research need in this field. Implemented primarily in C++ for computational efficiency, the simulation core employs an event-based architecture to model asynchronous onboard applications and inter-satellite communication. The framework also includes Python bindings to facilitate rapid algorithmic development and user interaction. <br><br>
+    **Related Publication:** LuPNT: Open-Source Simulator for Lunar Positioning, Navigation, and Timing, *ION GNSS+ 2023*, 2023 [[Paper](https://drive.google.com/file/d/1mdIEUHOrfckKYSbwEAUoubVuhX13GNV_/view)] [[Slides](https://drive.google.com/file/d/1skQkY_pcZwauKjDcvAk_734lyzUmuOUt/view)] [[Code](https://github.com/Stanford-NavLab/LuPNT)]
     "
+feature_row_constellation:
+  - image_path: https://dl.dropboxusercontent.com/s/1rcox0ptjthd6len9wqdk/dtn_nav_23.png?rlkey=uqw4vjrztrsedj2d7jtx3yen9&dl=0
+    alt: "contactplan"
+    title: "Contact Plan Optimization and Distributed State Estimation for Delay Torelant Satellite Network"
+    excerpt: "**Period:** 2023/9- (**Active**) <br>
+    **With:** Guillem Casadesus Vila, Prof.Gao (Stanford University) <br><br> 
+    
+    Space agencies are seeking to utilize delay torelant satellite networks that provides both communication and navigation service to support future deep space missions. We propose an integrative solution that optimizes contact plan of these networks, considering both navigation and communication performance. Additionally, we propose a distributed orbit and clock bias estimation algorithm using batch covariance intersection. <br><br>
+    **Related Publication:** Contact Plan Optimization and Distributed State Estimation for Delay Tolerant Satellite Networks, *IEEE Aerospace Conference*, 2024 [[Paper](https://drive.google.com/file/d/1ysgGIQmowmfzSefFNdOOIWnhi1dVh-9m/view?usp=sharing)]
+  "
+  - image_path: https://dl.dropboxusercontent.com/s/effpnnvjfb1po6a79mc1w/sv_distribution.png?rlkey=j617n9mwdglrm5046xx881zoy&dl=0
+    alt: "rigidity"
+    title: "Fault Detection from Intersatellite Ranges Using Reduntly Rigid Graphs"
+    excerpt: "**Period:** 2024/6- (**Active**) <br>
+    **With:** Prof.Gao (Stanford University) <br><br> 
+    
+    We propose a novel fault detection framework for satellite constellations using inter-satellite ranging (ISR). Traditionally, navigation satellites can depend on a robust network of ground-based stations for fault monitoring. However, due to cost constraints, a comprehensive ground segment is impractical for lunar and Martian missions. Our approach leverages graph-rigidity theory to detect faults without relying on precise ephemeris. We model satellite constellations as graphs where satellites are vertices and inter-satellite links are edges. We identify faults through the singular values of the geometric-centered Euclidean distance matrix (GCEDM) of redundantly rigid sub-graphs.  <br><br>
+    **Related Publication:** Autonomous Constellation Fault Monitoring with Inter-satellite Links: A Rigidity-Based Approach. Proceedings of the Institute of Navigation GNSS+ Conference (ION GNSS+ 2024).  [[Paper](https://arxiv.org/abs/2406.09759)]
+  " 
 feature_row_gnc:
   - image_path: https://dl.dropboxusercontent.com/s/4j8zsl5ykc0lcxigvs37u/ARTMS_32.png?rlkey=750qz3qu2yp7w2yiqfolgknrl&dl=0
     alt: "ARTMS"
@@ -71,7 +72,6 @@ feature_row_gnc:
 
     **Related Publication:** Autonomous Distributed Angles-Only Navigation and Timekeeping in Lunar Orbit, *ION ITM*, 2022 [[Paper](https://www.dropbox.com/s/rmg7advab2m4j1c/ION_ITM_Lunar_Navigation_Paper_Rev3.pdf?dl=0)] [[Slides](https://www.dropbox.com/s/1ocz6mt59xswasl/Keidai_ION_ITM_2022_rev2_slideonly.pdf?dl=0)] [[Video](https://www.youtube.com/watch?v=KsUHGfXN5bM&t=241s)]
     "
-
   - image_path: https://dl.dropboxusercontent.com/s/k9jx2f61223hlmc6r1mke/landing_trajectory_32.png?rlkey=4zomxszw1hlrta4rhjna3ihfj&dl=0
     alt: "Landing Trajectory"
     title: "Landing Site Selection and Divert Maneuver Planning with Reinforcement Learning"
@@ -82,6 +82,14 @@ feature_row_gnc:
     url: /research/landing/
     btn_label: "Read More"
     btn_class: "btn--primary"
+  - image_path: https://dl.dropboxusercontent.com/s/oqeju8jugcqt1yrvtynzw/gecco_32.png?rlkey=u3evslv1tas0nr5s3pr06js9l&dl=0
+    alt: "gecco"
+    title: "Dual-Objective High Energy Tour Design"
+    excerpt: "**Period:** 2022/5-2022/8 <br>
+    **With:** Yuri Shimane (Georgia Tech) <br> <br>
+    The 2022 edition of the <a href='https://www.esa.int/gsp/ACT/projects/gecco-2022-competition/'>Space Optimisation Competition (SpOC)</a> organized by the Advanced Concepts Team included a problem involving a ∆V and time of flight optimization of a moon tour visiting the seven planets of the Trappist-1 star system. We participated in this competition (5th place), and developed metrics to analyze effictive planets to flyby, as well as heuristics to solve the multiobjective trajectory optimization problem. <br><br>
+    **Related Publication:** Methods for Dual-Objective High Energy Tour Design, *AAS/AIAA Astrodynamics Specialist Conference*, 2023 [[Paper](https://www.dropbox.com/scl/fi/n7kf8ohdq3q3a7ukw2u79/AAS_202308_gecco_spoc1.pdf?rlkey=1nvdlpd1sqvxq37554msyba6p&dl=0)]
+    "
 feature_row_cubesat:
   - image_path: https://dl.dropboxusercontent.com/s/zkj0ej1hf8g1mqjk4i5fh/equuleus_32.jpg?rlkey=40ywuodkeehptvjamdeypyct0&dl=0
     alt: "equuleus"
@@ -127,10 +135,10 @@ My research interest lies at the intersection of lunar positioning, navigation, 
 ## 1-1. Lunar Positioning, Navigation, and Timing (PNT)
 {% include feature_row id="feature_row_lunar_pnt1" %}
 
-## 1-2. Astrodynamics and Spacecraft Trajectory Design
-{% include feature_row id="feature_row_astrodynamics" %}
+## 1-2: Satellite Constellation and Multi-Agent Systems
+{% include feature_row id="feature_row_constellation" %}
 
-## 1-3. Spacecraft Guidance, Navigation, and Control (GNC) 
+## 1-3. Spacecraft Guidance, Navigation, and Control (GNC) and Trajectory Design
 {% include feature_row id="feature_row_gnc" %}
 
 # 2. Engineering Projects

@@ -14,21 +14,21 @@ feature_stanford:
     alt: "Stanford"
     date: "2021.9 ~"
     title: 'Ph.D. Student in Aeronautics and Astronautics, Stanford University'
-    subtitle: "<i> Advisor: Prof.Gao </i>"
+    subtitle: "<i> Advisor: Grace Gao </i>"
     excerpt:  "Research Topic: Lunar Navigation" 
 feature_utokyo_me:
   - image_path: https://dl.dropboxusercontent.com/s/kx2cffl3oo2iwac/utokyo.png?dl=0
     alt: "UTokyo"
     date: "2021"
     title: 'M.E. in Aeronautics and Astronautics, The University of Tokyo'
-    subtitle: "<i> Advisor: Prof.Funase </i>"
+    subtitle: "<i> Advisor: Ryu Funase </i>"
     excerpt:  "Thesis: System Design and Autonomous Orbit Determination Strategy for Lunar Navigation Satellite System" 
 feature_utokyo_be:
   - image_path: https://dl.dropboxusercontent.com/s/kx2cffl3oo2iwac/utokyo.png?dl=0
     alt: "UTokyo"
     date: "2019"
     title: 'B.E. in Aeronautics and Astronautics, The University of Tokyo '
-    subtitle: "<i> Advisor: Prof.Funase </i>"
+    subtitle: "<i> Advisor: Ryu Funase </i>"
     excerpt: "Thesis: Navigation Satellite Constellation and Monitoring Station Arrangement for Lunar Global Navigation Satellite System (LGNSS)" 
 # Research Experience
 feature_navlab:
@@ -37,28 +37,36 @@ feature_navlab:
     date: "2022.5 ~ Present"
     title: '<a href="https://navlab.stanford.edu/"> NAV Lab </a>' 
     subtitle: "<i> Department of Aeronautics and Astronautics, Stanford University </i>"
-    excerpt: "Duties included: Autonomous Lunar Navigation Using GPS Signals <br> Supervisor: Prof.Gao"
+    excerpt: "Research: Lunar PNT <br> Supervisor: Grace Gao"
+feature_jpl:
+  - image_path: https://dl.dropboxusercontent.com/s/15d5viwedi2q2fvdimc67/logo_jpl2.png?rlkey=9jjzchycus0xhf9qhrqi40mlo&dl=0
+    alt: "NASA Jet Propulsion Laboratory"
+    date: "2024.7 ~ 2024.9"
+    title: '<a href="https://www.jpl.nasa.gov/"> NASA Jet Propulsion Laboratory </a>' 
+    subtitle: "<i> California Institute of Technology </i>"
+    excerpt: "Research: Integrated Scheduling of Deep Space Network and Mars Relay Network to Support Future Human Missions on Mars
+ <br> Supervisor: Kar-Ming Cheung"
 feature_slab:
   - image_path: https://dl.dropboxusercontent.com/s/w6khq7e86l6qzj2/SLAB.png?dl=0
     alt: "Stanford_SLAB"
     date: "2021.9 ~ 2022.4"
     title: '<a href="https://damicos.people.stanford.edu/"> Space Rendezvous Lab </a>' 
     subtitle: "<i> Department of Aeronautics and Astronautics, Stanford University </i>"
-    excerpt: "Duties included: Research on angles-only navigation <br> Supervisor: Prof.D'Amico"
+    excerpt: "Research: Angles-only navigation <br> Supervisor: Simone D'Amico"
 feature_issl:
   - image_path: https://dl.dropboxusercontent.com/s/kx2cffl3oo2iwac/utokyo.png?dl=0
     alt: "UTokyo"
     date: "2018.4 ~ 2021.9"
     title: '<a href="https://www.space.t.u-tokyo.ac.jp/nlab/index_e.html"> Intelligent Space Systems Laboratory </a>' 
     subtitle: "<i> Department of Aeronautics and Astronautics, The University of Tokyo </i>"
-    excerpt: "Duties included: Research on Lunar Navigation Satellite System, SmallSat development <br> Supervisor: Prof.Funase, Prof.Nakasuka" 
+    excerpt: "Research: Lunar Navigation Satellite System, SmallSat development <br> Supervisor: Ryu Funase, Shinichi Nakasuka" 
 feature_ssog:
   - image_path: https://dl.dropboxusercontent.com/s/ybxy6xycp7gsf2r/GTech.png?dl=0
     alt: "GTech"
     date: "2020.1 ~ 2020.2"
     title: '<a href="https://ssog.ae.gatech.edu/"> Space Systems Optimization Group </a>'
     subtitle: "<i> Daniel Guggenheim School of Aerospace Engineering, Georgia Institutute of Technoloy </i>"
-    excerpt: "Duties included: Research on landing site selection algorithms during planetary descent <br> Supervisor: Prof.Ho" 
+    excerpt: "Research: Landing site selection algorithms during planetary descent <br> Supervisor: Koki Ho" 
 # TA
 feature_ta1:
   - image_path: https://dl.dropboxusercontent.com/s/kx2cffl3oo2iwac/utokyo.png?dl=0
@@ -141,6 +149,7 @@ Please refer to my [CV](/files/Keidai_Iiyama_CV.pdf) (last updated at October 20
 
 ## Research Experience
 {% include minifeature_row id="feature_navlab" type="left" %}
+{% include minifeature_row id="feature_jpl" type="left" %}
 {% include minifeature_row id="feature_slab" type="left" %}
 {% include minifeature_row id="feature_issl" type="left" %}
 {% include minifeature_row id="feature_ssog" type="left" %}
