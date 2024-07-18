@@ -4,6 +4,7 @@ date: 2021-12-20
 date_str: "Dec 20, 2021"
 permalink: /posts/2021/12/fall/
 image_path: https://dl.dropboxusercontent.com/s/wnn91vmv5hchd0u/stanford-fall.jpg?dl=0
+categories: 'スタンフォード講義録'
 tags:
   - Classes
   - Robotics

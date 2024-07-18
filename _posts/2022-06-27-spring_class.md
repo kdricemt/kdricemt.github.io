@@ -4,6 +4,7 @@ date: 2022-06-26
 date_str: "Jun 26, 2022"
 permalink: /posts/2022/06/spring_class/
 image_path: https://dl.dropboxusercontent.com/s/7a3gu8d97borb1n/IMG_3306.jpg?dl=0
+categories: 'スタンフォード講義録'
 tags:
   - Classes
   - Robotics

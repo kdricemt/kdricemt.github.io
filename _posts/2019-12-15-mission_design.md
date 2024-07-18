@@ -4,6 +4,7 @@ date: 2019-12-15
 date_str: "Dec 15, 2019"
 permalink: /posts/2019/12/mission_design/
 image_path: https://dl.dropboxusercontent.com/s/e3c04d25w10hzuf/Interplanetary.png?dl=0
+categories: '研究関連'
 tags:
   - trajectory design
 ---
