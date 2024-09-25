@@ -84,6 +84,14 @@ feature_isas:
     subtitle: '<i> <a href="https://www.isas.jaxa.jp/en/"> Institute of Space and Astronautical Science (ISAS) </a>, JAXA </i>'
     excerpt: "Duties included: EQUULEUS project"
 # Fellowships
+feature_iongnss_bestpresentation:
+  - image_path: https://dl.dropboxusercontent.com/s/hedxqjaj3h97nij/ion-logo-large.jpg?dl=0
+    alt: "ION-Best-Presentation"
+    date: "2024, 2023"
+    title: 'ION GNSS Best Presentation of the Session'
+    subtitle: '<i> From Institute of Navigation (ION) </i>'
+    excerpt: '<i> 2024: Autonomous Constellation Fault Monitoring with Inter-satellite Links: A Rigidity-Based Approach (1st-author) </i> <br>
+    <i> 2023: Satellite ephemeris approximation methods to support lunar positioning, navigation, and timing services (2nd-author)  </i>'
 feature_fellowship_iongrant:
   - image_path: https://dl.dropboxusercontent.com/s/hedxqjaj3h97nij/ion-logo-large.jpg?dl=0
     alt: "ION-Travel-Grant"
@@ -138,7 +146,7 @@ As lunar and deep space exploration by small satellites is expected to rapidly i
 
 Prior to Stanford, I received my B.E. and M.E. degree from the [Aero/Astro Department](http://www.aerospace.t.u-tokyo.ac.jp/english/) of [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html). At the Intelligent Space Systems Laboratory in UTokyo, I worked on the thermal design and on-board software development for EQUULEUS, a 6-U CubeSat targeting the EML2 Halo Orbit as one of the secondary payload of SLS1. Besides the development of EQUULEUS, I researched satellite configurations and autonomous operation strategies for Lunar Navigation Satellite System (LNSS) under the supervision of Prof.Funase.
 
-I also had the honor to collaborate with [Space Systems Optimization Group (SSOG)](https://ssog.ae.gatech.edu/) at Georgia Tech and [Space Rendezvous Lab (SLAB)](https://damicos.people.stanford.edu/) at Stanford University. At SSOG, I worked on developing deep reinforcement learning algorithms for landing site selection. At SLAB, I worked on multi-agent vision-based angles-only navigation in lunar orbit.
+I also had the honor to collaborate with [Space Systems Optimization Group (SSOG)](https://ssog.ae.gatech.edu/) at Georgia Tech, [Space Rendezvous Lab (SLAB)](https://damicos.people.stanford.edu/) at Stanford University, and Section 332H at [Jet Propulsion Laboratory](https://www.jpl.nasa.gov/). At SSOG, I worked on developing deep reinforcement learning algorithms for landing site selection. At SLAB, I worked on multi-agent vision-based angles-only navigation in lunar orbit. At JPL, I worked on the constellation design and orbit determination simulation for future Mars navigation + communication constellation to support future human missions on Mars.
 
 Please refer to my [CV](/files/Keidai_Iiyama_CV.pdf) (last updated at October 2023) for the latest information.
 
@@ -168,6 +176,7 @@ Please see [here](/research/) for further information.
 {% include minifeature_row id="feature_isas" type="left" %} 
   
 ## Fellowships & Awards
+{% include minifeature_row id="feature_iongnss_bestpresentation" type="left" %}
 {% include minifeature_row id="feature_fellowship_iongrant" type="left" %}
 {% include minifeature_row id="feature_fellowship_stanford" type="left" %}
 {% include minifeature_row id="feature_fellowship_nakajima" type="left" %}
@@ -182,16 +191,19 @@ Please see [here](/publications/)
 kiiyama{at}stanford.edu
 
 ## Recent News
-- Mar 11. Updated my publication page. Now you can see the Abstracts and BibTex.
+- Sep.20 2024  Presented a paper at the ION GNSS+ 2024 Conference. Please see the [publications page](/publications/) for details
+  - The paper "Autonomous Constellation Fault Monitoring with Inter-satellite Links: A Rigidity-Based Approach" received a Best Presentation Award of the session
+- Mar 11.2024  Updated my publication page. Now you can see the Abstracts and BibTex.
 - Mar.6 2024  Presented our paper "Contact Plan Optimization and Distributed State Estimation for Delay Tolerant Satellite Networks" in the IEEE Aeroconf! [[Paper](https://drive.google.com/file/d/1ysgGIQmowmfzSefFNdOOIWnhi1dVh-9m/view?usp=sharing)] [[Slides](https://drive.google.com/file/d/1Q-1PTQZ3Gtd3rYOmMXX7g4UwT1eMOq-p/view?usp=sharing)]
-- Feb.16 2024 Our paper "Precise Positioning and Timekeeping in a Lunar Orbit via Terrestrial GPS Time-Differenced Carrier-Phase Measurements" in now available in NAVIGATION! [[Paper](https://navi.ion.org/content/71/1/navi.635)]
+- Feb.16 2024 Our paper ["Precise Positioning and Timekeeping in a Lunar Orbit via Terrestrial GPS Time-Differenced Carrier-Phase Measurements"](https://navi.ion.org/content/71/1/navi.635) in now available in NAVIGATION! 
 - Oct.16 2023 Updated the [Research Project Page](/research/)
 - Oct.6 2023 Submitted our paper, ""Contact Plan Optimization and Distributed State Estimation for Delay Tolerant Satellite Networks" to the IEEE Aerospace Conference. [[Paper](https://drive.google.com/file/d/181gwBOnjbX3qSOpsu7iM-QQoA-GE1gXm/view?usp=sharing)]
 - Sep.14,15 2023  Presented 3 papers at the ION GNSS+ 2023 Conference. Please see the [publications page](/publications/) for details
-  - The co-authored paper "Satellite Ephemeris Approximation Methods to Support Lunar Positioning, Navigation, and Timing Services" received a Best Presentation Award of the session [[Paper](https://drive.google.com/file/d/1z-j70jBJPtMAQ6cpA_ig5yjbLJkotSEX/view)]  [[Slides](https://drive.google.com/file/d/1HG9RaoZfY6DoCg29m-v_fsy_l1IcnqVM/view)] 
-- May 2023  Passed the Qualification Exam and became a Ph.D. Candidate!
+  - The co-authored paper "Satellite Ephemeris Approximation Methods to Support Lunar Positioning, Navigation, and Timing Services" received a Best Presentation Award of the session 
+
+<!-- - May 2023  Passed the Qualification Exam and became a Ph.D. Candidate!
 - Oct.14 2022 Submitted our paper, "Terrestrial GPS Time-Differenced Carrier-Phase Positioning of Lunar Surface Users" to the IEEE Aerospace Conference.  [[Paper](https://drive.google.com/file/d/1KULYi3P5_tvvuyoWFqoC_dM_is_1V7Cz/view?usp=sharing)]
 - Jan.26 2022 We presented our paper, "Autonomous Distributed Angles-Only Navigation and Timekeeping in Lunar Orbit" at the ION ITM conference. [[Paper](https://www.dropbox.com/s/rmg7advab2m4j1c/ION_ITM_Lunar_Navigation_Paper_Rev3.pdf?dl=0)] [[Slide](https://www.dropbox.com/s/1ocz6mt59xswasl/Keidai_ION_ITM_2022_rev2_slideonly.pdf?dl=0)] [[Video](https://www.youtube.com/watch?v=KsUHGfXN5bM&t=241s)]
 - Oct.30 2021 Our paper, "Autonomous Distributed Angles-Only Navigation and Timekeeping in Lunar Orbit" was accepted for the ION ITM conference!
 - Sep.24 2021 We presented our paper, "Autonomous and Decentralized Orbit Determination and Clock Offset Estimation of Lunar Navigation Satellites Using GPS Signals and Inter-satellite Ranging" at the ION GNSS+ 2021 Conference. [[Paper](https://www.dropbox.com/s/0t4kbo6w83hcmxv/ION_GNSS_2021_Iiyama.pdf?dl=0)] [[Slide](https://www.dropbox.com/s/h5wfe2z3tki8mrq/ION_GNSS_2021_iiyama_slideonly.pdf?dl=0)]
-- Sep.20 2021 Started Ph.D. at Stanford Aero/Astro.
+- Sep.20 2021 Started Ph.D. at Stanford Aero/Astro. -->

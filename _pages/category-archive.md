@@ -1,10 +1,11 @@
 ---
 layout: archive
 permalink: /categories/
-title: "Blog Posts"
+title: "Blog Posts (Categories)"
 author_profile: true
 ---
 
+日付順は[こちら](/year-archive/)
 
 {% include base_path %}
 {% include group-by-array collection=site.posts field="categories" %}
@@ -20,6 +21,8 @@ author_profile: true
 {% assign group_names_manual = group_names_manual | push: "研究関連" %}
 <!-- Add "その他エッセイ"-->
 {% assign group_names_manual = group_names_manual | push: "雑記事" %}
+<!-- Add "その他エッセイ"-->
+{% assign group_names_manual = group_names_manual | push: "本紹介" %}
 
 <!-- group_items -->
 {% for name in group_names_manual %}

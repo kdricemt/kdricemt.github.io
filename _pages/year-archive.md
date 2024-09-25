@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /year-archive/
-title: "Blog Posts"
+title: "Blog Posts (Year)"
 excerpt: " "
 author_profile: true
 header:
@@ -12,6 +12,8 @@ caption: "Photo by Keidai Iiyama / The Dish, Stanford"
 redirect_from:
 - /wordpress/blog-posts/
 ---
+
+カテゴリ別は[こちら](/categories/)
 
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
