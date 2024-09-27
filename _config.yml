@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Keidai Iiyama"
 title_separator          : "-"
 name                     : &name "Keidai Iiyama"
-description              : &description "Master Student at the University of Tokyo"
+description              : &description "Ph.D. student at Stanford AeroAstro"
 url                      : https://kdricemt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #url                      : http://127.0.0.1:4000/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -182,9 +182,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  project:
-    output: true
-    permalink: /:collection/:path/
   research:
     output: true
     permalink: /:collection/:path/
@@ -231,15 +228,6 @@ defaults:
       author_profile: true
       share: false
       comments: true
-  # _project
-  - scope:
-      path: ""
-      type: project
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comment: true
   # _research
   - scope:
       path: ""

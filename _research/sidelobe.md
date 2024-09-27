@@ -12,6 +12,9 @@ toc_icon: "cog"
 toc_sticky: true
 collection: project
 ---
+**With** Sriramya Bhamidipati, Tara Mina, Prof.Gao (Stanford University) <br>
+
+We develop various algorithms to conduct orbit determination and time-transfer in the lunar orbit and on lunar surface, that utilize the weak GPS sidelobe signals. We consider both single-agent and multi-agent scenarios at lunar surface and lunar orbit. Our proposed framework uses differential carrier phase measurements and/or crosslinks between lunar satellites to improve PNT performance under challenging GPS geometry. 
 
 ## 1. Time Transfer to Distributed Lunar Surface Communication Networks
 Reliable lunar communication infrastructure will be instrumental in building a sustainable human presence on the Moon. There has been a great emphasis on designing a low-power and an ultra-compact LTE solution for the future Lunar Surface Communication Network (LSCN) due to its ease of transportation and potential for scalable deployment on the lunar surface. Ensuring a reliable LSCN design requires the base stations to be time-synchronized, and to maintain a precise globally referenced timing standard. 
