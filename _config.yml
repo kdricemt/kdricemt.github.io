@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Keidai Iiyama"
 title_separator          : "-"
 name                     : &name "Keidai Iiyama"
-description              : &description "Ph.D. student at Stanford AeroAstro"
+description              : &description "Ph.D. Candidate at Stanford AeroAstro"
 url                      : https://kdricemt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #url                      : http://127.0.0.1:4000/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Keidai Iiyama"
   avatar           : "profile3.jpg"
-  bio              : "Ph.D. Student at Stanford AeroAstro"
+  bio              : "Ph.D. Candidate at Stanford AeroAstro"
   location         : "Stanford, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

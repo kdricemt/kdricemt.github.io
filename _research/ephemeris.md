@@ -24,4 +24,6 @@ We showcase the ability of the developed framework to approximate satellite ephe
 fit interval and the number of parameters to broadcast. In particular, we demonstrate that formulations with a standard polynomial basis and a Chebyshev polynomial basis produce feasible solutions for ephemeris approximation at varying
 epochs in orbits, abiding by signal-in-space-error requirements.
 
-**Related Publication:** Satellite Ephemeris Approximation Methods to Support Lunar Positioning, Navigation, and Timing Services, ION GNSS+ 2023, 2023 **Best Presentation of the Session** [[Paper](https://drive.google.com/file/d/1z-j70jBJPtMAQ6cpA_ig5yjbLJkotSEX/view)]  [[Slides](https://drive.google.com/file/d/1HG9RaoZfY6DoCg29m-v_fsy_l1IcnqVM/view)] [[Video](https://www.youtube.com/watch?v=9dV94dEMBbA)]  
+**Related Publication:** 
+
+Satellite Ephemeris Approximation Methods to Support Lunar Positioning, Navigation, and Timing Services, ION GNSS+ 2023, 2023 **Best Presentation of the Session** [[Paper](https://drive.google.com/file/d/1z-j70jBJPtMAQ6cpA_ig5yjbLJkotSEX/view)]  [[Slides](https://drive.google.com/file/d/1HG9RaoZfY6DoCg29m-v_fsy_l1IcnqVM/view)] [[Video](https://www.youtube.com/watch?v=9dV94dEMBbA)]  
