@@ -18,8 +18,6 @@ gem "jekyll"
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
-gem "uri", "~> 1.0.2"
-
 gem 'jekyll-scholar', group: :jekyll_plugins
 
 # If you have any plugins, put them here!
