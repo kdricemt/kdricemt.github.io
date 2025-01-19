@@ -54,7 +54,7 @@ Projects
   
 Fellowships & Awards
 ======
-* **WINGS CFS program fellowship**,  from [The University of Tokyo WINGS CFS program](http://cfs.t.u-tokyo.ac.jp/), Monthly Stippend for five years; selection ratio ~25%, Sep, 2019
+* **WINGS CFS program fellowship**,  from [The University of Tokyo WINGS CFS program](http://cfs.t.u-tokyo.ac.jp/), Monthly stipend for five years; selection ratio ~25%, Sep, 2019
 * **32nd ISTS conference student paper competition finalist**  Jun, 2019
 * **Overall Winner at the 2017 ARLISS (A Rocket Launch for International Student Satellites) comeback competition** Sep, 2017
 
