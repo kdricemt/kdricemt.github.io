@@ -19,10 +19,6 @@ author_profile: true
 {% assign group_names_manual = group_names_manual | push: "スタンフォード講義録" %}
 <!-- Add "研究関連"-->
 {% assign group_names_manual = group_names_manual | push: "研究関連" %}
-<!-- Add "その他エッセイ"-->
-{% assign group_names_manual = group_names_manual | push: "雑記事" %}
-<!-- Add "その他エッセイ"-->
-{% assign group_names_manual = group_names_manual | push: "本紹介" %}
 
 <!-- group_items -->
 {% for name in group_names_manual %}

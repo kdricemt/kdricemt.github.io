@@ -14,7 +14,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 toc_sticky: true
 years_journal: [2024, 2020]
-years_conference: [2024, 2023, 2022, 2021, 2020, 2019]
+years_conference: [2025, 2024, 2023, 2022, 2021, 2020, 2019]
 ---
 <!--
 How to use jekyll-scholar: https://open-research.gemmadanks.com/tutorials/how-to-use-jekyll-scholar-with-github-pages/

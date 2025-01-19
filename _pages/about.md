@@ -8,7 +8,7 @@ header:
   overlay_image: https://dl.dropboxusercontent.com/s/l9wgn17g3ernnqa/longbeach_sunrise.jpg?dl=0
   caption: "Photo by Keidai Iiyama / LongBeach, CA"
 author_profile: true
-# Education
+# Education  -----------------------------------------------------
 feature_stanford:
   - image_path: https://dl.dropboxusercontent.com/s/ofb0zakwz7k3zto/Stanford2.png?dl=0
     alt: "Stanford"
@@ -30,7 +30,7 @@ feature_utokyo_be:
     title: 'B.E. in Aeronautics and Astronautics, The University of Tokyo '
     subtitle: "<i> Advisor: Ryu Funase </i>"
     excerpt: "Thesis: Navigation Satellite Constellation and Monitoring Station Arrangement for Lunar Global Navigation Satellite System (LGNSS)" 
-# Research Experience
+# Research Experience  -----------------------------------------------------
 feature_navlab:
   - image_path: https://dl.dropboxusercontent.com/s/ycqtslhsjcgjm9h/NAVLabLogo.PNG?dl=0
     alt: "Stanford_NAV Lab"
@@ -42,9 +42,9 @@ feature_jpl:
   - image_path: https://dl.dropboxusercontent.com/s/15d5viwedi2q2fvdimc67/logo_jpl2.png?rlkey=9jjzchycus0xhf9qhrqi40mlo&dl=0
     alt: "NASA Jet Propulsion Laboratory"
     date: "2024.7 ~ 2024.9"
-    title: '<a href="https://www.jpl.nasa.gov/"> NASA Jet Propulsion Laboratory </a>' 
+    title: '<a href="https://www.jpl.nasa.gov/"> NASA Jet Propulsion Laboratory (332 H) </a>' 
     subtitle: "<i> California Institute of Technology </i>"
-    excerpt: "Research: Integrated Scheduling of Deep Space Network and Mars Relay Network to Support Future Human Missions on Mars
+    excerpt: "Research: Constellation design and orbit determination of communication + PNT constellation to support future human missions on Mars
  <br> Supervisor: Kar-Ming Cheung"
 feature_slab:
   - image_path: https://dl.dropboxusercontent.com/s/w6khq7e86l6qzj2/SLAB.png?dl=0
@@ -67,7 +67,7 @@ feature_ssog:
     title: '<a href="https://ssog.ae.gatech.edu/"> Space Systems Optimization Group </a>'
     subtitle: "<i> Daniel Guggenheim School of Aerospace Engineering, Georgia Institutute of Technoloy </i>"
     excerpt: "Research: Landing site selection algorithms during planetary descent <br> Supervisor: Koki Ho" 
-# TA
+# TA  -----------------------------------------------------
 feature_ta2:
   - image_path: https://dl.dropboxusercontent.com/s/fvee1u3u8oxl3js7afiit/gps_satellite_650.jpg?rlkey=nvrna2v2iqq15pzntg4k98m3j&st=904zu48j&dl=0
     alt: "UTokyo"
@@ -80,7 +80,7 @@ feature_ta1:
     date: "2019.9 ~ 2020.3"
     title: 'Graduate TA of undergraduate course: Astrodynamics '
     subtitle: "<i> Department of Aeronautics and Astronautics, The University of Tokyo </i>"
-# Academic Appointments
+# Academic Appointments -----------------------------------------------------
 feature_isas:
   - image_path: https://dl.dropboxusercontent.com/s/zx4bt5tl6z9tqit/isas2.png?dl=0
     alt: "isas"
@@ -199,16 +199,18 @@ kiiyama{at}stanford.edu
 
 
 ## Recent News
+- Nov.20 2024  Presented for the ION Webinar "Webinar: Satellite Ephemeris Parameterization Methods to Support Lunar Positioning, Navigation, and Timing Services". 
+  - The recording is available [here](https://www.ion.org/publications/webinar-iiyama.cfm)
 - Sep.20 2024  Presented a paper at the ION GNSS+ 2024 Conference. Please see the [publications page](/publications/) for details
   - The paper "Autonomous Constellation Fault Monitoring with Inter-satellite Links: A Rigidity-Based Approach" received the Best Presentation Award of the session
 - Mar 11.2024  Updated my publication page. Now you can see the Abstracts and BibTex.
 - Mar.6 2024  Presented our paper "Contact Plan Optimization and Distributed State Estimation for Delay Tolerant Satellite Networks" in the IEEE Aeroconf! [[Paper](https://drive.google.com/file/d/1ysgGIQmowmfzSefFNdOOIWnhi1dVh-9m/view?usp=sharing)] [[Slides](https://drive.google.com/file/d/1Q-1PTQZ3Gtd3rYOmMXX7g4UwT1eMOq-p/view?usp=sharing)]
 - Feb.16 2024 Our paper ["Precise Positioning and Timekeeping in a Lunar Orbit via Terrestrial GPS Time-Differenced Carrier-Phase Measurements"](https://navi.ion.org/content/71/1/navi.635) in now available in NAVIGATION! 
-- Oct.16 2023 Updated the [Research Project Page](/research/)
-- Oct.6 2023 Submitted our paper, ""Contact Plan Optimization and Distributed State Estimation for Delay Tolerant Satellite Networks" to the IEEE Aerospace Conference. [[Paper](https://drive.google.com/file/d/181gwBOnjbX3qSOpsu7iM-QQoA-GE1gXm/view?usp=sharing)]
-- Sep.14,15 2023  Presented 3 papers at the ION GNSS+ 2023 Conference. Please see the [publications page](/publications/) for details
-  - The co-authored paper "Satellite Ephemeris Approximation Methods to Support Lunar Positioning, Navigation, and Timing Services" received a Best Presentation Award of the session 
 
+<!-- - Oct.16 2023 Updated the [Research Project Page](/research/) -->
+<!-- - Oct.6 2023 Submitted our paper, ""Contact Plan Optimization and Distributed State Estimation for Delay Tolerant Satellite Networks" to the IEEE Aerospace Conference. [[Paper](https://drive.google.com/file/d/181gwBOnjbX3qSOpsu7iM-QQoA-GE1gXm/view?usp=sharing)] -->
+<!-- - Sep.14,15 2023  Presented 3 papers at the ION GNSS+ 2023 Conference. Please see the [publications page](/publications/) for details
+  - The co-authored paper "Satellite Ephemeris Approximation Methods to Support Lunar Positioning, Navigation, and Timing Services" received a Best Presentation Award of the session  -->
 <!-- - May 2023  Passed the Qualification Exam and became a Ph.D. Candidate!
 - Oct.14 2022 Submitted our paper, "Terrestrial GPS Time-Differenced Carrier-Phase Positioning of Lunar Surface Users" to the IEEE Aerospace Conference.  [[Paper](https://drive.google.com/file/d/1KULYi3P5_tvvuyoWFqoC_dM_is_1V7Cz/view?usp=sharing)]
 - Jan.26 2022 We presented our paper, "Autonomous Distributed Angles-Only Navigation and Timekeeping in Lunar Orbit" at the ION ITM conference. [[Paper](https://www.dropbox.com/s/rmg7advab2m4j1c/ION_ITM_Lunar_Navigation_Paper_Rev3.pdf?dl=0)] [[Slide](https://www.dropbox.com/s/1ocz6mt59xswasl/Keidai_ION_ITM_2022_rev2_slideonly.pdf?dl=0)] [[Video](https://www.youtube.com/watch?v=KsUHGfXN5bM&t=241s)]

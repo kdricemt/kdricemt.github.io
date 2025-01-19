@@ -40,12 +40,18 @@ feature_row_constellation:
     excerpt: "**Period:** 2023/9- (**Active**) <br>
     **With:** Guillem Casadesus Vila, Prof.Gao (Stanford University)"
     url: /research/contact_plan/
-  - image_path: https://dl.dropboxusercontent.com/s/effpnnvjfb1po6a79mc1w/sv_distribution.png?rlkey=j617n9mwdglrm5046xx881zoy&dl=0
+  - image_path: https://dl.dropboxusercontent.com/s/xcmv5ul1ttb0nigvmnx5l/sv_distribution3.png?rlkey=n88radllutoe56hzhmitoljtb&st=q9x8ukdt&dl=0
     alt: "rigidity"
-    title: "Satellite Fault Detection from Intersatellite Ranges Using Reduntly Rigid Graphs"
+    title: "Satellite Fault Detection from Intersatellite Ranges Using Redundantly Rigid Graphs"
     excerpt: "**Period:** 2024/6- (**Active**) <br>
     **With:** Daniel Neamati, Prof.Gao (Stanford University)" 
     url: /research/rigid_fault/
+  - image_path: https://dl.dropboxusercontent.com/s/fb6wopjg888orna8czlgp/Constellation_GS3d-ezgif.com-crop.gif?rlkey=4g577t2eka50houx5hpgvahl4&st=kfymw0c7&dl=0
+    alt: "mars_pnt"
+    title: "Design and Orbit Determination of Future Mars PNT + Relay Constellation"
+    excerpt: "**Period:** 2024/7-2024/9 <br>
+    **With:** William Jun, Dr.Cheung (Jet Propulsion Laboratory)" 
+    url: /research/mars_pnt/
 feature_row_gnc:
   - image_path: https://dl.dropboxusercontent.com/s/4j8zsl5ykc0lcxigvs37u/ARTMS_32.png?rlkey=750qz3qu2yp7w2yiqfolgknrl&dl=0
     alt: "ARTMS"
@@ -95,7 +101,7 @@ feature_row_class:
 {% include feature_row id="intro" type="center" %}
 
 # 1. Research Projects
-My research interest lies at the intersection of lunar positioning, navigation, and timing (PNT), astrodynamics, spacecraft guidance, navigation, and control (GNC), and multi-agent systems. Below are the lists of research projects that I have worked on at Stanford University, Georgia Institute of Technology, and The University of Tokyo.
+My research interest lies at the intersection of lunar positioning, navigation, and timing (PNT), astrodynamics, spacecraft guidance, navigation, and control (GNC), and multi-agent systems. Below are the lists of research projects that I have worked on at Stanford University, Jet Propulsion Laboratory, Georgia Institute of Technology, and The University of Tokyo.
 
 ## 1-1. Lunar Positioning, Navigation, and Timing (PNT)
 {% include feature_row id="feature_row_lunar_pnt1" %}
