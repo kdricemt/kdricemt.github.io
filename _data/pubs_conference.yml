@@ -3,7 +3,7 @@
   author: Vila, G.C., <strong>Iiyama, K.</strong>, Gao, G.
   title: 'LuPNT: An Open-Source Simulator for Lunar Communications, Positioning, Navigation,
     and Timing'
-  journal: 2025 IEEE Aerospace Conference (Abstract Accepted)
+  journal: 2025 IEEE Aerospace Conference
   year: '2025'
   year_num: 2025
   pdf: https://drive.google.com/file/d/1t4BDd2MEI5CnjsShM9xezC0Y28_xfL63/view?usp=sharing
@@ -11,17 +11,18 @@
   video: ''
   code: ''
   abstract: ''
+  award: ''
   bibtex: " @article{guillem2025simulator,\n  title = {LuPNT: An Open-Source Simulator\
     \ for Lunar Communications, Positioning, Navigation, and Timing},\n  pages = {},\n\
-    \  year = {2025},\n  month = {March},\n  journal = {2025 IEEE Aerospace Conference\
-    \ (Abstract Accepted)},\n}"
+    \  year = {2025},\n  month = {March},\n  journal = {2025 IEEE Aerospace Conference},\n\
+    }"
 - id: '[C19]'
   idnum: 19
   author: <strong>Iiyama, K.</strong>, Jun, W.W., Bhamidipati, S., Gao, G., Cheung,
     K.
   title: Orbit Determination and Time Synchronization for the Future Mars Relay and
     Navigation Constellation
-  journal: 2025 IEEE Aerospace Conference (Abstract Accepted)
+  journal: 2025 IEEE Aerospace Conference
   year: '2025'
   year_num: 2025
   pdf: https://drive.google.com/file/d/1twq226bUb49lHmHscmDmMYOVVbDe5ZC3/view?usp=sharing
@@ -29,10 +30,11 @@
   video: ''
   code: ''
   abstract: ''
+  award: ''
   bibtex: " @article{iiyama2025odtsmars,\n  title = {Orbit Determination and Time\
     \ Synchronization for the Future Mars Relay and Navigation Constellation},\n \
     \ pages = {},\n  year = {2025},\n  month = {March},\n  journal = {2025 IEEE Aerospace\
-    \ Conference (Abstract Accepted)},\n}"
+    \ Conference},\n}"
 - id: '[C18]'
   idnum: 18
   author: <strong>Iiyama, K.</strong>, Neamati, D., Gao, G.
@@ -60,6 +62,7 @@
     around the Moon, demonstrating its effectiveness in various configurations. This
     research contributes to the reliable operation of satellite constellations for
     future lunar exploration missions.
+  award: Best Presentation of the Session
   bibtex: " @article{iiyama2024fault,\n  title = {Autonomous Constellation Fault Monitoring\
     \ with Inter-satellite Links: A Rigidity-Based Approach},\n  year = {2024},\n\
     \  month = {9},\n  journal = {Proceedings of the Institute of Navigation GNSS+\
@@ -94,6 +97,7 @@
     delay. The combined insights and proposals presented, especially in terms of navigation
     and communications performance tradeoffs, offer promising avenues to enhance the
     operability and efficiency of small satellite networks on the Moon.
+  award: ''
   bibtex: " @article{iiyama2024contact,\n  title = {Contact Plan Optimization and\
     \ Distributed State Estimation for Delay Tolerant Satellite Networks},\n  journal\
     \ = {2024 IEEE Aerospace Conference},\n  pages = {},\n  year = {2024},\n  month\
@@ -129,6 +133,7 @@
     timing. Although the framework is initially targeted at lunar applications, its
     architectural design allows for straightforward adaptation to model PNT systems
     in other celestial domains, including Martian or Earth orbital environments.
+  award: ''
   bibtex: " @article{iiyama2023lupnt,\n  title = {LuPNT: Open-Source Simulator for\
     \ Lunar Positioning, Navigation, and Timing},\n  journal = {Proceedings of the\
     \ Institute of Navigation GNSS+ conference (ION GNSS+ 2023)},\n  pages = {1499--1510},\n\
@@ -174,6 +179,7 @@
     of two closely operating lunar satellites with different clock grades in the elliptical
     lunar frozen orbit (ELFO), wherein we showcase higher positioning and timing accuracy
     compared to code phase-only PNT methods.
+  award: ''
   bibtex: " @article{iiyama2023differential,\n  title = {Positioning and Timing of\
     \ Distributed Lunar Satellites via Terrestrial GPS Differential Carrier Phase\
     \ Measurements},\n  journal = {Proceedings of the Institute of Navigation GNSS+\
@@ -211,6 +217,7 @@
     we demonstrate that model formulations with a standard polynomial basis and a
     Chebyshev polynomial basis produce feasible solutions for ephemeris approximation
     at varying epochs in orbits, abiding by stringent signal-in-space-error requirements.
+  award: Best Presentation of the Session
   bibtex: " @article{cortinovis2023satellite,\n  title = {Satellite ephemeris approximation\
     \ methods to support lunar positioning, navigation, and timing services},\n  journal\
     \ = {Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+ 2023)},\n\
@@ -236,6 +243,7 @@
     Trappist-1 star system. This work introduces the preliminary analyses and heuristics
     developed to tackle the multiobjective optimization problem, along with the results
     found for the Trappist-1 tour problem
+  award: ''
   bibtex: " @article{shimane2023dual,\n  title = {Methods for Dual-Objective High\
     \ Energy Tour Design},\n  journal = {AAS/AIAA Astrodynamics Specialist Conference},\n\
     \  location = {Big sky, MT},\n  year = {2023},\n  month = {8},\n}"
@@ -252,6 +260,7 @@
   video: ''
   code: ''
   abstract: ''
+  award: ''
   bibtex: " @article{iiyama2023terrestrial,\n  title = {Terrestrial GPS time-differenced\
     \ carrier-phase positioning of lunar surface users},\n  journal = {2023 IEEE Aerospace\
     \ Conference},\n  pages = {1--9},\n  year = {2023},\n  month = {3},\n  organization\
@@ -287,6 +296,7 @@
     lunar frozen orbit and quasi-frozen low lunar orbit, wherein we showcase higher
     positioning and timing accuracy as compared with the pseudorange-only navigation
     solution.
+  award: ''
   bibtex: " @article{iiyama2024precise,\n  title = {Precise Positioning and Timekeeping\
     \ in a Lunar Orbit via Terrestrial GPS Time-Differenced Carrier-Phase Measurements},\n\
     \  location = {Long Beach, CA},\n  year = {2023},\n  journal = {Proceedings of\
@@ -295,8 +305,10 @@
     }"
 - id: '[C10]'
   idnum: 10
-  author: 'Murata, M., Koga, M., Nakajima, Y., Yasumitsu, R., Araki, T., Makino, K.,
-    Akiyama, K., Yamamoto, T., Tanabe, K., Kogure, S., others, '
+  author: Murata, M., Koga, M., Nakajima, Y., Yasumitsu, R., Araki, T., Makino, K.,
+    Akiyama, K., Yamamoto, T., Tanabe, K., Kogure, S., Sato, N., Toyama, D., Kitamura,
+    K., Miyasaka, K., Kawaguchi, T., Sato, Y., Kakihara, K., Shibukawa, T., <strong>Iiyama,
+    K</strong>., Tanaka, T.
   title: 'Lunar navigation satellite system: Mission, system overview, and demonstration'
   journal: 39th International Communications Satellite Systems Conference (ICSSC 2022)
   year: '2022'
@@ -317,6 +329,7 @@
     The LNSS is not only for our lunar users, but also to contribute to the system
     of lunar communication and navigation satellite systems that will be completed
     by the international collaboration for the benefit of all humankind.
+  award: ''
   bibtex: " @article{murata2022lunar,\n  title = {Lunar navigation satellite system:\
     \ Mission, system overview, and demonstration},\n  journal = {39th International\
     \ Communications Satellite Systems Conference (ICSSC 2022)},\n  volume = {2022},\n\
@@ -354,6 +367,7 @@
     timing accuracy performance when each base station is equipped with a low-SWaP
     Chip Scale Atomic Clock (CSAC). We demonstrate the robustness of our distributed
     time-transfer technique as the error covariance of the transmission delay is varied.
+  award: ''
   bibtex: " @article{bhamidipati2022time,\n  title = {Time-transfer from terrestrial\
     \ gps for distributed lunar surface communication networks},\n  journal = {2022\
     \ ieee aerospace conference (aero)},\n  pages = {1--15},\n  year = {2022},\n \
@@ -395,6 +409,7 @@
     angles with simultaneous estimation of differential clock offsets and ballistic
     coefficients. It therefore presents an important capability for the support of
     future lunar and planetary exploration.'
+  award: ''
   bibtex: " @article{iiyama2022anglesonly,\n  title = {Autonomous Distributed Angles-Only\
     \ Navigation and Timekeeping in Lunar Orbit},\n  journal = {Proceedings of the\
     \ 2022 International Technical Meeting of the Institute of Navigation},\n  location\
@@ -430,6 +445,7 @@
     Halo Orbit (NRHO). The proposed filter converged in all Monte-Carlo cases with
     clock offset errors below 0.15 microseconds and 1.0 microseconds in the frozen
     orbit and the NRHO, respectively.
+  award: ''
   bibtex: " @article{iiyama2021autonomousdecentralized,\n  title = {Autonomous and\
     \ decentralized orbit determination and clock offset estimation of lunar navigation\
     \ satellites using GPS signals and inter-satellite ranging},\n  journal = {Proceedings\
@@ -464,6 +480,7 @@
     algorithm for noised DEMs. The networks trained with multi-hazard-class safety
     maps result in better accuracy in terms of mean intersection over union (mIoU)
     but do not improve pixel accuracy.
+  award: ''
   bibtex: " @article{tomita2020hazard,\n  title = {Hazard detection algorithm for\
     \ planetary landing using semantic segmentation},\n  journal = {ASCEND 2020},\n\
     \  pages = {4150},\n  year = {2020},\n  month = {11},\n  location = {Las Vegas,\
@@ -497,6 +514,7 @@
     landing in highly challenging landing sites where over 80% of the area around
     the initial target lading point is hazardous, by effectively updating the target
     landing site and feedback control gain during descent.
+  award: ''
   bibtex: " @article{iiyama2021deep,\n  title = {Deep reinforcement learning for safe\
     \ landing site selection with concurrent consideration of divert maneuvers},\n\
     \  journal = {AAS/AIAA Astrodynamics Specialist Conference},\n  year = {2020},\n\
@@ -527,6 +545,7 @@
     range management, and thermal interface materials were made. These design changes
     were verified by another thermal vacuum test, and we proved that EQUULEUS can
     meet the constraints to reach EML2 and conduct its scientific missions.
+  award: ''
   bibtex: " @article{shibukawa2020flight,\n  title = {Flight Model Thermal Design\
     \ and Verification for the 6U Deep Space CubeSat EQUULEUS},\n  year = {2020},\n\
     \  journal = {2020 International Conference on Environmental Systems},\n  month\
@@ -557,6 +576,7 @@
     for vaporization. Under the constraints, we proposed the thermal design of EQUULEUS
     Engineering Model (EM), validated the design by numerical simulations and the
     thermal vacuum test.
+  award: ''
   bibtex: " @article{matsushita2019thermal,\n  title = {Thermal Design and Validation\
     \ for a 6U Deep Space CubeSat EQUULEUS under Constraints Tightly Coupled with\
     \ Orbital Design and Water Propulsion System},\n  year = {2019},\n  month = {7},\n\
@@ -594,6 +614,7 @@
     of the optimized configuration for 20 navigation satellites and 8 LMSs is analyzed.
     The results showed that the obtained constellation could achieve positioning errors
     below 10m in 3$\sigma$ for the global average.
+  award: ''
   bibtex: " @article{iiyama2019optimization,\n  title = {Optimization of the Navigation\
     \ satellite constellation and Lunar Monitoring Station for Lunar Global Navigation\
     \ Satellite System},\n  year = {2019},\n  month = {6},\n  journal = {32nd International\
@@ -611,6 +632,7 @@
   video: ''
   code: ''
   abstract: ''
+  award: ''
   bibtex: " @article{shibukawa2019reflection,\n  title = {Reflection and Verification\
     \ of Thermal Design under Tightly-Coupled Constraints to the 6U Deep Space CubeSat\
     \ EQUULEUS},\n  year = {2019},\n  month = {6},\n  journal = {32nd International\

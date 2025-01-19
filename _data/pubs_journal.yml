@@ -1,73 +1,128 @@
-- id: "[J3]"
-  author    : Cortinovis, M., <strong> Iiyama, K.,</strong> and Gao, G.
-  title     : Satellite Ephemeris Parameterization Methods to Support Lunar Positioning, Navigation, and Timing Services
-  volume    : 71
-  number    : 4
-  year      : 2024
-  month     : 12
-  url       : https://doi.org/10.33012/navi.664
-  issn      : 0028-1522
-  journal   : "NAVIGATION: Journal of the Institute of Navigation"
-  abstract  : "Plans to establish a satellite network around the Moon to support communication, position, navigation, and timing services are rapidly evolving. Satellites that are part of this system broadcast their ephemeris as finite parameters to lunar users for user state estimation. In this work, we investigate lunar satellite ephemeris design to identify the optimal parameterization to broadcast to a lunar user. The proposed framework directly approximates the lunar satellite position and velocity in the inertial frame and obtains the conversion parameters necessary for state representation in the lunar fixed frame. The framework leverages signal-in-space-error requirements as constraints in the parameterization process to guide the search for the best ephemeris parameter set. We evaluate the performance of our proposed framework for satellites in a low lunar orbit and an elliptical lunar frozen orbit. The performance of different methods is assessed based on the precision of the ephemeris prediction, fit interval, and message size. We showcase the ability of the developed framework to approximate satellite ephemeris for both orbits to the desired precision by adjusting the fit interval and the number of parameters to broadcast. In particular, we demonstrate that formulations with a standard polynomial basis and a Chebyshev polynomial basis produce feasible solutions for ephemeris approximation at varying epochs in orbits, abiding by signal-in-space-error requirements."
-  bibtex: |
-    @article{cortinovis2024satellitejournal,
-      id        = {J3},
-      author    = {Cortinovis, Marta and Iiyama,, Keidai and Gao, Grace},
-      title     = {Satellite Ephemeris Parameterization Methods to Support Lunar Positioning, Navigation, and Timing Services},
-      volume    = {71},
-      number    = {4},
-      year      = {2024},
-      month     = {12},
-      doi       = {10.33012/navi.664},
-      publisher = {Institute of Navigation},
-      abstract  = {Plans to establish a satellite network around the Moon to support communication, position, navigation, and timing services are rapidly evolving. Satellites that are part of this system broadcast their ephemeris as finite parameters to lunar users for user state estimation. In this work, we investigate lunar satellite ephemeris design to identify the optimal parameterization to broadcast to a lunar user. The proposed framework directly approximates the lunar satellite position and velocity in the inertial frame and obtains the conversion parameters necessary for state representation in the lunar fixed frame. The framework leverages signal-in-space-error requirements as constraints in the parameterization process to guide the search for the best ephemeris parameter set. We evaluate the performance of our proposed framework for satellites in a low lunar orbit and an elliptical lunar frozen orbit. The performance of different methods is assessed based on the precision of the ephemeris prediction, fit interval, and message size. We showcase the ability of the developed framework to approximate satellite ephemeris for both orbits to the desired precision by adjusting the fit interval and the number of parameters to broadcast. In particular, we demonstrate that formulations with a standard polynomial basis and a Chebyshev polynomial basis produce feasible solutions for ephemeris approximation at varying epochs in orbits, abiding by signal-in-space-error requirements.},
-      issn      = {0028-1522},
-      url       = {https://navi.ion.org/content/71/4/navi.664},
-      journal   = {NAVIGATION: Journal of the Institute of Navigation}
-    }
-- id: "[J2]"
-  author    : <strong>Iiyama, K., </strong>, Bhamidipati, S., and Gao, G.
-  title     : Precise Positioning and Timekeeping in a Lunar Orbit via Terrestrial GPS Time-Differenced Carrier-Phase Measurements
-  volume    : 71
-  number    : 1
-  year      : 2024
-  month     : 3
-  publisher : Institute of Navigation
-  abstract  : "There is a growing interest in the use of legacy terrestrial Global Positioning System (GPS) signals to determine the precise positioning and timing onboard a lunar satellite. Unlike prior works that utilize pseudoranges with meter-level accuracy, we propose a precise positioning and timekeeping technique that leverages carrier-phase measurements with millimeter-level accuracy (when integer ambiguities are correctly fixed). We design an extended Kalman filter framework that harnesses the intermittently available terrestrial GPS time-differenced carrier-phase (TDCP) values and gravitational accelerations predicted by the orbital filter. To estimate the process noise covariance, we implement an adaptive state noise compensation algorithm that adapts to the challenging lunar environment with weak gravity and strong third-body perturbations. Additionally, we perform measurement residual analysis to discard TDCP measurements corrupted by cycle slips and increased measurement noise. We present Monte-Carlo simulations of a lunar satellite in an elliptical lunar frozen orbit and quasi-frozen low lunar orbit, wherein we showcase higher positioning and timing accuracy as compared with the pseudorange-only navigation solution."
-  issn      : 0028-1522
-  url       : https://doi.org/10.33012/navi.635
-  journal   : "NAVIGATION: Journal of the Institute of Navigation"
-  bibtex: |
-    @article{iiyama2024precisejournal,
-      author    = {Keidai Iiyama and Sriramya Bhamidipati, and Grace Gao},
-      title     = {Precise Positioning and Timekeeping in a Lunar Orbit via Terrestrial GPS Time-Differenced Carrier-Phase Measurements},
-      volume    = {71},
-      number    = {1},
-      year      = {2024},
-      month     = {3},
-      publisher = {Institute of Navigation},
-      issn      = {0028-1522},
-      url       = {https://doi.org/10.33012/navi.635},
-      journal   = {NAVIGATION: Journal of the Institute of Navigation}
-    } 
-- id: "[J1]"
-  author: Funase, R., Ikari, S., Miyoshi, K., et al., (<strong>20th Author</strong>)
-  journal: IEEE Aerospace & Electro. Systems Magazine
-  volume: 35
-  number: 3
-  pages: 30-44
-  year: 2020
-  title: "Mission to Earth-Moon Lagrange Point by a 6U CubeSat: EQUULEUS"
-  url: "https://doi.org/10.1109/MAES.2019.2955577"
-  abstract: "EQUULEUS (EQUilibriUm Lunar-Earth point 6U Spacecraft) will be the world's smallest spacecraft to explore the Earth-Moon Lagrange point. It is being jointly developed by JAXA (Japan Aerospace Exploration Agency) and the University of Tokyo, and will be launched by NASA's Space Launch System Exploration Mission-1. The spacecraft will fly to a libration orbit around the Earth–Moon L2 point (EML2) and will demonstrate low-energy trajectory-control techniques within the Sun—Earth—Moon region for the first time by a nano-class spacecraft. EQUULEUS also carries three scientific observation missions: imaging of Earth's plasmasphere by extreme ultraviolet wavelength, lunar impact flash observation on the far side of the moon, and micrometeoroid flux measurements in the cis-lunar region. While all these missions have their own scientific objectives, they will also contribute to future human activity and/or infrastructure development in the cis-lunar region. Most parts of the spacecraft system use commercial off-the-shelf components, or are designed based on the experiences of various past space missions, with the exception of the newly developed water resistojet propulsion system. EQUULEUS uses X-band frequency for deep space telecommunication. Japanese deep space antennas (64-m and 34-m) will be nominally used for spacecraft operation, and support from the deep space network of JPL (Jet Propulsion Laboratory) is also being planned, especially for the initial phase of operation. The spacecraft will fly to EML2 in less than one year, and will remain there for scientific observations until shortly before the depletion of the onboard propellant, when the spacecraft will leave the orbit for space-debris compliance."
-  bibtex: |
-    @article{equuleus2020,
-      author = {Funase, R. and Ikari, S. and Miyoshi, K. and Your Name},
-      title = {Mission to Earth-Moon Lagrange Point by a 6U CubeSat: EQUULEUS},
-      journal = {IEEE Aerospace & Electro. Systems Magazine},
-      volume = {35},
-      number = {3},
-      pages = {30-44},
-      url={https://doi.org/10.1109/MAES.2019.2955577},
-      year = {2020}
-    } 
+- id: '[J3]'
+  idnum: 3
+  volume: '71'
+  number: '4'
+  pages: ''
+  publisher: Institute of Navigation
+  url: https://navi.ion.org/content/71/4/navi.664
+  author: Cortinovis, M., <strong>Iiyama, K.</strong>, Gao, G.
+  title: Satellite Ephemeris Parameterization Methods to Support Lunar Positioning,
+    Navigation, and Timing Services
+  journal: 'NAVIGATION: Journal of the Institute of Navigation'
+  year: '2024'
+  year_num: 2024
+  pdf: ''
+  video: ''
+  code: ''
+  abstract: Plans to establish a satellite network around the Moon to support communication,
+    position, navigation, and timing services are rapidly evolving. Satellites that
+    are part of this system broadcast their ephemeris as finite parameters to lunar
+    users for user state estimation. In this work, we investigate lunar satellite
+    ephemeris design to identify the optimal parameterization to broadcast to a lunar
+    user. The proposed framework directly approximates the lunar satellite position
+    and velocity in the inertial frame and obtains the conversion parameters necessary
+    for state representation in the lunar fixed frame. The framework leverages signal-in-space-error
+    requirements as constraints in the parameterization process to guide the search
+    for the best ephemeris parameter set. We evaluate the performance of our proposed
+    framework for satellites in a low lunar orbit and an elliptical lunar frozen orbit.
+    The performance of different methods is assessed based on the precision of the
+    ephemeris prediction, fit interval, and message size. We showcase the ability
+    of the developed framework to approximate satellite ephemeris for both orbits
+    to the desired precision by adjusting the fit interval and the number of parameters
+    to broadcast. In particular, we demonstrate that formulations with a standard
+    polynomial basis and a Chebyshev polynomial basis produce feasible solutions for
+    ephemeris approximation at varying epochs in orbits, abiding by signal-in-space-error
+    requirements.
+  bibtex: " @article{cortinovis2024satellitejournal,\n  title = {Satellite Ephemeris\
+    \ Parameterization Methods to Support Lunar Positioning, Navigation, and Timing\
+    \ Services},\n  volume = {71},\n  number = {4},\n  year = {2024},\n  month = {12},\n\
+    \  doi = {10.33012/navi.664},\n  publisher = {Institute of Navigation},\n  issn\
+    \ = {0028-1522},\n  url = {https://navi.ion.org/content/71/4/navi.664},\n  journal\
+    \ = {NAVIGATION: Journal of the Institute of Navigation},\n}"
+- id: '[J2]'
+  idnum: 2
+  volume: '71'
+  number: '1'
+  pages: ''
+  publisher: Institute of Navigation
+  url: https://doi.org/10.33012/navi.635
+  author: <strong>Iiyama, K.</strong>, Sriramya, , Gao, G.
+  title: Precise Positioning and Timekeeping in a Lunar Orbit via Terrestrial GPS
+    Time-Differenced Carrier-Phase Measurements
+  journal: 'NAVIGATION: Journal of the Institute of Navigation'
+  year: '2024'
+  year_num: 2024
+  pdf: ''
+  video: ''
+  code: ''
+  abstract: There is a growing interest in the use of legacy terrestrial Global Positioning
+    System (GPS) signals to determine the precise positioning and timing onboard a
+    lunar satellite. Unlike prior works that utilize pseudoranges with meter-level
+    accuracy, we propose a precise positioning and timekeeping technique that leverages
+    carrier-phase measurements with millimeter-level accuracy (when integer ambiguities
+    are correctly fixed). We design an extended Kalman filter framework that harnesses
+    the intermittently available terrestrial GPS time-differenced carrier-phase (TDCP)
+    values and gravitational accelerations predicted by the orbital filter. To estimate
+    the process noise covariance, we implement an adaptive state noise compensation
+    algorithm that adapts to the challenging lunar environment with weak gravity and
+    strong third-body perturbations. Additionally, we perform measurement residual
+    analysis to discard TDCP measurements corrupted by cycle slips and increased measurement
+    noise. We present Monte-Carlo simulations of a lunar satellite in an elliptical
+    lunar frozen orbit and quasi-frozen low lunar orbit, wherein we showcase higher
+    positioning and timing accuracy as compared with the pseudorange-only navigation
+    solution.
+  bibtex: " @article{iiyama2024precisejournal,\n  title = {Precise Positioning and\
+    \ Timekeeping in a Lunar Orbit via Terrestrial GPS Time-Differenced Carrier-Phase\
+    \ Measurements},\n  volume = {71},\n  number = {1},\n  year = {2024},\n  month\
+    \ = {3},\n  publisher = {Institute of Navigation},\n  issn = {0028-1522},\n  url\
+    \ = {https://doi.org/10.33012/navi.635},\n  journal = {NAVIGATION: Journal of\
+    \ the Institute of Navigation},\n}"
+- id: '[J1]'
+  idnum: 1
+  volume: '35'
+  number: '3'
+  pages: 30--44
+  publisher: IEEE
+  url: https://doi.org/10.1109/MAES.2019.2955577
+  author: Funase, R., Ikari, S., Miyoshi, K., Kawabata, Y., Nakajima, S., Nomura,
+    S., Funabiki, N., Ishikawa, A., Kakihara, K., Matsushita, S., Takahashi, R., Yanagida,
+    K., Mori, D., Murata, Y., Shibukawa, T., Suzumoto, R., Fujiwara, M., Tomita, K.,
+    Aohama, H., <strong>Iiyama, K.</strong>, Ishiwata, S., Kondo, H., Mikuriya, W.,
+    Seki, H., Koizumi, H., Asakawa, J., Nishii, K., Hattori, A., Saito, Y., Kikuchi,
+    K., Kobayashi, Y., Tomiki, A., Torii, W., Ito, T., Campagnola, S., Ozaki, N.,
+    Baresi, N., Yoshikawa, I., Yoshioka, K., Kuwabara, M., Hikida, R., Arao, S., Abe,
+    S., Yanagisawa, M., Fuse, R., Masuda, Y., Yano, H., Hirai, T., Arai, K., Jitsukawa,
+    R., Ishioka, E., Nakano, H., Ikenaga, T., Hashimoto, T.
+  title: 'Mission to earth--moon lagrange point by a 6u cubesat: Equuleus'
+  journal: IEEE Aerospace and Electronic Systems Magazine
+  year: '2020'
+  year_num: 2020
+  pdf: ''
+  video: ''
+  code: ''
+  abstract: 'EQUULEUS (EQUilibriUm Lunar-Earth point 6U Spacecraft) will be the world''s
+    smallest spacecraft to explore the Earth–Moon Lagrange point. It is being jointly
+    developed by JAXA (Japan Aerospace Exploration Agency) and the University of Tokyo,
+    and will be launched by NASA''s Space Launch System Exploration Mission-1. The
+    spacecraft will fly to a libration orbit around the Earth–Moon L2 point (EML2)
+    and will demonstrate low-energy trajectory-control techniques within the Sun—Earth—Moon
+    region for the first time by a nano-class spacecraft. EQUULEUS also carries three
+    scientific observation missions: imaging of Earth''s plasmasphere by extreme ultraviolet
+    wavelength, lunar impact flash observation on the far side of the moon, and micrometeoroid
+    flux measurements in the cis-lunar region. While all these missions have their
+    own scientific objectives, they will also contribute to future human activity
+    and/or infrastructure development in the cis-lunar region. Most parts of the spacecraft
+    system use commercial off-the-shelf components, or are designed based on the experiences
+    of various past space missions, with the exception of the newly developed water
+    resistojet propulsion system. EQUULEUS uses X-band frequency for deep space telecommunication.
+    Japanese deep space antennas (64-m and 34-m) will be nominally used for spacecraft
+    operation, and support from the deep space network of JPL (Jet Propulsion Laboratory)
+    is also being planned, especially for the initial phase of operation. The spacecraft
+    will fly to EML2 in less than one year, and will remain there for scientific observations
+    until shortly before the depletion of the onboard propellant, when the spacecraft
+    will leave the orbit for space-debris compliance.'
+  bibtex: " @article{funase2020mission,\n  title = {Mission to earth--moon lagrange\
+    \ point by a 6u cubesat: Equuleus},\n  journal = {IEEE Aerospace and Electronic\
+    \ Systems Magazine},\n  volume = {35},\n  number = {3},\n  pages = {30--44},\n\
+    \  year = {2020},\n  publisher = {IEEE},\n  url = {https://doi.org/10.1109/MAES.2019.2955577},\n\
+    }"

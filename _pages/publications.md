@@ -68,8 +68,8 @@ You can also find my articles at my [ResearchGate](https://www.researchgate.net/
             “{{ pub.title }}”, 
             <em>{{ pub.journal }}</em>, 
             {{ pub.year }},
-            {% if pub.award %}
-              {{ pub.award }}
+            {% if pub.award != '' %}
+            <strong> {{ pub.award }} </strong>
             {% endif %}
             {% if pub.pdf != '' %}
             [<a href="{{ pub.pdf }}">Paper</a>]
