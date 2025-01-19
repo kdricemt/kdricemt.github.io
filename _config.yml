@@ -266,7 +266,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-  - jekyll-scholar
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -313,28 +312,28 @@ compress_html:
     envs: development
 
 # bibtex
-scholar:
-  style: apa
-  locale: en
+# scholar:
+#   style: apa
+#   locale: en
 
-  sort_by: year, month
-  order: descending, descending
+#   sort_by: year, month
+#   order: descending, descending
 
-  group_by: none
-  group_order: descending
+#   group_by: none
+#   group_order: descending
 
-  source: ./_bibliography
-  bibliography: journals.bib, conferences.bib
-  bibliography_template: bib
+#   source: ./_bibliography
+#   bibliography: journals.bib, conferences.bib
+#   bibliography_template: bib
 
-  replace_strings: true
-  join_strings:    true
+#   replace_strings: true
+#   join_strings:    true
 
-  use_raw_bibtex_entry: false
+#   use_raw_bibtex_entry: false
 
-  details_dir:    bibliography
-  details_layout: bibtex.html
-  details_link:   Details
+#   details_dir:    bibliography
+#   details_layout: bibtex.html
+#   details_link:   Details
 
-  query: "@*"
+#   query: "@*"
   

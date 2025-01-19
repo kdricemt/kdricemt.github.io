@@ -153,7 +153,7 @@ Prior to Stanford, I received my B.E. and M.E. degree from the [Aero/Astro Depar
 
 In the past, I also had the honor to collaborate with [Space Systems Optimization Group (SSOG)](https://ssog.ae.gatech.edu/) at Georgia Tech, [Space Rendezvous Lab (SLAB)](https://damicos.people.stanford.edu/) at Stanford University, and Section 332H at [Jet Propulsion Laboratory](https://www.jpl.nasa.gov/). At SSOG, I worked on developing deep reinforcement learning algorithms for landing site selection. At SLAB, I worked on multi-agent vision-based angles-only navigation in lunar orbit. At JPL, I worked on the constellation design and orbit determination simulation for future Mars navigation + communication constellation to support future human missions on Mars.
 
-Please refer to my [CV](/files/Keidai_Iiyama_CV.pdf) (last updated at September 2024) for the latest information.
+Please refer to my [CV](/files/Keidai_Iiyama_CV.pdf) (last updated at January 2025) for the latest information.
 
 ## Education
 {% include minifeature_row id="feature_stanford" type="left" %}
