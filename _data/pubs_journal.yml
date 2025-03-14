@@ -1,3 +1,38 @@
+- id: '[J4]'
+  idnum: 4
+  volume: ''
+  number: ''
+  pages: ''
+  publisher: ''
+  url: ''
+  author: <strong>Iiyama, K.</strong>, Neamati, D., Gao, G.
+  title: 'Autonomous Constellation Fault Monitoring with Inter-satellite Links: A
+    Rigidity-Based Approach'
+  journal: 'NAVIGATION: Journal of the Institute of Navigation'
+  year: '2025'
+  year_num: 2025
+  pdf: https://drive.google.com/file/d/1RE618igQrmIyBLNuHuQOX1kwZd6a8_Es/view?usp=sharing
+  video: ''
+  code: ''
+  abstract: To address the need for robust positioning, navigation, and timing services
+    in lunar environments, this paper proposes a novel fault detection framework for
+    satellite constellations using inter-satellite ranging (ISR). Traditionally, navigation
+    satellites can depend on a robust network of ground-based stations for fault monitoring.
+    However, due to cost constraints, a comprehensive ground segment on the lunar
+    surface is impractical for lunar constellations. Our approach leverages vertex
+    redundantly rigid graphs to detect faults without relying on precise ephemeris.
+    We model satellite constellations as graphs where satellites are vertices and
+    inter-satellite links are edges. We identify faults through the singular values
+    of the geometric-centered Euclidean distance matrix (GCEDM) of 2-vertex redundantly
+    rigid sub-graphs. The proposed method is validated through simulations of constellations
+    around the Moon, demonstrating its effectiveness in various configurations. This
+    research contributes to the reliable operation of satellite constellations for
+    future lunar exploration missions.
+  bibtex: " @article{iiyama2024faultjournal,\n  title = {Autonomous Constellation\
+    \ Fault Monitoring with Inter-satellite Links: A Rigidity-Based Approach},\n \
+    \ year = {2025},\n  month = {},\n  journal = {NAVIGATION: Journal of the Institute\
+    \ of Navigation},\n  review = {(Under Review)},\n}"
+  review: (Under Review)
 - id: '[J3]'
   idnum: 3
   volume: '71'
@@ -39,6 +74,7 @@
     \  doi = {10.33012/navi.664},\n  publisher = {Institute of Navigation},\n  issn\
     \ = {0028-1522},\n  url = {https://navi.ion.org/content/71/4/navi.664},\n  journal\
     \ = {NAVIGATION: Journal of the Institute of Navigation},\n}"
+  review: ''
 - id: '[J2]'
   idnum: 2
   volume: '71'
@@ -46,7 +82,7 @@
   pages: ''
   publisher: Institute of Navigation
   url: https://doi.org/10.33012/navi.635
-  author: <strong>Iiyama, K.</strong>, Sriramya, , Gao, G.
+  author: <strong>Iiyama, K.</strong>, Bhamidipati, S. , Gao, G.
   title: Precise Positioning and Timekeeping in a Lunar Orbit via Terrestrial GPS
     Time-Differenced Carrier-Phase Measurements
   journal: 'NAVIGATION: Journal of the Institute of Navigation'
@@ -77,6 +113,7 @@
     \ = {3},\n  publisher = {Institute of Navigation},\n  issn = {0028-1522},\n  url\
     \ = {https://doi.org/10.33012/navi.635},\n  journal = {NAVIGATION: Journal of\
     \ the Institute of Navigation},\n}"
+  review: ''
 - id: '[J1]'
   idnum: 1
   volume: '35'
@@ -126,3 +163,4 @@
     \ Systems Magazine},\n  volume = {35},\n  number = {3},\n  pages = {30--44},\n\
     \  year = {2020},\n  publisher = {IEEE},\n  url = {https://doi.org/10.1109/MAES.2019.2955577},\n\
     }"
+  review: ''

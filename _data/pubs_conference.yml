@@ -1,3 +1,45 @@
+- id: '[C22]'
+  idnum: 22
+  author: <strong>Iiyama, K.</strong>, Gao, G.
+  title: Plasmaspheric Delay Characterization and Comparison of Mitigation Methodologies
+    for Lunar Terrestrial GNSS Receivers
+  journal: Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+
+    2025)
+  year: '2025'
+  year_num: 2025
+  pdf: ''
+  slides: ''
+  video: ''
+  code: ''
+  abstract: ''
+  award: ''
+  bibtex: " @article{iiyama2025plasma,\n  title = {Plasmaspheric Delay Characterization\
+    \ and Comparison of Mitigation Methodologies for Lunar Terrestrial GNSS Receivers},\n\
+    \  pages = {},\n  year = {2025},\n  month = {September},\n  journal = {Proceedings\
+    \ of the Institute of Navigation GNSS+ conference (ION GNSS+ 2025)},\n  review\
+    \ = {(Abstract Submitted)},\n}"
+  review: (Abstract Submitted)
+- id: '[C21]'
+  idnum: 21
+  author: <strong>Iiyama, K.</strong>, Vila, G.C., Gao, G.
+  title: Constellation Design and Staged Development for the Lunar Navigation Satellite
+    System
+  journal: Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+
+    2025)
+  year: '2025'
+  year_num: 2025
+  pdf: ''
+  slides: ''
+  video: ''
+  code: ''
+  abstract: ''
+  award: ''
+  bibtex: " @article{iiyama2025constellation,\n  title = {Constellation Design and\
+    \ Staged Development for the Lunar Navigation Satellite System},\n  pages = {},\n\
+    \  year = {2025},\n  month = {September},\n  journal = {Proceedings of the Institute\
+    \ of Navigation GNSS+ conference (ION GNSS+ 2025)},\n  review = {(Abstract Submitted)},\n\
+    }"
+  review: (Abstract Submitted)
 - id: '[C20]'
   idnum: 20
   author: Vila, G.C., <strong>Iiyama, K.</strong>, Gao, G.
@@ -16,6 +58,7 @@
     \ for Lunar Communications, Positioning, Navigation, and Timing},\n  pages = {},\n\
     \  year = {2025},\n  month = {March},\n  journal = {2025 IEEE Aerospace Conference},\n\
     }"
+  review: ''
 - id: '[C19]'
   idnum: 19
   author: <strong>Iiyama, K.</strong>, Jun, W.W., Bhamidipati, S., Gao, G., Cheung,
@@ -26,7 +69,7 @@
   year: '2025'
   year_num: 2025
   pdf: https://drive.google.com/file/d/1twq226bUb49lHmHscmDmMYOVVbDe5ZC3/view?usp=sharing
-  slides: ''
+  slides: https://drive.google.com/file/d/1Gzs4zH-eJYU9DZLOz_p6VN5kWJtaaRat/view?usp=sharing
   video: ''
   code: ''
   abstract: ''
@@ -34,7 +77,9 @@
   bibtex: " @article{iiyama2025odtsmars,\n  title = {Orbit Determination and Time\
     \ Synchronization for the Future Mars Relay and Navigation Constellation},\n \
     \ pages = {},\n  year = {2025},\n  month = {March},\n  journal = {2025 IEEE Aerospace\
-    \ Conference},\n}"
+    \ Conference},\n  slides = {https://drive.google.com/file/d/1Gzs4zH-eJYU9DZLOz_p6VN5kWJtaaRat/view?usp=sharing},\n\
+    }"
+  review: ''
 - id: '[C18]'
   idnum: 18
   author: <strong>Iiyama, K.</strong>, Neamati, D., Gao, G.
@@ -68,6 +113,7 @@
     \  month = {9},\n  journal = {Proceedings of the Institute of Navigation GNSS+\
     \ conference (ION GNSS+ 2024)},\n  slides = {https://drive.google.com/file/d/1nDlSjQJN9SuKfAlO9FuofAQ3dpk66DKt/view?usp=sharing},\n\
     \  award = {Best Presentation of the Session},\n}"
+  review: ''
 - id: '[C17]'
   idnum: 17
   author: <strong>Iiyama*, K.</strong>, Vila*, G.C., Gao, G.
@@ -103,6 +149,7 @@
     \ = {2024 IEEE Aerospace Conference},\n  pages = {},\n  year = {2024},\n  month\
     \ = {3},\n  slides = {https://drive.google.com/file/d/1Q-1PTQZ3Gtd3rYOmMXX7g4UwT1eMOq-p/view?usp=sharing},\n\
     }"
+  review: ''
 - id: '[C16]'
   idnum: 16
   author: <strong>Iiyama*, K.</strong>, Vila*, G.C., Gao, G.
@@ -139,6 +186,7 @@
     \ Institute of Navigation GNSS+ conference (ION GNSS+ 2023)},\n  pages = {1499--1510},\n\
     \  year = {2023},\n  month = {9},\n  slides = {https://drive.google.com/file/d/1skQkY_pcZwauKjDcvAk_734lyzUmuOUt/view},\n\
     }"
+  review: ''
 - id: '[C15]'
   idnum: 15
   author: <strong>Iiyama, K.</strong>, Gao, G.
@@ -186,6 +234,7 @@
     \ conference (ION GNSS+ 2023)},\n  pages = {1511--1529},\n  year = {2023},\n \
     \ month = {9},\n  slides = {https://drive.google.com/file/d/1vNk6GMIdG3MgwIJZojvdi_QiUv46VeDr/view},\n\
     }"
+  review: ''
 - id: '[C14]'
   idnum: 14
   author: Cortinovis, M., <strong>Iiyama, K.</strong>, Gao, G.
@@ -224,6 +273,7 @@
     \  pages = {3647--3663},\n  year = {2023},\n  month = {9},\n  paper = {https://drive.google.com/file/d/1z-j70jBJPtMAQ6cpA_ig5yjbLJkotSEX/view},\n\
     \  slides = {https://drive.google.com/file/d/1HG9RaoZfY6DoCg29m-v_fsy_l1IcnqVM/view},\n\
     \  award = {Best Presentation of the Session},\n}"
+  review: ''
 - id: '[C13]'
   idnum: 13
   author: Shimane, Y., <strong>Iiyama, K.</strong>
@@ -247,6 +297,7 @@
   bibtex: " @article{shimane2023dual,\n  title = {Methods for Dual-Objective High\
     \ Energy Tour Design},\n  journal = {AAS/AIAA Astrodynamics Specialist Conference},\n\
     \  location = {Big sky, MT},\n  year = {2023},\n  month = {8},\n}"
+  review: ''
 - id: '[C12]'
   idnum: 12
   author: <strong>Iiyama, K.</strong>, Bhamidipati, S., Gao, G.
@@ -267,6 +318,7 @@
     \ = {IEEE},\n  url = {https://doi.org/10.1109/AERO55745.2023.10115673},\n  slides\
     \ = {https://drive.google.com/file/d/1v3gKyHCCTrFBDLstRb_Yw5Y619EQuwiw/view?usp=sharing},\n\
     }"
+  review: ''
 - id: '[C11]'
   idnum: 11
   author: <strong>Iiyama, K.</strong>, Sriramya, , Gao, G.
@@ -303,12 +355,13 @@
     \ the 2023 International Technical Meeting of The Institute of Navigation},\n\
     \  url = {https://doi.org/10.33012/2023.18597},\n  slides = {https://drive.google.com/file/d/1Me1eJwT1VHI8-crE6kLqaEKAYND_dzS7/view?usp=sharing},\n\
     }"
+  review: ''
 - id: '[C10]'
   idnum: 10
   author: Murata, M., Koga, M., Nakajima, Y., Yasumitsu, R., Araki, T., Makino, K.,
     Akiyama, K., Yamamoto, T., Tanabe, K., Kogure, S., Sato, N., Toyama, D., Kitamura,
-    K., Miyasaka, K., Kawaguchi, T., Sato, Y., Kakihara, K., Shibukawa, T., <strong>Iiyama,
-    K</strong>., Tanaka, T.
+    K., Miyasaka, K., Kawaguchi, T., Sato, Y., Kakihara, K., Shibukawa, T., Iiyama,
+    K., Tanaka, T.
   title: 'Lunar navigation satellite system: Mission, system overview, and demonstration'
   journal: 39th International Communications Satellite Systems Conference (ICSSC 2022)
   year: '2022'
@@ -335,6 +388,7 @@
     \ Communications Satellite Systems Conference (ICSSC 2022)},\n  volume = {2022},\n\
     \  pages = {12--15},\n  year = {2022},\n  month = {10},\n  url = {https://doi.org/10.1049/icp.2023.1355},\n\
     }"
+  review: ''
 - id: '[C9]'
   idnum: 9
   author: Bhamidipati, S., <strong>Iiyama*, K.</strong>, Mina*, T., Gao, G.
@@ -374,6 +428,7 @@
     \ organization = {IEEE},\n  month = {3},\n  url = {https://doi.org/10.1109/AERO53065.2022.9843716},\n\
     \  slides = {https://drive.google.com/file/d/1q2TtI9oUaNvA4X3iHQRx7EmVmS0OrKFX/view},\n\
     }"
+  review: ''
 - id: '[C8]'
   idnum: 8
   author: <strong>Iiyama, K.</strong>, Kruger, J., D’Amico, S.
@@ -416,6 +471,7 @@
     \ = {Long Beach, CA},\n  pages = {453--470},\n  year = {2022},\n  month = {1},\n\
     \  url = {https://doi.org/10.33012/2022.18207},\n  slides = {https://www.dropbox.com/s/1ocz6mt59xswasl/Keidai_ION_ITM_2022_rev2_slideonly.pdf?dl=0},\n\
     }"
+  review: ''
 - id: '[C7]'
   idnum: 7
   author: <strong>Iiyama, K.</strong>, Kawabata, Y., Funase, R.
@@ -453,6 +509,7 @@
     \ = {936--949},\n  year = {2021},\n  month = {9},\n  url = {https://doi.org/10.33012/2021.18019},\n\
     \  slides = {https://www.dropbox.com/s/h5wfe2z3tki8mrq/ION_GNSS_2021_iiyama_slideonly.pdf?dl=0},\n\
     }"
+  review: ''
 - id: '[C6]'
   idnum: 6
   author: Tomita, K., Skinner, K., <strong>Iiyama, K.</strong>, Jagatia, B., Nakagawa,
@@ -485,6 +542,7 @@
     \ planetary landing using semantic segmentation},\n  journal = {ASCEND 2020},\n\
     \  pages = {4150},\n  year = {2020},\n  month = {11},\n  location = {Las Vegas,\
     \ NV},\n  url = {https://doi.org/10.2514/6.2020-4150},\n}"
+  review: ''
 - id: '[C5]'
   idnum: 5
   author: <strong>Iiyama, K.</strong>, Tomita, K., Jagatia, B.A., Nakagawa, T., Ho,
@@ -520,6 +578,7 @@
     \  journal = {AAS/AIAA Astrodynamics Specialist Conference},\n  year = {2020},\n\
     \  month = {8},\n  slides = {https://www.dropbox.com/scl/fi/165lkwid16mu7t0hnfm96/ASC_2020_iiyama_Presentation.pdf?rlkey=gzqc9nreafjku6u0cz8jlhfux&dl=0},\n\
     \  location = {Lake Tahoe, CA},\n}"
+  review: ''
 - id: '[C4]'
   idnum: 4
   author: Shibukawa, T., Matsushita, S., <strong>Iiyama, K.</strong>, Ishikawa, A.,
@@ -550,6 +609,7 @@
     \ and Verification for the 6U Deep Space CubeSat EQUULEUS},\n  year = {2020},\n\
     \  journal = {2020 International Conference on Environmental Systems},\n  month\
     \ = {7},\n  location = {Lisbon, Portugal (postponed)},\n}"
+  review: ''
 - id: '[C3]'
   idnum: 3
   author: Matsushita, S., Shibukawa, T., <strong>Iiyama, K.</strong>, Funase, R.
@@ -581,6 +641,7 @@
     \ for a 6U Deep Space CubeSat EQUULEUS under Constraints Tightly Coupled with\
     \ Orbital Design and Water Propulsion System},\n  year = {2019},\n  month = {7},\n\
     \  journal = {49th International Conference on Environmental Systems},\n}"
+  review: ''
 - id: '[C2]'
   idnum: 2
   author: <strong>Iiyama, K.</strong>
@@ -619,6 +680,7 @@
     \ satellite constellation and Lunar Monitoring Station for Lunar Global Navigation\
     \ Satellite System},\n  year = {2019},\n  month = {6},\n  journal = {32nd International\
     \ Symposium on Space Technology and Science},\n  location = {Fukui, Japan},\n}"
+  review: ''
 - id: '[C1]'
   idnum: 1
   author: Shibukawa, T., Matsushita, S., <strong>Iiyama, K.</strong>, Funase, R.
@@ -637,3 +699,4 @@
     \ of Thermal Design under Tightly-Coupled Constraints to the 6U Deep Space CubeSat\
     \ EQUULEUS},\n  year = {2019},\n  month = {6},\n  journal = {32nd International\
     \ Symposium on Space Technology and Science},\n  location = {Fukui, Japan},\n}"
+  review: ''

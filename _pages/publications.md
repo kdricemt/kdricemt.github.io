@@ -27,14 +27,23 @@ You can also find my articles at my [ResearchGate](https://www.researchgate.net/
         {{ pub.author | strip }}, 
         “{{ pub.title }}”, 
         <em>{{ pub.journal }}</em>, 
-        Vol. {{ pub.volume }}, 
-        No. {{ pub.number }}, 
-        {% if pub.pages %}
+        {% if pub.volume != '' %}
+          Vol. {{ pub.volume }}, 
+        {% endif %}
+        {% if pub.number != ''%}
+          No. {{ pub.number }}, 
+        {% endif %}
+        {% if pub.pages != ''%}
           pp. {{ pub.pages }}, 
         {% endif %}
         {{ pub.year }},
+        {% if pub.review %}
+            {{ pub.review }} 
+        {% endif %}
         <!-- Paper -->
-        [<a href="{{ pub.url }}">Paper</a>]
+        {% if pub.url != '' %}
+         [<a href="{{ pub.url }}">Paper</a>]
+        {% endif %}
         <!-- BibTeX -->
         [<a href="javascript:void(0)" onclick="toggleVisibility('bibtex-{{ forloop.index }}')">BibTeX</a>] 
         <!-- Abstract -->
@@ -68,8 +77,11 @@ You can also find my articles at my [ResearchGate](https://www.researchgate.net/
             “{{ pub.title }}”, 
             <em>{{ pub.journal }}</em>, 
             {{ pub.year }},
+            {% if pub.review %}
+              {{ pub.review }} 
+            {% endif %}
             {% if pub.award != '' %}
-            <strong> {{ pub.award }} </strong>
+            <strong style="color: blue;">{{ pub.award }}</strong>
             {% endif %}
             {% if pub.pdf != '' %}
             [<a href="{{ pub.pdf }}">Paper</a>]
@@ -86,17 +98,21 @@ You can also find my articles at my [ResearchGate](https://www.researchgate.net/
             <!-- BibTeX -->
             [<a href="javascript:void(0)" onclick="toggleVisibility('bibtex-conf-{{ forloop.index }}')">BibTeX</a>] 
             <!-- Abstract -->
-            [<a href="javascript:void(0)" onclick="toggleVisibility('abstract-conf-{{ forloop.index }}')">Abstract</a>]
+            {% if pub.abstract != '' %}
+              [<a href="javascript:void(0)" onclick="toggleVisibility('abstract-conf-{{ forloop.index }}')">Abstract</a>]
+            {% endif %}
             <!-- BibTeX Section -->
             <div id="bibtex-conf-{{ forloop.index }}" style="display:none; font-family: Arial, sans-serif; font-size: 16px">
               <pre style="background-color: #f0f0f0;">{{ pub.bibtex }}</pre>
               <button onclick="copyToClipboard('bibtex-conf-{{ forloop.index }}')">Copy</button>
             </div>
             <!-- Abstract Section -->
-            <div id="abstract-conf-{{ forloop.index }}" style="display:none">
-              <strong>Abstract:</strong>
-              {{ pub.abstract }}
-            </div>
+            {% if pub.abstract != '' %}
+              <div id="abstract-conf-{{ forloop.index }}" style="display:none">
+                <strong>Abstract:</strong>
+                {{ pub.abstract }}
+              </div>
+            {% endif %}
           </p>
         </li>
         {% endif %}
