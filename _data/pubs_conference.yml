@@ -1,3 +1,23 @@
+- id: '[C23]'
+  idnum: 23
+  author: Dai, A., Wu, A., <strong>Iiyama, K.</strong>, Vila, G.C., Coimbra, K., Carlhammar,
+    A., Wu, B., Gao, G.
+  title: Full Stack Navigation, Mapping, and Planning for the Lunar Autonomy Challenge
+  journal: Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+
+    2025)
+  year: '2025'
+  year_num: 2025
+  pdf: ''
+  slides: ''
+  video: ''
+  code: ''
+  abstract: ''
+  award: ''
+  bibtex: " @article{dai2025lac,\n  title = {Full Stack Navigation, Mapping, and Planning\
+    \ for the Lunar Autonomy Challenge},\n  pages = {},\n  year = {2025},\n  month\
+    \ = {September},\n  journal = {Proceedings of the Institute of Navigation GNSS+\
+    \ conference (ION GNSS+ 2025)},\n  review = {(Abstract Submitted)},\n}"
+  review: (Abstract Submitted)
 - id: '[C22]'
   idnum: 22
   author: <strong>Iiyama, K.</strong>, Gao, G.

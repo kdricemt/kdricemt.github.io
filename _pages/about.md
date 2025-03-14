@@ -144,16 +144,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 I am a  Ph.D. candidate at [Stanford Aero/Astro](https://aa.stanford.edu/) pursuing a Ph.D. in Aeronautics and Astronautics in the [Navigation and Autonomous Vehicles (NAV) Lab](https://navlab.stanford.edu/). My adviser is [Professor Gao](https://profiles.stanford.edu/gracegao).
 
-My main research interests are in designing positioning, navigation, and timing (PNT) algorithms for lunar satellites and rovers to enable "Lunar GPS", and support future lunar exploration. Currently, I am leading the [Lunar PNT subgroup](https://navlab.stanford.edu/research/LunarPNT) in the NAV Lab and mentoring several students.
+My primary research focuses on developing positioning, navigation, and timing (PNT) algorithms for lunar satellites and rovers to enable a “Lunar GPS” system that will support future lunar exploration. I currently lead the [Lunar PNT subgroup](https://navlab.stanford.edu/research/LunarPNT) in the NAV Lab and mentor several students.
 
-Prior to Stanford, I received my B.E. and M.E. degree from the [Aero/Astro Department](http://www.aerospace.t.u-tokyo.ac.jp/english/) of [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html), where I worked on the thermal design and on-board software development for EQUULEUS, a 6-U lunar cubesat which succesfully completed a lunar flyby in 2022. Besides the development of EQUULEUS, I researched satellite configurations and autonomous operation strategies for Lunar Navigation Satellite System (LNSS).
+Before joining Stanford, I earned my B.E. and M.E. degrees from the [Aero/Astro Department](http://www.aerospace.t.u-tokyo.ac.jp/english/) at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html). There, I contributed to the thermal design and on-board software development for EQUULEUS, a 6-U lunar CubeSat that [successfully completed a lunar flyby](https://digitalcommons.usu.edu/smallsat/2023/all2023/52/) in 2022. I also researched satellite configurations and autonomous operation strategies for a Lunar Navigation Satellite System (LNSS), and pioneered research works that has recently led to a [Lunar Navigation System development contract](https://insidegnss.com/arkedge-space-selected-by-jaxa-to-lead-lunar-navigation-system-development/) between ArkEdge Space and JAXA.
 
-In the past, I also had the honor to collaborate with [Space Systems Optimization Group (SSOG)](https://ssog.ae.gatech.edu/) at Georgia Tech, [Space Rendezvous Lab (SLAB)](https://damicos.people.stanford.edu/) at Stanford University, and Section 332H at [Jet Propulsion Laboratory](https://www.jpl.nasa.gov/). At SSOG, I worked on developing deep reinforcement learning algorithms for landing site selection. At SLAB, I worked on multi-agent vision-based angles-only navigation in lunar orbit. At JPL, I worked on the constellation design and orbit determination simulation for future Mars navigation + communication constellation to support future human missions on Mars.
+I have had the honor of collaborating with renowned groups such as the [Space Systems Optimization Group (SSOG)](https://ssog.ae.gatech.edu/) at Georgia Tech, the [Space Rendezvous Lab (SLAB)](https://damicos.people.stanford.edu/) at Stanford University, and Section 332H at [Jet Propulsion Laboratory](https://www.jpl.nasa.gov/). At SSOG, I developed deep reinforcement learning algorithms for landing site selection. 
+At SLAB, I worked on multi-agent, vision-based angles-only navigation in lunar orbit, as part of the potential extension of the [Starling mission](https://www.nasa.gov/mission/starling/) by NASA Ames. 
+At JPL, I contributed to constellation design and orbit determination simulations of next-generation Mars navigation and communication relay satellite network to support future missions on Mars.
 
-Please refer to my [CV](/files/Keidai_Iiyama_CV.pdf) (last updated at January 2025) for the latest information.
+Please refer to my [CV](/files/Keidai_Iiyama_CV.pdf) (last updated at March 2025) for the latest information.
 
 ## Education
 {% include minifeature_row id="feature_stanford" type="left" %}

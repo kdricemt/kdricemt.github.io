@@ -84,6 +84,12 @@ feature_row_cubesat:
     excerpt: '**Period:** 2017/4-2017/9 <br>
     **With:** ARLISS Project Team (University of Tokyo)'
     url: /research/arliss/
+  - image_path: https://dl.dropboxusercontent.com/s/c3ygi209m7yy088qmxsy2/lac_simulator.png?rlkey=02zcy1malsm016zcd61jipcxt&st=p075coh1&dl=0
+    alt: "lac"
+    title: "Lunar Autonomy Challenge"
+    excerpt: '**Period:** 2024/10- <br>
+    **With:** LAC NavLab Team (Stanford University)'
+    url: /research/lac/
 feature_row_class:
   - image_path: https://dl.dropboxusercontent.com/s/fe1yrx90avsgeo324a8uc/entropy_map_32.png?rlkey=zktoyiqlxyw9fhur75xsqv8s8&dl=0
     alt: "entropy_map"
@@ -96,6 +102,11 @@ feature_row_class:
     title: "Distributed Angles Only Navigation of Spacecraft Swarms via Factor-Graph Optimaization "
     excerpt: "**Class** AA222: Engineering Design Optimization (taught by Prof.Kochenderfer)"
     url: /research/factor_graph/
+  - image_path: https://dl.dropboxusercontent.com/s/g23g3v45d7qjqcm25q4t7/gnn.png?rlkey=cg7r6ts0bymeti5xok9pcdkrd&st=9tit6sbw&dl=0
+    alt: "cs224_graph"
+    title: "Graph Neural Networks for Fault Detection on Range-based Wireless Sensor Network Localization"
+    excerpt: "**Class** CS224W: Machine Learning with Graphs (taught by Jure Leskovec)"
+    url: https://medium.com/@kdricemt/22a98f4ddbb6
 ---
 
 {% include feature_row id="intro" type="center" %}
