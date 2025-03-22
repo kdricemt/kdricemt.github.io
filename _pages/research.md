@@ -34,7 +34,7 @@ feature_row_lunar_pnt1:
     **With:** Guillem Casadesus Vila, Prof.Gao (Stanford University)"
     url: /research/lupnt/
 feature_row_constellation:
-  - image_path: https://dl.dropboxusercontent.com/s/1rcox0ptjthd6len9wqdk/dtn_nav_23.png?rlkey=uqw4vjrztrsedj2d7jtx3yen9&dl=0
+  - image_path: https://dl.dropboxusercontent.com/s/4n17sjahbnzl37s7gaika/dtn_link.gif?rlkey=4b98ld2ogiz7sql4wa3qxitxm&st=o7qsh9io&dl=0
     alt: "contactplan"
     title: "Contact Plan Optimization and Distributed State Estimation for Delay Torelant Satellite Network"
     excerpt: "**Period:** 2023/9- (**Active**) <br>
