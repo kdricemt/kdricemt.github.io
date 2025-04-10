@@ -60,13 +60,6 @@ feature_issl:
     title: '<a href="https://www.space.t.u-tokyo.ac.jp/ehome"> Intelligent Space Systems Laboratory </a>' 
     subtitle: "<i> Department of Aeronautics and Astronautics, The University of Tokyo </i>"
     excerpt: "Research: Lunar Navigation Satellite System, SmallSat development <br> Supervisor: Ryu Funase, Shinichi Nakasuka" 
-feature_ssog:
-  - image_path: https://dl.dropboxusercontent.com/s/ybxy6xycp7gsf2r/GTech.png?dl=0
-    alt: "GTech"
-    date: "2020.1 ~ 2020.2"
-    title: '<a href="https://ssog.ae.gatech.edu/"> Space Systems Optimization Group </a>'
-    subtitle: "<i> Daniel Guggenheim School of Aerospace Engineering, Georgia Institutute of Technoloy </i>"
-    excerpt: "Research: Landing site selection algorithms during planetary descent <br> Supervisor: Koki Ho" 
 # TA  -----------------------------------------------------
 feature_ta2:
   - image_path: https://dl.dropboxusercontent.com/s/fvee1u3u8oxl3js7afiit/gps_satellite_650.jpg?rlkey=nvrna2v2iqq15pzntg4k98m3j&st=904zu48j&dl=0
@@ -166,7 +159,6 @@ Please refer to my [CV](/files/Keidai_Iiyama_CV.pdf) (last updated at March 2025
 {% include minifeature_row id="feature_jpl" type="left" %}
 {% include minifeature_row id="feature_slab" type="left" %}
 {% include minifeature_row id="feature_issl" type="left" %}
-{% include minifeature_row id="feature_ssog" type="left" %}
 
 Please see [here](/research/) for further information.
 

@@ -112,7 +112,7 @@ feature_row_class:
 {% include feature_row id="intro" type="center" %}
 
 # 1. Research Projects
-My research interest lies at the intersection of lunar positioning, navigation, and timing (PNT), astrodynamics, spacecraft guidance, navigation, and control (GNC), and multi-agent systems. Below are the lists of research projects that I have worked on at Stanford University, Jet Propulsion Laboratory, Georgia Institute of Technology, and The University of Tokyo.
+My research interest lies at the intersection of lunar positioning, navigation, and timing (PNT), astrodynamics, spacecraft guidance, navigation, and control (GNC), and multi-agent systems. Below are the lists of research projects that I have worked on at Stanford University, Jet Propulsion Laboratory, and The University of Tokyo.
 
 ## 1-1. Lunar Positioning, Navigation, and Timing (PNT)
 {% include feature_row id="feature_row_lunar_pnt1" %}
