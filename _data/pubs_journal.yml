@@ -31,7 +31,8 @@
   bibtex: " @article{iiyama2024faultjournal,\n  title = {Autonomous Constellation\
     \ Fault Monitoring with Inter-satellite Links: A Rigidity-Based Approach},\n \
     \ year = {2025},\n  month = {},\n  journal = {NAVIGATION: Journal of the Institute\
-    \ of Navigation},\n  review = {(Under Review)},\n}"
+    \ of Navigation},\n  author = {Iiyama, Keidai and Neamati, Daniel and Gao, Grace},\n\
+    }"
   review: (Under Review)
 - id: '[J3]'
   idnum: 3
@@ -73,7 +74,8 @@
     \ Services},\n  volume = {71},\n  number = {4},\n  year = {2024},\n  month = {12},\n\
     \  doi = {10.33012/navi.664},\n  publisher = {Institute of Navigation},\n  issn\
     \ = {0028-1522},\n  url = {https://navi.ion.org/content/71/4/navi.664},\n  journal\
-    \ = {NAVIGATION: Journal of the Institute of Navigation},\n}"
+    \ = {NAVIGATION: Journal of the Institute of Navigation},\n  author = {Cortinovis,\
+    \ Marta and Iiyama, Keidai and Gao, Grace},\n}"
   review: ''
 - id: '[J2]'
   idnum: 2
@@ -82,7 +84,7 @@
   pages: ''
   publisher: Institute of Navigation
   url: https://doi.org/10.33012/navi.635
-  author: <strong>Iiyama, K.</strong>, Bhamidipati, S. , Gao, G.
+  author: <strong>Iiyama, K.</strong>, Bhamidipati, S., Gao, G.
   title: Precise Positioning and Timekeeping in a Lunar Orbit via Terrestrial GPS
     Time-Differenced Carrier-Phase Measurements
   journal: 'NAVIGATION: Journal of the Institute of Navigation'
@@ -112,7 +114,8 @@
     \ Measurements},\n  volume = {71},\n  number = {1},\n  year = {2024},\n  month\
     \ = {3},\n  publisher = {Institute of Navigation},\n  issn = {0028-1522},\n  url\
     \ = {https://doi.org/10.33012/navi.635},\n  journal = {NAVIGATION: Journal of\
-    \ the Institute of Navigation},\n}"
+    \ the Institute of Navigation},\n  author = {Iiyama, Keidai and Bhamidipati, Sriramya\
+    \ and Gao, Grace},\n}"
   review: ''
 - id: '[J1]'
   idnum: 1
@@ -162,5 +165,18 @@
     \ point by a 6u cubesat: Equuleus},\n  journal = {IEEE Aerospace and Electronic\
     \ Systems Magazine},\n  volume = {35},\n  number = {3},\n  pages = {30--44},\n\
     \  year = {2020},\n  publisher = {IEEE},\n  url = {https://doi.org/10.1109/MAES.2019.2955577},\n\
-    }"
+    \  author = {Funase, Ryu and Ikari, Satoshi and Miyoshi, Kota and Kawabata, Yosuke\
+    \ and Nakajima, Shintaro and Nomura, Shunichiro and Funabiki, Nobuhiro and Ishikawa,\
+    \ Akihiro and Kakihara, Kota and Matsushita, Shuhei and Takahashi, Ryohei and\
+    \ Yanagida, Kanta and Mori, Daiko and Murata, Yusuke and Shibukawa, Toshihiro\
+    \ and Suzumoto, Ryo and Fujiwara, Masahiro and Tomita, Kento and Aohama, Hiroki\
+    \ and Iiyama, Keidai and Ishiwata, Sho and Kondo, Hirotaka and Mikuriya, Wataru\
+    \ and Seki, Hiroto and Koizumi, Hiroyuki and Asakawa, Jun and Nishii, Keita and\
+    \ Hattori, Akihiro and Saito, Yuji and Kikuchi, Kosei and Kobayashi, Yuta and\
+    \ Tomiki, Atsushi and Torii, Wataru and Ito, Taichi and Campagnola, Stefano and\
+    \ Ozaki, Naoya and Baresi, Nicola and Yoshikawa, Ichiro and Yoshioka, Kazuo and\
+    \ Kuwabara, Masaki and Hikida, Reina and Arao, Shogo and Abe, Shinsuke and Yanagisawa,\
+    \ Masahisa and Fuse, Ryota and Masuda, Yosuke and Yano, Hajime and Hirai, Takayuki\
+    \ and Arai, Kazuyoshi and Jitsukawa, Ritsuko and Ishioka, Eigo and Nakano, Haruki\
+    \ and Ikenaga, Toshinori and Hashimoto, Tatsuaki},\n}"
   review: ''
