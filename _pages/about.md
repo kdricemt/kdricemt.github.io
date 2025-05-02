@@ -147,7 +147,7 @@ I have had the honor of collaborating with renowned groups such as the [Space Sy
 At SLAB, I worked on multi-agent, vision-based angles-only navigation in lunar orbit, as part of the potential extension of the [Starling mission](https://www.nasa.gov/mission/starling/) by NASA Ames. 
 At JPL, I contributed to constellation design and orbit determination simulations of next-generation Mars navigation and communication relay satellite network to support future missions on Mars.
 
-Please refer to my [CV](/files/Keidai_Iiyama_CV.pdf) (last updated at March 2025) for the latest information.
+Please refer to my [CV](/files/Keidai_Iiyama_CV.pdf) (last updated at April 2025) for the latest information.
 
 ## Education
 {% include minifeature_row id="feature_stanford" type="left" %}

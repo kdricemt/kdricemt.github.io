@@ -19,4 +19,4 @@ The performance of ARTMS will be tested in LEO in the [NASA's Starling Mission](
 
 **Related Publication:** 
 
-[C8] Iiyama, K., Kruger, J., D’Amico, S., “Autonomous Distributed Angles-Only Navigation and Timekeeping in Lunar Orbit”, Proceedings of the 2022 International Technical Meeting of the Institute of Navigation, 2022
+[C8] Iiyama, K., Kruger, J., D’Amico, S., “Autonomous Distributed Angles-Only Navigation and Timekeeping in Lunar Orbit”, Proceedings of the 2022 International Technical Meeting of the Institute of Navigation, 2022 
