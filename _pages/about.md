@@ -192,6 +192,7 @@ kiiyama{at}stanford.edu
 
 
 ## Recent News
+- Apr.11 2025  Four papers were accepted for the ION GNSS+ Conference!
 - Nov.20 2024  Presented for the ION Webinar "Webinar: Satellite Ephemeris Parameterization Methods to Support Lunar Positioning, Navigation, and Timing Services". 
   - The recording is available [here](https://www.ion.org/publications/webinar-iiyama.cfm)
 - Sep.20 2024  Presented a paper at the ION GNSS+ 2024 Conference. Please see the [publications page](/publications/) for details

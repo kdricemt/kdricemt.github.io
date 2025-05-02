@@ -21,4 +21,6 @@ The goal of the challenge is to virtually explore and map the lunar surface usin
 The challenge provides a high-fidelity lunar simulation environment based on Unreal Engine and built using CARLA (Dosovitskiy et al., 2017), which is capable of photorealistic imagery and
 simulating vehicle dynamics over complex terrain. By leveraging the unique and novel aspects of the Lunar Autonomy Challenge and its simulator, we not only develop solutions for robust SLAM and navigation, but also study the performance of various methods, as well as their interactions, in the lunar setting.
 
-**Related Publication:** Full Stack Navigation, Mapping, and Planning for the Lunar Autonomy Challenge, *ION GNSS*, 2025 
+**Related Publication:** 
+
+[C23] Dai, A., Wu, A., Iiyama, K., Vila, G.C., Coimbra, K., Carlhammar, A., Wu, B., Gao, G., “Full Stack Navigation, Mapping, and Planning for the Lunar Autonomy Challenge”, Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+ 2025), 2025, (Abstract Accepted)

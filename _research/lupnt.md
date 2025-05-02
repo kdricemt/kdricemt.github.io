@@ -17,7 +17,10 @@ style="height: 248px; width:717px;">
 
 The growing focus on missions to the Moon necessitates reliable Positioning, Navigation, and Timing (PNT) services in cis-lunar space. We are developing a comprehensive, open-source simulation framework to address the growing research need in this field. Implemented primarily in C++ for computational efficiency, the simulation core employs an event-based architecture to model asynchronous onboard applications and inter-satellite communication. The framework also includes Python bindings to facilitate rapid algorithmic development and user interaction. 
 
+The simulator is under active development, is available [here]([[Code](https://github.com/Stanford-NavLab/LuPNT)])
 
 **Related Publication:** 
 
-[C16] LuPNT: Open-Source Simulator for Lunar Positioning, Navigation, and Timing, *ION GNSS+ 2023*, 2023 [[Paper](https://drive.google.com/file/d/1mdIEUHOrfckKYSbwEAUoubVuhX13GNV_/view)] [[Slides](https://drive.google.com/file/d/1skQkY_pcZwauKjDcvAk_734lyzUmuOUt/view)] [[Code](https://github.com/Stanford-NavLab/LuPNT)]
+[C20] Vila, G.C., Iiyama, K., Gao, G., “LuPNT: An Open-Source Simulator for Lunar Communications, Positioning, Navigation, and Timing”, 2025 IEEE Aerospace Conference, 2025
+
+[C16] LuPNT: Open-Source Simulator for Lunar Positioning, Navigation, and Timing, *ION GNSS+ 2023*, 2023

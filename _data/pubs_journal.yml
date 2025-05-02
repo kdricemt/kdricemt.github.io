@@ -4,35 +4,34 @@
   number: ''
   pages: ''
   publisher: ''
-  url: ''
+  url: https://drive.google.com/file/d/1YWf9KY6A7igipPXaK6ULyL4wetEMpDE9/view?usp=sharing
   author: <strong>Iiyama, K.</strong>, Neamati, D., Gao, G.
-  title: 'Autonomous Constellation Fault Monitoring with Inter-satellite Links: A
-    Rigidity-Based Approach'
+  title: Satellite Autonomous Clock Fault Monitoring with Inter-Satellite Ranges Using
+    Euclidean Distance Matrices
   journal: 'NAVIGATION: Journal of the Institute of Navigation'
   year: '2025'
   year_num: 2025
-  pdf: https://drive.google.com/file/d/1RE618igQrmIyBLNuHuQOX1kwZd6a8_Es/view?usp=sharing
+  pdf: ''
   video: ''
   code: ''
   abstract: To address the need for robust positioning, navigation, and timing services
-    in lunar environments, this paper proposes a novel fault detection framework for
-    satellite constellations using inter-satellite ranging (ISR). Traditionally, navigation
-    satellites can depend on a robust network of ground-based stations for fault monitoring.
-    However, due to cost constraints, a comprehensive ground segment on the lunar
-    surface is impractical for lunar constellations. Our approach leverages vertex
-    redundantly rigid graphs to detect faults without relying on precise ephemeris.
-    We model satellite constellations as graphs where satellites are vertices and
-    inter-satellite links are edges. We identify faults through the singular values
-    of the geometric-centered Euclidean distance matrix (GCEDM) of 2-vertex redundantly
-    rigid sub-graphs. The proposed method is validated through simulations of constellations
-    around the Moon, demonstrating its effectiveness in various configurations. This
-    research contributes to the reliable operation of satellite constellations for
-    future lunar exploration missions.
-  bibtex: " @article{iiyama2024faultjournal,\n  title = {Autonomous Constellation\
-    \ Fault Monitoring with Inter-satellite Links: A Rigidity-Based Approach},\n \
-    \ year = {2025},\n  month = {},\n  journal = {NAVIGATION: Journal of the Institute\
-    \ of Navigation},\n  author = {Iiyama, Keidai and Neamati, Daniel and Gao, Grace},\n\
-    }"
+    in lunar environments, this paper proposes a novel onboard clock phase jump detection
+    framework for satellite constellations using range measurements obtained from
+    dual one-way inter-satellite links. Our approach leverages vertex redundantly
+    rigid graphs to detect faults without relying on prior knowledge of satellite
+    positions or clock biases, providing flexibility for lunar satellite networks
+    with diverse satellite types and operators. We model satellite constellations
+    as graphs, where satellites are vertices and inter-satellite links are edges.
+    The proposed algorithm detects and identifies satellites with clock jumps by monitoring
+    the singular values of the geometric-centered Euclidean distance matrix (GCEDM)
+    of 5-clique sub-graphs. The proposed method is validated through simulations of
+    a GPS constellation and a notional constellation around the Moon, demonstrating
+    its effectiveness in various configurations.
+  bibtex: " @article{iiyama2024faultjournal,\n  title = {Satellite Autonomous Clock\
+    \ Fault Monitoring with Inter-Satellite Ranges Using Euclidean Distance Matrices},\n\
+    \  year = {2025},\n  month = {},\n  journal = {NAVIGATION: Journal of the Institute\
+    \ of Navigation},\n  url = {https://drive.google.com/file/d/1YWf9KY6A7igipPXaK6ULyL4wetEMpDE9/view?usp=sharing},\n\
+    \  author = {Iiyama, Keidai and Neamati, Daniel and Gao, Grace},\n}"
   review: (Under Review)
 - id: '[J3]'
   idnum: 3

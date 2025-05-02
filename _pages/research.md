@@ -12,7 +12,7 @@ excerpt: "Selected research, enginnering, and class projects"
 intro: 
   - excerpt: ''
 feature_row_lunar_pnt1:
-  - image_path: https://dl.dropboxusercontent.com/s/kkdr6ysq4cuf6mz9f6b29/Sidelobe_32.png?rlkey=ug0zf436mgxacldh1i0xmv86t&dl=0
+  - image_path: https://dl.dropboxusercontent.com/s/3983cccoobov71ttnilqu/sidelobe.png?rlkey=mujdzj9f1ggnxeigpbubh5499&st=vnba9f4o&dl=0
     alt: "Sidelobe"
     title: "Lunar PNT using GPS Sidelobe Signals"
     excerpt: "
@@ -40,7 +40,7 @@ feature_row_constellation:
     excerpt: "**Period:** 2023/9- (**Active**) <br>
     **With:** Guillem Casadesus Vila, Prof.Gao (Stanford University)"
     url: /research/contact_plan/
-  - image_path: https://dl.dropboxusercontent.com/s/xcmv5ul1ttb0nigvmnx5l/sv_distribution3.png?rlkey=n88radllutoe56hzhmitoljtb&st=q9x8ukdt&dl=0
+  - image_path: https://dl.dropboxusercontent.com/s/q9hu65kl7q2gss832t0ao/EDMDF_Concept.png?rlkey=cy9pzhrt6mzxfna65xcueykjg&st=4t49ngvc&dl=0
     alt: "rigidity"
     title: "Satellite Fault Detection from Intersatellite Ranges Using Redundantly Rigid Graphs"
     excerpt: "**Period:** 2024/6- (**Active**) <br>

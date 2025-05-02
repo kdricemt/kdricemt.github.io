@@ -26,4 +26,6 @@ epochs in orbits, abiding by signal-in-space-error requirements.
 
 **Related Publication:** 
 
-Satellite Ephemeris Approximation Methods to Support Lunar Positioning, Navigation, and Timing Services, ION GNSS+ 2023, 2023 **Best Presentation of the Session** [[Paper](https://drive.google.com/file/d/1z-j70jBJPtMAQ6cpA_ig5yjbLJkotSEX/view)]  [[Slides](https://drive.google.com/file/d/1HG9RaoZfY6DoCg29m-v_fsy_l1IcnqVM/view)] [[Video](https://www.youtube.com/watch?v=9dV94dEMBbA)]  
+[J3] Cortinovis, M., Iiyama, K., Gao, G., “Satellite Ephemeris Parameterization Methods to Support Lunar Positioning, Navigation, and Timing Services”, NAVIGATION: Journal of the Institute of Navigation, Vol. 71, No. 4, 2024
+
+[C14] Cortinovis, M., Iiyama, K., Gao, G., “Satellite ephemeris approximation methods to support lunar positioning, navigation, and timing services”, Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+ 2023), 2023, Best Presentation of the Session
