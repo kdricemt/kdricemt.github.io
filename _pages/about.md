@@ -116,7 +116,8 @@ feature_lac:
     alt: "LAC"
     date: "2025.5"
     title: 'Lunar Autonomy Challenge Top Prize'
-    subtitle: '<i> As a Stanford NAV LAB Team </i>'
+    subtitle: '<i> From NASA and Applified Physics Laboratory <a href="https://lunar-autonomy-challenge.jhuapl.edu/"> Challenge Website </a> </i>'
+    excerpt: '<i> As a Stanford NAV LAB Team (1st out of 31 teams) </i>'
 feature_iongnss_bestpresentation:
   - image_path: https://dl.dropboxusercontent.com/s/hedxqjaj3h97nij/ion-logo-large.jpg?dl=0
     alt: "ION-Best-Presentation"
