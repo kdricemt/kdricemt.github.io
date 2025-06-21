@@ -115,7 +115,7 @@ feature_lac:
   - image_path: https://dl.dropboxusercontent.com/s/b2lg5qx7u1r466iixzu4n/nasa-logo.svg?rlkey=26gr515wwnmq6wsb1e34gzn4o&st=9x65eemv&dl=0
     alt: "LAC"
     date: "2025.5"
-    title: '<a href="https://www.nasa.gov/directorates/stmd/top-prize-awarded-in-lunar-autonomy-challenge-to-virtually-map-moons-surface/"> Lunar Autonomy Challenge Top Prize '
+    title: 'Lunar Autonomy Challenge Top Prize'
     subtitle: '<i> As a Stanford NAV LAB Team </i>'
 feature_iongnss_bestpresentation:
   - image_path: https://dl.dropboxusercontent.com/s/hedxqjaj3h97nij/ion-logo-large.jpg?dl=0
