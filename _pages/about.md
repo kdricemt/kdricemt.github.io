@@ -111,6 +111,12 @@ feature_fellowship_wings:
     subtitle: '<i> From The University of Tokyo <a href="http://cfs.t.u-tokyo.ac.jp/?top"> WINGS CFS Program </a> </i>'
     excerpt: '2-year stipend'
 # Awards
+feature_lac:
+  - image_path: https://dl.dropboxusercontent.com/s/b2lg5qx7u1r466iixzu4n/nasa-logo.svg?rlkey=26gr515wwnmq6wsb1e34gzn4o&st=9x65eemv&dl=0
+    alt: "LAC"
+    date: "2025.5"
+    title: '<a href="https://www.nasa.gov/directorates/stmd/top-prize-awarded-in-lunar-autonomy-challenge-to-virtually-map-moons-surface/"> Lunar Autonomy Challenge Top Prize '
+    subtitle: '<i> As a Stanford NAV LAB Team </i>'
 feature_iongnss_bestpresentation:
   - image_path: https://dl.dropboxusercontent.com/s/hedxqjaj3h97nij/ion-logo-large.jpg?dl=0
     alt: "ION-Best-Presentation"
@@ -176,6 +182,7 @@ Please see [here](/research/) for further information.
 {% include minifeature_row id="feature_isas" type="left" %} 
   
 ## Fellowships & Awards
+{% include minifeature_row id="feature_lac" type="left" %}
 {% include minifeature_row id="feature_iongnss_bestpresentation" type="left" %}
 {% include minifeature_row id="feature_fellowship_iongrant" type="left" %}
 {% include minifeature_row id="feature_fellowship_stanford" type="left" %}
@@ -192,6 +199,7 @@ kiiyama{at}stanford.edu
 
 
 ## Recent News
+- May.15 2025  Our team won the [Lunar Autonomy Challenge](https://www.nasa.gov/directorates/stmd/top-prize-awarded-in-lunar-autonomy-challenge-to-virtually-map-moons-surface/)!
 - Apr.11 2025  Four papers were accepted for the ION GNSS+ Conference!
 - Nov.20 2024  Presented for the ION Webinar "Webinar: Satellite Ephemeris Parameterization Methods to Support Lunar Positioning, Navigation, and Timing Services". 
   - The recording is available [here](https://www.ion.org/publications/webinar-iiyama.cfm)
