@@ -44,6 +44,9 @@ You can also find my articles at my [ResearchGate](https://www.researchgate.net/
         {% if pub.url != '' %}
          [<a href="{{ pub.url }}">Paper</a>]
         {% endif %}
+        {% if pub.pdf != '' %}
+         [<a href="{{ pub.pdf }}">PDF</a>]
+        {% endif %}
         <!-- BibTeX -->
         [<a href="javascript:void(0)" onclick="toggleVisibility('bibtex-{{ forloop.index }}')">BibTeX</a>] 
         <!-- Abstract -->
@@ -83,8 +86,11 @@ You can also find my articles at my [ResearchGate](https://www.researchgate.net/
             {% if pub.award != '' %}
             <strong style="color: blue;">{{ pub.award }}</strong>
             {% endif %}
+            {% if pub.url != '' %}
+            [<a href="{{ pub.url }}">Paper</a>]
+            {% endif %}
             {% if pub.pdf != '' %}
-            [<a href="{{ pub.pdf }}">Paper</a>]
+            [<a href="{{ pub.pdf }}">PDF</a>]
             {% endif %}
             {% if pub.slides != '' %}
               [<a href="{{ pub.slides }}">Slides</a>]

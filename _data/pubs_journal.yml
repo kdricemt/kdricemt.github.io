@@ -4,14 +4,14 @@
   number: ''
   pages: ''
   publisher: ''
-  url: https://drive.google.com/file/d/1H44Ak13bVx1UWSENy9ofMA3pmXABL1Zh/view?usp=sharing
+  url: ''
   author: <strong>Iiyama, K.</strong>, Neamati, D., Gao, G.
   title: Satellite Autonomous Clock Fault Monitoring with Inter-Satellite Ranges Using
     Euclidean Distance Matrices
   journal: 'NAVIGATION: Journal of the Institute of Navigation'
   year: '2025'
   year_num: 2025
-  pdf: ''
+  pdf: https://drive.google.com/file/d/1H44Ak13bVx1UWSENy9ofMA3pmXABL1Zh/view?usp=sharing
   video: ''
   code: ''
   abstract: To address the need for robust positioning, navigation, and timing services
@@ -30,8 +30,8 @@
   bibtex: " @article{iiyama2024faultjournal,\n  title = {Satellite Autonomous Clock\
     \ Fault Monitoring with Inter-Satellite Ranges Using Euclidean Distance Matrices},\n\
     \  year = {2025},\n  month = {},\n  journal = {NAVIGATION: Journal of the Institute\
-    \ of Navigation},\n  url = {https://drive.google.com/file/d/1H44Ak13bVx1UWSENy9ofMA3pmXABL1Zh/view?usp=sharing},\n\
-    \  author = {Iiyama, Keidai and Neamati, Daniel and Gao, Grace},\n}"
+    \ of Navigation},\n  author = {Iiyama, Keidai and Neamati, Daniel and Gao, Grace},\n\
+    }"
   review: (Under Review)
 - id: '[J3]'
   idnum: 3
