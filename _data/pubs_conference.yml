@@ -74,11 +74,28 @@
   slides: ''
   video: ''
   code: ''
-  abstract: ''
+  abstract: 'The growing focus on missions to the Moon necessitates reliable communication
+    and Positioning, Navigation, and Timing (PNT) services in cis-lunar space. To
+    address the growing research needs in this field, we have been developing LuPNT,
+    a comprehensive, open-source simulation framework that integrates astrodynamics,
+    communication, and PNT functionalities into a single platform. The simulator is
+    developed primarily in C++ for computational efficiency while also featuring Python
+    bindings to facilitate rapid algorithmic development and user interaction. This
+    paper introduces several new features and applications, including new core functionalities,
+    the generation of realistic images for optical navigation, new measurement models
+    including inter-satellite links, a modular state estimation framework, and contact
+    plan design. We demonstrate the capability of the simulator through two different
+    simulation scenarios: Elliptical Lunar Frozen Orbit (ELFO) navigation using side-lobe
+    signals from multiple GNSS constellations, and ephemeris fitting for ELFO. Overall,
+    LuPNT provides a unified, comprehensive tool for lunar PNT and communication research
+    and advances the potential for lunar exploration by enabling the development,
+    integration, and comparison of diverse PNT algorithms within a modular, extensible
+    framework.'
   award: ''
   bibtex: " @article{guillem2025simulator,\n  title = {LuPNT: An Open-Source Simulator\
-    \ for Lunar Communications, Positioning, Navigation, and Timing},\n  pages = {},\n\
+    \ for Lunar Communications, Positioning, Navigation, and Timing},\n  pages = {1-18},\n\
     \  year = {2025},\n  month = {March},\n  journal = {2025 IEEE Aerospace Conference},\n\
+    \  doi = {10.1109/AERO63441.2025.11068501},\n  url = {https://doi.org/10.1109/AERO63441.2025.11068501},\n\
     \  author = {Vila, Guillem Casadesus and Iiyama, Keidai and Gao, Grace},\n}"
   review: ''
 - id: '[C19]'
@@ -94,13 +111,31 @@
   slides: https://drive.google.com/file/d/1Gzs4zH-eJYU9DZLOz_p6VN5kWJtaaRat/view?usp=sharing
   video: ''
   code: ''
-  abstract: ''
+  abstract: 'To enable future human exploration on Mars, it is necessary to develop
+    a dedicated network of satellites that provide both communication relay and positioning,
+    navigation, and timing (PNT) service in Mars'' orbit and on its surface. Additionally,
+    it is desirable to operate the constellation semi-autonomously and reduce reliance
+    on the oversubscribed Deep Space Network. In this work, we first address the design
+    of the next-generation Mars constellation with a focus on the following three
+    objectives: coverage between ±30° latitude, communication data volume, and surface
+    user PNT performance. By analyzing the trade-off space, we propose a notional
+    constellation comprising five satellites: two orbiters at areostationary orbit
+    and three orbiters in an inclined ½ repeating ground track orbit, which balances
+    the three objectives effectively. Second, we propose a semi-autonomous orbit determination
+    and time synchronization (ODTS) framework for the MRN orbiters. Our proposed approach
+    fuses range, range-rate, and time difference measurements from inter-satellite
+    links (ISLs) and links with a Mars surface station (MSS), in a centralized batch
+    filter. While eliminating the need for frequent DSN tracking, we demonstrate an
+    improved orbit determination accuracy of up to meter level and timing accuracy
+    of sub-nanosecond level by using a single MSS as an anchor node.'
   award: ''
   bibtex: " @article{iiyama2025odtsmars,\n  title = {Orbit Determination and Time\
     \ Synchronization for the Future Mars Relay and Navigation Constellation},\n \
-    \ pages = {},\n  year = {2025},\n  month = {March},\n  journal = {2025 IEEE Aerospace\
-    \ Conference},\n  author = {Iiyama, Keidai and Jun, W William and Bhamidipati,\
-    \ Sriramya and Gao, Grace and Cheung, Kar-Ming},\n}"
+    \ pages = {1-14},\n  year = {2025},\n  month = {March},\n  journal = {2025 IEEE\
+    \ Aerospace Conference},\n  doi = {10.1109/AERO63441.2025.11068793},\n  url =\
+    \ {https://doi.org/10.1109/AERO63441.2025.11068793},\n  author = {Iiyama, Keidai\
+    \ and Jun, W William and Bhamidipati, Sriramya and Gao, Grace and Cheung, Kar-Ming},\n\
+    }"
   review: ''
 - id: '[C18]'
   idnum: 18
@@ -134,7 +169,8 @@
     \ with Inter-satellite Links: A Rigidity-Based Approach},\n  year = {2024},\n\
     \  month = {9},\n  journal = {Proceedings of the Institute of Navigation GNSS+\
     \ conference (ION GNSS+ 2024)},\n  url = {https://doi.org/10.33012/2024.19935},\n\
-    \  author = {Iiyama, Keidai and Neamati, Daniel and Gao, Grace},\n}"
+    \  doi = {10.33012/2024.19935},\n  author = {Iiyama, Keidai and Neamati, Daniel\
+    \ and Gao, Grace},\n}"
   review: ''
 - id: '[C17]'
   idnum: 17
@@ -207,7 +243,8 @@
     \ Lunar Positioning, Navigation, and Timing},\n  journal = {Proceedings of the\
     \ Institute of Navigation GNSS+ conference (ION GNSS+ 2023)},\n  pages = {1499--1510},\n\
     \  year = {2023},\n  month = {9},\n  url = {https://doi.org/10.33012/2023.19373},\n\
-    \  author = {Iiyama*, Keidai and Vila*, Guillem Casadesus and Gao, Grace},\n}"
+    \  doi = {10.33012/2023.19373},\n  author = {Iiyama*, Keidai and Vila*, Guillem\
+    \ Casadesus and Gao, Grace},\n}"
   review: ''
 - id: '[C15]'
   idnum: 15
@@ -254,8 +291,8 @@
     \ Distributed Lunar Satellites via Terrestrial GPS Differential Carrier Phase\
     \ Measurements},\n  journal = {Proceedings of the Institute of Navigation GNSS+\
     \ conference (ION GNSS+ 2023)},\n  pages = {1511--1529},\n  year = {2023},\n \
-    \ month = {9},\n  url = {https://doi.org/10.33012/2023.19385},\n  author = {Iiyama,\
-    \ Keidai and Gao, Grace},\n}"
+    \ month = {9},\n  url = {https://doi.org/10.33012/2023.19385},\n  doi = {10.33012/2023.19385},\n\
+    \  author = {Iiyama, Keidai and Gao, Grace},\n}"
   review: ''
 - id: '[C14]'
   idnum: 14
@@ -293,8 +330,8 @@
     \ methods to support lunar positioning, navigation, and timing services},\n  journal\
     \ = {Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+ 2023)},\n\
     \  pages = {3647--3663},\n  year = {2023},\n  month = {9},\n  paper = {https://drive.google.com/file/d/1z-j70jBJPtMAQ6cpA_ig5yjbLJkotSEX/view},\n\
-    \  url = {https://doi.org/10.33012/2023.19282},\n  author = {Cortinovis, Marta\
-    \ and Iiyama, Keidai and Gao, Grace},\n}"
+    \  url = {https://doi.org/10.33012/2023.19282},\n  doi = {10.33012/2023.19282},\n\
+    \  author = {Cortinovis, Marta and Iiyama, Keidai and Gao, Grace},\n}"
   review: ''
 - id: '[C13]'
   idnum: 13
@@ -338,8 +375,9 @@
   bibtex: " @article{iiyama2023terrestrial,\n  title = {Terrestrial GPS time-differenced\
     \ carrier-phase positioning of lunar surface users},\n  journal = {2023 IEEE Aerospace\
     \ Conference},\n  pages = {1--9},\n  year = {2023},\n  month = {3},\n  organization\
-    \ = {IEEE},\n  url = {https://doi.org/10.1109/AERO55745.2023.10115673},\n  author\
-    \ = {Iiyama, Keidai and Bhamidipati, Sriramya and Gao, Grace},\n}"
+    \ = {IEEE},\n  url = {https://doi.org/10.1109/AERO55745.2023.10115673},\n  doi\
+    \ = {10.1109/AERO55745.2023.10115673},\n  author = {Iiyama, Keidai and Bhamidipati,\
+    \ Sriramya and Gao, Grace},\n}"
   review: ''
 - id: '[C11]'
   idnum: 11
@@ -375,8 +413,8 @@
     \ in a Lunar Orbit via Terrestrial GPS Time-Differenced Carrier-Phase Measurements},\n\
     \  location = {Long Beach, CA},\n  year = {2023},\n  journal = {Proceedings of\
     \ the 2023 International Technical Meeting of The Institute of Navigation},\n\
-    \  url = {https://doi.org/10.33012/2023.18597},\n  author = {Iiyama, Keidai and\
-    \ Sriramya,  and Gao, Grace},\n}"
+    \  url = {https://doi.org/10.33012/2023.18597},\n  doi = {10.33012/2023.18597},\n\
+    \  author = {Iiyama, Keidai and Sriramya,  and Gao, Grace},\n}"
   review: ''
 - id: '[C10]'
   idnum: 10
@@ -409,11 +447,11 @@
     \ Mission, system overview, and demonstration},\n  journal = {39th International\
     \ Communications Satellite Systems Conference (ICSSC 2022)},\n  volume = {2022},\n\
     \  pages = {12--15},\n  year = {2022},\n  month = {10},\n  url = {https://doi.org/10.1049/icp.2023.1355},\n\
-    \  author = {Murata, M. and Koga, M. and Nakajima, Y. and Yasumitsu, R. and Araki,\
-    \ T. and Makino, K. and Akiyama, K. and Yamamoto, T. and Tanabe, K. and Kogure,\
-    \ S. and Sato, N. and Toyama, D. and Kitamura, K. and Miyasaka, K. and Kawaguchi,\
-    \ T. and Sato, Y. and Kakihara, K. and Shibukawa, T. and Iiyama, K. and Tanaka,\
-    \ T.},\n}"
+    \  doi = {10.1049/icp.2023.1355},\n  author = {Murata, M. and Koga, M. and Nakajima,\
+    \ Y. and Yasumitsu, R. and Araki, T. and Makino, K. and Akiyama, K. and Yamamoto,\
+    \ T. and Tanabe, K. and Kogure, S. and Sato, N. and Toyama, D. and Kitamura, K.\
+    \ and Miyasaka, K. and Kawaguchi, T. and Sato, Y. and Kakihara, K. and Shibukawa,\
+    \ T. and Iiyama, K. and Tanaka, T.},\n}"
   review: ''
 - id: '[C9]'
   idnum: 9
@@ -452,8 +490,8 @@
     \ gps for distributed lunar surface communication networks},\n  journal = {2022\
     \ ieee aerospace conference (aero)},\n  pages = {1--15},\n  year = {2022},\n \
     \ organization = {IEEE},\n  month = {3},\n  url = {https://doi.org/10.1109/AERO53065.2022.9843716},\n\
-    \  author = {Bhamidipati, Sriramya and Iiyama*, Keidai and Mina*, Tara and Gao,\
-    \ Grace},\n}"
+    \  doi = {10.1109/AERO53065.2022.9843716},\n  author = {Bhamidipati, Sriramya\
+    \ and Iiyama*, Keidai and Mina*, Tara and Gao, Grace},\n}"
   review: ''
 - id: '[C8]'
   idnum: 8
@@ -495,8 +533,8 @@
     \ Navigation and Timekeeping in Lunar Orbit},\n  journal = {Proceedings of the\
     \ 2022 International Technical Meeting of the Institute of Navigation},\n  location\
     \ = {Long Beach, CA},\n  pages = {453--470},\n  year = {2022},\n  month = {1},\n\
-    \  url = {https://doi.org/10.33012/2022.18207},\n  author = {Iiyama, Keidai and\
-    \ Kruger, Jusitn and D’Amico, Simone},\n}"
+    \  url = {https://doi.org/10.33012/2022.18207},\n  doi = {10.33012/2022.18207},\n\
+    \  author = {Iiyama, Keidai and Kruger, Jusitn and D’Amico, Simone},\n}"
   review: ''
 - id: '[C7]'
   idnum: 7
@@ -533,7 +571,8 @@
     \ satellites using GPS signals and inter-satellite ranging},\n  journal = {Proceedings\
     \ of the Institute of Navigation GNSS+ conference (ION GNSS+ 2021)},\n  pages\
     \ = {936--949},\n  year = {2021},\n  month = {9},\n  url = {https://doi.org/10.33012/2021.18019},\n\
-    \  author = {Iiyama, Keidai and Kawabata, Yosuke and Funase, Ryu},\n}"
+    \  doi = {10.33012/2021.18019},\n  author = {Iiyama, Keidai and Kawabata, Yosuke\
+    \ and Funase, Ryu},\n}"
   review: ''
 - id: '[C6]'
   idnum: 6
@@ -566,9 +605,9 @@
   bibtex: " @article{tomita2020hazard,\n  title = {Hazard detection algorithm for\
     \ planetary landing using semantic segmentation},\n  journal = {ASCEND 2020},\n\
     \  pages = {4150},\n  year = {2020},\n  month = {11},\n  location = {Las Vegas,\
-    \ NV},\n  url = {https://doi.org/10.2514/6.2020-4150},\n  author = {Tomita, Kento\
-    \ and Skinner, Katherine and Iiyama, Keidai and Jagatia, Bhavi and Nakagawa, Tatsuwaki\
-    \ and Ho, Koki},\n}"
+    \ NV},\n  url = {https://doi.org/10.2514/6.2020-4150},\n  doi = {10.2514/6.2020-4150},\n\
+    \  author = {Tomita, Kento and Skinner, Katherine and Iiyama, Keidai and Jagatia,\
+    \ Bhavi and Nakagawa, Tatsuwaki and Ho, Koki},\n}"
   review: ''
 - id: '[C5]'
   idnum: 5
@@ -603,9 +642,9 @@
   bibtex: " @article{iiyama2021deep,\n  title = {Deep reinforcement learning for safe\
     \ landing site selection with concurrent consideration of divert maneuvers},\n\
     \  journal = {AAS/AIAA Astrodynamics Specialist Conference},\n  year = {2020},\n\
-    \  month = {8},\n  url = {https://arxiv.org/abs/2102.12432},\n  location = {Lake\
-    \ Tahoe, CA},\n  author = {Iiyama, Keidai and Tomita, Kento and Jagatia, Bhavi\
-    \ A and Nakagawa, Tatsuwaki and Ho, Koki},\n}"
+    \  month = {8},\n  url = {https://arxiv.org/abs/2102.12432},\n  doi = {10.48550/arXiv.2102.12432},\n\
+    \  location = {Lake Tahoe, CA},\n  author = {Iiyama, Keidai and Tomita, Kento\
+    \ and Jagatia, Bhavi A and Nakagawa, Tatsuwaki and Ho, Koki},\n}"
   review: ''
 - id: '[C4]'
   idnum: 4

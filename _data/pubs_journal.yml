@@ -71,10 +71,10 @@
   bibtex: " @article{cortinovis2024satellitejournal,\n  title = {Satellite Ephemeris\
     \ Parameterization Methods to Support Lunar Positioning, Navigation, and Timing\
     \ Services},\n  volume = {71},\n  number = {4},\n  year = {2024},\n  month = {12},\n\
-    \  doi = {10.33012/navi.664},\n  publisher = {Institute of Navigation},\n  issn\
-    \ = {0028-1522},\n  url = {https://navi.ion.org/content/71/4/navi.664},\n  journal\
-    \ = {NAVIGATION: Journal of the Institute of Navigation},\n  author = {Cortinovis,\
-    \ Marta and Iiyama, Keidai and Gao, Grace},\n}"
+    \  publisher = {Institute of Navigation},\n  issn = {0028-1522},\n  url = {https://navi.ion.org/content/71/4/navi.664},\n\
+    \  doi = {10.33012/navi.664},\n  journal = {NAVIGATION: Journal of the Institute\
+    \ of Navigation},\n  author = {Cortinovis, Marta and Iiyama, Keidai and Gao, Grace},\n\
+    }"
   review: ''
 - id: '[J2]'
   idnum: 2
@@ -112,9 +112,9 @@
     \ Timekeeping in a Lunar Orbit via Terrestrial GPS Time-Differenced Carrier-Phase\
     \ Measurements},\n  volume = {71},\n  number = {1},\n  year = {2024},\n  month\
     \ = {3},\n  publisher = {Institute of Navigation},\n  issn = {0028-1522},\n  url\
-    \ = {https://doi.org/10.33012/navi.635},\n  journal = {NAVIGATION: Journal of\
-    \ the Institute of Navigation},\n  author = {Iiyama, Keidai and Bhamidipati, Sriramya\
-    \ and Gao, Grace},\n}"
+    \ = {https://doi.org/10.33012/navi.635},\n  doi = {10.33012/navi.635},\n  journal\
+    \ = {NAVIGATION: Journal of the Institute of Navigation},\n  author = {Iiyama,\
+    \ Keidai and Bhamidipati, Sriramya and Gao, Grace},\n}"
   review: ''
 - id: '[J1]'
   idnum: 1
