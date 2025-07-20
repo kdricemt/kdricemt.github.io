@@ -42,10 +42,10 @@ You can also find my articles at my [ResearchGate](https://www.researchgate.net/
         {% endif %}
         <!-- Paper -->
         {% if pub.url != '' %}
-         [<a href="{{ pub.url }}">Paper</a>]
+         [<a href="{{ pub.url }}">URL</a>]
         {% endif %}
         {% if pub.pdf != '' %}
-         [<a href="{{ pub.pdf }}">PDF</a>]
+         [<a href="{{ pub.pdf }}">Paper PDF</a>]
         {% endif %}
         <!-- BibTeX -->
         [<a href="javascript:void(0)" onclick="toggleVisibility('bibtex-{{ forloop.index }}')">BibTeX</a>] 
@@ -87,10 +87,10 @@ You can also find my articles at my [ResearchGate](https://www.researchgate.net/
             <strong style="color: blue;">{{ pub.award }}</strong>
             {% endif %}
             {% if pub.url != '' %}
-            [<a href="{{ pub.url }}">Paper</a>]
+            [<a href="{{ pub.url }}">URL</a>]
             {% endif %}
             {% if pub.pdf != '' %}
-            [<a href="{{ pub.pdf }}">PDF</a>]
+            [<a href="{{ pub.pdf }}">Paper PDF</a>]
             {% endif %}
             {% if pub.slides != '' %}
               [<a href="{{ pub.slides }}">Slides</a>]
