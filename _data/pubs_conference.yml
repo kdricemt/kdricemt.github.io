@@ -8,6 +8,7 @@
   year: '2025'
   year_num: 2025
   pdf: ''
+  url: ''
   slides: ''
   video: ''
   code: ''
@@ -30,6 +31,7 @@
   year: '2025'
   year_num: 2025
   pdf: ''
+  url: ''
   slides: ''
   video: ''
   code: ''
@@ -51,6 +53,7 @@
   year: '2025'
   year_num: 2025
   pdf: ''
+  url: ''
   slides: ''
   video: ''
   code: ''
@@ -71,6 +74,7 @@
   year: '2025'
   year_num: 2025
   pdf: https://drive.google.com/file/d/1t4BDd2MEI5CnjsShM9xezC0Y28_xfL63/view?usp=sharing
+  url: https://doi.org/10.1109/AERO63441.2025.11068501
   slides: ''
   video: ''
   code: ''
@@ -108,6 +112,7 @@
   year: '2025'
   year_num: 2025
   pdf: https://drive.google.com/file/d/1twq226bUb49lHmHscmDmMYOVVbDe5ZC3/view?usp=sharing
+  url: https://doi.org/10.1109/AERO63441.2025.11068793
   slides: https://drive.google.com/file/d/1Gzs4zH-eJYU9DZLOz_p6VN5kWJtaaRat/view?usp=sharing
   video: ''
   code: ''
@@ -147,6 +152,7 @@
   year: '2024'
   year_num: 2024
   pdf: https://drive.google.com/file/d/17R9aBo8d_QoxkPq_lWgAUoo_GC1VFADL/view?usp=sharing
+  url: https://doi.org/10.33012/2024.19935
   slides: https://drive.google.com/file/d/1nDlSjQJN9SuKfAlO9FuofAQ3dpk66DKt/view?usp=sharing
   video: ''
   code: ''
@@ -181,6 +187,7 @@
   year: '2024'
   year_num: 2024
   pdf: https://drive.google.com/file/d/1ysgGIQmowmfzSefFNdOOIWnhi1dVh-9m/view?usp=sharing
+  url: https://doi.org/10.1109/AERO58975.2024.10521114
   slides: https://drive.google.com/file/d/1Q-1PTQZ3Gtd3rYOmMXX7g4UwT1eMOq-p/view?usp=sharing
   video: ''
   code: ''
@@ -205,8 +212,8 @@
   bibtex: " @article{iiyama2024contact,\n  title = {Contact Plan Optimization and\
     \ Distributed State Estimation for Delay Tolerant Satellite Networks},\n  journal\
     \ = {2024 IEEE Aerospace Conference},\n  pages = {1--13},\n  year = {2024},\n\
-    \  month = {3},\n  doi = {10.1109/AERO58975.2024.10521114},\n  author = {Iiyama*,\
-    \ Keidai and Vila*, Guillem Casadesus and Gao, Grace},\n}"
+    \  month = {3},\n  doi = {10.1109/AERO58975.2024.10521114},\n  url = {https://doi.org/10.1109/AERO58975.2024.10521114},\n\
+    \  author = {Iiyama*, Keidai and Vila*, Guillem Casadesus and Gao, Grace},\n}"
   review: ''
 - id: '[C16]'
   idnum: 16
@@ -217,6 +224,7 @@
   year: '2023'
   year_num: 2023
   pdf: https://drive.google.com/file/d/1mdIEUHOrfckKYSbwEAUoubVuhX13GNV_/view
+  url: https://doi.org/10.33012/2023.19373
   slides: https://drive.google.com/file/d/1skQkY_pcZwauKjDcvAk_734lyzUmuOUt/view
   video: ''
   code: https://github.com/Stanford-NavLab/LuPNT
@@ -256,6 +264,7 @@
   year: '2023'
   year_num: 2023
   pdf: https://drive.google.com/file/d/1cL5lgkM0RPiFzZyaT2CpQ2vhyATat6S7/view
+  url: https://doi.org/10.33012/2023.19385
   slides: https://drive.google.com/file/d/1vNk6GMIdG3MgwIJZojvdi_QiUv46VeDr/view
   video: ''
   code: ''
@@ -304,6 +313,7 @@
   year: '2023'
   year_num: 2023
   pdf: ''
+  url: https://doi.org/10.33012/2023.19282
   slides: https://drive.google.com/file/d/1HG9RaoZfY6DoCg29m-v_fsy_l1IcnqVM/view
   video: ''
   code: ''
@@ -341,6 +351,7 @@
   year: '2023'
   year_num: 2023
   pdf: https://www.dropbox.com/scl/fi/n7kf8ohdq3q3a7ukw2u79/AAS_202308_gecco_spoc1.pdf?rlkey=1nvdlpd1sqvxq37554msyba6p&dl=0
+  url: ''
   slides: ''
   video: ''
   code: ''
@@ -367,6 +378,7 @@
   year: '2023'
   year_num: 2023
   pdf: https://drive.google.com/file/d/1KULYi3P5_tvvuyoWFqoC_dM_is_1V7Cz/view?usp=sharing
+  url: https://doi.org/10.1109/AERO55745.2023.10115673
   slides: https://drive.google.com/file/d/1v3gKyHCCTrFBDLstRb_Yw5Y619EQuwiw/view?usp=sharing
   video: ''
   code: ''
@@ -389,6 +401,7 @@
   year: '2023'
   year_num: 2023
   pdf: https://drive.google.com/file/d/1jgQMyomCPNhBYvDtb9MAKGabkehjIgL5/view?usp=sharing
+  url: https://doi.org/10.33012/2023.18597
   slides: https://drive.google.com/file/d/1Me1eJwT1VHI8-crE6kLqaEKAYND_dzS7/view?usp=sharing
   video: ''
   code: ''
@@ -427,6 +440,7 @@
   year: '2022'
   year_num: 2022
   pdf: https://www.dropbox.com/scl/fi/qm17e6zskw2rclfofwldn/Lunar_navigation_satellite_system_mission_system_overview_and_demonstration.pdf?rlkey=pepcwfv0h5n3pgboy7l8cx9vo&dl=0
+  url: https://doi.org/10.1049/icp.2023.1355
   slides: ''
   video: ''
   code: ''
@@ -462,6 +476,7 @@
   year: '2022'
   year_num: 2022
   pdf: https://drive.google.com/file/d/1W_xPTOMYv0S4eohT65VnOtKAQF2ah9tH/view
+  url: https://doi.org/10.1109/AERO53065.2022.9843716
   slides: https://drive.google.com/file/d/1q2TtI9oUaNvA4X3iHQRx7EmVmS0OrKFX/view
   video: ''
   code: ''
@@ -502,6 +517,7 @@
   year: '2022'
   year_num: 2022
   pdf: https://slab.sites.stanford.edu/sites/g/files/sbiybj25201/files/media/file/ion_itm_lunar_navigation_paper_rev3.pdf
+  url: https://doi.org/10.33012/2022.18207
   slides: https://www.dropbox.com/s/1ocz6mt59xswasl/Keidai_ION_ITM_2022_rev2_slideonly.pdf?dl=0
   video: ''
   code: ''
@@ -546,6 +562,7 @@
   year: '2021'
   year_num: 2021
   pdf: https://www.dropbox.com/s/0t4kbo6w83hcmxv/ION_GNSS_2021_Iiyama.pdf?dl=0
+  url: https://doi.org/10.33012/2021.18019
   slides: https://www.dropbox.com/s/h5wfe2z3tki8mrq/ION_GNSS_2021_iiyama_slideonly.pdf?dl=0
   video: ''
   code: ''
@@ -583,6 +600,7 @@
   year: '2020'
   year_num: 2020
   pdf: ''
+  url: https://doi.org/10.2514/6.2020-4150
   slides: ''
   video: ''
   code: ''
@@ -619,6 +637,7 @@
   year: '2020'
   year_num: 2020
   pdf: https://arxiv.org/pdf/2102.12432.pdf
+  url: https://arxiv.org/abs/2102.12432
   slides: https://www.dropbox.com/scl/fi/165lkwid16mu7t0hnfm96/ASC_2020_iiyama_Presentation.pdf?rlkey=gzqc9nreafjku6u0cz8jlhfux&dl=0
   video: ''
   code: ''
@@ -656,6 +675,7 @@
   year: '2020'
   year_num: 2020
   pdf: https://ttu-ir.tdl.org/bitstream/handle/2346/86455/ICES-2020-282.pdf?sequence=1&isAllowed=y
+  url: https://hdl.handle.net/2346/86455
   slides: ''
   video: ''
   code: ''
@@ -675,9 +695,10 @@
   bibtex: " @article{shibukawa2020flight,\n  title = {Flight Model Thermal Design\
     \ and Verification for the 6U Deep Space CubeSat EQUULEUS},\n  year = {2020},\n\
     \  journal = {2020 International Conference on Environmental Systems},\n  month\
-    \ = {7},\n  location = {Lisbon, Portugal (postponed)},\n  author = {Shibukawa,\
-    \ Toshihiro and Matsushita, Shuhei and Iiyama, Keidai and Ishikawa, Akihiro and\
-    \ Nishii, Keita and Funase, Ryu},\n}"
+    \ = {7},\n  url = {https://hdl.handle.net/2346/86455},\n  location = {Lisbon,\
+    \ Portugal (postponed)},\n  author = {Shibukawa, Toshihiro and Matsushita, Shuhei\
+    \ and Iiyama, Keidai and Ishikawa, Akihiro and Nishii, Keita and Funase, Ryu},\n\
+    }"
   review: ''
 - id: '[C3]'
   idnum: 3
@@ -688,6 +709,7 @@
   year: '2019'
   year_num: 2019
   pdf: https://ttu-ir.tdl.org/bitstream/handle/2346/84425/ICES-2019-193.pdf?sequence=1&isAllowed=y
+  url: https://hdl.handle.net/2346/84425
   slides: ''
   video: ''
   code: ''
@@ -709,9 +731,9 @@
   bibtex: " @article{matsushita2019thermal,\n  title = {Thermal Design and Validation\
     \ for a 6U Deep Space CubeSat EQUULEUS under Constraints Tightly Coupled with\
     \ Orbital Design and Water Propulsion System},\n  year = {2019},\n  month = {7},\n\
-    \  journal = {49th International Conference on Environmental Systems},\n  author\
-    \ = {Matsushita, Shuhei and Shibukawa, Toshihiro and Iiyama, Keidai and Funase,\
-    \ Ryu},\n}"
+    \  journal = {49th International Conference on Environmental Systems},\n  url\
+    \ = {https://hdl.handle.net/2346/84425},\n  author = {Matsushita, Shuhei and Shibukawa,\
+    \ Toshihiro and Iiyama, Keidai and Funase, Ryu},\n}"
   review: ''
 - id: '[C2]'
   idnum: 2
@@ -722,6 +744,7 @@
   year: '2019'
   year_num: 2019
   pdf: https://www.dropbox.com/s/ezpirkwlz9xzw6t/ISTS2019.pdf?dl=0
+  url: ''
   slides: ''
   video: ''
   code: ''
@@ -762,6 +785,7 @@
   year: '2019'
   year_num: 2019
   pdf: ''
+  url: ''
   slides: ''
   video: ''
   code: ''
