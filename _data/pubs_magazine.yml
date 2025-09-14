@@ -1,0 +1,22 @@
+- id: '[M1]'
+  idnum: 1
+  volume: '20'
+  number: '5'
+  pages: 18--27
+  publisher: Inside GNSS Media & Research LLC
+  url: https://cdn.coverstand.com/61061/851733/49922e7fd445bf24b05f02cc710b9a5740d30fab.1.pdf
+  author: <strong>Iiyama, K.</strong>, Pullen, S., Gao, G.
+  title: 'GNSS Solutions: Developing a sustainable lunar navigation architecture'
+  journal: Inside GNSS
+  year: '2025'
+  year_num: 2025
+  pdf: ''
+  video: ''
+  code: ''
+  abstract: ''
+  bibtex: " @article{iiyama2025insidegnss_overview,\n  title = {GNSS Solutions: Developing\
+    \ a sustainable lunar navigation architecture},\n  journal = {Inside GNSS},\n\
+    \  volume = {20},\n  number = {5},\n  pages = {18--27},\n  year = {2025},\n  month\
+    \ = {Sep-Oct},\n  publisher = {Inside GNSS Media & Research LLC},\n  url = {https://cdn.coverstand.com/61061/851733/49922e7fd445bf24b05f02cc710b9a5740d30fab.1.pdf},\n\
+    \  author = {Iiyama, Keidai and Pullen, Sam and Gao, Grace},\n}"
+  review: ''

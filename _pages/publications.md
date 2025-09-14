@@ -18,7 +18,48 @@ years_conf: [2025, 2024, 2023, 2022, 2021, 2020, 2019]
   
 You can also find my articles at my [ResearchGate](https://www.researchgate.net/profile/Keidai_Iiyama) and [Google Scholar](https://scholar.google.com/citations?user=84_oy1EAAAAJ&hl=ja).
 
-## Peer-Reviewed Journal Publications
+## Maganize Articles
+<ul class="publications-list-maganize" style="list-style: none; padding: 0; margin: 0;">
+  {% for pub in site.data.pubs_magazine %}
+    <li class="publication-item-magazine" style="padding: 0px; margin-bottom: 0px">
+      <p>
+        {{ pub.id }} 
+        {{ pub.author | strip }}, 
+        “{{ pub.title }}”, 
+        <em>{{ pub.journal }}</em>, 
+        {% if pub.volume != '' %}
+          Vol. {{ pub.volume }}, 
+        {% endif %}
+        {% if pub.number != ''%}
+          No. {{ pub.number }}, 
+        {% endif %}
+        {% if pub.pages != ''%}
+          pp. {{ pub.pages }}, 
+        {% endif %}
+        {{ pub.year }},
+        {% if pub.review %}
+            {{ pub.review }} 
+        {% endif %}
+        <!-- Paper -->
+        {% if pub.url != '' %}
+         [<a href="{{ pub.url }}">URL</a>]
+        {% endif %}
+        {% if pub.pdf != '' %}
+         [<a href="{{ pub.pdf }}">Paper PDF</a>]
+        {% endif %}
+        <!-- BibTeX -->
+        [<a href="javascript:void(0)" onclick="toggleVisibility('bibtex-{{ forloop.index }}')">BibTeX</a>] 
+        <!-- BibTeX Section -->
+        <div id="bibtex-{{ forloop.index }}" style="display:none; font-family: Arial, sans-serif; font-size: 16px">
+          <pre style="background-color: #f0f0f0;">{{ pub.bibtex }}</pre>
+          <button onclick="copyToClipboard('bibtex-{{ forloop.index }}')">Copy</button>
+        </div>
+      </p>
+    </li>
+  {% endfor %}
+</ul>
+
+## Journal Publications
 <ul class="publications-list" style="list-style: none; padding: 0; margin: 0;">
   {% for pub in site.data.pubs_journal %}
     <li class="publication-item" style="padding: 0px; margin-bottom: 0px">

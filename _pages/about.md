@@ -121,10 +121,12 @@ feature_lac:
 feature_iongnss_bestpresentation:
   - image_path: https://dl.dropboxusercontent.com/s/hedxqjaj3h97nij/ion-logo-large.jpg?dl=0
     alt: "ION-Best-Presentation"
-    date: "2024, 2023"
-    title: 'ION GNSS Best Presentation of the Session'
+    date: "2025, 2024, 2023"
+    title: 'ION GNSS+ Best Presentation of the Session'
     subtitle: '<i> From Institute of Navigation (ION) </i>'
-    excerpt: '<i> 2024: Autonomous Constellation Fault Monitoring with Inter-satellite Links: A Rigidity-Based Approach (1st-author) </i> <br>
+    excerpt: '
+    <i> 2025: Plasmaspheric Delay Characterization and Comparison of Mitigation Methodologies for Lunar Terrestrial GNSS Receivers (1st-author) </i> <br>
+    <i> 2024: Autonomous Constellation Fault Monitoring with Inter-satellite Links: A Rigidity-Based Approach (1st-author) </i> <br>
     <i> 2023: Satellite ephemeris approximation methods to support lunar positioning, navigation, and timing services (2nd-author)  </i>'
 feature_award_ists:
   - image_path: https://dl.dropboxusercontent.com/s/0utuj4eimxytps0/circlelogo_ists.png?dl=0
@@ -200,6 +202,10 @@ kiiyama{at}stanford.edu
 
 
 ## Recent News
+- Sep.14 2025  An article about Lunar PNT research in Stanford NAV Lab is available at the [latest issue of Inside GNSS](https://cdn.coverstand.com/61061/851733/49922e7fd445bf24b05f02cc710b9a5740d30fab.1.pdf)
+  - GNSS Solutions: Developing a sustainable lunar navigation architecture (page 18 -- 27)
+- Sep.14 2025  Presented two papers at the ION GNSS conference. Please see the [publications page](/publications/) for details
+  - The paper "Plasmaspheric Delay Characterization and Comparison of Mitigation Methodologies for Lunar Terrestrial GNSS Receivers" received the Best Presentation Award of the session
 - May.15 2025  Our team won the [Lunar Autonomy Challenge](https://www.nasa.gov/directorates/stmd/top-prize-awarded-in-lunar-autonomy-challenge-to-virtually-map-moons-surface/)!
 - Apr.11 2025  Four papers were accepted for the ION GNSS+ Conference!
 - Nov.20 2024  Presented for the ION Webinar "Webinar: Satellite Ephemeris Parameterization Methods to Support Lunar Positioning, Navigation, and Timing Services". 
