@@ -30,7 +30,7 @@
     2025)
   year: '2025'
   year_num: 2025
-  pdf: https://drive.google.com/file/d/1QQQTtv9qf_AW7VS-_bhD8KAEzxhsIp0g/view?usp=drive_link
+  pdf: https://drive.google.com/file/d/1kZ8QYdBuAnxXQa_4BczMk-WkM46SVR_8/view?usp=sharing
   url: ''
   slides: https://drive.google.com/file/d/1JtKPR8dLab8UdRiAt1F4O6Cy8Z5afOFK/view?usp=drive_link
   video: ''
@@ -50,7 +50,7 @@
     including altitude masking, iono-free frequency combinations, and differential
     techniques. We found that a tangential altitude cutoff of 4000 km was effective
     in excluding signals traversing dense ionospheric regions. Single differencing
-    is able to remove over 90% of the ionospheric and plasmaspheric delays for two
+    is able to remove over 90\% of the ionospheric and plasmaspheric delays for two
     receivers with relative distances under 10,000 km. The iono-free combinations
     are effective to cancel 1st-order delays for signals that pass below 4000 km altitude,
     but for higher signals, the effect of inflated thermal noise due to frequency
@@ -72,7 +72,7 @@
     2025)
   year: '2025'
   year_num: 2025
-  pdf: https://drive.google.com/file/d/1cIwz4u7UDnha_sHIU6FHe_zWb-z-1dLR/view?usp=drive_link
+  pdf: https://drive.google.com/file/d/14dKsXmlO7jR0pz3i6h72kJFxZAkjdSG_/view?usp=sharing
   url: ''
   slides: https://drive.google.com/file/d/1jGKuuQweIB9UIajfpctvawhFY4cJTWnC/view?usp=drive_link
   video: ''
