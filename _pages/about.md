@@ -179,7 +179,7 @@ Before and during my Ph.D., I worked with several leading space research groups 
 - University of Tokyo – 
   I earned B.E. and M.E. in Aerospace Engineering.
   At [Intelligent Space Systems Laboratory (ISSL)](https://www.space.t.u-tokyo.ac.jp/ehome), I contributed to thermal design and on-board software for EQUULEUS, a 6-U lunar CubeSat that [successfully completed a lunar flyby in 2022](https://digitalcommons.usu.edu/smallsat/2023/all2023/52/).
-  I also researched satellite configurations and autonomous operation strategies for a Lunar Navigation Satellite System (LNSS), pioneering work that helped enable a [JAXA–ArkEdge Space lunar navigation development contract]((https://insidegnss.com/arkedge-space-selected-by-jaxa-to-lead-lunar-navigation-system-development/)).
+  I also researched satellite configurations and autonomous operation strategies for a Lunar Navigation Satellite System (LNSS), pioneering work that helped enable a [JAXA–ArkEdge Space lunar navigation development contract](https://insidegnss.com/arkedge-space-selected-by-jaxa-to-lead-lunar-navigation-system-development/).
 - Georgia Tech [Space Systems Optimization Group (SSOG)](https://ssog.ae.gatech.edu/)  -
   In collboration with SSOG, I developed deep reinforcement learning algorithms for autonomous lunar landing site selection and guidance (Paper: [AAS/AIAA ASC 20](https://arxiv.org/abs/2102.12432)). 
 - Stanford [Space Rendezvous Lab (SLAB)](https://damicos.people.stanford.edu/) -
