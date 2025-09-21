@@ -147,15 +147,15 @@ redirect_from:
   - /about.html
 ---
 ## About Me
-I am a Ph.D. candidate in [Aeronautics and Astronautics at Stanford University](https://aa.stanford.edu/), working in the[Navigation and Autonomous Vehicles (NAV) Lab](https://navlab.stanford.edu/) under the supervision of [Professor Grace Gao](https://profiles.stanford.edu/gracegao). 
+I am a Ph.D. candidate in [Aeronautics and Astronautics at Stanford University](https://aa.stanford.edu/), working in the [Navigation and Autonomous Vehicles (NAV) Lab](https://navlab.stanford.edu/) under the supervision of [Professor Grace Gao](https://profiles.stanford.edu/gracegao). 
 **I will be on the academic job market this year.** 
 
 Please see my [CV](/files/Keidai_Iiyama_CV.pdf) (last updated at Sep 2025) for additional details and recent publications.
 
 ## Research Directions
-My research develops positioning, navigation, and timing (PNT) algorithms for a “Lunar GPS”—a satellite navigation system to support the next generation of lunar exploration. We are entering a transformative era of space exploration in which NASA and international partners are building LunaNet, an interoperable lunar satellite network that will deliver PNT and communication services across the Moon.
+My research develops positioning, navigation, and timing (PNT) algorithms for a "Lunar GPS”—a satellite navigation system to support the next generation of lunar exploration. We are entering a transformative era of space exploration in which NASA and international partners are building LunaNet, an interoperable lunar network that will deliver PNT and communication services across the Moon.
 
-Designing LunaNet presents unique technical challenges. Lunar navigation satellites must achieve precise orbit determination and time synchronization (ODTS) despite limited ground infrastructure and tight size, weight, and power (SWaP) constraints. Signal structures and ephemeris parameterizations suitable for lunar orbits remain undefined, and the system must ensure interoperability and integrity among multiple service providers with minimal ground monitoring.
+Designing "Lunar GPS" presents unique technical challenges. Lunar navigation satellites must achieve precise orbit determination and time synchronization (ODTS) despite limited ground infrastructure and tight size, weight, and power (SWaP) constraints. Signal structures and ephemeris parameterizations suitable for lunar orbits remain undefined, and the system must ensure interoperability and integrity among multiple service providers with minimal ground monitoring.
 
 My dissertation addresses these challenges through four main thrusts:
 1.	**Orbit Determination and Time Synchronization (ODTS)** - 
@@ -175,7 +175,7 @@ My dissertation addresses these challenges through four main thrusts:
 
 My work has received multiple awards at ION GNSS+, the world’s largest GNSS conference, and has been cited by researchers at NASA, ESA, and JAXA, contributing directly to the ongoing realization of LunaNet.
 
-Before and during my Ph.D., I have worked with several leading space research groups:
+Before and during my Ph.D., I worked with several leading space research groups on projects related to lunar and Martian exploration:
 - University of Tokyo – 
   I earned B.E. and M.E. in Aerospace Engineering.
   At [Intelligent Space Systems Laboratory (ISSL)](https://www.space.t.u-tokyo.ac.jp/ehome), I contributed to thermal design and on-board software for EQUULEUS, a 6-U lunar CubeSat that [successfully completed a lunar flyby in 2022](https://digitalcommons.usu.edu/smallsat/2023/all2023/52/).
