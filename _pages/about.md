@@ -12,7 +12,7 @@ author_profile: true
 feature_stanford:
   - image_path: https://dl.dropboxusercontent.com/s/ofb0zakwz7k3zto/Stanford2.png?dl=0
     alt: "Stanford"
-    date: "2021.9 ~"
+    date: "2021.9 ~ 2026.6 (Expected)"
     title: 'Ph.D. Candidate in Aeronautics and Astronautics, Stanford University'
     subtitle: "<i> Advisor: Grace Gao </i>"
     excerpt:  "Research Topic: Lunar Positioning, Navigation, and Timing (PNT)" 
@@ -64,7 +64,7 @@ feature_issl:
 feature_ta2:
   - image_path: https://dl.dropboxusercontent.com/s/fvee1u3u8oxl3js7afiit/gps_satellite_650.jpg?rlkey=nvrna2v2iqq15pzntg4k98m3j&st=904zu48j&dl=0
     alt: "UTokyo"
-    date: "2024.9 ~ 2024.12"
+    date: "2024 Fall, 2025 Fall"
     title: 'Graduate TA of graduate course AA272: Global Positioning System '
     subtitle: "<i> Department of Aeronautics and Astronautics, Stanford University </i>"
 feature_ta1:
@@ -95,14 +95,14 @@ feature_fellowship_stanford:
     date: "2021.9  ~ 2022.8"
     title: 'Stanford University Aero/Astro Department Fellowship'
     subtitle: '<i> From Stanford University Aero/Astro Department </i>'
-    excerpt: 'Sucess ratio ~11%, 1-year tuition and stipend'
+    excerpt: '1-year tuition and stipend'
 feature_fellowship_nakajima:
   - image_path: https://dl.dropboxusercontent.com/s/1ann0mwvobn58ov/Nakajima.jpg?dl=0
     alt: "Stanford"
     date: "2021.9  ~ 2023.8"
     title: 'Nakajima Foundation Study Abroad Fellowship'
     subtitle: '<i> From <a href="http://www.nakajimafound.or.jp/"> Nakajima Foundation </a> </i>'
-    excerpt: 'Sucess ratio ~7%, 2-year tuition and 5-year stipend'
+    excerpt: '2-year tuition and 5-year stipend'
 feature_fellowship_wings:
   - image_path: https://dl.dropboxusercontent.com/s/d558mgp12bwvky3/wings-cfs.png?dl=0
     alt: "WINGS_CFS"
@@ -125,7 +125,7 @@ feature_iongnss_bestpresentation:
     title: 'ION GNSS+ Best Presentation of the Session'
     subtitle: '<i> From Institute of Navigation (ION) </i>'
     excerpt: '
-    <i> 2025: Plasmaspheric Delay Characterization and Comparison of Mitigation Methodologies for Lunar Terrestrial GNSS Receivers (1st-author) </i> <br>
+    <i> 2025: Ionospheric and Plasmaspheric Delay Characterization and Mitigation Methodologies for Lunar Terrestrial GNSS Receivers (1st-author) </i> <br>
     <i> 2024: Autonomous Constellation Fault Monitoring with Inter-satellite Links: A Rigidity-Based Approach (1st-author) </i> <br>
     <i> 2023: Satellite ephemeris approximation methods to support lunar positioning, navigation, and timing services (2nd-author)  </i>'
 feature_award_ists:
@@ -146,22 +146,61 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a  Ph.D. candidate at [Stanford Aero/Astro](https://aa.stanford.edu/) pursuing a Ph.D. in Aeronautics and Astronautics in the [Navigation and Autonomous Vehicles (NAV) Lab](https://navlab.stanford.edu/). My adviser is [Professor Gao](https://profiles.stanford.edu/gracegao).
+## About Me
+I am a Ph.D. candidate in [Aeronautics and Astronautics at Stanford University](https://aa.stanford.edu/), working in the[Navigation and Autonomous Vehicles (NAV) Lab](https://navlab.stanford.edu/) under the supervision of [Professor Grace Gao](https://profiles.stanford.edu/gracegao). 
+**I will be on the academic job market this year.** 
 
-My primary research focuses on developing positioning, navigation, and timing (PNT) algorithms for lunar satellites and rovers to enable a “Lunar GPS” system that will support future lunar exploration. I currently lead the [Lunar PNT subgroup](https://navlab.stanford.edu/research/LunarPNT) in the NAV Lab and mentor several students.
+Please see my [CV](/files/Keidai_Iiyama_CV.pdf) (last updated at Sep 2025) for additional details and recent publications.
 
-Before joining Stanford, I earned my B.E. and M.E. degrees from the [Aero/Astro Department](http://www.aerospace.t.u-tokyo.ac.jp/english/) at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html). There, I contributed to the thermal design and on-board software development for EQUULEUS, a 6-U lunar CubeSat that [successfully completed a lunar flyby](https://digitalcommons.usu.edu/smallsat/2023/all2023/52/) in 2022. I also researched satellite configurations and autonomous operation strategies for a Lunar Navigation Satellite System (LNSS), and pioneered research works that has recently led to a [Lunar Navigation System development contract](https://insidegnss.com/arkedge-space-selected-by-jaxa-to-lead-lunar-navigation-system-development/) between ArkEdge Space and JAXA.
+## Research Directions
+My research develops positioning, navigation, and timing (PNT) algorithms for a “Lunar GPS”—a satellite navigation system to support the next generation of lunar exploration. We are entering a transformative era of space exploration in which NASA and international partners are building LunaNet, an interoperable lunar satellite network that will deliver PNT and communication services across the Moon.
 
-I have had the honor of collaborating with renowned groups such as the [Space Systems Optimization Group (SSOG)](https://ssog.ae.gatech.edu/) at Georgia Tech, the [Space Rendezvous Lab (SLAB)](https://damicos.people.stanford.edu/) at Stanford University, and Section 332H at [Jet Propulsion Laboratory](https://www.jpl.nasa.gov/). At SSOG, I developed deep reinforcement learning algorithms for landing site selection. 
-At SLAB, I worked on multi-agent, vision-based angles-only navigation in lunar orbit, as part of the potential extension of the [Starling mission](https://www.nasa.gov/mission/starling/) by NASA Ames. 
-At JPL, I contributed to constellation design and orbit determination simulations of next-generation Mars navigation and communication relay satellite network to support future missions on Mars.
+Designing LunaNet presents unique technical challenges. Lunar navigation satellites must achieve precise orbit determination and time synchronization (ODTS) despite limited ground infrastructure and tight size, weight, and power (SWaP) constraints. Signal structures and ephemeris parameterizations suitable for lunar orbits remain undefined, and the system must ensure interoperability and integrity among multiple service providers with minimal ground monitoring.
 
-Please refer to my [CV](/files/Keidai_Iiyama_CV.pdf) (last updated at Sep 2025) for the latest information.
+My dissertation addresses these challenges through four main thrusts:
+1.	**Orbit Determination and Time Synchronization (ODTS)** - 
+   I develop filtering algorithms to estimate lunar navigation satellite orbits and clock offsets using weak terrestrial GNSS signals that spill into cislunar space. These methods exploit time-differential carrier-phase (TDCP) measurements and advanced ionospheric/plasmaspheric delay mitigation to overcome poor geometry and low signal power.
+    - [Precise Positioning and Timekeeping in a Lunar Orbit via Terrestrial GPS Time-Differenced Carrier-Phase Measurements](https://navi.ion.org/content/71/1/navi.635)", NAVIGATION, 2024
+    - [Ionospheric and Plasmaspheric Delay Characterization and Mitigation Methodologies
+    for Lunar Terrestrial GNSS Receivers](https://drive.google.com/file/d/1kZ8QYdBuAnxXQa_4BczMk-WkM46SVR_8/view), ION GNSS+, 2025, Best Presentation of the Session
+2.	**Ephemeris Design for Lunar Satellites** - 
+   I propose compact, high-accuracy ephemeris parameterizations capable of fitting elliptical lunar orbits while meeting LunaNet message size and accuracy requirements.
+    - [Satellite Ephemeris Parameterization Methods to Support Lunar Positioning, Navigation, and Timing Services](https://navi.ion.org/content/71/4/navi.664), NAVIGATION, 2024  (Best Presentation of the Session at ION GNSS+ 2023)
+3.	**Constellation and Deployment Optimization** - 
+   I created a staged-deployment optimization framework that co-designs hybrid Walker constellations and launch schedules. The framework expands coverage from south-pole to global service while accounting for positioning accuracy, satellite lifetime, and robustness to failures.
+    - [Constellation Design and Staged Development for the Lunar Navigation Satellite System](https://drive.google.com/file/d/14dKsXmlO7jR0pz3i6h72kJFxZAkjdSG_/view), ION GNSS+, 2025
+4.	**Integrity Monitoring and Fault Detection** - 
+   I designed a satellite clock fault detection and exclusion algorithm that uses inter-satellite ranging. Using graph-rigidity theory, the algorithm identifies and isolates faults without relying on prior ephemeris information or surface monitoring.
+   - [Satellite Autonomous Clock Fault Monitoring with Inter-Satellite Ranges Using Euclidean Distance Matrices](https://drive.google.com/file/d/1H44Ak13bVx1UWSENy9ofMA3pmXABL1Zh/view), Under review at NAVIGATION  (Best Presentation of the Session at ION GNSS+ 2024)
+
+My work has received multiple awards at ION GNSS+, the world’s largest GNSS conference, and has been cited by researchers at NASA, ESA, and JAXA, contributing directly to the ongoing realization of LunaNet.
+
+Before and during my Ph.D., I have worked with several leading space research groups:
+- University of Tokyo – 
+  I earned B.E. and M.E. in Aerospace Engineering.
+  At [Intelligent Space Systems Laboratory (ISSL)](https://www.space.t.u-tokyo.ac.jp/ehome), I contributed to thermal design and on-board software for EQUULEUS, a 6-U lunar CubeSat that [successfully completed a lunar flyby in 2022](https://digitalcommons.usu.edu/smallsat/2023/all2023/52/).
+  I also researched satellite configurations and autonomous operation strategies for a Lunar Navigation Satellite System (LNSS), pioneering work that helped enable a [JAXA–ArkEdge Space lunar navigation development contract]((https://insidegnss.com/arkedge-space-selected-by-jaxa-to-lead-lunar-navigation-system-development/)).
+- Georgia Tech [Space Systems Optimization Group (SSOG)](https://ssog.ae.gatech.edu/)  -
+  In collboration with SSOG, I developed deep reinforcement learning algorithms for autonomous lunar landing site selection and guidance (Paper: [AAS/AIAA ASC 20](https://arxiv.org/abs/2102.12432)). 
+- Stanford [Space Rendezvous Lab (SLAB)](https://damicos.people.stanford.edu/) -
+  Investigated multi-agent, vision-based angles-only navigation in lunar orbit for potential extensions of NASA’s Starling mission (Paper: [ION ITM 22](https://slab.sites.stanford.edu/sites/g/files/sbiybj25201/files/media/file/ion_itm_lunar_navigation_paper_rev3.pdf)).
+- [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/) (Section 332H) - 
+  Worked on constellation design and orbit determination simulations for next-generation Mars navigation and communication relay networks (Paper: [IEEE AeroConf 25](https://ieeexplore.ieee.org/document/11068793)).
 
 ## Education
 {% include minifeature_row id="feature_stanford" type="left" %}
 {% include minifeature_row id="feature_utokyo_me" type="left" %}
 {% include minifeature_row id="feature_utokyo_be" type="left" %}
+
+## Fellowships & Awards
+{% include minifeature_row id="feature_iongnss_bestpresentation" type="left" %}
+{% include minifeature_row id="feature_lac" type="left" %}
+{% include minifeature_row id="feature_fellowship_iongrant" type="left" %}
+{% include minifeature_row id="feature_fellowship_stanford" type="left" %}
+{% include minifeature_row id="feature_fellowship_nakajima" type="left" %}
+{% include minifeature_row id="feature_fellowship_wings" type="left" %}
+<!-- {% include minifeature_row id="feature_award_ists" type="left" %} -->
+{% include minifeature_row id="feature_award_arliss" type="left" %}
 
 ## Research Experience
 {% include minifeature_row id="feature_navlab" type="left" %}
@@ -181,18 +220,8 @@ Please see [here](/research/) for further information.
 - [Marta Cortinovis](https://www.linkedin.com/in/marta-cortinovis/)  Stanford University 2023.1-2024.8
 - [Guillem Rueda Oller](https://www.linkedin.com/in/guillemrueda/)   Stanford University 2022.9-2023.3
 
-## Academic Appointments
-{% include minifeature_row id="feature_isas" type="left" %} 
-  
-## Fellowships & Awards
-{% include minifeature_row id="feature_lac" type="left" %}
-{% include minifeature_row id="feature_iongnss_bestpresentation" type="left" %}
-{% include minifeature_row id="feature_fellowship_iongrant" type="left" %}
-{% include minifeature_row id="feature_fellowship_stanford" type="left" %}
-{% include minifeature_row id="feature_fellowship_nakajima" type="left" %}
-{% include minifeature_row id="feature_fellowship_wings" type="left" %}
-<!-- {% include minifeature_row id="feature_award_ists" type="left" %} -->
-{% include minifeature_row id="feature_award_arliss" type="left" %}
+<!-- ## Academic Appointments
+{% include minifeature_row id="feature_isas" type="left" %}  -->
 
 ## Publications
 Please see [here](/publications/)
@@ -200,12 +229,11 @@ Please see [here](/publications/)
 ## Contact
 kiiyama{at}stanford.edu
 
-
 ## Recent News
 - Sep.14 2025  An article about Lunar PNT research in Stanford NAV Lab is available at the [latest issue of Inside GNSS](https://cdn.coverstand.com/61061/851733/49922e7fd445bf24b05f02cc710b9a5740d30fab.1.pdf)
   - GNSS Solutions: Developing a sustainable lunar navigation architecture (page 18 -- 27)
 - Sep.14 2025  Presented two papers at the ION GNSS conference. Please see the [publications page](/publications/) for details
-  - The paper "Plasmaspheric Delay Characterization and Comparison of Mitigation Methodologies for Lunar Terrestrial GNSS Receivers" received the Best Presentation Award of the session
+  - The paper "Ionospheric and Plasmaspheric Delay Characterization and Mitigation Methodologies for Lunar Terrestrial GNSS Receivers" received the Best Presentation Award of the session
 - May.15 2025  Our team won the [Lunar Autonomy Challenge](https://www.nasa.gov/directorates/stmd/top-prize-awarded-in-lunar-autonomy-challenge-to-virtually-map-moons-surface/)!
 - Apr.11 2025  Four papers were accepted for the ION GNSS+ Conference!
 - Nov.20 2024  Presented for the ION Webinar "Webinar: Satellite Ephemeris Parameterization Methods to Support Lunar Positioning, Navigation, and Timing Services". 

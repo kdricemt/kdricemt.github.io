@@ -24,7 +24,7 @@
 - id: '[C22]'
   idnum: 22
   author: <strong>Iiyama, K.</strong>, Gao, G.
-  title: Plasmaspheric Delay Characterization and Comparison of Mitigation Methodologies
+  title: Ionospheric and Plasmaspheric Delay Characterization and Mitigation Methodologies
     for Lunar Terrestrial GNSS Receivers
   journal: Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+
     2025)
@@ -57,8 +57,8 @@
     combination becomes more significant. These findings inform the design of robust
     lunar GNSS navigation systems that utilize terrestrial GNSS signals.
   award: Best Presentation of the Session
-  bibtex: " @article{iiyama2025plasma,\n  title = {Plasmaspheric Delay Characterization\
-    \ and Comparison of Mitigation Methodologies for Lunar Terrestrial GNSS Receivers},\n\
+  bibtex: " @article{iiyama2025plasma,\n  title = {Ionospheric and Plasmaspheric Delay\
+    \ Characterization and Mitigation Methodologies for Lunar Terrestrial GNSS Receivers},\n\
     \  pages = {},\n  year = {2025},\n  month = {September},\n  journal = {Proceedings\
     \ of the Institute of Navigation GNSS+ conference (ION GNSS+ 2025)},\n  author\
     \ = {Iiyama, Keidai and Gao, Grace},\n}"
