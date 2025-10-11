@@ -442,6 +442,8 @@
   journal  = {Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+ 2025)},
   slides   = {https://drive.google.com/file/d/1jGKuuQweIB9UIajfpctvawhFY4cJTWnC/view?usp=drive_link},
   pdf      = {https://drive.google.com/file/d/14dKsXmlO7jR0pz3i6h72kJFxZAkjdSG_/view?usp=sharing},
+  url      = {https://doi.org/10.33012/2025.20257},
+  doi      = {10.33012/2025.20257},
   abstract = {The establishment of a sustainable human presence on the Moon demands robust positioning, navigation, and timing (PNT) services that can support both surface and orbital operations. Current lunar navigation system proposals focus on early deployment of Elliptical Lunar Frozen Orbits (ELFO) for South Pole coverage, but there remains no unified framework for designing constellations and staged deployment strategies that evolve from regional to global coverage.
               This paper presents a two-part methodology for lunar navigation constellation design. 
               First, a grid search systematically characterizes how the number of satellites and frozen orbit parameters influence the south-pole region and global coverage, OD accuracy, and user range error, providing insights into orbit-performance trade-offs. 
@@ -461,6 +463,8 @@
   award    = {Best Presentation of the Session},
   pdf      = {https://drive.google.com/file/d/1kZ8QYdBuAnxXQa_4BczMk-WkM46SVR_8/view?usp=sharing},
   slides   = {https://drive.google.com/file/d/1JtKPR8dLab8UdRiAt1F4O6Cy8Z5afOFK/view?usp=drive_link},
+  url      = {https://doi.org/10.33012/2025.20343},
+  doi      = {10.33012/2025.20343},
   abstract = {Recent advancements in lunar positioning, navigation, and timing (PNT) have demonstrated that terrestrial GNSS signals, including weak sidelobe transmissions, can be exploited for lunar spacecraft positioning and timing. 
               While GNSS-based navigation at the Moon has been validated recently, unmodeled ionospheric and plasmaspheric delays remain a significant error source, particularly given the unique signal geometry and extended propagation paths.
               This paper characterizes the plasmaspheric delay affecting GNSS signals observed at the lunar south pole and in lunar orbit using the Global Core Plasma Model (GCPM) and a custom ray-tracing algorithm to simulate both first-order delays, higher-order delays, and bending effects. 
@@ -471,13 +475,23 @@
 }
 
 @article{dai2025lac,
-  id      = {C23},
-  title   = {Full Stack Navigation, Mapping, and Planning for the Lunar Autonomy Challenge},
-  author  = {Adam Dai and Asta Wu and Keidai Iiyama and Guillem Casadesus Vila and Kaila Coimbra and Alexandre Carlhammar and Brian Wu and Grace Gao},
-  pages   = {},
-  year    = {2025},
-  month   = {September},
-  journal = {Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+ 2025)}
+  id       = {C23},
+  title    = {Full Stack Navigation, Mapping, and Planning for the Lunar Autonomy Challenge},
+  author   = {Adam Dai and Asta Wu and Keidai Iiyama and Guillem Casadesus Vila and Kaila Coimbra and Thomas Deng and Grace Gao},
+  pages    = {},
+  year     = {2025},
+  month    = {September},
+  journal  = {Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+ 2025)},
+  pdf      = {https://drive.google.com/file/d/1T90LuymHHbPKRx4QeSBnXULjS5RcOBb0/view?usp=sharing},
+  slides   = {https://drive.google.com/file/d/1oiCwl1F3BmPP4-8lYbAemcrtMgLHHbIp/view?usp=sharing},
+  url      = {https://doi.org/10.33012/2025.20447},
+  doi      = {10.33012/2025.20447},
+  abstract = {We present a modular, full-stack autonomy system for lunar surface navigation and mapping developed for the Lunar Autonomy Challenge. 
+              Operating in a GNSS-denied, visually challenging environment, our pipeline integrates semantic segmentation, stereo visual odometry, pose graph SLAM with loop closures, and layered planning and control. 
+              We leverage lightweight learning-based perception models for real-time segmentation and feature tracking and use a factor-graph backend to maintain globally consistent localization. 
+              High-level waypoint planning is designed to promote mapping coverage while encouraging frequent loop closures, and local motion planning uses arc sampling with geometric obstacle checks for efficient, reactive control. 
+              We evaluate our approach in the competition's high-fidelity lunar simulator, demonstrating centimeter-level localization accuracy, high-fidelity map generation, and strong repeatability across random seeds and rock distributions. 
+              Our solution achieved first place in the final competition evaluation.}
 }
 
 

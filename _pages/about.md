@@ -150,7 +150,7 @@ redirect_from:
 I am a Ph.D. candidate in [Aeronautics and Astronautics at Stanford University](https://aa.stanford.edu/), working in the [Navigation and Autonomous Vehicles (NAV) Lab](https://navlab.stanford.edu/) under the supervision of [Professor Grace Gao](https://profiles.stanford.edu/gracegao). 
 **I will be on the academic job market this year.** 
 
-Please see my [CV](/files/Keidai_Iiyama_CV.pdf) (last updated at Sep 2025) for additional details and recent publications.
+Please see my [CV](/files/Keidai_Iiyama_CV.pdf) (last updated at Oct 2025) for additional details and recent publications.
 
 ## Research Directions
 My research develops positioning, navigation, and timing (PNT) algorithms for a "Lunar GPS”—a satellite navigation system to support the next generation of lunar exploration. We are entering a transformative era of space exploration in which NASA and international partners are building LunaNet, an interoperable lunar network that will deliver PNT and communication services across the Moon.
