@@ -169,6 +169,7 @@ My dissertation addresses these challenges through four main thrusts:
 3.	**Constellation and Deployment Optimization** - 
    I created a staged-deployment optimization framework that co-designs hybrid Walker constellations and launch schedules. The framework expands coverage from south-pole to global service while accounting for positioning accuracy, satellite lifetime, and robustness to failures.
     - [Constellation Design and Staged Development for the Lunar Navigation Satellite System](https://drive.google.com/file/d/14dKsXmlO7jR0pz3i6h72kJFxZAkjdSG_/view), ION GNSS+, 2025
+    - [Trade-off Analysis for Lunar Augmented Navigation Service (LANS) Constellation Design](https://drive.google.com/file/d/1115FZK5ZkarUmR7QaEHQPV2KqNZDLucy/view?usp=sharing), NAVIGATION, Under Review
 4.	**Integrity Monitoring and Fault Detection** - 
    I designed a satellite clock fault detection and exclusion algorithm that uses inter-satellite ranging. Using graph-rigidity theory, the algorithm identifies and isolates faults without relying on prior ephemeris information or surface monitoring.
    - [Satellite Autonomous Clock Fault Monitoring with Inter-Satellite Ranges Using Euclidean Distance Matrices](https://drive.google.com/file/d/1H44Ak13bVx1UWSENy9ofMA3pmXABL1Zh/view), Under review at NAVIGATION  (Best Presentation of the Session at ION GNSS+ 2024)

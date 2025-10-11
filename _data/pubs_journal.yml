@@ -1,3 +1,84 @@
+- id: '[J6]'
+  idnum: 6
+  volume: ''
+  number: ''
+  pages: ''
+  publisher: ''
+  url: ''
+  author: <strong>Iiyama, K.</strong>, Gao, G.
+  title: Ionospheric and Plasmaspheric Delay Characterization for Lunar Terrestrial
+    GNSS Receivers with Global Core Plasma Model
+  journal: 'NAVIGATION: Journal of the Institute of Navigation'
+  year: '2025'
+  year_num: 2025
+  pdf: https://drive.google.com/file/d/1FFWs3FcuOlxFtfFpVSRqcYIEiXM6fp_u/view?usp=sharing
+  video: ''
+  code: ''
+  abstract: Recent advancements in lunar positioning, navigation, and timing (PNT)
+    have demonstrated that terrestrial GNSS signals, including weak sidelobe transmissions,
+    can be exploited for lunar spacecraft positioning and timing. While GNSS-based
+    navigation at the Moon has been validated recently, unmodeled ionospheric and
+    plasmaspheric delays remain a significant error source, particularly given the
+    unique signal geometry and extended propagation paths. This paper characterizes
+    these delays using the Global Core Plasma Model (GCPM) and a custom low-cost ray-tracing
+    algorithm that iteratively solves for bent signal paths. We simulate first-, second-,
+    and third-order group delays, as well as excess path length from ray bending,
+    for GNSS signals received at both lunar orbit and the lunar south pole under varying
+    solar and geomagnetic conditions. Results show that mean group delays are typically
+    on the order of 1 m, but can exceed 100 m for low-altitude ray paths during high
+    solar activity, while bending delays are generally smaller but non-negligible
+    for low-altitude ray paths. We also quantify the influence of signal frequency,
+    geomagnetic $K_p$ index, and solar R12 index. These findings inform the design
+    of robust positioning and timing algorithms that utilize terrestrial GNSS signals.
+  bibtex: " @article{iiyama2026plasmaspheresimulation,\n  title = {Ionospheric and\
+    \ Plasmaspheric Delay Characterization for Lunar Terrestrial GNSS Receivers with\
+    \ Global Core Plasma Model},\n  year = {2025},\n  month = {},\n  journal = {NAVIGATION:\
+    \ Journal of the Institute of Navigation},\n  author = {Iiyama, Keidai and Gao,\
+    \ Grace},\n}"
+  review: (Under Review)
+- id: '[J5]'
+  idnum: 5
+  volume: ''
+  number: ''
+  pages: ''
+  publisher: ''
+  url: ''
+  author: <strong>Iiyama, K.</strong>, Gao, G.
+  title: Trade-off Analysis for Lunar Augmented Navigation Service (LANS) Constellation
+    Design
+  journal: 'NAVIGATION: Journal of the Institute of Navigation'
+  year: '2025'
+  year_num: 2025
+  pdf: https://drive.google.com/file/d/1115FZK5ZkarUmR7QaEHQPV2KqNZDLucy/view?usp=sharing
+  video: ''
+  code: ''
+  abstract: 'The establishment of a sustainable human presence on the Moon demands
+    robust positioning, navigation, and timing (PNT) services capable of supporting
+    both surface and orbital operations. This paper presents a comprehensive trade-off
+    analysis of lunar frozen-orbit constellations for the Lunar Augmented Navigation
+    Service (LANS), focusing on how the number of satellites and orbital parameters
+    influence coverage, position dilution of precision (PDOP), orbit determination
+    accuracy, receiver noise, and orbit insertion cost. Three Walker-constellation
+    families based on frozen elliptical and circular orbits are examined to characterize
+    their relative advantages across different semi-major axes and inclinations. Results
+    show that larger semi-major axes enhance both polar and global coverage, though
+    the optimal inclination depends on the constellation type and target service region.
+    The south elliptical lunar frozen orbit (ELFO) Walker constellation provides superior
+    performance for polar coverage and PDOP, whereas the circular lunar frozen orbit
+    (CLFO) Walker configuration achieves the best global uniformity. Orbit determination
+    errors and receiver noise both increase with larger semi-major axes and higher
+    inclinations, reflecting weaker geometric observability and reduced received signal
+    power at apolune for eccentric orbits. Orbit insertion analysis reveals clear
+    trade-offs among transfer duration, characteristic energy (C3) at trans-lunar
+    injection, and insertion Delta-V: shorter transfers require higher insertion Delta-V,
+    while low-energy transfers achieve smaller Delta-V at the cost of months-long
+    durations and higher C3. These findings provide a systematic framework for designing
+    LANS constellations for both regional and global coverage.'
+  bibtex: " @article{iiyama2026constellationtradeoff,\n  title = {Trade-off Analysis\
+    \ for Lunar Augmented Navigation Service (LANS) Constellation Design},\n  year\
+    \ = {2025},\n  month = {},\n  journal = {NAVIGATION: Journal of the Institute\
+    \ of Navigation},\n  author = {Iiyama, Keidai and Gao, Grace},\n}"
+  review: (Under Review)
 - id: '[J4]'
   idnum: 4
   volume: ''
