@@ -164,12 +164,13 @@ My dissertation addresses these challenges through four main thrusts:
     - [Ionospheric and Plasmaspheric Delay Characterization and Mitigation Methodologies
     for Lunar Terrestrial GNSS Receivers](https://drive.google.com/file/d/1kZ8QYdBuAnxXQa_4BczMk-WkM46SVR_8/view), ION GNSS+, 2025, Best Presentation of the Session
 2.	**Ephemeris Design for Lunar Satellites** - 
-   I propose compact, high-accuracy ephemeris parameterizations capable of fitting elliptical lunar orbits while meeting LunaNet message size and accuracy requirements.
+   I propose compact almanac and ephemeris parameterizations capable of fitting elliptical lunar orbits while meeting LunaNet message size and accuracy requirements.
+    - [Ephemeris and Almanac Design for Lunar Navigation Satellites](https://arxiv.org/abs/2510.25161), under review at IEEE TAES
     - [Satellite Ephemeris Parameterization Methods to Support Lunar Positioning, Navigation, and Timing Services](https://navi.ion.org/content/71/4/navi.664), NAVIGATION, 2024  (Best Presentation of the Session at ION GNSS+ 2023)
 3.	**Constellation and Deployment Optimization** - 
    I created a staged-deployment optimization framework that co-designs hybrid Walker constellations and launch schedules. The framework expands coverage from south-pole to global service while accounting for positioning accuracy, satellite lifetime, and robustness to failures.
     - [Constellation Design and Staged Development for the Lunar Navigation Satellite System](https://drive.google.com/file/d/14dKsXmlO7jR0pz3i6h72kJFxZAkjdSG_/view), ION GNSS+, 2025
-    - [Trade-off Analysis for Lunar Augmented Navigation Service (LANS) Constellation Design](https://drive.google.com/file/d/1115FZK5ZkarUmR7QaEHQPV2KqNZDLucy/view?usp=sharing), NAVIGATION, Under Review
+    - [Trade-off Analysis for Lunar Augmented Navigation Service (LANS) Constellation Design](https://drive.google.com/file/d/1115FZK5ZkarUmR7QaEHQPV2KqNZDLucy/view?usp=sharing), under review at NAVIGATION
 4.	**Integrity Monitoring and Fault Detection** - 
    I designed a satellite clock fault detection and exclusion algorithm that uses inter-satellite ranging. Using graph-rigidity theory, the algorithm identifies and isolates faults without relying on prior ephemeris information or surface monitoring.
    - [Satellite Autonomous Clock Fault Monitoring with Inter-Satellite Ranges Using Euclidean Distance Matrices](https://drive.google.com/file/d/1H44Ak13bVx1UWSENy9ofMA3pmXABL1Zh/view), Under review at NAVIGATION  (Best Presentation of the Session at ION GNSS+ 2024)
@@ -216,6 +217,8 @@ Please see [here](/research/) for further information.
 {% include minifeature_row id="feature_ta1" type="left" %}  
 
 ## Mentorship
+- [Matthias Kura](https://www.linkedin.com/in/matthiaskura/)   Stanford University 2025.9-
+- [Vivian Sattler](https://www.linkedin.com/in/viviansattler/)  Stanford University 2025.9-
 - [Kaila Coimbra](https://www.kailacoimbra.com/)  Stanford University 2024.9-
 - [Guillem Casadesus Vila](https://www.guillemc.com/)   Stanford University 2023.1-
 - [Marta Cortinovis](https://www.linkedin.com/in/marta-cortinovis/)  Stanford University 2023.1-2024.8
