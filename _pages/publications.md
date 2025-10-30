@@ -59,6 +59,55 @@ You can also find my articles at my [ResearchGate](https://www.researchgate.net/
   {% endfor %}
 </ul>
 
+## Journal Articles Under Review
+<ul class="publications-list" style="list-style: none; padding: 0; margin: 0;">
+  {% for pub in site.data.pubs_preprints %}
+    <li class="publication-item" style="padding: 0px; margin-bottom: 0px">
+      <p>
+        {{ pub.id }} 
+        {{ pub.author | strip }}, 
+        “{{ pub.title }}”, 
+        <em>{{ pub.journal }}</em>, 
+        {% if pub.volume != '' %}
+          Vol. {{ pub.volume }}, 
+        {% endif %}
+        {% if pub.number != ''%}
+          No. {{ pub.number }}, 
+        {% endif %}
+        {% if pub.pages != ''%}
+          pp. {{ pub.pages }}, 
+        {% endif %}
+        {{ pub.year }},
+        {% if pub.review %}
+            {{ pub.review }} 
+        {% endif %}
+        <!-- Paper -->
+        {% if pub.url != '' %}
+         [<a href="{{ pub.url }}">URL</a>]
+        {% endif %}
+        {% if pub.pdf != '' %}
+         [<a href="{{ pub.pdf }}">Paper PDF</a>]
+        {% endif %}
+        <!-- BibTeX -->
+        [<a href="javascript:void(0)" onclick="toggleVisibility('bibtex-{{ forloop.index }}')">BibTeX</a>] 
+        <!-- Abstract -->
+        [<a href="javascript:void(0)" onclick="toggleVisibility('abstract-{{ forloop.index }}')">Abstract</a>]
+        <!-- BibTeX Section -->
+        <div id="bibtex-{{ forloop.index }}" style="display:none; font-family: Arial, sans-serif; font-size: 16px">
+          <pre style="background-color: #f0f0f0;">{{ pub.bibtex }}</pre>
+          <button onclick="copyToClipboard('bibtex-{{ forloop.index }}')">Copy</button>
+        </div>
+        <!-- Abstract Section -->
+        <div id="abstract-{{ forloop.index }}" style="display:none">
+          <strong>Abstract:</strong>
+          {{ pub.abstract }}
+        </div>
+      </p>
+    </li>
+  {% endfor %}
+</ul>
+
+
 ## Journal Publications
 <ul class="publications-list" style="list-style: none; padding: 0; margin: 0;">
   {% for pub in site.data.pubs_journal %}

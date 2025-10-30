@@ -1,7 +1,6 @@
 ---
 title: "Fault Detection from Intersatellite Ranges Using Reduntly Rigid Graphs"
 excerpt: "Fault Detection from Intersatellite Ranges Using Reduntly Rigid Graphs"
-period: "2024/6 - Present"
 
 ---
 **With** Daniel Neamati, Prof.Gao (Stanford University) <br>
@@ -27,7 +26,7 @@ This work received the best presentation award at the 2024 ION GNSS+ conference.
 
 **Related Publication:** 
 
-[J4]  Iiyama, K., Neamati, D., Gao, G., “Satellite Autonomous Clock Fault Monitoring with Inter-Satellite Ranges Using Euclidean Distance Matrice”, NAVIGATION: Journal of the Institute of Navigation, 2025, (Under Review)
+[J4]  Iiyama, K., Neamati, D., Gao, G., “[Satellite Autonomous Clock Fault Monitoring with Inter-Satellite Ranges Using Euclidean Distance Matrice](https://arxiv.org/abs/2505.03820)”, Submitted to NAVIGATION: Journal of the Institute of Navigation, 2025, (Under Review)
 
-[C18] Iiyama, K., Neamati, D., Gao, G., “Autonomous Constellation Fault Monitoring with Inter-satellite Links: A Rigidity-Based Approach”, Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+ 2024), 2024
+[C18] Iiyama, K., Neamati, D., Gao, G., “[Autonomous Constellation Fault Monitoring with Inter-satellite Links: A Rigidity-Based Approach](https://drive.google.com/file/d/17R9aBo8d_QoxkPq_lWgAUoo_GC1VFADL/view)”, Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+ 2024), 2024
 

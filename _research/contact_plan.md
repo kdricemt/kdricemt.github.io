@@ -1,7 +1,6 @@
 ---
 title: "Contact Plan Optimization and Distributed State Estimation for Delay Torelant Satellite Network"
 excerpt: "Contact Plan Optimization and Distributed State Estimation for Delay Torelant Satellite Network"
-period: "2023/9 - 2024/3"
 
 ---
 **With** Guillem Casadesus Vila, Prof.Gao (Stanford University) <br>
@@ -18,4 +17,4 @@ Space agencies are seeking to utilize delay torelant satellite networks that pro
 
 **Related Publication:** 
 
-[C17] Iiyama, K., Vila, G.C., Gao, G., “Contact Plan Optimization and Distributed State Estimation for Delay Tolerant Satellite Networks”, 2024 IEEE Aerospace Conference, 2024
+[C17] Iiyama, K., Vila, G.C., Gao, G., “[Contact Plan Optimization and Distributed State Estimation for Delay Tolerant Satellite Networks](https://drive.google.com/file/d/1ysgGIQmowmfzSefFNdOOIWnhi1dVh-9m/view)”, 2024 IEEE Aerospace Conference, 2024
