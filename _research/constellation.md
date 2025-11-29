@@ -26,5 +26,5 @@ Simulations produced Pareto-optimal architectures that achieve early south-pole 
 
 [J5] Iiyama, K., Gao, G., “[Trade-off Analysis for Lunar Augmented Navigation Service (LANS) Constellation Design](https://arxiv.org/abs/2510.16030)”, Submitted to NAVIGATION: Journal of the Institute of Navigation, Under Review
 
-[C21] Iiyama, K., Gao, G., “[Constellation Design and Staged Development for the Lunar Navigation Satellite System](https://drive.google.com/file/d/14dKsXmlO7jR0pz3i6h72kJFxZAkjdSG_/view)”, Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+ 2025), 2025
+[C21] Iiyama, K., Gao, G., “[Constellation Design and Staged Development for the Lunar Navigation Satellite System](https://drive.google.com/file/d/14dKsXmlO7jR0pz3i6h72kJFxZAkjdSG_/view)”, Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+ 2025), 2025  [[Slides](https://drive.google.com/file/d/1jGKuuQweIB9UIajfpctvawhFY4cJTWnC/view)]
 
