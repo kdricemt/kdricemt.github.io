@@ -1,3 +1,38 @@
+- id: '[J8]'
+  idnum: 8
+  volume: ''
+  number: ''
+  pages: ''
+  publisher: ''
+  url: ''
+  author: Dai, A., Vila, C.V., Wu, A., <strong>Iiyama, K.</strong>, Coimbra, K., Deng,
+    T., Gao, G.
+  title: Full Stack Navigation, Mapping, and Planning for the Lunar Autonomy Challenge
+  journal: 'NAVIGATION: Journal of the Institute of Navigation'
+  year: '2025'
+  year_num: 2025
+  pdf: ''
+  video: ''
+  code: ''
+  abstract: We present a modular, full-stack autonomy system for lunar surface navigation
+    and mapping developed for the Lunar Autonomy Challenge. Operating in a GNSS-denied,
+    visually challenging environment, our pipeline integrates semantic segmentation,
+    stereo visual odometry, pose graph SLAM with loop closures, and layered planning
+    and control. We leverage lightweight learning-based perception models for real-
+    time segmentation and feature tracking and use a factor-graph backend to maintain
+    globally consistent localization. High-level waypoint planning is designed to
+    promote mapping coverage while encouraging frequent loop closures, and local motion
+    planning uses arc sampling with geometric obstacle checks for efficient, reactive
+    control. We evaluate our approach in the competition's high-fidelity lunar simulator,
+    demonstrating centimeter-level localization accuracy, high-fidelity map generation,
+    and strong repeatability across random seeds and rock distributions. Our solution
+    achieved first place in the final competition evaluation.
+  bibtex: " @article{dai2026lac,\n  title = {Full Stack Navigation, Mapping, and Planning\
+    \ for the Lunar Autonomy Challenge},\n  year = {2025},\n  month = {},\n  journal\
+    \ = {NAVIGATION: Journal of the Institute of Navigation},\n  url = {},\n  author\
+    \ = {Dai, Adam and Vila, Casadesus Vila and Wu, Asta and Iiyama, Keidai and Coimbra,\
+    \ Kaila and Deng, Thomas and Gao, Grace},\n}"
+  review: (Under Review)
 - id: '[J7]'
   idnum: 7
   volume: ''
