@@ -5,7 +5,7 @@
   pages: ''
   publisher: ''
   url: ''
-  author: Dai, A., Vila, C.V., Wu, A., <strong>Iiyama, K.</strong>, Coimbra, K., Deng,
+  author: Dai, A., Vila, C.G., Wu, A., <strong>Iiyama, K.</strong>, Coimbra, K., Deng,
     T., Gao, G.
   title: Full Stack Navigation, Mapping, and Planning for the Lunar Autonomy Challenge
   journal: 'NAVIGATION: Journal of the Institute of Navigation'
@@ -30,8 +30,8 @@
   bibtex: " @article{dai2026lac,\n  title = {Full Stack Navigation, Mapping, and Planning\
     \ for the Lunar Autonomy Challenge},\n  year = {2025},\n  month = {},\n  journal\
     \ = {NAVIGATION: Journal of the Institute of Navigation},\n  url = {},\n  author\
-    \ = {Dai, Adam and Vila, Casadesus Vila and Wu, Asta and Iiyama, Keidai and Coimbra,\
-    \ Kaila and Deng, Thomas and Gao, Grace},\n}"
+    \ = {Dai, Adam and Vila, Casadesus Guillem and Wu, Asta and Iiyama, Keidai and\
+    \ Coimbra, Kaila and Deng, Thomas and Gao, Grace},\n}"
   review: (Under Review)
 - id: '[J7]'
   idnum: 7
