@@ -1,3 +1,40 @@
+- id: '[J9]'
+  idnum: 9
+  volume: ''
+  number: ''
+  pages: ''
+  publisher: ''
+  url: https://doi.org/10.48550/arXiv.2601.16393
+  author: <strong>Iiyama, K.</strong>, Gao, G.
+  title: GNSS-based Lunar Orbit and Clock Estimation With Stochastic Cloning UD Filter
+  journal: Submitted to Journal of Guidance, Control, and Dynamics
+  year: '2026'
+  year_num: 2026
+  pdf: https://arxiv.org/pdf/2601.16393
+  video: ''
+  code: ''
+  abstract: This paper presents a terrestrial GNSS-based orbit and clock estimation
+    framework for lunar navigation satellites. To enable high-precision estimation
+    under the low-observability conditions encountered at lunar distances, we develop
+    a stochastic-cloning UD-factorized filter and delayed-state smoother that provide
+    enhanced numerical stability when processing precise time-differenced carrier
+    phase (TDCP) measurements. A comprehensive dynamics and measurement model is formulated,
+    explicitly accounting for relativistic coupling between orbital and clock states,
+    lunar time-scale transformations, and signal propagation delays including ionospheric,
+    plasmaspheric, and Shapiro effects. The proposed approach is evaluated using high-fidelity
+    Monte-Carlo simulations incorporating realistic multi-constellation GNSS geometry,
+    broadcast ephemeris errors, lunar satellite dynamics, and ionospheric and plasmaspheric
+    delay computed from empirical electron density models. Simulation results demonstrate
+    that combining ionosphere-free pseudorange and TDCP measurements achieves meter-level
+    orbit accuracy and sub-millimeter-per-second velocity accuracy, satisfying the
+    stringent signal-in-space error requirements of future Lunar Augmented Navigation
+    Services (LANS).
+  bibtex: " @article{iiyama2026udutdcp,\n  title = {GNSS-based Lunar Orbit and Clock\
+    \ Estimation With Stochastic Cloning UD Filter},\n  year = {2026},\n  month =\
+    \ {},\n  journal = {Submitted to Journal of Guidance, Control, and Dynamics},\n\
+    \  url = {https://doi.org/10.48550/arXiv.2601.16393},\n  author = {Iiyama, Keidai\
+    \ and Gao, Grace},\n}"
+  review: (Under Review)
 - id: '[J8]'
   idnum: 8
   volume: ''
@@ -8,7 +45,7 @@
   author: Dai, A., Vila, C.G., Wu, A., <strong>Iiyama, K.</strong>, Coimbra, K., Deng,
     T., Gao, G.
   title: Full Stack Navigation, Mapping, and Planning for the Lunar Autonomy Challenge
-  journal: 'NAVIGATION: Journal of the Institute of Navigation'
+  journal: 'Submitted to NAVIGATION: Journal of the Institute of Navigation'
   year: '2025'
   year_num: 2025
   pdf: ''
@@ -29,9 +66,9 @@
     achieved first place in the final competition evaluation.
   bibtex: " @article{dai2026lac,\n  title = {Full Stack Navigation, Mapping, and Planning\
     \ for the Lunar Autonomy Challenge},\n  year = {2025},\n  month = {},\n  journal\
-    \ = {NAVIGATION: Journal of the Institute of Navigation},\n  url = {},\n  author\
-    \ = {Dai, Adam and Vila, Casadesus Guillem and Wu, Asta and Iiyama, Keidai and\
-    \ Coimbra, Kaila and Deng, Thomas and Gao, Grace},\n}"
+    \ = {Submitted to NAVIGATION: Journal of the Institute of Navigation},\n  url\
+    \ = {},\n  author = {Dai, Adam and Vila, Casadesus Guillem and Wu, Asta and Iiyama,\
+    \ Keidai and Coimbra, Kaila and Deng, Thomas and Gao, Grace},\n}"
   review: (Under Review)
 - id: '[J7]'
   idnum: 7
@@ -42,7 +79,7 @@
   url: https://arxiv.org/abs/2510.25161
   author: <strong>Iiyama, K.</strong>, Gao, G.
   title: Ephemeris and Almanac Design for Lunar Navigation Satellites
-  journal: IEEE Transactions on Aerospace and Electronic Systems
+  journal: Submitted to IEEE Transactions on Aerospace and Electronic Systems
   year: '2025'
   year_num: 2025
   pdf: https://arxiv.org/pdf/2510.25161
@@ -65,8 +102,9 @@
     satellite visibility identification in warm-start operations.
   bibtex: " @article{iiyama2026ephemeris,\n  title = {Ephemeris and Almanac Design\
     \ for Lunar Navigation Satellites},\n  year = {2025},\n  month = {},\n  journal\
-    \ = {IEEE Transactions on Aerospace and Electronic Systems},\n  url = {https://arxiv.org/abs/2510.25161},\n\
-    \  author = {Iiyama, Keidai and Gao, Grace},\n}"
+    \ = {Submitted to IEEE Transactions on Aerospace and Electronic Systems},\n  url\
+    \ = {https://arxiv.org/abs/2510.25161},\n  author = {Iiyama, Keidai and Gao, Grace},\n\
+    }"
   review: (Under Review)
 - id: '[J6]'
   idnum: 6
@@ -78,7 +116,7 @@
   author: <strong>Iiyama, K.</strong>, Gao, G.
   title: Ionospheric and Plasmaspheric Delay Characterization for Lunar Terrestrial
     GNSS Receivers with Global Core Plasma Model
-  journal: 'NAVIGATION: Journal of the Institute of Navigation'
+  journal: 'Submitted to NAVIGATION: Journal of the Institute of Navigation'
   year: '2025'
   year_num: 2025
   pdf: https://drive.google.com/file/d/1FFWs3FcuOlxFtfFpVSRqcYIEiXM6fp_u/view?usp=sharing
@@ -102,8 +140,8 @@
     of robust positioning and timing algorithms that utilize terrestrial GNSS signals.
   bibtex: " @article{iiyama2026plasmaspheresimulation,\n  title = {Ionospheric and\
     \ Plasmaspheric Delay Characterization for Lunar Terrestrial GNSS Receivers with\
-    \ Global Core Plasma Model},\n  year = {2025},\n  month = {},\n  journal = {NAVIGATION:\
-    \ Journal of the Institute of Navigation},\n  url = {https://arxiv.org/abs/2510.10059},\n\
+    \ Global Core Plasma Model},\n  year = {2025},\n  month = {},\n  journal = {Submitted\
+    \ to NAVIGATION: Journal of the Institute of Navigation},\n  url = {https://arxiv.org/abs/2510.10059},\n\
     \  author = {Iiyama, Keidai and Gao, Grace},\n}"
   review: (Under Review)
 - id: '[J5]'
@@ -116,7 +154,7 @@
   author: <strong>Iiyama, K.</strong>, Gao, G.
   title: Trade-off Analysis for Lunar Augmented Navigation Service (LANS) Constellation
     Design
-  journal: 'NAVIGATION: Journal of the Institute of Navigation'
+  journal: 'Submitted to NAVIGATION: Journal of the Institute of Navigation'
   year: '2025'
   year_num: 2025
   pdf: https://drive.google.com/file/d/1115FZK5ZkarUmR7QaEHQPV2KqNZDLucy/view?usp=sharing
@@ -146,9 +184,9 @@
     LANS constellations for both regional and global coverage.'
   bibtex: " @article{iiyama2026constellationtradeoff,\n  title = {Trade-off Analysis\
     \ for Lunar Augmented Navigation Service (LANS) Constellation Design},\n  year\
-    \ = {2025},\n  month = {},\n  journal = {NAVIGATION: Journal of the Institute\
-    \ of Navigation},\n  url = {https://arxiv.org/abs/2510.16030},\n  author = {Iiyama,\
-    \ Keidai and Gao, Grace},\n}"
+    \ = {2025},\n  month = {},\n  journal = {Submitted to NAVIGATION: Journal of the\
+    \ Institute of Navigation},\n  url = {https://arxiv.org/abs/2510.16030},\n  author\
+    \ = {Iiyama, Keidai and Gao, Grace},\n}"
   review: (Under Review)
 - id: '[J4]'
   idnum: 4
@@ -160,7 +198,7 @@
   author: <strong>Iiyama, K.</strong>, Neamati, D., Gao, G.
   title: Satellite Autonomous Clock Fault Monitoring with Inter-Satellite Ranges Using
     Euclidean Distance Matrices
-  journal: 'NAVIGATION: Journal of the Institute of Navigation'
+  journal: 'Submitted to NAVIGATION: Journal of the Institute of Navigation'
   year: '2025'
   year_num: 2025
   pdf: https://drive.google.com/file/d/1H44Ak13bVx1UWSENy9ofMA3pmXABL1Zh/view?usp=sharing
@@ -181,7 +219,7 @@
     its effectiveness in various configurations.
   bibtex: " @article{iiyama2024faultjournal,\n  title = {Satellite Autonomous Clock\
     \ Fault Monitoring with Inter-Satellite Ranges Using Euclidean Distance Matrices},\n\
-    \  year = {2025},\n  month = {},\n  journal = {NAVIGATION: Journal of the Institute\
-    \ of Navigation},\n  url = {https://arxiv.org/abs/2505.03820},\n  author = {Iiyama,\
-    \ Keidai and Neamati, Daniel and Gao, Grace},\n}"
+    \  year = {2025},\n  month = {},\n  journal = {Submitted to NAVIGATION: Journal\
+    \ of the Institute of Navigation},\n  url = {https://arxiv.org/abs/2505.03820},\n\
+    \  author = {Iiyama, Keidai and Neamati, Daniel and Gao, Grace},\n}"
   review: (Under Review)

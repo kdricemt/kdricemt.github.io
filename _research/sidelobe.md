@@ -12,25 +12,14 @@ style="height: 300px; width:420px;">
 <div style="text-align: center;">
 </div>
 
-There is growing interest in exploiting terrestrial GNSS signals for lunar PNT with the goal of enabling real-time, autonomous navigation in cislunar space and reducing reliance on Earth-based tracking. 
-In February 2025, NASA and the Italian Space Agency’s Lunar GNSS Receiver Experiment (LuGRE) successfully demonstrated the acquisition of GPS and Galileo signals in lunar orbit. 
-Yet achieving meter-level accuracy required for LunaNet remains challenging due to low signal power, unmodeled ionospheric and plasmaspheric delays, and poor satellite geometry.
-To address these challenges, I have proposed a suite of new algorithms tailored for lunar ODTS.
+There is growing interest in leveraging terrestrial GNSS signals for lunar PNT to enable
+autonomous navigation in cislunar space and reduce reliance on Earth-based tracking. In February 2025, the
+Lunar GNSS Receiver Experiment (LuGRE) demonstrated the acquisition of GPS and Galileo signals in lunar
+orbit. However, achieving the meter-level accuracy required for Lunar Augmented Navigation Services (LANS)
+remains challenging due to unmodeled ionospheric and plasmaspheric delays, relativisitc effects, weak signal power, and poor
+satellite geometry. I have developed a suite of new algorithms to address these challenges.
 
-## Use of Time-Differenced Carrier Phase (TDCP) Measurements:
-I developed ODTS algorithms for lunar satellites that fuse precise TDCP measurements with pseudorange measurements and orbital dynamics models. 
-The algorithm employs adaptive process-noise tuning and onboard cycle-slip detection enabling robust performance under varying dynamics in ELFOs. 
-Monte Carlo simulations demonstrated that the proposed algorithm achieved 14.0 m (3$\sigma$) position accuracy in an ELFO after convergence, compared to 50 m (3$\sigma$) for the pseudorange-only baseline. 
-I further extended this framework for additional applications, including lunar rovers (integrating inertial measurement unit (IMU) data) and relative navigation between satellites using TDCP and single-difference measurements.
-
-**Related Publications:** 
-
-[J2] Iiyama, K., Bhamidipati, S., Gao, G., “[Precise Positioning and Timekeeping in a Lunar Orbit via Terrestrial GPS Time-Differenced Carrier-Phase Measurements](https://navi.ion.org/content/71/1/navi.635)”, NAVIGATION: Journal of the Institute of Navigation, Vol. 71, No. 1, 2024
-
-[C15] Iiyama, K., Gao, G., “[Positioning and Timing of Distributed Lunar Satellites via Terrestrial GPS Differential Carrier Phase Measurements](https://drive.google.com/file/d/1cL5lgkM0RPiFzZyaT2CpQ2vhyATat6S7/view)”, Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+ 2023), 2023
-
-[C12] Iiyama, K., Bhamidipati, S., Gao, G., “[Terrestrial GPS time-differenced carrier-phase positioning of lunar surface users](https://drive.google.com/file/d/1KULYi3P5_tvvuyoWFqoC_dM_is_1V7Cz/view)”, 2023 IEEE Aerospace Conference, 2023
-
+While I have published several papers in this area, my most recent publication, [GNSS-based Lunar Orbit and Clock Estimation With Stochastic Cloning UD Filter](https://arxiv.org/abs/2601.16393) is the culmination of my work in this area.
 
 ## Ionospheric and Plasmaspheric Delay Characterization and Mitigation:
 I proposed a ray-tracing algorithm to quantify ionospheric and plasmaspheric delays for GNSS signals that reach lunar orbit using the Global Core Plasma Model (GCPM), and evaluated delay mitigation strategies, including altitude masking, frequency combinations, and single-difference techniques between receivers.
@@ -42,12 +31,38 @@ This work received the Best Presentation of the Session Award at the 2025 ION GN
 
 [C22] Iiyama, K., Gao, G., “[Ionospheric and Plasmaspheric Delay Characterization and Mitigation Methodologies for Lunar Terrestrial GNSS Receivers]()”, Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+ 2025), 2025, Best Presentation of the Session
 
-## Improving Geometrical Diversity with Crosslinks and Multi-GNSS: 
-I also proposed algorithms to enhance the geometrical diversity of observations by incorporating crosslinks among multiple satellites and surface stations, and utilizing multiple GNSS constellations (e.g., GPS and Galileo).
+## Use of Precise Time-Differenced Carrier Phase (TDCP) Measurements:
+To overcome the high noise of pseudorange measurements at lunar distances, I developed ODTS algorithms that fuse precise TDCP measurements
+in combination with pseudorange measurements. I extended this framework to lunar surface navigation and inter-satellite relative navigation.
 
 **Related Publications:** 
 
-[C20] Vila, G.C., Iiyama, K., Gao, G., “[LuPNT: An Open-Source Simulator for Lunar Communications, Positioning, Navigation, and Timing](https://drive.google.com/file/d/1t4BDd2MEI5CnjsShM9xezC0Y28_xfL63/view)”, 2025 IEEE Aerospace Conference, 2025
+[J9] Iiyama, K., Gao G.. "[GNSS-based Lunar Orbit and Clock Estimation With Stochastic Cloning UD Filter](https://arxiv.org/abs/2601.16393)", Submitted to Journal of Guidance, Control, and Dynamics, Under review
+
+[J2] Iiyama, K., Bhamidipati, S., Gao, G., “[Precise Positioning and Timekeeping in a Lunar Orbit via Terrestrial GPS Time-Differenced Carrier-Phase Measurements](https://navi.ion.org/content/71/1/navi.635)”, NAVIGATION: Journal of the Institute of Navigation, Vol. 71, No. 1, 2024
+
+[C15] Iiyama, K., Gao, G., “[Positioning and Timing of Distributed Lunar Satellites via Terrestrial GPS Differential Carrier Phase Measurements](https://drive.google.com/file/d/1cL5lgkM0RPiFzZyaT2CpQ2vhyATat6S7/view)”, Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+ 2023), 2023
+
+[C12] Iiyama, K., Bhamidipati, S., Gao, G., “[Terrestrial GPS time-differenced carrier-phase positioning of lunar surface users](https://drive.google.com/file/d/1KULYi3P5_tvvuyoWFqoC_dM_is_1V7Cz/view)”, 2023 IEEE Aerospace Conference, 2023
+
+
+## Numerically Stable Filtering via UD Factorization: 
+Processing high-precision TDCP measurements under poor satellite geometry can lead to ill-conditioned covariance matrices. 
+To address this, I proposed a new UD-factorized filtering framework capable of processing TDCP measurements, ensuring positive
+definiteness of the covariance matrix while overcoming limitations of classical Markov-based formulations.
+In addition, we derived recursive equations for fixed-interval smoothers when we process delayed-state measurements.
+
+High-fidelity Monte Carlo simulations demonstrate that processing TDCP measurements and dual-frequency pseudorange with this approach improves positioning and timing accuracy by approximately 15% relative to processing pseudorange-only, meeting stringent LunaNet performance requirements.
+
+[J9] Iiyama, K., Gao G.. "[GNSS-based Lunar Orbit and Clock Estimation With Stochastic Cloning UD Filter](https://arxiv.org/abs/2601.16393)", Submitted to Journal of Guidance, Control, and Dynamics, Under review
+
+
+## Improving Geometrical Diversity with Crosslinks and Multi-GNSS: 
+I also proposed algorithms to enhance the geometrical diversity of observations by incorporating crosslinks among multiple satellites and surface stations, and utilizing multiple GNSS constellations (e.g., GPS, Galileo, QZSS).
+
+**Related Publications:** 
+
+[J9] Iiyama, K., Gao G.. "[GNSS-based Lunar Orbit and Clock Estimation With Stochastic Cloning UD Filter](https://arxiv.org/abs/2601.16393)", Submitted to Journal of Guidance, Control, and Dynamics, Under review
 
 [C9] Bhamidipati, S., Iiyama*, K., Mina*, T., Gao, G., “[Time-transfer from terrestrial GPS for distributed lunar surface communication networks](https://drive.google.com/file/d/1W_xPTOMYv0S4eohT65VnOtKAQF2ah9tH/view)”, 2022 ieee aerospace conference (aero), 2022
 

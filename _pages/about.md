@@ -159,10 +159,11 @@ Designing "Lunar GPS" presents unique technical challenges. Lunar navigation sat
 
 My dissertation addresses these challenges through four main thrusts:
 1.	**Orbit Determination and Time Synchronization (ODTS)** - 
-   I develop filtering algorithms to estimate lunar navigation satellite orbits and clock offsets using weak terrestrial GNSS signals that spill into cislunar space. These methods exploit time-differential carrier-phase (TDCP) measurements and advanced ionospheric/plasmaspheric delay mitigation to overcome poor geometry and low signal power.
-    - [Precise Positioning and Timekeeping in a Lunar Orbit via Terrestrial GPS Time-Differenced Carrier-Phase Measurements](https://navi.ion.org/content/71/1/navi.635)", NAVIGATION, 2024
+   I develop filtering algorithms to estimate lunar navigation satellite orbits and clock offsets using weak terrestrial GNSS signals that spill into cislunar space. These methods process time-differential carrier-phase (TDCP) measurements with ionospheric/plasmaspheric delay mitigation and relativisitc effect corrections to overcome poor geometry, low signal power, and delays.
+    - [GNSS-based Lunar Orbit and Clock Estimation With Stochastic Cloning UD Filter](https://arxiv.org/abs/2601.16393), Under review at Journal of Guidace, Control, and Dynamics
     - [Ionospheric and Plasmaspheric Delay Characterization and Mitigation Methodologies
     for Lunar Terrestrial GNSS Receivers](https://drive.google.com/file/d/1kZ8QYdBuAnxXQa_4BczMk-WkM46SVR_8/view), ION GNSS+, 2025, Best Presentation of the Session
+    - [Precise Positioning and Timekeeping in a Lunar Orbit via Terrestrial GPS Time-Differenced Carrier-Phase Measurements](https://navi.ion.org/content/71/1/navi.635)", NAVIGATION, 2024
 2.	**Ephemeris Design for Lunar Satellites** - 
    I propose compact almanac and ephemeris parameterizations capable of fitting elliptical lunar orbits while meeting LunaNet message size and accuracy requirements.
     - [Ephemeris and Almanac Design for Lunar Navigation Satellites](https://arxiv.org/abs/2510.25161), under review at IEEE TAES
@@ -175,7 +176,7 @@ My dissertation addresses these challenges through four main thrusts:
    I designed a satellite clock fault detection and exclusion algorithm that uses inter-satellite ranging. Using graph-rigidity theory, the algorithm identifies and isolates faults without relying on prior ephemeris information or surface monitoring.
    - [Satellite Autonomous Clock Fault Monitoring with Inter-Satellite Ranges Using Euclidean Distance Matrices](https://drive.google.com/file/d/1H44Ak13bVx1UWSENy9ofMA3pmXABL1Zh/view), Under review at NAVIGATION  (Best Presentation of the Session at ION GNSS+ 2024)
 
-My work has received multiple awards at ION GNSS+, the world’s largest GNSS conference, and has been cited by researchers at NASA, ESA, and JAXA, contributing directly to the ongoing realization of LunaNet.
+My work has fortunately received multiple awards at ION GNSS+, the world’s largest GNSS conference, and has been cited by researchers at NASA, ESA, and JAXA, contributing directly to the ongoing realization of LunaNet.
 
 Before and during my Ph.D., I worked with several leading space research groups on projects related to lunar and Martian exploration:
 - University of Tokyo – 
