@@ -160,7 +160,7 @@ Designing "Lunar GPS" presents unique technical challenges. Lunar navigation sat
 My dissertation addresses these challenges through four main thrusts:
 1.	**Orbit Determination and Time Synchronization (ODTS)** - 
    I develop filtering algorithms to estimate lunar navigation satellite orbits and clock offsets using weak terrestrial GNSS signals that spill into cislunar space. These methods process time-differential carrier-phase (TDCP) measurements with ionospheric/plasmaspheric delay mitigation and relativisitc effect corrections to overcome poor geometry, low signal power, and delays.
-    - [GNSS-based Lunar Orbit and Clock Estimation With Stochastic Cloning UD Filter](https://arxiv.org/abs/2601.16393), Under review at Journal of Guidace, Control, and Dynamics
+    - [GNSS-based Lunar Orbit and Clock Estimation With Stochastic Cloning UD Filter](https://drive.google.com/file/d/1zujq7lfmnUkM5yNnHTySWSsYvfUB9ta5/view?usp=sharing), Under review at Journal of Guidace, Control, and Dynamics
     - [Ionospheric and Plasmaspheric Delay Characterization and Mitigation Methodologies
     for Lunar Terrestrial GNSS Receivers](https://drive.google.com/file/d/1kZ8QYdBuAnxXQa_4BczMk-WkM46SVR_8/view), ION GNSS+, 2025, Best Presentation of the Session
     - [Precise Positioning and Timekeeping in a Lunar Orbit via Terrestrial GPS Time-Differenced Carrier-Phase Measurements](https://navi.ion.org/content/71/1/navi.635)", NAVIGATION, 2024
