@@ -148,9 +148,9 @@ redirect_from:
 ---
 ## About Me
 I am a Ph.D. candidate in [Aeronautics and Astronautics at Stanford University](https://aa.stanford.edu/), working in the [Navigation and Autonomous Vehicles (NAV) Lab](https://navlab.stanford.edu/) under the supervision of [Professor Grace Gao](https://profiles.stanford.edu/gracegao). 
-**I will be on the academic job market this year.** 
+I am graduating this year and open to work.
 
-Please see my [CV](/files/Keidai_Iiyama_CV.pdf) (last updated at Dec 2025) for additional details and recent publications.
+Please see my [CV](/files/Keidai_Iiyama_CV.pdf) and [2-page Resume](files/Keidai_Iiyama_Resume.pdf) (last updated at Feb 2025) for additional details and recent publications.
 
 ## Research Directions
 My research develops positioning, navigation, and timing (PNT) algorithms for a "Lunar GPS”—a satellite navigation system to support the next generation of lunar exploration. We are entering a transformative era of space exploration in which NASA and international partners are building LunaNet, an interoperable lunar network that will deliver PNT and communication services across the Moon.
@@ -235,6 +235,7 @@ Please see [here](/publications/)
 kiiyama{at}stanford.edu
 
 ## Recent News
+- Feb 2026  We will be giving a new lecture on Lunar PNT (AA278: Lunar Positioning, Navigation, and Timing) in the upcoming spring quarter!
 - Sep.14 2025  An article about Lunar PNT research in Stanford NAV Lab is available at the [latest issue of Inside GNSS](https://insidegnss.com/can-satellite-based-radionavigation-be-extended-to-the-moon-and-other-extraterrestrial-bodies/)
   - GNSS Solutions: Developing a sustainable lunar navigation architecture (page 18 -- 27)
 - Sep.14 2025  Presented two papers at the ION GNSS conference. Please see the [publications page](/publications/) for details
