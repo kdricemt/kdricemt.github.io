@@ -148,12 +148,12 @@ redirect_from:
 ---
 ## About Me
 I am a Ph.D. candidate in [Aeronautics and Astronautics at Stanford University](https://aa.stanford.edu/), working in the [Navigation and Autonomous Vehicles (NAV) Lab](https://navlab.stanford.edu/) under the supervision of [Professor Grace Gao](https://profiles.stanford.edu/gracegao). 
-I am graduating this year and open to work.
+I passed my Ph.D. defense in February. You can see the [slides](https://drive.google.com/file/d/12F4G9U7KhhXIy83Cb4gy6SoHh23D9SQV/view?usp=sharing) of my denfese here.
 
-Please see my [CV](/files/Keidai_Iiyama_CV.pdf) and [2-page Resume](files/Keidai_Iiyama_Resume.pdf) (last updated at Feb 2025) for additional details and recent publications.
+Please see my [CV](/files/Keidai_Iiyama_CV.pdf) (last update at Mar 2026) and [2-page Resume](files/Keidai_Iiyama_Resume.pdf) (last updated at Feb 2025) for additional details and recent publications. 
 
 ## Research Directions
-My research develops positioning, navigation, and timing (PNT) algorithms for a "Lunar GPS”—a satellite navigation system to support the next generation of lunar exploration. We are entering a transformative era of space exploration in which NASA and international partners are building LunaNet, an interoperable lunar network that will deliver PNT and communication services across the Moon.
+My research develops positioning, navigation, and timing (PNT) algorithms for a "Lunar GPS” (they are officially called Lunar Augmented Navigation Service, LANS)—a satellite navigation system to support the next generation of lunar exploration. We are entering a transformative era of space exploration in which NASA and international partners are building LunaNet, an interoperable lunar network that will deliver PNT and communication services across the Moon.
 
 Designing "Lunar GPS" presents unique technical challenges. Lunar navigation satellites must achieve precise orbit determination and time synchronization (ODTS) despite limited ground infrastructure and tight size, weight, and power (SWaP) constraints. Signal structures and ephemeris parameterizations suitable for lunar orbits remain undefined, and the system must ensure interoperability and integrity among multiple service providers with minimal ground monitoring.
 
@@ -176,7 +176,7 @@ My dissertation addresses these challenges through four main thrusts:
    I designed a satellite clock fault detection and exclusion algorithm that uses inter-satellite ranging. Using graph-rigidity theory, the algorithm identifies and isolates faults without relying on prior ephemeris information or surface monitoring.
    - [Satellite Autonomous Clock Fault Monitoring with Inter-Satellite Ranges Using Euclidean Distance Matrices](https://drive.google.com/file/d/1H44Ak13bVx1UWSENy9ofMA3pmXABL1Zh/view), Under review at NAVIGATION  (Best Presentation of the Session at ION GNSS+ 2024)
 
-My work has fortunately received multiple awards at ION GNSS+, the world’s largest GNSS conference, and has been cited by researchers at NASA, ESA, and JAXA, contributing directly to the ongoing realization of LunaNet.
+My work has fortunately received multiple awards at ION GNSS+, the world’s largest GNSS conference, and has been cited by researchers at NASA, ESA, and JAXA, contributing to the ongoing realization of LANS.
 
 Before and during my Ph.D., I worked with several leading space research groups on projects related to lunar and Martian exploration:
 - University of Tokyo – 
@@ -235,6 +235,7 @@ Please see [here](/publications/)
 kiiyama{at}stanford.edu
 
 ## Recent News
+- Feb.26 2026  I passed my Ph.D. defense! The slides for the presentations are available [here](https://drive.google.com/file/d/12F4G9U7KhhXIy83Cb4gy6SoHh23D9SQV/view?usp=sharing).
 - Feb 2026  We will be giving a new lecture on Lunar PNT (AA278: Lunar Positioning, Navigation, and Timing) in the upcoming spring quarter!
 - Sep.14 2025  An article about Lunar PNT research in Stanford NAV Lab is available at the [latest issue of Inside GNSS](https://insidegnss.com/can-satellite-based-radionavigation-be-extended-to-the-moon-and-other-extraterrestrial-bodies/)
   - GNSS Solutions: Developing a sustainable lunar navigation architecture (page 18 -- 27)
