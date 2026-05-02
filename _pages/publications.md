@@ -60,9 +60,9 @@ You can also find my articles at my [ResearchGate](https://www.researchgate.net/
 </ul>
 
 ## Journal Articles Under Review
-<ul class="publications-list" style="list-style: none; padding: 0; margin: 0;">
+<ul class="publications-list-preprint" style="list-style: none; padding: 0; margin: 0;">
   {% for pub in site.data.pubs_preprints %}
-    <li class="publication-item" style="padding: 0px; margin-bottom: 0px">
+    <li class="publication-item-preprint" style="padding: 0px; margin-bottom: 0px">
       <p>
         {{ pub.id }} 
         {{ pub.author | strip }}, 
@@ -109,9 +109,9 @@ You can also find my articles at my [ResearchGate](https://www.researchgate.net/
 
 
 ## Journal Publications
-<ul class="publications-list" style="list-style: none; padding: 0; margin: 0;">
+<ul class="publications-list-journal" style="list-style: none; padding: 0; margin: 0;">
   {% for pub in site.data.pubs_journal %}
-    <li class="publication-item" style="padding: 0px; margin-bottom: 0px">
+    <li class="publication-item-journal" style="padding: 0px; margin-bottom: 0px">
       <p>
         {{ pub.id }} 
         {{ pub.author | strip }}, 
