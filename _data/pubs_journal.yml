@@ -5,7 +5,7 @@
   pages: ''
   publisher: Institute of Navigation
   url: https://navi.ion.org/content/73/1/navi.764
-  author: Keidai, I., Daniel, N., Grace, G.
+  author: <strong>Iiyama, K.</strong>, Neamati, D., Gao, G.
   title: Satellite Autonomous Clock Fault Monitoring with InterSatellite Ranges Using
     Euclidean Distance Matrices
   journal: 'NAVIGATION: Journal of the Institute of Navigation'
@@ -34,8 +34,8 @@
     \  publisher = {Institute of Navigation},\n  issn = {0028-1522},\n  url = {https://navi.ion.org/content/73/1/navi.764},\n\
     \  keywords = {fault detection, inter-satellite links, lunar positioning, navigation,\
     \ timing (PNT), satellite constellation},\n  journal = {NAVIGATION: Journal of\
-    \ the Institute of Navigation},\n  author = {Keidai, Iiyama and Daniel, Neamati\
-    \ and Grace, Gao},\n}"
+    \ the Institute of Navigation},\n  author = {Iiyama, Keidai and Neamati, Daniel\
+    \ and Gao, Grace},\n}"
   review: ''
 - id: '[J3]'
   idnum: 3
