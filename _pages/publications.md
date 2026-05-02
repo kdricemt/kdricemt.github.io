@@ -48,9 +48,9 @@ You can also find my articles at my [ResearchGate](https://www.researchgate.net/
          [<a href="{{ pub.pdf }}">Paper PDF</a>]
         {% endif %}
         <!-- BibTeX -->
-        [<a href="javascript:void(0)" onclick="toggleVisibility('bibtex-{{ forloop.index }}')">BibTeX</a>] 
+        [<a href="javascript:void(0)" onclick="toggleVisibility('bibtex-magazine-{{ forloop.index }}')">BibTeX</a>] 
         <!-- BibTeX Section -->
-        <div id="bibtex-{{ forloop.index }}" style="display:none; font-family: Arial, sans-serif; font-size: 16px">
+        <div id="bibtex-magazine-{{ forloop.index }}" style="display:none; font-family: Arial, sans-serif; font-size: 16px">
           <pre style="background-color: #f0f0f0;">{{ pub.bibtex }}</pre>
           <button onclick="copyToClipboard('bibtex-{{ forloop.index }}')">Copy</button>
         </div>
@@ -89,16 +89,16 @@ You can also find my articles at my [ResearchGate](https://www.researchgate.net/
          [<a href="{{ pub.pdf }}">Paper PDF</a>]
         {% endif %}
         <!-- BibTeX -->
-        [<a href="javascript:void(0)" onclick="toggleVisibility('bibtex-{{ forloop.index }}')">BibTeX</a>] 
+        [<a href="javascript:void(0)" onclick="toggleVisibility('bibtex-preprint-{{ forloop.index }}')">BibTeX</a>] 
         <!-- Abstract -->
-        [<a href="javascript:void(0)" onclick="toggleVisibility('abstract-{{ forloop.index }}')">Abstract</a>]
+        [<a href="javascript:void(0)" onclick="toggleVisibility('abstract-preprint-{{ forloop.index }}')">Abstract</a>]
         <!-- BibTeX Section -->
-        <div id="bibtex-{{ forloop.index }}" style="display:none; font-family: Arial, sans-serif; font-size: 16px">
+        <div id="bibtex-preprint-{{ forloop.index }}" style="display:none; font-family: Arial, sans-serif; font-size: 16px">
           <pre style="background-color: #f0f0f0;">{{ pub.bibtex }}</pre>
           <button onclick="copyToClipboard('bibtex-{{ forloop.index }}')">Copy</button>
         </div>
         <!-- Abstract Section -->
-        <div id="abstract-{{ forloop.index }}" style="display:none">
+        <div id="abstract-preprint-{{ forloop.index }}" style="display:none">
           <strong>Abstract:</strong>
           {{ pub.abstract }}
         </div>
@@ -138,16 +138,16 @@ You can also find my articles at my [ResearchGate](https://www.researchgate.net/
          [<a href="{{ pub.pdf }}">Paper PDF</a>]
         {% endif %}
         <!-- BibTeX -->
-        [<a href="javascript:void(0)" onclick="toggleVisibility('bibtex-{{ forloop.index }}')">BibTeX</a>] 
+        [<a href="javascript:void(0)" onclick="toggleVisibility('bibtex-journal-{{ forloop.index }}')">BibTeX</a>] 
         <!-- Abstract -->
-        [<a href="javascript:void(0)" onclick="toggleVisibility('abstract-{{ forloop.index }}')">Abstract</a>]
+        [<a href="javascript:void(0)" onclick="toggleVisibility('abstract-journal-{{ forloop.index }}')">Abstract</a>]
         <!-- BibTeX Section -->
-        <div id="bibtex-{{ forloop.index }}" style="display:none; font-family: Arial, sans-serif; font-size: 16px">
+        <div id="bibtex-journal-{{ forloop.index }}" style="display:none; font-family: Arial, sans-serif; font-size: 16px">
           <pre style="background-color: #f0f0f0;">{{ pub.bibtex }}</pre>
           <button onclick="copyToClipboard('bibtex-{{ forloop.index }}')">Copy</button>
         </div>
         <!-- Abstract Section -->
-        <div id="abstract-{{ forloop.index }}" style="display:none">
+        <div id="abstract-journal-{{ forloop.index }}" style="display:none">
           <strong>Abstract:</strong>
           {{ pub.abstract }}
         </div>
