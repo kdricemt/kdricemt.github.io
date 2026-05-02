@@ -1,3 +1,45 @@
+- id: '[C26]'
+  idnum: 26
+  author: Kura, M., <strong>Iiyama, K.</strong>, Gao, G.
+  title: 'Sidelobe vs. Side of Main Lobe: LuGRE Experiment Data Analysis'
+  journal: Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+
+    2026)
+  year: '2026'
+  year_num: 2026
+  pdf: ''
+  url: ''
+  slides: ''
+  video: ''
+  code: ''
+  abstract: ''
+  award: ''
+  bibtex: " @article{kura2026sidelobe,\n  title = {Sidelobe vs. Side of Main Lobe:\
+    \ LuGRE Experiment Data Analysis},\n  pages = {},\n  year = {2026},\n  month =\
+    \ {September},\n  journal = {Proceedings of the Institute of Navigation GNSS+\
+    \ conference (ION GNSS+ 2026)},\n  url = {},\n  author = {Kura, Matthias and Iiyama,\
+    \ Keidai and Gao, Grace},\n}"
+  review: (Abstract Accepted)
+- id: '[C25]'
+  idnum: 25
+  author: Kura, M., <strong>Iiyama, K.</strong>, Gao, G.
+  title: Optimal Reconfiguration of Lunar Navigation Constellations
+  journal: Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+
+    2026)
+  year: '2026'
+  year_num: 2026
+  pdf: ''
+  url: ''
+  slides: ''
+  video: ''
+  code: ''
+  abstract: ''
+  award: ''
+  bibtex: " @article{kura2026reconfig,\n  title = {Optimal Reconfiguration of Lunar\
+    \ Navigation Constellations},\n  pages = {},\n  year = {2026},\n  month = {September},\n\
+    \  journal = {Proceedings of the Institute of Navigation GNSS+ conference (ION\
+    \ GNSS+ 2026)},\n  url = {},\n  author = {Kura, Matthias and Iiyama, Keidai and\
+    \ Gao, Grace},\n}"
+  review: (Abstract Accepted)
 - id: '[C23]'
   idnum: 23
   author: Dai, A., Wu, A., <strong>Iiyama, K.</strong>, Vila, G.C., Coimbra, K., Deng,

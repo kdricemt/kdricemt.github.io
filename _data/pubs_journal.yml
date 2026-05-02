@@ -1,3 +1,43 @@
+- id: '[J4]'
+  idnum: 4
+  volume: '73'
+  number: '1'
+  pages: ''
+  publisher: Institute of Navigation
+  url: https://navi.ion.org/content/73/1/navi.764
+  author: Keidai, I., Daniel, N., Grace, G.
+  title: Satellite Autonomous Clock Fault Monitoring with InterSatellite Ranges Using
+    Euclidean Distance Matrices
+  journal: 'NAVIGATION: Journal of the Institute of Navigation'
+  year: '2026'
+  year_num: 2026
+  pdf: ''
+  video: ''
+  code: ''
+  abstract: Abstract To support reliable positioning, navigation, and timing services
+    for lunar satellite constellations, this paper proposes a framework for detecting
+    satellite clock phase jumps using dual one-way inter-satellite range measurements.
+    The method models the constellation as a weighted graph and exploits rigidity
+    properties to detect faults. Specifically, satellite clock faults are identified
+    by monitoring the realizability of vertex-redundantly rigid subgraphs through
+    the singular values of geometric-centered Euclidean distance matrices (GCEDMs).
+    We establish the graph-topological conditions required for fault detection and
+    derive the statistical distribution of the GCEDM test statistic under both nominal
+    and faulty conditions. To address sparse link connectivity, we also introduce
+    an ephemeris-augmented formulation that combines measured and estimated ranges
+    and performs fault detection on fault-detectable subgraphs. Simulation results
+    using a terrestrial Global Positioning System constellation and a notional lunar
+    constellation demonstrate that the proposed approach provides robust fault detection
+    under both dense and sparse measurement conditions.
+  bibtex: " @article{iiyama2026edmnavigation,\n  title = {Satellite Autonomous Clock\
+    \ Fault Monitoring with InterSatellite Ranges Using Euclidean Distance Matrices},\n\
+    \  volume = {73},\n  number = {1},\n  year = {2026},\n  doi = {10.33012/navi.764},\n\
+    \  publisher = {Institute of Navigation},\n  issn = {0028-1522},\n  url = {https://navi.ion.org/content/73/1/navi.764},\n\
+    \  keywords = {fault detection, inter-satellite links, lunar positioning, navigation,\
+    \ timing (PNT), satellite constellation},\n  journal = {NAVIGATION: Journal of\
+    \ the Institute of Navigation},\n  author = {Keidai, Iiyama and Daniel, Neamati\
+    \ and Grace, Gao},\n}"
+  review: ''
 - id: '[J3]'
   idnum: 3
   volume: '71'
@@ -33,7 +73,7 @@
     polynomial basis and a Chebyshev polynomial basis produce feasible solutions for
     ephemeris approximation at varying epochs in orbits, abiding by signal-in-space-error
     requirements.
-  bibtex: " @article{cortinovis2024satellitejournal,\n  title = {Satellite Ephemeris\
+  bibtex: " @article{cortinovis2024ephemerisnavigation,\n  title = {Satellite Ephemeris\
     \ Parameterization Methods to Support Lunar Positioning, Navigation, and Timing\
     \ Services},\n  volume = {71},\n  number = {4},\n  year = {2024},\n  month = {12},\n\
     \  publisher = {Institute of Navigation},\n  issn = {0028-1522},\n  url = {https://navi.ion.org/content/71/4/navi.664},\n\
@@ -73,8 +113,8 @@
     lunar frozen orbit and quasi-frozen low lunar orbit, wherein we showcase higher
     positioning and timing accuracy as compared with the pseudorange-only navigation
     solution.
-  bibtex: " @article{iiyama2024precisejournal,\n  title = {Precise Positioning and\
-    \ Timekeeping in a Lunar Orbit via Terrestrial GPS Time-Differenced Carrier-Phase\
+  bibtex: " @article{iiyama2024precisenavigation,\n  title = {Precise Positioning\
+    \ and Timekeeping in a Lunar Orbit via Terrestrial GPS Time-Differenced Carrier-Phase\
     \ Measurements},\n  volume = {71},\n  number = {1},\n  year = {2024},\n  month\
     \ = {3},\n  publisher = {Institute of Navigation},\n  issn = {0028-1522},\n  url\
     \ = {https://doi.org/10.33012/navi.635},\n  doi = {10.33012/navi.635},\n  journal\
