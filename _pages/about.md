@@ -245,6 +245,7 @@ kiiyama{at}stanford.edu
 
 ## Recent News
 - May.1 2026 Our paper on satellite clock fault detection using rigid graph theory is now available on [NAVIGATION](https://navi.ion.org/content/73/1/navi.764)
+  - The paper was featured in the [Linkedin Post](https://www.linkedin.com/posts/ionavigation_how-do-you-detect-a-faulty-atomic-clock-on-activity-7459671502628478977-F41F?utm_source=share&utm_medium=member_desktop&rcm=ACoAACjHqdYBlX0vBjlQX9w2EmEgaYOehBQzDxE) from the Journal.
 - Feb.26 2026  I passed my Ph.D. defense! The slides for the presentations are available [here](https://drive.google.com/file/d/12F4G9U7KhhXIy83Cb4gy6SoHh23D9SQV/view?usp=sharing).
 - Feb 2026  We will be giving a new lecture on Lunar PNT (AA278: Lunar Positioning, Navigation, and Timing) in the upcoming spring quarter!
 - Sep.14 2025  An article about Lunar PNT research in Stanford NAV Lab is available at the [latest issue of Inside GNSS](https://insidegnss.com/can-satellite-based-radionavigation-be-extended-to-the-moon-and-other-extraterrestrial-bodies/)
