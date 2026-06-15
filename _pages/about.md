@@ -12,7 +12,7 @@ author_profile: true
 feature_stanford:
   - image_path: https://dl.dropboxusercontent.com/s/ofb0zakwz7k3zto/Stanford2.png?dl=0
     alt: "Stanford"
-    date: "2021.9 ~ 2026.6 (Expected)"
+    date: "2021.9 ~ 2026.6"
     title: 'Ph.D. Candidate in Aeronautics and Astronautics, Stanford University'
     subtitle: "<i> Advisor: Grace Gao </i>"
     excerpt:  "Research Topic: Lunar Positioning, Navigation, and Timing (PNT)" 
@@ -153,15 +153,17 @@ redirect_from:
   - /about.html
 ---
 ## About Me
-I am a Ph.D. candidate in [Aeronautics and Astronautics at Stanford University](https://aa.stanford.edu/), working in the [Navigation and Autonomous Vehicles (NAV) Lab](https://navlab.stanford.edu/) under the supervision of [Professor Grace Gao](https://profiles.stanford.edu/gracegao). 
-I passed my Ph.D. defense in February. You can see the [slides](https://drive.google.com/file/d/12F4G9U7KhhXIy83Cb4gy6SoHh23D9SQV/view?usp=sharing) of my denfese here.
+I am a PNT Research Engineer at [Intuitive Machines](https://www.intuitivemachines.com/) in Maryland, working on the [Lunar Data Relay Satellite Constellation](https://www.intuitivemachines.com/connect/orbital-segment).
+
+I obtained my Ph.D. from [Aeronautics and Astronautics Department at Stanford University](https://aa.stanford.edu/). I worked in the [Navigation and Autonomous Vehicles (NAV) Lab](https://navlab.stanford.edu/) under the supervision of [Professor Grace Gao](https://profiles.stanford.edu/gracegao). 
+
+- [Dissertation](https://purl.stanford.edu/wx922dp2089) 
+- [Defense slides](https://drive.google.com/file/d/12F4G9U7KhhXIy83Cb4gy6SoHh23D9SQV/view?usp=sharing).
 
 Please see my [CV](/files/Keidai_Iiyama_CV.pdf) (last update at Apr 2026) for additional details and recent publications. 
 
-I will be joining [Intuitive Machines](https://www.intuitivemachines.com/) in Maryland as a PNT Research Engineer to work on the [Lunar Data Relay Satellite Constellation](https://www.intuitivemachines.com/connect/orbital-segment), starting June 2026.
-
-## Research Directions
-My research develops positioning, navigation, and timing (PNT) algorithms for a "Lunar GPS” (they are officially called Lunar Augmented Navigation Service, LANS)—a satellite navigation system to support the next generation of lunar exploration. We are entering a transformative era of space exploration in which NASA and international partners are building LunaNet, an interoperable lunar network that will deliver PNT and communication services across the Moon.
+## Research Overview
+My research is on positioning, navigation, and timing (PNT) algorithms for a "Lunar GPS” (they are officially called Lunar Augmented Navigation Service, LANS)—a satellite navigation system to support the next generation of lunar exploration. We are entering a transformative era of space exploration in which NASA and international partners are building LunaNet, an interoperable lunar network that will deliver PNT and communication services across the Moon.
 
 Designing "Lunar GPS" presents unique technical challenges. Lunar navigation satellites must achieve precise orbit determination and time synchronization (ODTS) despite limited ground infrastructure and tight size, weight, and power (SWaP) constraints. Signal structures and ephemeris parameterizations suitable for lunar orbits remain undefined, and the system must ensure interoperability and integrity among multiple service providers with minimal ground monitoring.
 
@@ -241,9 +243,10 @@ Please see [here](/research/) for further information.
 Please see [here](/publications/)
 
 ## Contact
-kiiyama{at}stanford.edu
+kiiyama{at}intuitivemachines.com
 
 ## Recent News
+- June 15, 2026 Graduated from Stanford! I will be joining Intuitive Machines as a PNT Research Engineer.
 - May.1 2026 Our paper on satellite clock fault detection using rigid graph theory is now available on [NAVIGATION](https://navi.ion.org/content/73/1/navi.764)
   - The paper was featured in the [Linkedin Post](https://www.linkedin.com/posts/ionavigation_how-do-you-detect-a-faulty-atomic-clock-on-activity-7459671502628478977-F41F?utm_source=share&utm_medium=member_desktop&rcm=ACoAACjHqdYBlX0vBjlQX9w2EmEgaYOehBQzDxE) from the Journal.
 - Feb.26 2026  I passed my Ph.D. defense! The slides for the presentations are available [here](https://drive.google.com/file/d/12F4G9U7KhhXIy83Cb4gy6SoHh23D9SQV/view?usp=sharing).
@@ -258,16 +261,3 @@ kiiyama{at}stanford.edu
   - The recording is available [here](https://www.ion.org/publications/webinar-iiyama.cfm)
 - Sep.20 2024  Presented a paper at the ION GNSS+ 2024 Conference. Please see the [publications page](/publications/) for details
   - The paper "Autonomous Constellation Fault Monitoring with Inter-satellite Links: A Rigidity-Based Approach" received the Best Presentation Award of the session
-<!-- - Mar 11.2024  Updated my publication page. Now you can see the Abstracts and BibTex.
-- Mar.6 2024  Presented our paper "Contact Plan Optimization and Distributed State Estimation for Delay Tolerant Satellite Networks" in the IEEE Aeroconf! [[Paper](https://drive.google.com/file/d/1ysgGIQmowmfzSefFNdOOIWnhi1dVh-9m/view?usp=sharing)] [[Slides](https://drive.google.com/file/d/1Q-1PTQZ3Gtd3rYOmMXX7g4UwT1eMOq-p/view?usp=sharing)]
-- Feb.16 2024 Our paper ["Precise Positioning and Timekeeping in a Lunar Orbit via Terrestrial GPS Time-Differenced Carrier-Phase Measurements"](https://navi.ion.org/content/71/1/navi.635) in now available in NAVIGATION!  -->
-<!-- - Oct.16 2023 Updated the [Research Project Page](/research/) -->
-<!-- - Oct.6 2023 Submitted our paper, ""Contact Plan Optimization and Distributed State Estimation for Delay Tolerant Satellite Networks" to the IEEE Aerospace Conference. [[Paper](https://drive.google.com/file/d/181gwBOnjbX3qSOpsu7iM-QQoA-GE1gXm/view?usp=sharing)] -->
-<!-- - Sep.14,15 2023  Presented 3 papers at the ION GNSS+ 2023 Conference. Please see the [publications page](/publications/) for details
-  - The co-authored paper "Satellite Ephemeris Approximation Methods to Support Lunar Positioning, Navigation, and Timing Services" received a Best Presentation Award of the session  -->
-<!-- - May 2023  Passed the Qualification Exam and became a Ph.D. Candidate!
-- Oct.14 2022 Submitted our paper, "Terrestrial GPS Time-Differenced Carrier-Phase Positioning of Lunar Surface Users" to the IEEE Aerospace Conference.  [[Paper](https://drive.google.com/file/d/1KULYi3P5_tvvuyoWFqoC_dM_is_1V7Cz/view?usp=sharing)]
-- Jan.26 2022 We presented our paper, "Autonomous Distributed Angles-Only Navigation and Timekeeping in Lunar Orbit" at the ION ITM conference. [[Paper](https://www.dropbox.com/s/rmg7advab2m4j1c/ION_ITM_Lunar_Navigation_Paper_Rev3.pdf?dl=0)] [[Slide](https://www.dropbox.com/s/1ocz6mt59xswasl/Keidai_ION_ITM_2022_rev2_slideonly.pdf?dl=0)] [[Video](https://www.youtube.com/watch?v=KsUHGfXN5bM&t=241s)]
-- Oct.30 2021 Our paper, "Autonomous Distributed Angles-Only Navigation and Timekeeping in Lunar Orbit" was accepted for the ION ITM conference!
-- Sep.24 2021 We presented our paper, "Autonomous and Decentralized Orbit Determination and Clock Offset Estimation of Lunar Navigation Satellites Using GPS Signals and Inter-satellite Ranging" at the ION GNSS+ 2021 Conference. [[Paper](https://www.dropbox.com/s/0t4kbo6w83hcmxv/ION_GNSS_2021_Iiyama.pdf?dl=0)] [[Slide](https://www.dropbox.com/s/h5wfe2z3tki8mrq/ION_GNSS_2021_iiyama_slideonly.pdf?dl=0)]
-- Sep.20 2021 Started Ph.D. at Stanford Aero/Astro. -->
