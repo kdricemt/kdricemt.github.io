@@ -1,6 +1,19 @@
 # 2026
+@article{iiyama2026udutdcp,
+  id       = {J7},
+  title    = {GNSS-based Lunar Orbit and Clock Estimation With Stochastic Cloning UD Filter},
+  author   = {Iiyama, Keidai and Gao, Grace},
+  abstract = {This paper presents a terrestrial GNSS-based orbit and clock estimation framework for lunar navigation satellites. To enable high-precision estimation under the low-observability conditions encountered at lunar distances, we develop a stochastic-cloning UD-factorized filter and delayed-state smoother that provide enhanced numerical stability when processing precise time-differenced carrier phase (TDCP) measurements. A comprehensive dynamics and measurement model is formulated, explicitly accounting for relativistic coupling between orbital and clock states, lunar time-scale transformations, and signal propagation delays including ionospheric, plasmaspheric, and Shapiro effects. The proposed approach is evaluated using high-fidelity Monte-Carlo simulations incorporating realistic multi-constellation GNSS geometry, broadcast ephemeris errors, lunar satellite dynamics, and ionospheric and plasmaspheric delay computed from empirical electron density models. Simulation results demonstrate that combining ionosphere-free pseudorange and TDCP measurements achieves meter-level orbit accuracy and sub-millimeter-per-second velocity accuracy, satisfying the stringent signal-in-space error requirements of future Lunar Augmented Navigation Services (LANS). },
+  year     = {2026},
+  month    = {},
+  journal  = {Journal of Guidance, Control, and Dynamics},
+  url      = {https://doi.org/10.48550/arXiv.2601.16393},
+  pdf      = {https://arxiv.org/pdf/2601.16393},
+  review   = {(Accepted)}
+}
+
 @article{iiyama2026constellationtradeoff,
-  id       = {J5},
+  id       = {J8},
   title    = {Trade-off Analysis for Lunar Augmented Navigation Service (LANS) Constellation Design},
   author   = {Iiyama, Keidai and Gao, Grace},
   abstract = {The establishment of a sustainable human presence on the Moon demands robust positioning, navigation, and timing (PNT) services capable of supporting both surface and orbital operations. 
@@ -16,47 +29,11 @@
   journal  = {Submitted to NAVIGATION: Journal of the Institute of Navigation},
   url      = {https://arxiv.org/abs/2510.16030},
   pdf      = {https://drive.google.com/file/d/1115FZK5ZkarUmR7QaEHQPV2KqNZDLucy/view?usp=sharing},
-  review   = {(Under Review)}
-}
-
-@article{iiyama2026plasmaspheresimulation,
-  id       = {J6},
-  title    = {Ionospheric and Plasmaspheric Delay Characterization for Lunar Terrestrial GNSS Receivers with Global Core Plasma Model},
-  author   = {Iiyama, Keidai and Gao, Grace},
-  abstract = {Recent advancements in lunar positioning, navigation, and timing (PNT) have demonstrated that terrestrial GNSS signals, including weak sidelobe transmissions, can be exploited for lunar spacecraft positioning and timing. 
-              While GNSS-based navigation at the Moon has been validated recently, unmodeled ionospheric and plasmaspheric delays remain a significant error source, particularly given the unique signal geometry and extended propagation paths.
-              This paper characterizes these delays using the Global Core Plasma Model (GCPM) and a custom low-cost ray-tracing algorithm that iteratively solves for bent signal paths.
-              We simulate first-, second-, and third-order group delays, as well as excess path length from ray bending, for GNSS signals received at both lunar orbit and the lunar south pole under varying solar and geomagnetic conditions.
-              Results show that mean group delays are typically on the order of 1 m, but can exceed 100 m for low-altitude ray paths during high solar activity, while bending delays are generally smaller but non-negligible for low-altitude ray paths.
-              We also quantify the influence of signal frequency, geomagnetic $K_p$ index, and solar R12 index.
-              These findings inform the design of robust positioning and timing algorithms that utilize terrestrial GNSS signals.},
-  year     = {2025},
-  month    = {},
-  journal  = {Submitted to NAVIGATION: Journal of the Institute of Navigation},
-  url      = {https://arxiv.org/abs/2510.10059},
-  pdf      = {https://drive.google.com/file/d/1FFWs3FcuOlxFtfFpVSRqcYIEiXM6fp_u/view?usp=sharing},
-  review   = {(Minor revision)}
-}
-
-@article{iiyama2026ephemeris,
-  id       = {J7},
-  title    = {Ephemeris and Almanac Design for Lunar Navigation Satellites},
-  author   = {Iiyama, Keidai and Gao, Grace},
-  abstract = {This paper presents almanac and ephemeris message representation for lunar navigation satellites supporting the Lunar Augmented Navigation System (LANS). 
-              The proposed method combines osculating orbital elements, Chebyshev polynomials, and Fourier series to efficiently represent lunar satellite trajectories subject to complex perturbations from lunar gravity and third-body effects. 
-              For the ephemeris, a hybrid Chebyshev–Fourier formulation improves fitting accuracy over long arcs while maintaining message compactness under the datasize constraint of the LunaNet Interoperability Specification. For the almanac, a compact low-order polynomial and Fourier model is introduced to capture mid-term orbital variations over a 15-day fitting arc. 
-              The approach is validated for multiple orbit regimes, including 30-hour, 24-hour, and 12-hour elliptical Lunar frozen orbits (ELFOs) and a 6-hour polar orbit. 
-              Results show that the proposed framework achieves sub-meter position and sub-millimeter-per-second velocity fitting errors within the 900-bit limit for 6-hour ephemeris arcs, and almanac fitting accuracy sufficient for reliable satellite visibility identification in warm-start operations. },
-  year     = {2025},
-  month    = {},
-  journal  = {Submitted to IEEE Transactions on Aerospace and Electronic Systems},
-  url      = {https://arxiv.org/abs/2510.25161},
-  pdf      = {https://arxiv.org/pdf/2510.25161},
-  review   = {(Under Review)}
+  review   = {(Minor Revision)}
 }
 
 @article{dai2026lac,
-  id       = {J8},
+  id       = {J9},
   title    = {Full Stack Navigation, Mapping, and Planning for the Lunar Autonomy Challenge},
   author   = {Dai, Adam and Vila, Casadesus Guillem and Wu, Asta and Iiyama, Keidai and Coimbra, Kaila and Deng, Thomas and Gao, Grace},
   abstract = {We present a modular, full-stack autonomy system for lunar surface navigation and mapping developed
@@ -75,18 +52,5 @@
   journal  = {Submitted to NAVIGATION: Journal of the Institute of Navigation},
   url      = {},
   pdf      = {},
-  review   = {(Under Review)}
-}
-
-@article{iiyama2026udutdcp,
-  id       = {J9},
-  title    = {GNSS-based Lunar Orbit and Clock Estimation With Stochastic Cloning UD Filter},
-  author   = {Iiyama, Keidai and Gao, Grace},
-  abstract = {This paper presents a terrestrial GNSS-based orbit and clock estimation framework for lunar navigation satellites. To enable high-precision estimation under the low-observability conditions encountered at lunar distances, we develop a stochastic-cloning UD-factorized filter and delayed-state smoother that provide enhanced numerical stability when processing precise time-differenced carrier phase (TDCP) measurements. A comprehensive dynamics and measurement model is formulated, explicitly accounting for relativistic coupling between orbital and clock states, lunar time-scale transformations, and signal propagation delays including ionospheric, plasmaspheric, and Shapiro effects. The proposed approach is evaluated using high-fidelity Monte-Carlo simulations incorporating realistic multi-constellation GNSS geometry, broadcast ephemeris errors, lunar satellite dynamics, and ionospheric and plasmaspheric delay computed from empirical electron density models. Simulation results demonstrate that combining ionosphere-free pseudorange and TDCP measurements achieves meter-level orbit accuracy and sub-millimeter-per-second velocity accuracy, satisfying the stringent signal-in-space error requirements of future Lunar Augmented Navigation Services (LANS). },
-  year     = {2026},
-  month    = {},
-  journal  = {Submitted to Journal of Guidance, Control, and Dynamics},
-  url      = {https://doi.org/10.48550/arXiv.2601.16393},
-  pdf      = {https://arxiv.org/pdf/2601.16393},
   review   = {(Under Review)}
 }

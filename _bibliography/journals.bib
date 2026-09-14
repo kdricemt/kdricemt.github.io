@@ -62,3 +62,37 @@
   keywords = {fault detection, inter-satellite links, lunar positioning, navigation, timing (PNT), satellite constellation},
   journal = {NAVIGATION: Journal of the Institute of Navigation}
 }
+
+# 2026
+@article{iiyama2026ephemeris,
+  id    = {J5},
+  author={Iiyama, Keidai and Gao, Grace},
+  journal={IEEE Transactions on Aerospace and Electronic Systems}, 
+  title={Ephemeris and Almanac Design for Lunar Navigation Satellites}, 
+  year={2026},
+  volume={62},
+  number={},
+  pages={15842-15854},
+  abstract={This article presents almanac and ephemeris message representation for lunar navigation satellites supporting the Lunar Augmented Navigation System. The proposed method combines osculating orbital elements, Chebyshev polynomials, and Fourier series to efficiently represent lunar satellite trajectories subject to complex perturbations from lunar gravity and third-body effects. For the ephemeris, a hybrid Chebyshev–Fourier formulation improves fitting accuracy over long arcs while maintaining message compactness under the datasize constraint of the LunaNet Interoperability Specification. For the almanac, a compact low-order polynomial and Fourier model is introduced to capture mid-term orbital variations over a 15-day fitting arc. The approach is validated for multiple orbit regimes, including 30-, 24-, and 13.2-h elliptical Lunar frozen orbits and a 6-h polar orbit. Results show that the proposed framework achieves submeter position and sub-millimeter-per-second velocity fitting errors within the 900-bit limit for 6-h ephemeris arcs and almanac fitting accuracy sufficient for reliable satellite visibility identification in warm-start operations.},
+  keywords={Moon;Navigation;Satellites;Feed in tariff;Fitting;Orbits;Orbits (stellar);Distance measurement;Timing;Polynomials;Almanac;ephemeris;Global Navigation Satellite Systems (GNSS);lunar positioning;navigation;and timing (PNT)},
+  doi={10.1109/TAES.2026.3721050},
+  url= {https://doi.org/10.1109/TAES.2026.3721050},
+  ISSN={1557-9603},
+  month={},
+}
+
+@article{iiyama2026plasmaspheresimulation,
+  id       = {J6},
+  title    = {Ionospheric and Plasmaspheric Delay Characterization for Lunar Terrestrial GNSS Receivers with Global Core Plasma Model},
+  author   = {Iiyama, Keidai and Gao, Grace},
+  abstract = {Recent advancements in lunar positioning, navigation, and timing have demonstrated that global navigation satellite system (GNSS) signals, including weak side-lobe transmissions, can be exploited for lunar spacecraft positioning and timing. Although GNSS-based navigation on the Moon has been recently validated, unmodeled ionospheric and plasmaspheric delays remain a significant source of error, particularly given the unique signal geometry and extended propagation paths. This paper characterizes these delays using the Global Core Plasma Model and a custom low-cost ray-tracing algorithm that iteratively solves for bent signal paths. We simulate first-, second-, and third-order group delays, as well as excess path length from ray bending, for GNSS signals received at both lunar orbit and the lunar south pole under varying solar and geomagnetic conditions. Results show that mean group delays are typically on the order of meters, but can exceed 100 m for rays passing through high-electron-density regions (altitudes below 1000 km with respect to Earth) during high solar activity. We also show that bending delays are generally smaller but non-negligible when the ray passes through high-electron-density regions in the ionosphere. In addition, we quantify the influence of signal frequency, geomagnetic K p index, and solar R12 index. These results provide quantitative insight into the magnitude and variability of ionospheric and plasmaspheric delays for Earth-Moon GNSS signal paths and help characterize measurement errors affecting GNSS-based navigation at lunar receivers.},
+  year     = {2026},
+  volume = {73},
+  number = {1},
+  month    = {},
+  doi = {10.33012/navi.785},
+  keywords = {GNSS, ionosphere, lunar positioning, navigation, timing (PNT), plasmasphere, ray tracing},
+  journal = {NAVIGATION: Journal of the Institute of Navigation},
+  url      = {https://navi.ion.org/content/73/1/navi.785},
+  issn = {0028-1522},
+}

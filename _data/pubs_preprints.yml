@@ -4,43 +4,6 @@
   number: ''
   pages: ''
   publisher: ''
-  url: https://doi.org/10.48550/arXiv.2601.16393
-  author: <strong>Iiyama, K.</strong>, Gao, G.
-  title: GNSS-based Lunar Orbit and Clock Estimation With Stochastic Cloning UD Filter
-  journal: Submitted to Journal of Guidance, Control, and Dynamics
-  year: '2026'
-  year_num: 2026
-  pdf: https://arxiv.org/pdf/2601.16393
-  video: ''
-  code: ''
-  abstract: This paper presents a terrestrial GNSS-based orbit and clock estimation
-    framework for lunar navigation satellites. To enable high-precision estimation
-    under the low-observability conditions encountered at lunar distances, we develop
-    a stochastic-cloning UD-factorized filter and delayed-state smoother that provide
-    enhanced numerical stability when processing precise time-differenced carrier
-    phase (TDCP) measurements. A comprehensive dynamics and measurement model is formulated,
-    explicitly accounting for relativistic coupling between orbital and clock states,
-    lunar time-scale transformations, and signal propagation delays including ionospheric,
-    plasmaspheric, and Shapiro effects. The proposed approach is evaluated using high-fidelity
-    Monte-Carlo simulations incorporating realistic multi-constellation GNSS geometry,
-    broadcast ephemeris errors, lunar satellite dynamics, and ionospheric and plasmaspheric
-    delay computed from empirical electron density models. Simulation results demonstrate
-    that combining ionosphere-free pseudorange and TDCP measurements achieves meter-level
-    orbit accuracy and sub-millimeter-per-second velocity accuracy, satisfying the
-    stringent signal-in-space error requirements of future Lunar Augmented Navigation
-    Services (LANS).
-  bibtex: " @article{iiyama2026udutdcp,\n  title = {GNSS-based Lunar Orbit and Clock\
-    \ Estimation With Stochastic Cloning UD Filter},\n  year = {2026},\n  month =\
-    \ {},\n  journal = {Submitted to Journal of Guidance, Control, and Dynamics},\n\
-    \  url = {https://doi.org/10.48550/arXiv.2601.16393},\n  author = {Iiyama, Keidai\
-    \ and Gao, Grace},\n}"
-  review: (Under Review)
-- id: '[J8]'
-  idnum: 8
-  volume: ''
-  number: ''
-  pages: ''
-  publisher: ''
   url: ''
   author: Dai, A., Vila, C.G., Wu, A., <strong>Iiyama, K.</strong>, Coimbra, K., Deng,
     T., Gao, G.
@@ -70,82 +33,8 @@
     \ = {},\n  author = {Dai, Adam and Vila, Casadesus Guillem and Wu, Asta and Iiyama,\
     \ Keidai and Coimbra, Kaila and Deng, Thomas and Gao, Grace},\n}"
   review: (Under Review)
-- id: '[J7]'
-  idnum: 7
-  volume: ''
-  number: ''
-  pages: ''
-  publisher: ''
-  url: https://arxiv.org/abs/2510.25161
-  author: <strong>Iiyama, K.</strong>, Gao, G.
-  title: Ephemeris and Almanac Design for Lunar Navigation Satellites
-  journal: Submitted to IEEE Transactions on Aerospace and Electronic Systems
-  year: '2025'
-  year_num: 2025
-  pdf: https://arxiv.org/pdf/2510.25161
-  video: ''
-  code: ''
-  abstract: This paper presents almanac and ephemeris message representation for lunar
-    navigation satellites supporting the Lunar Augmented Navigation System (LANS).
-    The proposed method combines osculating orbital elements, Chebyshev polynomials,
-    and Fourier series to efficiently represent lunar satellite trajectories subject
-    to complex perturbations from lunar gravity and third-body effects. For the ephemeris,
-    a hybrid Chebyshev–Fourier formulation improves fitting accuracy over long arcs
-    while maintaining message compactness under the datasize constraint of the LunaNet
-    Interoperability Specification. For the almanac, a compact low-order polynomial
-    and Fourier model is introduced to capture mid-term orbital variations over a
-    15-day fitting arc. The approach is validated for multiple orbit regimes, including
-    30-hour, 24-hour, and 12-hour elliptical Lunar frozen orbits (ELFOs) and a 6-hour
-    polar orbit. Results show that the proposed framework achieves sub-meter position
-    and sub-millimeter-per-second velocity fitting errors within the 900-bit limit
-    for 6-hour ephemeris arcs, and almanac fitting accuracy sufficient for reliable
-    satellite visibility identification in warm-start operations.
-  bibtex: " @article{iiyama2026ephemeris,\n  title = {Ephemeris and Almanac Design\
-    \ for Lunar Navigation Satellites},\n  year = {2025},\n  month = {},\n  journal\
-    \ = {Submitted to IEEE Transactions on Aerospace and Electronic Systems},\n  url\
-    \ = {https://arxiv.org/abs/2510.25161},\n  author = {Iiyama, Keidai and Gao, Grace},\n\
-    }"
-  review: (Under Review)
-- id: '[J6]'
-  idnum: 6
-  volume: ''
-  number: ''
-  pages: ''
-  publisher: ''
-  url: https://arxiv.org/abs/2510.10059
-  author: <strong>Iiyama, K.</strong>, Gao, G.
-  title: Ionospheric and Plasmaspheric Delay Characterization for Lunar Terrestrial
-    GNSS Receivers with Global Core Plasma Model
-  journal: 'Submitted to NAVIGATION: Journal of the Institute of Navigation'
-  year: '2025'
-  year_num: 2025
-  pdf: https://drive.google.com/file/d/1FFWs3FcuOlxFtfFpVSRqcYIEiXM6fp_u/view?usp=sharing
-  video: ''
-  code: ''
-  abstract: Recent advancements in lunar positioning, navigation, and timing (PNT)
-    have demonstrated that terrestrial GNSS signals, including weak sidelobe transmissions,
-    can be exploited for lunar spacecraft positioning and timing. While GNSS-based
-    navigation at the Moon has been validated recently, unmodeled ionospheric and
-    plasmaspheric delays remain a significant error source, particularly given the
-    unique signal geometry and extended propagation paths. This paper characterizes
-    these delays using the Global Core Plasma Model (GCPM) and a custom low-cost ray-tracing
-    algorithm that iteratively solves for bent signal paths. We simulate first-, second-,
-    and third-order group delays, as well as excess path length from ray bending,
-    for GNSS signals received at both lunar orbit and the lunar south pole under varying
-    solar and geomagnetic conditions. Results show that mean group delays are typically
-    on the order of 1 m, but can exceed 100 m for low-altitude ray paths during high
-    solar activity, while bending delays are generally smaller but non-negligible
-    for low-altitude ray paths. We also quantify the influence of signal frequency,
-    geomagnetic $K_p$ index, and solar R12 index. These findings inform the design
-    of robust positioning and timing algorithms that utilize terrestrial GNSS signals.
-  bibtex: " @article{iiyama2026plasmaspheresimulation,\n  title = {Ionospheric and\
-    \ Plasmaspheric Delay Characterization for Lunar Terrestrial GNSS Receivers with\
-    \ Global Core Plasma Model},\n  year = {2025},\n  month = {},\n  journal = {Submitted\
-    \ to NAVIGATION: Journal of the Institute of Navigation},\n  url = {https://arxiv.org/abs/2510.10059},\n\
-    \  author = {Iiyama, Keidai and Gao, Grace},\n}"
-  review: (Minor revision)
-- id: '[J5]'
-  idnum: 5
+- id: '[J8]'
+  idnum: 8
   volume: ''
   number: ''
   pages: ''
@@ -187,4 +76,40 @@
     \ = {2025},\n  month = {},\n  journal = {Submitted to NAVIGATION: Journal of the\
     \ Institute of Navigation},\n  url = {https://arxiv.org/abs/2510.16030},\n  author\
     \ = {Iiyama, Keidai and Gao, Grace},\n}"
-  review: (Under Review)
+  review: (Minor Revision)
+- id: '[J7]'
+  idnum: 7
+  volume: ''
+  number: ''
+  pages: ''
+  publisher: ''
+  url: https://doi.org/10.48550/arXiv.2601.16393
+  author: <strong>Iiyama, K.</strong>, Gao, G.
+  title: GNSS-based Lunar Orbit and Clock Estimation With Stochastic Cloning UD Filter
+  journal: Journal of Guidance, Control, and Dynamics
+  year: '2026'
+  year_num: 2026
+  pdf: https://arxiv.org/pdf/2601.16393
+  video: ''
+  code: ''
+  abstract: This paper presents a terrestrial GNSS-based orbit and clock estimation
+    framework for lunar navigation satellites. To enable high-precision estimation
+    under the low-observability conditions encountered at lunar distances, we develop
+    a stochastic-cloning UD-factorized filter and delayed-state smoother that provide
+    enhanced numerical stability when processing precise time-differenced carrier
+    phase (TDCP) measurements. A comprehensive dynamics and measurement model is formulated,
+    explicitly accounting for relativistic coupling between orbital and clock states,
+    lunar time-scale transformations, and signal propagation delays including ionospheric,
+    plasmaspheric, and Shapiro effects. The proposed approach is evaluated using high-fidelity
+    Monte-Carlo simulations incorporating realistic multi-constellation GNSS geometry,
+    broadcast ephemeris errors, lunar satellite dynamics, and ionospheric and plasmaspheric
+    delay computed from empirical electron density models. Simulation results demonstrate
+    that combining ionosphere-free pseudorange and TDCP measurements achieves meter-level
+    orbit accuracy and sub-millimeter-per-second velocity accuracy, satisfying the
+    stringent signal-in-space error requirements of future Lunar Augmented Navigation
+    Services (LANS).
+  bibtex: " @article{iiyama2026udutdcp,\n  title = {GNSS-based Lunar Orbit and Clock\
+    \ Estimation With Stochastic Cloning UD Filter},\n  year = {2026},\n  month =\
+    \ {},\n  journal = {Journal of Guidance, Control, and Dynamics},\n  url = {https://doi.org/10.48550/arXiv.2601.16393},\n\
+    \  author = {Iiyama, Keidai and Gao, Grace},\n}"
+  review: (Accepted)
