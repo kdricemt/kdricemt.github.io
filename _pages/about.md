@@ -160,7 +160,7 @@ I obtained my Ph.D. from [Aeronautics and Astronautics Department at Stanford Un
 - [Dissertation](https://purl.stanford.edu/wx922dp2089) 
 - [Defense slides](https://drive.google.com/file/d/12F4G9U7KhhXIy83Cb4gy6SoHh23D9SQV/view?usp=sharing).
 
-Please see my [CV](/files/Keidai_Iiyama_CV.pdf) (last update at Apr 2026) for additional details and recent publications. 
+Please see my [CV](/files/Keidai_Iiyama_CV.pdf) (last update at Sep 2026) for additional details and recent publications. 
 
 ## Research Overview
 My research is on positioning, navigation, and timing (PNT) algorithms for a "Lunar GPS” (they are officially called Lunar Augmented Navigation Service, LANS)—a satellite navigation system to support the next generation of lunar exploration. We are entering a transformative era of space exploration in which NASA and international partners are building LunaNet, an interoperable lunar network that will deliver PNT and communication services across the Moon.
