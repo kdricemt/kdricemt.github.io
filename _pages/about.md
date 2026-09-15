@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Keidai Iiyama"
-excerpt: "Ph.D. Candidate at Stanford Aero/Astro"
+excerpt: "PNT Research Engineer"
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -169,14 +169,13 @@ Designing "Lunar GPS" presents unique technical challenges. Lunar navigation sat
 
 My dissertation addresses these challenges through four main thrusts:
 1.	**Orbit Determination and Time Synchronization (ODTS)** - 
-   I develop filtering algorithms to estimate lunar navigation satellite orbits and clock offsets using weak terrestrial GNSS signals that spill into cislunar space. These methods process time-differential carrier-phase (TDCP) measurements with ionospheric/plasmaspheric delay mitigation and relativisitc effect corrections to overcome poor geometry, low signal power, and delays.
-    - [GNSS-based Lunar Orbit and Clock Estimation With Stochastic Cloning UD Filter](https://drive.google.com/file/d/1zujq7lfmnUkM5yNnHTySWSsYvfUB9ta5/view?usp=sharing), Under review at Journal of Guidace, Control, and Dynamics
-    - [Ionospheric and Plasmaspheric Delay Characterization and Mitigation Methodologies
-    for Lunar Terrestrial GNSS Receivers](https://drive.google.com/file/d/1kZ8QYdBuAnxXQa_4BczMk-WkM46SVR_8/view), ION GNSS+, 2025, Best Presentation of the Session
+   I design filtering algorithms to estimate lunar navigation satellite orbits and clock offsets using weak terrestrial GNSS signals that spill into cislunar space. These methods process time-differential carrier-phase (TDCP) measurements to overcome poor geometry and low signal power. The proposed framework also models ionospheric/plasmaspheric delays and relativisitc effects on its clocks.
+    - [GNSS-based Lunar Orbit and Clock Estimation With Stochastic Cloning UD Filter](https://drive.google.com/file/d/1zujq7lfmnUkM5yNnHTySWSsYvfUB9ta5/view?usp=sharing), Accepted at Journal of Guidace, Control, and Dynamics (Awaiting Publication)
+    - [Ionospheric and Plasmaspheric Delay Characterization for Lunar Terrestrial GNSS Receivers with Global Core Plasma Model](https://navi.ion.org/content/73/1/navi.785), NAVIGATION, 2026 (Best Presentation of the Session at ION GNSS+ 2025)
     - [Precise Positioning and Timekeeping in a Lunar Orbit via Terrestrial GPS Time-Differenced Carrier-Phase Measurements](https://navi.ion.org/content/71/1/navi.635)", NAVIGATION, 2024
 2.	**Ephemeris Design for Lunar Satellites** - 
    I propose compact almanac and ephemeris parameterizations capable of fitting elliptical lunar orbits while meeting LunaNet message size and accuracy requirements.
-    - [Ephemeris and Almanac Design for Lunar Navigation Satellites](https://arxiv.org/abs/2510.25161), under review at IEEE TAES
+    - [Ephemeris and Almanac Design for Lunar Navigation Satellites](https://doi.org/10.1109/TAES.2026.3721050), IEEE Transactions on Aerospace and Electronic Systems (TAES)
     - [Satellite Ephemeris Parameterization Methods to Support Lunar Positioning, Navigation, and Timing Services](https://navi.ion.org/content/71/4/navi.664), NAVIGATION, 2024  (Best Presentation of the Session at ION GNSS+ 2023)
 3.	**Constellation and Deployment Optimization** - 
    I created a staged-deployment optimization framework that co-designs hybrid Walker constellations and launch schedules. The framework expands coverage from south-pole to global service while accounting for positioning accuracy, satellite lifetime, and robustness to failures.
@@ -186,7 +185,7 @@ My dissertation addresses these challenges through four main thrusts:
    I designed a satellite clock fault detection and exclusion algorithm that uses inter-satellite ranging. Using graph-rigidity theory, the algorithm identifies and isolates faults without relying on prior ephemeris information or surface monitoring.
    - [Satellite Autonomous Clock Fault Monitoring with Inter-Satellite Ranges Using Euclidean Distance Matrices](https://navi.ion.org/content/73/1/navi.764), NAVIGATION, 2026 (Best Presentation of the Session at ION GNSS+ 2024)
 
-My work has fortunately received multiple awards at ION GNSS+, the world’s largest GNSS conference, and has been cited by researchers at NASA, ESA, and JAXA, contributing to the ongoing realization of LANS.
+My work has fortunately received multiple awards at ION GNSS+, the world’s largest GNSS conference. The works have been cited by researchers at NASA, ESA, and JAXA, and is planned to be used in real flight software of lunar navigation satellites.
 
 Before and during my Ph.D., I worked with several leading space research groups on projects related to lunar and Martian exploration:
 - University of Tokyo – 
@@ -246,6 +245,9 @@ Please see [here](/publications/)
 kiiyama{at}intuitivemachines.com
 
 ## Recent News
+- August, 2026 Two papers accepted for IEEE TAES and NAVIGATION! 
+  - [Ephemeris and Almanac Design for Lunar Navigation Satellites](https://doi.org/10.1109/TAES.2026.3721050)
+  - [Ionospheric and Plasmaspheric Delay Characterization for Lunar Terrestrial GNSS Receivers with Global Core Plasma Model](https://navi.ion.org/content/73/1/navi.785)
 - June 15, 2026 Graduated from Stanford! I will be joining Intuitive Machines as a PNT Research Engineer.
 - May.1 2026 Our paper on satellite clock fault detection using rigid graph theory is now available on [NAVIGATION](https://navi.ion.org/content/73/1/navi.764)
   - The paper was featured in the [Linkedin Post](https://www.linkedin.com/posts/ionavigation_how-do-you-detect-a-faulty-atomic-clock-on-activity-7459671502628478977-F41F?utm_source=share&utm_medium=member_desktop&rcm=ACoAACjHqdYBlX0vBjlQX9w2EmEgaYOehBQzDxE) from the Journal.
