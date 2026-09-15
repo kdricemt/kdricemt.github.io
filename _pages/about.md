@@ -12,8 +12,8 @@ author_profile: true
 feature_stanford:
   - image_path: https://dl.dropboxusercontent.com/s/ofb0zakwz7k3zto/Stanford2.png?dl=0
     alt: "Stanford"
-    date: "2021.9 ~ 2026.6"
-    title: 'Ph.D. Candidate in Aeronautics and Astronautics, Stanford University'
+    date: "2026"
+    title: 'Ph.D. in Aeronautics and Astronautics, Stanford University'
     subtitle: "<i> Advisor: Grace Gao </i>"
     excerpt:  "Research Topic: Lunar Positioning, Navigation, and Timing (PNT)" 
 feature_utokyo_me:
@@ -105,7 +105,7 @@ feature_fellowship_stanford:
 feature_fellowship_nakajima:
   - image_path: https://dl.dropboxusercontent.com/s/1ann0mwvobn58ov/Nakajima.jpg?dl=0
     alt: "Stanford"
-    date: "2021.9  ~ 2023.8"
+    date: "2021.9  ~ 2026.6"
     title: 'Nakajima Foundation Study Abroad Fellowship'
     subtitle: '<i> From <a href="http://www.nakajimafound.or.jp/"> Nakajima Foundation </a> </i>'
     excerpt: '2-year tuition and 5-year stipend'
@@ -152,7 +152,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About Me
+
 I am a PNT Research Engineer at [Intuitive Machines](https://www.intuitivemachines.com/) in Maryland, working on the [Lunar Data Relay Satellite Constellation](https://www.intuitivemachines.com/connect/orbital-segment).
 
 I obtained my Ph.D. from [Aeronautics and Astronautics Department at Stanford University](https://aa.stanford.edu/). I worked in the [Navigation and Autonomous Vehicles (NAV) Lab](https://navlab.stanford.edu/) under the supervision of [Professor Grace Gao](https://profiles.stanford.edu/gracegao). 
@@ -175,7 +175,7 @@ My dissertation addresses these challenges through four main thrusts:
     - [Precise Positioning and Timekeeping in a Lunar Orbit via Terrestrial GPS Time-Differenced Carrier-Phase Measurements](https://navi.ion.org/content/71/1/navi.635)", NAVIGATION, 2024
 2.	**Ephemeris Design for Lunar Satellites** - 
    I propose compact almanac and ephemeris parameterizations capable of fitting elliptical lunar orbits while meeting LunaNet message size and accuracy requirements.
-    - [Ephemeris and Almanac Design for Lunar Navigation Satellites](https://doi.org/10.1109/TAES.2026.3721050), IEEE Transactions on Aerospace and Electronic Systems (TAES)
+    - [Ephemeris and Almanac Design for Lunar Navigation Satellites](https://doi.org/10.1109/TAES.2026.3721050), IEEE Transactions on Aerospace and Electronic Systems (TAES), 2026
     - [Satellite Ephemeris Parameterization Methods to Support Lunar Positioning, Navigation, and Timing Services](https://navi.ion.org/content/71/4/navi.664), NAVIGATION, 2024  (Best Presentation of the Session at ION GNSS+ 2023)
 3.	**Constellation and Deployment Optimization** - 
    I created a staged-deployment optimization framework that co-designs hybrid Walker constellations and launch schedules. The framework expands coverage from south-pole to global service while accounting for positioning accuracy, satellite lifetime, and robustness to failures.
