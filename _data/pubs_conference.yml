@@ -11,14 +11,35 @@
   slides: https://drive.google.com/file/d/1piZXOYL_EIlyEsfuAuEMesoIeeRUfzyk/view
   video: ''
   code: ''
-  abstract: ''
+  abstract: 'The Lunar GNSS Receiver Experiment (LuGRE) was the first mission to demonstrate
+    Global Navigation Satellite System (GNSS) signal reception in lunar orbit and
+    on the surface. This paper uses the LuGRE dataset to address two questions that
+    prior work has not sufficiently examined: the contribution of antenna sidelobe
+    reception to navigation availability, and the performance of Kalman-filter-based
+    surface positioning. First, we locate the receiver directions within the transmit
+    antenna gain pattern of each GPS and Galileo satellite to classify received signals
+    into main lobe and sidelobe regions, and quantify their effect on Geometric Dilution
+    of Precision (GDOP). Results show that the receiver consistently tracked signals
+    from the side of the main lobe, while true sidelobe signals were received only
+    occasionally. Nonetheless, across all measurement sets, 65% of least-squares solutions
+    were enabled solely by sidelobe signals and a further 10% benefited from improved
+    geometry, where GDOP was reduced by over an order of magnitude. The GDOP values
+    remain far above the GDOP needed for adequate navigation performance. Second,
+    we compare an Extended Kalman Filter (EKF), a Square-Root Extended Kalman Filter
+    (SREKF), and a C/N0- Weighted Least Squares (WLS) baseline for surface positioning,
+    under cold- and warm-start initialization and with an optional pseudo-altitude
+    constraint. The pseudorange-only EKF achieved the best minimum errors of around
+    500 m, while adding the pseudo-altitude constraint reduced RMS error to roughly
+    8 km on larger sets. These results demonstrate that lunar surface positioning
+    is achievable with GNSS pseudoranges alone, though residual errors remain insufficient
+    for precise navigation due to the limited clock stability onboard LuGRE.'
   award: ''
   bibtex: " @article{kura2026sidelobe,\n  title = {Sidelobe vs. Side of Main Lobe:\
     \ LuGRE Experiment Data Analysis},\n  pages = {},\n  year = {2026},\n  month =\
     \ {September},\n  journal = {Proceedings of the Institute of Navigation GNSS+\
     \ conference (ION GNSS+ 2026)},\n  url = {},\n  author = {Kura, Matthias and Iiyama,\
     \ Keidai and Gao, Grace},\n}"
-  review: (Accepted)
+  review: ''
 - id: '[C24]'
   idnum: 24
   author: Kura, M., <strong>Iiyama, K.</strong>, Gao, G.
@@ -32,14 +53,42 @@
   slides: https://drive.google.com/file/d/1aK_71kn9uwfQFJ7VU2Qg1f9AM1c6sBzv/view
   video: ''
   code: ''
-  abstract: ''
-  award: ''
+  abstract: Reliable positioning, navigation, and timing (PNT) services are essential
+    to support the growing number of missions to the lunar surface and in lunar orbit.
+    Lunar navigation constellations, such as NASA’s Lunar Communications Relay and
+    Navigation Systems (LCRNS), are designed to provide continuous, high-accuracy
+    positioning, navigation, and timing (PNT) coverage to the lunar South Pole region
+    using navigation satellites in elliptical lunar frozen orbits (ELFOs). However,
+    navigation satellite failures due to payload anomalies, aging, micrometeoroid
+    impacts, or solar events can significantly degrade service availability, and the
+    high cost and limited frequency of lunar launches make timely replacement difficult.
+    This paper investigates the optimal reconfiguration of lunar navigation constellations
+    to partially restore PNT availability following a single-satellite failure. The
+    approach proceeds in two stages. First, a single-objective particle swarm optimization
+    (PSO) framework is developed to optimize the true anomaly distribution of satellites
+    within each orbital plane, maximizing the availability of Geometric Dilution of
+    Precision (GDOP) below 6 for users in the lunar South Pole region. Using this
+    PSO framework, we construct a database of optimal phasing for different numbers
+    of planes and satellites. Second, a multi-objective reconfiguration problem is
+    formulated to minimize the total ∆v and reconfiguration time required to transition
+    the remaining satellites from their pre-failure- to their post-failure-optimal
+    slots using in-plane Hohmann transfers, solved via an auction algorithm. Results
+    from a case study on the LCRNS constellation demonstrate availability improvements
+    of up to 13 percentage points following a single-satellite failure. Analysis across
+    a design space of Southern ELFO constellations shows that reconfiguration yields
+    the greatest benefit for constellations with up to 10 satellites, achieving improvements
+    of up to 17 percentage points in GDOP availability. The associated ∆v and reconfiguration
+    time are shown to be tunable via a weighting parameter, enabling operators to
+    balance propellant use with time-to-recovery based on mission constraints. These
+    results highlight constellation reconfiguration as a valuable operational tool,
+    particularly for early-stage lunar navigation deployments.
+  award: Best Presentation of the Session
   bibtex: " @article{kura2026reconfig,\n  title = {Optimal Reconfiguration of Lunar\
     \ Navigation Constellations},\n  pages = {},\n  year = {2026},\n  month = {September},\n\
     \  journal = {Proceedings of the Institute of Navigation GNSS+ conference (ION\
     \ GNSS+ 2026)},\n  url = {},\n  author = {Kura, Matthias and Iiyama, Keidai and\
     \ Gao, Grace},\n}"
-  review: (Accepted)
+  review: ''
 - id: '[C23]'
   idnum: 23
   author: <strong>Iiyama, K.</strong>, Gao, G.
