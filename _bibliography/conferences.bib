@@ -403,20 +403,6 @@
 
 % 2025
 %------------------------------------------------------------------
-@article{guillem2025simulator,
-  id       = {C20},
-  title    = {LuPNT: An Open-Source Simulator for Lunar Communications, Positioning, Navigation, and Timing},
-  author   = {Vila, Guillem Casadesus and Iiyama, Keidai and Gao, Grace},
-  pages    = {1-18},
-  year     = {2025},
-  month    = {March},
-  journal  = {2025 IEEE Aerospace Conference},
-  pdf      = {https://drive.google.com/file/d/1t4BDd2MEI5CnjsShM9xezC0Y28_xfL63/view?usp=sharing},
-  doi      = {10.1109/AERO63441.2025.11068501},
-  url      = {https://doi.org/10.1109/AERO63441.2025.11068501},
-  abstract = {The growing focus on missions to the Moon necessitates reliable communication and Positioning, Navigation, and Timing (PNT) services in cis-lunar space. To address the growing research needs in this field, we have been developing LuPNT, a comprehensive, open-source simulation framework that integrates astrodynamics, communication, and PNT functionalities into a single platform. The simulator is developed primarily in C++ for computational efficiency while also featuring Python bindings to facilitate rapid algorithmic development and user interaction. This paper introduces several new features and applications, including new core functionalities, the generation of realistic images for optical navigation, new measurement models including inter-satellite links, a modular state estimation framework, and contact plan design. We demonstrate the capability of the simulator through two different simulation scenarios: Elliptical Lunar Frozen Orbit (ELFO) navigation using side-lobe signals from multiple GNSS constellations, and ephemeris fitting for ELFO. Overall, LuPNT provides a unified, comprehensive tool for lunar PNT and communication research and advances the potential for lunar exploration by enabling the development, integration, and comparison of diverse PNT algorithms within a modular, extensible framework.}
-}
-
 @article{iiyama2025odtsmars,
   id       = {C19},
   title    = {Orbit Determination and Time Synchronization for the Future Mars Relay and Navigation Constellation},
@@ -432,8 +418,42 @@
   abstract = {To enable future human exploration on Mars, it is necessary to develop a dedicated network of satellites that provide both communication relay and positioning, navigation, and timing (PNT) service in Mars' orbit and on its surface. Additionally, it is desirable to operate the constellation semi-autonomously and reduce reliance on the oversubscribed Deep Space Network. In this work, we first address the design of the next-generation Mars constellation with a focus on the following three objectives: coverage between ±30° latitude, communication data volume, and surface user PNT performance. By analyzing the trade-off space, we propose a notional constellation comprising five satellites: two orbiters at areostationary orbit and three orbiters in an inclined ½ repeating ground track orbit, which balances the three objectives effectively. Second, we propose a semi-autonomous orbit determination and time synchronization (ODTS) framework for the MRN orbiters. Our proposed approach fuses range, range-rate, and time difference measurements from inter-satellite links (ISLs) and links with a Mars surface station (MSS), in a centralized batch filter. While eliminating the need for frequent DSN tracking, we demonstrate an improved orbit determination accuracy of up to meter level and timing accuracy of sub-nanosecond level by using a single MSS as an anchor node.}
 }
 
-@article{iiyama2025constellation,
+@article{guillem2025simulator,
+  id       = {C20},
+  title    = {LuPNT: An Open-Source Simulator for Lunar Communications, Positioning, Navigation, and Timing},
+  author   = {Vila, Guillem Casadesus and Iiyama, Keidai and Gao, Grace},
+  pages    = {1-18},
+  year     = {2025},
+  month    = {March},
+  journal  = {2025 IEEE Aerospace Conference},
+  pdf      = {https://drive.google.com/file/d/1t4BDd2MEI5CnjsShM9xezC0Y28_xfL63/view?usp=sharing},
+  doi      = {10.1109/AERO63441.2025.11068501},
+  url      = {https://doi.org/10.1109/AERO63441.2025.11068501},
+  abstract = {The growing focus on missions to the Moon necessitates reliable communication and Positioning, Navigation, and Timing (PNT) services in cis-lunar space. To address the growing research needs in this field, we have been developing LuPNT, a comprehensive, open-source simulation framework that integrates astrodynamics, communication, and PNT functionalities into a single platform. The simulator is developed primarily in C++ for computational efficiency while also featuring Python bindings to facilitate rapid algorithmic development and user interaction. This paper introduces several new features and applications, including new core functionalities, the generation of realistic images for optical navigation, new measurement models including inter-satellite links, a modular state estimation framework, and contact plan design. We demonstrate the capability of the simulator through two different simulation scenarios: Elliptical Lunar Frozen Orbit (ELFO) navigation using side-lobe signals from multiple GNSS constellations, and ephemeris fitting for ELFO. Overall, LuPNT provides a unified, comprehensive tool for lunar PNT and communication research and advances the potential for lunar exploration by enabling the development, integration, and comparison of diverse PNT algorithms within a modular, extensible framework.}
+}
+
+@article{dai2025lac,
   id       = {C21},
+  title    = {Full Stack Navigation, Mapping, and Planning for the Lunar Autonomy Challenge},
+  author   = {Adam Dai and Asta Wu and Keidai Iiyama and Guillem Casadesus Vila and Kaila Coimbra and Thomas Deng and Grace Gao},
+  pages    = {},
+  year     = {2025},
+  month    = {September},
+  journal  = {Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+ 2025)},
+  pdf      = {https://drive.google.com/file/d/1T90LuymHHbPKRx4QeSBnXULjS5RcOBb0/view?usp=sharing},
+  slides   = {https://drive.google.com/file/d/1oiCwl1F3BmPP4-8lYbAemcrtMgLHHbIp/view?usp=sharing},
+  url      = {https://doi.org/10.33012/2025.20447},
+  doi      = {10.33012/2025.20447},
+  abstract = {We present a modular, full-stack autonomy system for lunar surface navigation and mapping developed for the Lunar Autonomy Challenge. 
+              Operating in a GNSS-denied, visually challenging environment, our pipeline integrates semantic segmentation, stereo visual odometry, pose graph SLAM with loop closures, and layered planning and control. 
+              We leverage lightweight learning-based perception models for real-time segmentation and feature tracking and use a factor-graph backend to maintain globally consistent localization. 
+              High-level waypoint planning is designed to promote mapping coverage while encouraging frequent loop closures, and local motion planning uses arc sampling with geometric obstacle checks for efficient, reactive control. 
+              We evaluate our approach in the competition's high-fidelity lunar simulator, demonstrating centimeter-level localization accuracy, high-fidelity map generation, and strong repeatability across random seeds and rock distributions. 
+              Our solution achieved first place in the final competition evaluation.}
+}
+
+@article{iiyama2025constellation,
+  id       = {C22},
   title    = {Constellation Design and Staged Development for the Lunar Navigation Satellite System},
   author   = {Iiyama, Keidai and Gao, Grace},
   pages    = {},
@@ -453,7 +473,7 @@
 }
 
 @article{iiyama2025plasma,
-  id       = {C22},
+  id       = {C23},
   title    = {Ionospheric and Plasmaspheric Delay Characterization and Mitigation Methodologies for Lunar Terrestrial GNSS Receivers},
   author   = {Iiyama, Keidai and Gao, Grace},
   pages    = {},
@@ -474,52 +494,31 @@
               These findings inform the design of robust lunar GNSS navigation systems that utilize terrestrial GNSS signals.}
 }
 
-@article{dai2025lac,
-  id       = {C23},
-  title    = {Full Stack Navigation, Mapping, and Planning for the Lunar Autonomy Challenge},
-  author   = {Adam Dai and Asta Wu and Keidai Iiyama and Guillem Casadesus Vila and Kaila Coimbra and Thomas Deng and Grace Gao},
-  pages    = {},
-  year     = {2025},
-  month    = {September},
-  journal  = {Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+ 2025)},
-  pdf      = {https://drive.google.com/file/d/1T90LuymHHbPKRx4QeSBnXULjS5RcOBb0/view?usp=sharing},
-  slides   = {https://drive.google.com/file/d/1oiCwl1F3BmPP4-8lYbAemcrtMgLHHbIp/view?usp=sharing},
-  url      = {https://doi.org/10.33012/2025.20447},
-  doi      = {10.33012/2025.20447},
-  abstract = {We present a modular, full-stack autonomy system for lunar surface navigation and mapping developed for the Lunar Autonomy Challenge. 
-              Operating in a GNSS-denied, visually challenging environment, our pipeline integrates semantic segmentation, stereo visual odometry, pose graph SLAM with loop closures, and layered planning and control. 
-              We leverage lightweight learning-based perception models for real-time segmentation and feature tracking and use a factor-graph backend to maintain globally consistent localization. 
-              High-level waypoint planning is designed to promote mapping coverage while encouraging frequent loop closures, and local motion planning uses arc sampling with geometric obstacle checks for efficient, reactive control. 
-              We evaluate our approach in the competition's high-fidelity lunar simulator, demonstrating centimeter-level localization accuracy, high-fidelity map generation, and strong repeatability across random seeds and rock distributions. 
-              Our solution achieved first place in the final competition evaluation.}
-}
-
-
 @article{kura2026reconfig,
-  id       = {C25},
+  id       = {C24},
   title    = {Optimal Reconfiguration of Lunar Navigation Constellations},
   author   = {Matthias Kura and Keidai Iiyama and Grace Gao},
   pages    = {},
   year     = {2026},
   month    = {September},
   journal  = {Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+ 2026)},
-  pdf      = {},
-  slides   = {},
+  pdf      = {https://drive.google.com/file/d/1tx84BdWGBlVLXQde8RXVLTokmwLXqd1z/view},
+  slides   = {https://drive.google.com/file/d/1aK_71kn9uwfQFJ7VU2Qg1f9AM1c6sBzv/view},
   url      = {},
   abstract = {},
   review   = {(Accepted)}
 }
 
 @article{kura2026sidelobe,
-  id       = {C26},
+  id       = {C25},
   title    = {Sidelobe vs. Side of Main Lobe: LuGRE Experiment Data Analysis},
   author   = {Matthias Kura and Keidai Iiyama and Grace Gao},
   pages    = {},
   year     = {2026},
   month    = {September},
   journal  = {Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+ 2026)},
-  pdf      = {},
-  slides   = {},
+  pdf      = {https://drive.google.com/file/d/1pwWQqoNDe1Cvkt9ncp3fzgenT8kqqEaG/view},
+  slides   = {https://drive.google.com/file/d/1piZXOYL_EIlyEsfuAuEMesoIeeRUfzyk/view},
   url      = {},
   abstract = {},
   review   = {(Accepted)}

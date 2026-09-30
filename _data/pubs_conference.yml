@@ -1,14 +1,14 @@
-- id: '[C26]'
-  idnum: 26
+- id: '[C25]'
+  idnum: 25
   author: Kura, M., <strong>Iiyama, K.</strong>, Gao, G.
   title: 'Sidelobe vs. Side of Main Lobe: LuGRE Experiment Data Analysis'
   journal: Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+
     2026)
   year: '2026'
   year_num: 2026
-  pdf: ''
+  pdf: https://drive.google.com/file/d/1pwWQqoNDe1Cvkt9ncp3fzgenT8kqqEaG/view
   url: ''
-  slides: ''
+  slides: https://drive.google.com/file/d/1piZXOYL_EIlyEsfuAuEMesoIeeRUfzyk/view
   video: ''
   code: ''
   abstract: ''
@@ -19,17 +19,17 @@
     \ conference (ION GNSS+ 2026)},\n  url = {},\n  author = {Kura, Matthias and Iiyama,\
     \ Keidai and Gao, Grace},\n}"
   review: (Accepted)
-- id: '[C25]'
-  idnum: 25
+- id: '[C24]'
+  idnum: 24
   author: Kura, M., <strong>Iiyama, K.</strong>, Gao, G.
   title: Optimal Reconfiguration of Lunar Navigation Constellations
   journal: Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+
     2026)
   year: '2026'
   year_num: 2026
-  pdf: ''
+  pdf: https://drive.google.com/file/d/1tx84BdWGBlVLXQde8RXVLTokmwLXqd1z/view
   url: ''
-  slides: ''
+  slides: https://drive.google.com/file/d/1aK_71kn9uwfQFJ7VU2Qg1f9AM1c6sBzv/view
   video: ''
   code: ''
   abstract: ''
@@ -42,42 +42,6 @@
   review: (Accepted)
 - id: '[C23]'
   idnum: 23
-  author: Dai, A., Wu, A., <strong>Iiyama, K.</strong>, Vila, G.C., Coimbra, K., Deng,
-    T., Gao, G.
-  title: Full Stack Navigation, Mapping, and Planning for the Lunar Autonomy Challenge
-  journal: Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+
-    2025)
-  year: '2025'
-  year_num: 2025
-  pdf: https://drive.google.com/file/d/1T90LuymHHbPKRx4QeSBnXULjS5RcOBb0/view?usp=sharing
-  url: https://doi.org/10.33012/2025.20447
-  slides: https://drive.google.com/file/d/1oiCwl1F3BmPP4-8lYbAemcrtMgLHHbIp/view?usp=sharing
-  video: ''
-  code: ''
-  abstract: We present a modular, full-stack autonomy system for lunar surface navigation
-    and mapping developed for the Lunar Autonomy Challenge. Operating in a GNSS-denied,
-    visually challenging environment, our pipeline integrates semantic segmentation,
-    stereo visual odometry, pose graph SLAM with loop closures, and layered planning
-    and control. We leverage lightweight learning-based perception models for real-time
-    segmentation and feature tracking and use a factor-graph backend to maintain globally
-    consistent localization. High-level waypoint planning is designed to promote mapping
-    coverage while encouraging frequent loop closures, and local motion planning uses
-    arc sampling with geometric obstacle checks for efficient, reactive control. We
-    evaluate our approach in the competition's high-fidelity lunar simulator, demonstrating
-    centimeter-level localization accuracy, high-fidelity map generation, and strong
-    repeatability across random seeds and rock distributions. Our solution achieved
-    first place in the final competition evaluation.
-  award: ''
-  bibtex: " @article{dai2025lac,\n  title = {Full Stack Navigation, Mapping, and Planning\
-    \ for the Lunar Autonomy Challenge},\n  pages = {},\n  year = {2025},\n  month\
-    \ = {September},\n  journal = {Proceedings of the Institute of Navigation GNSS+\
-    \ conference (ION GNSS+ 2025)},\n  url = {https://doi.org/10.33012/2025.20447},\n\
-    \  doi = {10.33012/2025.20447},\n  author = {Dai, Adam and Wu, Asta and Iiyama,\
-    \ Keidai and Vila, Guillem Casadesus and Coimbra, Kaila and Deng, Thomas and Gao,\
-    \ Grace},\n}"
-  review: ''
-- id: '[C22]'
-  idnum: 22
   author: <strong>Iiyama, K.</strong>, Gao, G.
   title: Ionospheric and Plasmaspheric Delay Characterization and Mitigation Methodologies
     for Lunar Terrestrial GNSS Receivers
@@ -119,8 +83,8 @@
     \ {https://doi.org/10.33012/2025.20343},\n  doi = {10.33012/2025.20343},\n  author\
     \ = {Iiyama, Keidai and Gao, Grace},\n}"
   review: ''
-- id: '[C21]'
-  idnum: 21
+- id: '[C22]'
+  idnum: 22
   author: <strong>Iiyama, K.</strong>, Gao, G.
   title: Constellation Design and Staged Development for the Lunar Navigation Satellite
     System
@@ -159,6 +123,42 @@
     \ of Navigation GNSS+ conference (ION GNSS+ 2025)},\n  url = {https://doi.org/10.33012/2025.20257},\n\
     \  doi = {10.33012/2025.20257},\n  author = {Iiyama, Keidai and Gao, Grace},\n\
     }"
+  review: ''
+- id: '[C21]'
+  idnum: 21
+  author: Dai, A., Wu, A., <strong>Iiyama, K.</strong>, Vila, G.C., Coimbra, K., Deng,
+    T., Gao, G.
+  title: Full Stack Navigation, Mapping, and Planning for the Lunar Autonomy Challenge
+  journal: Proceedings of the Institute of Navigation GNSS+ conference (ION GNSS+
+    2025)
+  year: '2025'
+  year_num: 2025
+  pdf: https://drive.google.com/file/d/1T90LuymHHbPKRx4QeSBnXULjS5RcOBb0/view?usp=sharing
+  url: https://doi.org/10.33012/2025.20447
+  slides: https://drive.google.com/file/d/1oiCwl1F3BmPP4-8lYbAemcrtMgLHHbIp/view?usp=sharing
+  video: ''
+  code: ''
+  abstract: We present a modular, full-stack autonomy system for lunar surface navigation
+    and mapping developed for the Lunar Autonomy Challenge. Operating in a GNSS-denied,
+    visually challenging environment, our pipeline integrates semantic segmentation,
+    stereo visual odometry, pose graph SLAM with loop closures, and layered planning
+    and control. We leverage lightweight learning-based perception models for real-time
+    segmentation and feature tracking and use a factor-graph backend to maintain globally
+    consistent localization. High-level waypoint planning is designed to promote mapping
+    coverage while encouraging frequent loop closures, and local motion planning uses
+    arc sampling with geometric obstacle checks for efficient, reactive control. We
+    evaluate our approach in the competition's high-fidelity lunar simulator, demonstrating
+    centimeter-level localization accuracy, high-fidelity map generation, and strong
+    repeatability across random seeds and rock distributions. Our solution achieved
+    first place in the final competition evaluation.
+  award: ''
+  bibtex: " @article{dai2025lac,\n  title = {Full Stack Navigation, Mapping, and Planning\
+    \ for the Lunar Autonomy Challenge},\n  pages = {},\n  year = {2025},\n  month\
+    \ = {September},\n  journal = {Proceedings of the Institute of Navigation GNSS+\
+    \ conference (ION GNSS+ 2025)},\n  url = {https://doi.org/10.33012/2025.20447},\n\
+    \  doi = {10.33012/2025.20447},\n  author = {Dai, Adam and Wu, Asta and Iiyama,\
+    \ Keidai and Vila, Guillem Casadesus and Coimbra, Kaila and Deng, Thomas and Gao,\
+    \ Grace},\n}"
   review: ''
 - id: '[C20]'
   idnum: 20

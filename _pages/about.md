@@ -155,7 +155,7 @@ redirect_from:
 
 I am a PNT Research Engineer at [Intuitive Machines](https://www.intuitivemachines.com/) in Maryland, working on the [Lunar Data Relay Satellite Constellation](https://www.intuitivemachines.com/connect/orbital-segment).
 
-I obtained my Ph.D. from [Aeronautics and Astronautics Department at Stanford University](https://aa.stanford.edu/). I worked in the [Navigation and Autonomous Vehicles (NAV) Lab](https://navlab.stanford.edu/) under the supervision of [Professor Grace Gao](https://profiles.stanford.edu/gracegao). 
+I obtained my Ph.D. from [Aeronautics and Astronautics Department at Stanford University](https://aa.stanford.edu/). I worked in the [Navigation and Autonomous Vehicles (NAV) Lab](https://navlab.stanford.edu/) advised by [Professor Grace Gao](https://profiles.stanford.edu/gracegao). 
 
 - [Dissertation](https://purl.stanford.edu/wx922dp2089) 
 - [Defense slides](https://drive.google.com/file/d/12F4G9U7KhhXIy83Cb4gy6SoHh23D9SQV/view?usp=sharing).
@@ -245,6 +245,9 @@ Please see [here](/publications/)
 kiiyama{at}intuitivemachines.com
 
 ## Recent News
+- Sep, 2026 Attended ION GNSS+ 2026
+  - Delivered a tutorial on reference frames for Lunar PNT
+  - The paper presented by Matthias: "Optimal Reconfiguration of Lunar Navigation Constellations" received the Best Presentation Award of the session
 - August, 2026 Two papers accepted for IEEE TAES and NAVIGATION! 
   - [Ephemeris and Almanac Design for Lunar Navigation Satellites](https://doi.org/10.1109/TAES.2026.3721050)
   - [Ionospheric and Plasmaspheric Delay Characterization for Lunar Terrestrial GNSS Receivers with Global Core Plasma Model](https://navi.ion.org/content/73/1/navi.785)
